@@ -8,7 +8,8 @@ const FALLBACK_TOP_HEADLINES: Article[] = [
   {
     title: 'Місцева ініціатива змінює місто на краще',
     description: 'Громада запускає новий освітній простір для молоді.',
-    content: 'Локальні мешканці об’єдналися для відкриття нового простору, який підтримає молодіжні проєкти та бізнес-ініціативи.',
+    content:
+      'Локальні мешканці об’єдналися для відкриття нового простору, який підтримає молодіжні проєкти та бізнес-ініціативи.',
     url: 'https://example.com/local-initiative',
     image: 'https://placehold.co/600x400?text=%D0%9D%D0%BE%D0%B2%D0%B8%D0%BD%D0%B0',
     publishedAt: new Date().toISOString(),
@@ -17,7 +18,8 @@ const FALLBACK_TOP_HEADLINES: Article[] = [
   {
     title: 'Культура та мистецтво: новий фестиваль стартує цього тижня',
     description: 'Фестиваль обіцяє концерти, виставки та освітні події для всієї родини.',
-    content: 'У центрі міста стартує фестиваль, який приверне увагу митців і гостей з усієї країни.',
+    content:
+      'У центрі міста стартує фестиваль, який приверне увагу митців і гостей з усієї країни.',
     url: 'https://example.com/culture-festival',
     image: 'https://placehold.co/600x400?text=%D0%9A%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B0',
     publishedAt: new Date().toISOString(),
@@ -26,16 +28,19 @@ const FALLBACK_TOP_HEADLINES: Article[] = [
   {
     title: 'Економіка: відновлення бізнесу після локдауну',
     description: 'Підприємства адаптуються до нових умов роботи та попиту.',
-    content: 'Аналітики відзначають зростання малого бізнесу у регіонах, де з’явилися нові програми підтримки.',
+    content:
+      'Аналітики відзначають зростання малого бізнесу у регіонах, де з’явилися нові програми підтримки.',
     url: 'https://example.com/economy-recovery',
-    image: 'https://placehold.co/600x400?text=%D0%95%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D1%96%D0%BA%D0%B0',
+    image:
+      'https://placehold.co/600x400?text=%D0%95%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D1%96%D0%BA%D0%B0',
     publishedAt: new Date().toISOString(),
     source: { name: 'Економічні Вісті', url: 'https://example.com' },
   },
   {
     title: 'Спорт: юні таланти готуються до чемпіонату',
     description: 'Команда підлітків тренується перед змаганнями національного рівня.',
-    content: 'Тренери розповіли про програму підготовки, яка має на меті виявити нові спортивні зірки.',
+    content:
+      'Тренери розповіли про програму підготовки, яка має на меті виявити нові спортивні зірки.',
     url: 'https://example.com/sports-championship',
     image: 'https://placehold.co/600x400?text=%D0%A1%D0%BF%D0%BE%D1%80%D1%82',
     publishedAt: new Date().toISOString(),
