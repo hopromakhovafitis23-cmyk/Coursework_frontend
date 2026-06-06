@@ -1,0 +1,30 @@
+name: Update GNews Data
+
+on:
+  schedule:
+    # Кожні 6 годин: 0:00, 6:00, 12:00, 18:00 UTC
+    - cron: '0 0,6,12,18 * * *'
+  workflow_dispatch: # Дозволяє запустити вручну
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Fetch GNews data
+        env:
+          VITE_GNEWS_API_KEY: ${{ secrets.GNEWS_API_KEY }}
+        run: node scripts/fetch-gnews.js
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "GNews Update Bot"
+          git config user.email "actions@github.com"
+          git add public/gnews/
+          git diff --cached --quiet || (git commit -m "chore: update GNews data $(date -u +'%Y-%m-%d %H:%M:%S')" && git push)

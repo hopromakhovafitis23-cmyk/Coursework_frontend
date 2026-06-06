@@ -1,51 +1,46 @@
 import type { Article } from '../types';
 
+// CORS proxies that can bypass GNews restrictions
+const CORS_PROXIES = [
+  'https://api.codetabs.com/v1/proxy?quest=',
+  'https://api.allorigins.win/raw?url=',
+];
+
 const GNEWS_DATA_BASE = `${import.meta.env.BASE_URL}gnews/`;
 const CACHED_HEADLINES_KEY = 'cached_top_headlines';
+const CACHE_EXPIRY_KEY = 'gnews_cache_expiry';
+const CACHE_EXPIRY_MS = 6 * 60 * 60 * 1000; // 6 hours
 
 const FALLBACK_TOP_HEADLINES: Article[] = [
   {
     title: 'Місцева ініціатива змінює місто на краще',
     description: 'Громада запускає новий освітній простір для молоді.',
     content:
-      'Локальні мешканці об’єдналися для відкриття нового простору, який підтримає молодіжні проєкти та бізнес-ініціативи.',
+      'Локальні мешканці об'єдналися для відкриття нового простору, який підтримає молодіжні проєкти та бізнес-ініціативи.',
     url: 'https://example.com/local-initiative',
     image: 'https://placehold.co/600x400?text=%D0%9D%D0%BE%D0%B2%D0%B8%D0%BD%D0%B0',
     publishedAt: new Date().toISOString(),
     source: { name: 'Новини UA', url: 'https://example.com' },
   },
-  {
-    title: 'Культура та мистецтво: новий фестиваль стартує цього тижня',
-    description: 'Фестиваль обіцяє концерти, виставки та освітні події для всієї родини.',
-    content:
-      'У центрі міста стартує фестиваль, який приверне увагу митців і гостей з усієї країни.',
-    url: 'https://example.com/culture-festival',
-    image: 'https://placehold.co/600x400?text=%D0%9A%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B0',
-    publishedAt: new Date().toISOString(),
-    source: { name: 'Культура Онлайн', url: 'https://example.com' },
-  },
-  {
-    title: 'Економіка: відновлення бізнесу після локдауну',
-    description: 'Підприємства адаптуються до нових умов роботи та попиту.',
-    content:
-      'Аналітики відзначають зростання малого бізнесу у регіонах, де з’явилися нові програми підтримки.',
-    url: 'https://example.com/economy-recovery',
-    image:
-      'https://placehold.co/600x400?text=%D0%95%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D1%96%D0%BA%D0%B0',
-    publishedAt: new Date().toISOString(),
-    source: { name: 'Економічні Вісті', url: 'https://example.com' },
-  },
-  {
-    title: 'Спорт: юні таланти готуються до чемпіонату',
-    description: 'Команда підлітків тренується перед змаганнями національного рівня.',
-    content:
-      'Тренери розповіли про програму підготовки, яка має на меті виявити нові спортивні зірки.',
-    url: 'https://example.com/sports-championship',
-    image: 'https://placehold.co/600x400?text=%D0%A1%D0%BF%D0%BE%D1%80%D1%82',
-    publishedAt: new Date().toISOString(),
-    source: { name: 'Спортивний UA', url: 'https://example.com' },
-  },
 ];
+
+const isCacheValid = (): boolean => {
+  try {
+    const expiry = localStorage.getItem(CACHE_EXPIRY_KEY);
+    if (!expiry) return false;
+    return Date.now() < parseInt(expiry, 10);
+  } catch {
+    return false;
+  }
+};
+
+const setCacheExpiry = () => {
+  try {
+    localStorage.setItem(CACHE_EXPIRY_KEY, String(Date.now() + CACHE_EXPIRY_MS));
+  } catch (error) {
+    console.warn('Failed to set cache expiry:', error);
+  }
+};
 
 const loadCachedTopHeadlines = (): Article[] => {
   try {
@@ -60,6 +55,7 @@ const loadCachedTopHeadlines = (): Article[] => {
 const cacheTopHeadlines = (articles: Article[]) => {
   try {
     localStorage.setItem(CACHED_HEADLINES_KEY, JSON.stringify(articles));
+    setCacheExpiry();
   } catch (error) {
     console.warn('Failed to cache top headlines:', error);
   }
@@ -79,13 +75,48 @@ const loadStaticHeadlines = async (category?: string): Promise<Article[]> => {
   return (await response.json()) as Article[];
 };
 
+// Try to fetch from GNews via CORS proxy as fallback
+const fetchFromGNewsThroughProxy = async (category: string): Promise<Article[]> => {
+  const API_KEY = 'fc7b88b8060f4ce1c43c9112b18d008d';
+  const gnewsUrl = `https://gnews.io/api/v4/top-headlines?lang=uk&category=${category}&apikey=${API_KEY}`;
+
+  for (const proxyBase of CORS_PROXIES) {
+    try {
+      const proxyUrl = proxyBase + encodeURIComponent(gnewsUrl);
+      const response = await fetch(proxyUrl, { signal: AbortSignal.timeout(8000) });
+      if (response.ok) {
+        const data = await response.json();
+        return data.articles || [];
+      }
+    } catch (error) {
+      console.debug(`CORS proxy attempt failed (${proxyBase}):`, error);
+    }
+  }
+
+  throw new Error('All CORS proxy attempts failed');
+};
+
 export const getTopHeadlines = async (category?: string): Promise<Article[]> => {
   try {
     const articles = await loadStaticHeadlines(category);
     cacheTopHeadlines(articles);
     return articles;
   } catch (error) {
-    console.warn('Static GNews data request failed, falling back to cached or static content:', error);
+    console.warn('Static GNews data request failed, trying live fetch:', error);
+
+    // Try to fetch fresh data from GNews through CORS proxy if cache is expired
+    if (!isCacheValid()) {
+      try {
+        const categoryName = !category || category === 'all' ? 'general' : category;
+        const liveArticles = await fetchFromGNewsThroughProxy(categoryName);
+        cacheTopHeadlines(liveArticles);
+        return liveArticles;
+      } catch (proxyError) {
+        console.warn('Live fetch through CORS proxy failed:', proxyError);
+      }
+    }
+
+    // Fall back to cached data
     const cachedArticles = loadCachedTopHeadlines();
     return cachedArticles.length ? cachedArticles : FALLBACK_TOP_HEADLINES;
   }
