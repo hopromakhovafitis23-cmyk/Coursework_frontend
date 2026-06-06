@@ -85,7 +85,10 @@ export const getTopHeadlines = async (category?: string): Promise<Article[]> => 
     cacheTopHeadlines(articles);
     return articles;
   } catch (error) {
-    console.warn('Static GNews data request failed, falling back to cached or static content:', error);
+    console.warn(
+      'Static GNews data request failed, falling back to cached or static content:',
+      error
+    );
     const cachedArticles = loadCachedTopHeadlines();
     return cachedArticles.length ? cachedArticles : FALLBACK_TOP_HEADLINES;
   }
