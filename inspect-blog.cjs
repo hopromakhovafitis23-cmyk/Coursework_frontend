@@ -1,0 +1,33 @@
+const { chromium } = require('@playwright/test');
+
+(async () => {
+  const browser = await chromium.launch();
+  const page = await browser.newPage();
+  await page.goto('http://localhost:5173/#/register', { waitUntil: 'networkidle' });
+  await page.fill('input#nickname', 'Journalist');
+  await page.fill('input#email', 'journalist@test.com');
+  await page.fill('input#password', 'password123');
+  await page.click('button:has-text("Зареєструватися")');
+  await page.waitForURL('**/#/');
+  await page.goto('http://localhost:5173/#/blog', { waitUntil: 'networkidle' });
+  await page.waitForTimeout(5000);
+  const titleLabel = await page.locator('label:has-text("Назва")').count();
+  const titleInput = await page.locator('input#title').count();
+  const titleAria = await page.locator('input[aria-label="Назва"]').count();
+  const blogText = await page.locator('text=Поки що немає постів').count();
+  console.log('label count', titleLabel);
+  console.log('input#title count', titleInput);
+  console.log('aria-label count', titleAria);
+  console.log('blog text count', blogText);
+  const content = await page.content();
+  console.log(content.includes('Назва') ? 'content has Назва' : 'content lacks Назва');
+  console.log('root exists', content.includes('id="root"'));
+  const innerHTML = await page.evaluate(() => document.getElementById('root')?.innerHTML ?? 'NO ROOT');
+  console.log('root innerHTML length', innerHTML.length);
+  console.log('root innerText snippet:', innerHTML.slice(0, 1000));
+  console.log('body text includes Поки що немає постів', await page.evaluate(() => document.body.innerText.includes('Поки що немає постів')));
+  console.log('body text snippet:', await page.evaluate(() => document.body.innerText.slice(0, 1000)));
+  console.log('document title:', await page.title());
+  console.log('current URL:', page.url());
+  await browser.close();
+})();
