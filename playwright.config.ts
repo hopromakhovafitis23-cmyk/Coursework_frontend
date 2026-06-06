@@ -27,7 +27,7 @@ export default defineConfig({
   ],
   webServer: {
     command: 'npm run dev -- --host',
-    url: 'http://localhost:5173',
+    url: 'http://localhost:5173/news',
     reuseExistingServer: !process.env.CI,
     timeout: 120 * 1000,
   },
