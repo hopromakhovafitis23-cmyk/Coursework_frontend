@@ -1,6 +1,7 @@
 import type { Article } from '../types';
 
 const API_KEY = import.meta.env.VITE_GNEWS_API_KEY as string | undefined;
+const HAS_API_KEY = Boolean(API_KEY);
 const BASE_URL = 'https://gnews.io/api/v4';
 const CACHED_HEADLINES_KEY = 'cached_top_headlines';
 
@@ -67,14 +68,16 @@ const cacheTopHeadlines = (articles: Article[]) => {
 };
 
 export const getTopHeadlines = async (category?: string): Promise<Article[]> => {
+  if (!HAS_API_KEY) {
+    return FALLBACK_TOP_HEADLINES;
+  }
+
   const buildUrl = () => {
     let url = `${BASE_URL}/top-headlines?lang=uk`;
-    if (API_KEY) {
-      url += `&apikey=${API_KEY}`;
-    }
     if (category && category !== 'all') {
       url += `&category=${category}`;
     }
+    url += `&apikey=${API_KEY}`;
     return url;
   };
 
@@ -103,11 +106,17 @@ export const getTopHeadlines = async (category?: string): Promise<Article[]> => 
 export const searchArticles = async (query: string): Promise<Article[]> => {
   if (!query.trim()) return [];
 
+  if (!HAS_API_KEY) {
+    return FALLBACK_TOP_HEADLINES.filter((article) =>
+      article.title.toLowerCase().includes(query.toLowerCase()) ||
+      article.description.toLowerCase().includes(query.toLowerCase()) ||
+      article.content.toLowerCase().includes(query.toLowerCase())
+    );
+  }
+
   const searchUrl = () => {
     let url = `${BASE_URL}/search?q=${encodeURIComponent(query)}&lang=uk`;
-    if (API_KEY) {
-      url += `&apikey=${API_KEY}`;
-    }
+    url += `&apikey=${API_KEY}`;
     return url;
   };
 
@@ -123,6 +132,7 @@ export const searchArticles = async (query: string): Promise<Article[]> => {
     return data.articles || [];
   } catch (error) {
     console.error('Error searching articles:', error);
-    throw error;
+    const cachedArticles = loadCachedTopHeadlines();
+    return cachedArticles.length ? cachedArticles : FALLBACK_TOP_HEADLINES;
   }
 };
