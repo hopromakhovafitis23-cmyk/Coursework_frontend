@@ -1,6 +1,6 @@
 import type { Article } from '../types';
 
-const API_KEY = import.meta.env.VITE_GNEWS_API_KEY as string;
+const API_KEY = import.meta.env.VITE_GNEWS_API_KEY as string | undefined;
 const BASE_URL = 'https://gnews.io/api/v4';
 const CACHED_HEADLINES_KEY = 'cached_top_headlines';
 
@@ -68,7 +68,10 @@ const cacheTopHeadlines = (articles: Article[]) => {
 
 export const getTopHeadlines = async (category?: string): Promise<Article[]> => {
   const buildUrl = () => {
-    let url = `${BASE_URL}/top-headlines?lang=uk&apikey=${API_KEY}`;
+    let url = `${BASE_URL}/top-headlines?lang=uk`;
+    if (API_KEY) {
+      url += `&apikey=${API_KEY}`;
+    }
     if (category && category !== 'all') {
       url += `&category=${category}`;
     }
@@ -76,10 +79,6 @@ export const getTopHeadlines = async (category?: string): Promise<Article[]> => 
   };
 
   try {
-    if (!API_KEY) {
-      throw new Error('Missing GNews API key. Set VITE_GNEWS_API_KEY in the environment.');
-    }
-
     const response = await fetch(buildUrl());
     if (!response.ok) {
       if (response.status === 429) {
@@ -104,10 +103,16 @@ export const getTopHeadlines = async (category?: string): Promise<Article[]> => 
 export const searchArticles = async (query: string): Promise<Article[]> => {
   if (!query.trim()) return [];
 
+  const searchUrl = () => {
+    let url = `${BASE_URL}/search?q=${encodeURIComponent(query)}&lang=uk`;
+    if (API_KEY) {
+      url += `&apikey=${API_KEY}`;
+    }
+    return url;
+  };
+
   try {
-    const response = await fetch(
-      `${BASE_URL}/search?q=${encodeURIComponent(query)}&lang=uk&apikey=${API_KEY}`
-    );
+    const response = await fetch(searchUrl());
     if (!response.ok) {
       if (response.status === 429) {
         throw new Error('API rate limit exceeded. Please try again later.');
