@@ -17,9 +17,21 @@ const mockArticles = {
 
 test.describe('Auth, Bookmarking, and Comments Flow', () => {
   test.beforeEach(async ({ page }) => {
-    // Intercept GNews API calls to prevent quota usage and ensure stability
-    await page.route('**/*gnews.io/api/v4/top-headlines*', async (route) => {
-      await route.fulfill({ json: mockArticles });
+    // Intercept GNews API calls and local static JSON requests to prevent quota usage and ensure stability
+    const fulfillMock = async (route: any, body: object) => {
+      await route.fulfill({
+        status: 200,
+        contentType: 'application/json',
+        body: JSON.stringify(body),
+      });
+    };
+
+    await page.route('**/*gnews.io*', async (route) => {
+      await fulfillMock(route, mockArticles);
+    });
+
+    await page.route('**/*/gnews/*', async (route) => {
+      await fulfillMock(route, mockArticles);
     });
   });
 

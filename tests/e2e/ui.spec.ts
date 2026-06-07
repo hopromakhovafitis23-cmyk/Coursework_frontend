@@ -41,18 +41,35 @@ const mockSportsArticles = {
 
 test.describe('News Portal UI and Features', () => {
   test.beforeEach(async ({ page }) => {
-    // Intercept GNews API calls
-    await page.route('**/*gnews.io/api/v4/top-headlines*', async (route) => {
+    // Intercept GNews API calls and local static JSON requests
+    const fulfillMock = async (route: any, body: object) => {
+      await route.fulfill({
+        status: 200,
+        contentType: 'application/json',
+        body: JSON.stringify(body),
+      });
+    };
+
+    await page.route('**/*gnews.io*', async (route) => {
       const url = route.request().url();
-      if (url.includes('category=sports')) {
-        await route.fulfill({ json: mockSportsArticles });
+      if (url.includes('top-headlines') && url.includes('category=sports')) {
+        await fulfillMock(route, mockSportsArticles);
+      } else if (url.includes('top-headlines')) {
+        await fulfillMock(route, mockArticles);
+      } else if (url.includes('search')) {
+        await fulfillMock(route, mockArticles);
       } else {
-        await route.fulfill({ json: mockArticles });
+        await fulfillMock(route, mockArticles);
       }
     });
 
-    await page.route('**/*gnews.io/api/v4/search*', async (route) => {
-      await route.fulfill({ json: mockArticles });
+    await page.route('**/*/gnews/*', async (route) => {
+      const url = route.request().url();
+      if (url.endsWith('/sports.json')) {
+        await fulfillMock(route, mockSportsArticles);
+      } else {
+        await fulfillMock(route, mockArticles);
+      }
     });
   });
 
