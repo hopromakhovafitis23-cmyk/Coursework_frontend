@@ -49,7 +49,11 @@ test.describe('Auth, Bookmarking, and Comments Flow', () => {
 
     // 3. Go to article page to leave a comment
     // Click on the article link (which contains the heading)
-    await page.getByRole('link').filter({ has: page.getByText('Mock Election News').first() }).first().click();
+    await page
+      .getByRole('link')
+      .filter({ has: page.getByText('Mock Election News').first() })
+      .first()
+      .click();
 
     // Leave a comment
     const commentInput = page.getByPlaceholder(/Напишіть ваш коментар/i);
