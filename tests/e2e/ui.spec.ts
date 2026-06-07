@@ -1,58 +1,51 @@
 import { test, expect } from '@playwright/test';
 
-const mockArticles = {
-  totalArticles: 2,
-  articles: [
-    {
-      title: 'Mock Election News',
-      description: 'The latest updates on the upcoming elections.',
-      content: 'Detailed content about the elections.',
-      url: 'https://example.com/election-news',
-      image: 'https://placehold.co/600x400',
-      publishedAt: '2023-11-01T10:00:00Z',
-      source: { name: 'MockSource', url: 'https://example.com' },
-    },
-    {
-      title: 'Apple Releases New Tech',
-      description: 'New gadgets announced today.',
-      content: 'Detailed content about new Apple technology.',
-      url: 'https://example.com/apple-news',
-      image: 'https://placehold.co/600x400',
-      publishedAt: '2023-11-02T12:00:00Z',
-      source: { name: 'TechMock', url: 'https://example.com' },
-    },
-  ],
-};
+const mockArticles = [
+  {
+    title: 'Mock Election News',
+    description: 'The latest updates on the upcoming elections.',
+    content: 'Detailed content about the elections.',
+    url: 'https://example.com/election-news',
+    image: 'https://placehold.co/600x400',
+    publishedAt: '2023-11-01T10:00:00Z',
+    source: { name: 'MockSource', url: 'https://example.com' },
+  },
+  {
+    title: 'Apple Releases New Tech',
+    description: 'New gadgets announced today.',
+    content: 'Detailed content about new Apple technology.',
+    url: 'https://example.com/apple-news',
+    image: 'https://placehold.co/600x400',
+    publishedAt: '2023-11-02T12:00:00Z',
+    source: { name: 'TechMock', url: 'https://example.com' },
+  },
+];
 
-const mockSportsArticles = {
-  totalArticles: 1,
-  articles: [
-    {
-      title: 'Local Team Wins Championship',
-      description: 'A historic victory for the local sports team.',
-      content: 'Detailed match report and interviews.',
-      url: 'https://example.com/sports-news',
-      image: 'https://placehold.co/600x400',
-      publishedAt: '2023-11-03T15:00:00Z',
-      source: { name: 'SportsMock', url: 'https://example.com' },
-    },
-  ],
-};
+const mockSportsArticles = [
+  {
+    title: 'Local Team Wins Championship',
+    description: 'A historic victory for the local sports team.',
+    content: 'Detailed match report and interviews.',
+    url: 'https://example.com/sports-news',
+    image: 'https://placehold.co/600x400',
+    publishedAt: '2023-11-03T15:00:00Z',
+    source: { name: 'SportsMock', url: 'https://example.com' },
+  },
+];
 
 test.describe('News Portal UI and Features', () => {
   test.beforeEach(async ({ page }) => {
-    // Intercept GNews API calls
-    await page.route('**/*gnews.io/api/v4/top-headlines*', async (route) => {
+    // Intercept all static GNews data files with single route handler
+    await page.route('**/gnews/*.json', async (route) => {
       const url = route.request().url();
-      if (url.includes('category=sports')) {
+      if (url.includes('sports.json')) {
         await route.fulfill({ json: mockSportsArticles });
+      } else if (url.includes('all.json') || url.includes('general.json')) {
+        await route.fulfill({ json: mockArticles });
       } else {
+        // Fallback to mock articles for any other category
         await route.fulfill({ json: mockArticles });
       }
-    });
-
-    await page.route('**/*gnews.io/api/v4/search*', async (route) => {
-      await route.fulfill({ json: mockArticles });
     });
   });
 

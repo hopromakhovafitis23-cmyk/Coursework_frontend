@@ -1,24 +1,21 @@
 import { test, expect } from '@playwright/test';
 
-const mockArticles = {
-  totalArticles: 1,
-  articles: [
-    {
-      title: 'Mock Election News',
-      description: 'The latest updates on the upcoming elections.',
-      content: 'Detailed content about the elections.',
-      url: 'https://example.com/election-news',
-      image: 'https://placehold.co/600x400',
-      publishedAt: '2023-11-01T10:00:00Z',
-      source: { name: 'MockSource', url: 'https://example.com' },
-    },
-  ],
-};
+const mockArticles = [
+  {
+    title: 'Mock Election News',
+    description: 'The latest updates on the upcoming elections.',
+    content: 'Detailed content about the elections.',
+    url: 'https://example.com/election-news',
+    image: 'https://placehold.co/600x400',
+    publishedAt: '2023-11-01T10:00:00Z',
+    source: { name: 'MockSource', url: 'https://example.com' },
+  },
+];
 
 test.describe('Auth, Bookmarking, and Comments Flow', () => {
   test.beforeEach(async ({ page }) => {
-    // Intercept GNews API calls to prevent quota usage and ensure stability
-    await page.route('**/*gnews.io/api/v4/top-headlines*', async (route) => {
+    // Intercept static GNews data files to prevent quota usage and ensure stability
+    await page.route('**/gnews/*.json', async (route) => {
       await route.fulfill({ json: mockArticles });
     });
   });
@@ -51,7 +48,8 @@ test.describe('Auth, Bookmarking, and Comments Flow', () => {
     ).toBeVisible();
 
     // 3. Go to article page to leave a comment
-    await page.getByRole('heading', { name: 'Mock Election News' }).first().click();
+    // Click on the article link (which contains the heading)
+    await page.getByRole('link').filter({ has: page.getByText('Mock Election News').first() }).first().click();
 
     // Leave a comment
     const commentInput = page.getByPlaceholder(/Напишіть ваш коментар/i);
