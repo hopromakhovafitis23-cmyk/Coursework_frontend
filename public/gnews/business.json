@@ -1,5 +1,80 @@
 [
   {
+    "id": "e4576fc82f9b2bb9d0a8770b12b9f3e7",
+    "title": "Новий Senat 900 для Путіна виявився копією китайського Hongqi H9",
+    "description": "Бренд Senat, відомий як виробник автівок для президента РФ, представив новий седан Senat 900 вартістю від 163 тисяч доларів. Автомобіль є перейменованою копією китайської моделі Hongqi H9 - Авто24",
+    "content": "Одним із таких представників є компанія Aurus Motors, створена у 2018 році з метою розробки державного лімузина для президента РФ Путіна. Тепер назва Senat була виділена в окрему преміальну марку, яка презентувала свою першу серійну модель – великий ... [3061 chars]",
+    "url": "https://24tv.ua/auto/rosiiskyi_premialnyi_sedan_senat_900_vyiavyvsia_pereimenovanoiu_kopiieiu_kytaiskoho_hongqi_h9_n72974",
+    "image": "https://24tv.ua/auto/resources/photos/news/202606/729747cc2cf8e-c5d3-49b0-9bad-6735f6a378c7.jpg",
+    "publishedAt": "2026-06-09T07:10:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "e737a8e76b161ef4526698e2ec5f60c9",
+      "name": "24 Канал",
+      "url": "https://24tv.ua"
+    }
+  },
+  {
+    "id": "7b22d14e1c212e9829d9969016184ee4",
+    "title": "Засновник FTX просить у Трампа помилувати його",
+    "description": "Детальніше про цю справу читайте у новині ЕП",
+    "content": "Сем Бенкман-Фрід, засуджений засновник збанкрутілої криптобіржі FTX, офіційно звернувся до президента Дональда Трампа з проханням про помилування після того, як відбув майже три роки з призначеного йому 25-річного терміну ув'язнення.\nПро це повідомля... [2917 chars]",
+    "url": "https://epravda.com.ua/svit/zasnovnik-ftx-prosit-u-trampa-pomiluvati-yogo-822472/",
+    "image": "https://img.epravda.com.ua/epravda/images/doc/1/4/147170/14c9551bb2ae616776653d67ed5d6bf9.jpeg?w=1920&q=85",
+    "publishedAt": "2026-06-09T07:01:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "9b9cf9e76aeefea346957bfe5f6dafc5",
+      "name": "Економічна правда",
+      "url": "https://epravda.com.ua"
+    }
+  },
+  {
+    "id": "06b0b27060250a341de4c23937fd6fdd",
+    "title": "Тест-драйв Renault Duster EDC: коли \"автомат\" кращий за повний привід",
+    "description": "Тест-драйв Renault Duster 1.3 TCe EDC — найкомфортнішої версії популярного кросовера. Розбираємо динаміку, роботизовану коробку передач, практичність, витрату пального та з'ясовуємо, чи варто жертвувати повним приводом заради комфорту в місті.",
+    "content": "Змінити механічну коробку на сучасний “робот” – це наче стрибнути зі старого потягу на сучасний експрес. Renault Duster не просто ще один кросовер у переповненому сегменті B-SUV. Це автомобіль, який має власну історію та характер, і інженери Renault ... [11540 chars]",
+    "url": "https://itc.ua/ua/articles/test-drajv-renault-duster-edc-koly-avtomat-krashhyj-za-povnyj-pryvid/",
+    "image": "https://itcua-media-prod.fra1.cdn.digitaloceanspaces.com/uploads/2026/06/AER_0253-835x557.jpg",
+    "publishedAt": "2026-06-09T06:30:57Z",
+    "lang": "uk",
+    "source": {
+      "id": "391d17d071b755a4bda37c1b43f47c2c",
+      "name": "ITC.ua",
+      "url": "https://itc.ua"
+    }
+  },
+  {
+    "id": "7892b8f7a98e25551119106d5b9924dd",
+    "title": "Microsoft здалася: у Windows 11 нарешті можна буде вимкнути Bing у пошуку",
+    "description": "Microsoft готує оновлення Windows 11, яке дозволить вимкнути Bing у системному пошуку та повернути пріоритет локальним файлам і застосункам, що може суттєво покращити зручність використання ОС.",
+    "content": "Протягом кількох років Microsoft інтегрувала Bing у системний пошук Windows 11, через що знайти локальні файли або встановлені програми стало складніше — результати змішувалися з веб-пошуком.\nРаніше багато хто активно користувався системним пошуком, ... [2207 chars]",
+    "url": "https://itc.ua/ua/novini/microsoft-zdalasya-u-windows-11-nareshti-mozhna-bude-vymknuty-bing-u-poshuku/",
+    "image": "https://itcua-media-prod.fra1.cdn.digitaloceanspaces.com/uploads/2026/06/Byngbyng-Depositphotos_704371880_L.jpg",
+    "publishedAt": "2026-06-09T06:00:36Z",
+    "lang": "uk",
+    "source": {
+      "id": "391d17d071b755a4bda37c1b43f47c2c",
+      "name": "ITC.ua",
+      "url": "https://itc.ua"
+    }
+  },
+  {
+    "id": "fc41416a5bbbae1a6c2287016f4615a4",
+    "title": "Google зробила NotebookLM значно кориснішим завдяки найбільшому оновленню за весь час",
+    "description": "Google оновила NotebookLM, додавши Gemini 3.5 та Antigravity, що дозволяє ШІ створювати код, звіти, презентації та файли з джерел і працювати як повноцінний дослідницький і продуктивний інструмент нового покоління.",
+    "content": "NotebookLM — один із тих ШІ-інструментів, які можна використовувати щодня. Він може бути основним інструментом, коли потрібно обробляти великі обсяги інформації, не втрачаючи розуміння того, звідки взяті факти. Тепер останнє оновлення Google має зроб... [3150 chars]",
+    "url": "https://itc.ua/ua/novini/google-zrobyla-notebooklm-znachno-korysnishym-zavdyaky-najbilshomu-onovlennyu-za-ves-chas/",
+    "image": "https://itcua-media-prod.fra1.cdn.digitaloceanspaces.com/uploads/2026/06/NotebukLM-Depositphotos_830021794_L.jpg",
+    "publishedAt": "2026-06-09T04:00:56Z",
+    "lang": "uk",
+    "source": {
+      "id": "391d17d071b755a4bda37c1b43f47c2c",
+      "name": "ITC.ua",
+      "url": "https://itc.ua"
+    }
+  },
+  {
     "id": "1874f9792de73540610bf518b9851ff7",
     "title": "Які авто з пробігом найчастіше завозять в Україну — ТОП",
     "description": "До десятки лідерів увійшли Volkswagen, Nissan, Audi, Skoda, Renault, Ford та Mazda. | Новини, Суспільство - Судово-юридична газета",
@@ -12,6 +87,21 @@
       "id": "b46500d70972c8020239617cebe67243",
       "name": "Судово-юридична газета",
       "url": "https://sud.ua"
+    }
+  },
+  {
+    "id": "ea41d1a6e259c4463c9ce7775238ad90",
+    "title": "10 найпопулярніших у світі кросоверів: які авто купують найчастіше у 2026-му",
+    "description": "Tesla Model Y очолила світовий рейтинг кросоверів 2026 року, випередивши Honda CR V і Toyota RAV4.",
+    "content": "Tesla Model Y очолила світовий рейтинг кросоверів 2026 року, випередивши Honda CR V і Toyota RAV4.\nФото: Tesla\nЕлектрокросовер збільшив продажі на 29,5 % і зайняв 2,4 % глобального ринку — рекордний результат для моделі, яка стала символом переходу д... [3882 chars]",
+    "url": "https://pravdatutnews.com/avto/2026/06/08/80285-10-naypopulyarnishyh-u-sviti-krosoveriv-yaki-avto-kupuyut",
+    "image": "https://pravdatutnews.com/sites/default/files/news/2026/06/08/tesla_model_y.jpg",
+    "publishedAt": "2026-06-08T20:30:23Z",
+    "lang": "uk",
+    "source": {
+      "id": "716e7cb92f5f203aa3506c9ba057538c",
+      "name": "ПравдаТУТ NEWS",
+      "url": "https://pravdatutnews.com"
     }
   },
   {
@@ -30,6 +120,21 @@
     }
   },
   {
+    "id": "35507c5a5298bd919bb9c713c6250134",
+    "title": "Apple посилює функції безпеки для дітей: окремі акаунти, фільтрація зображень та нові ліміти \"Екранного часу\"",
+    "description": "Під час конференції WWDC 2026 Apple анонсувала зміни, які нададуть батькам більше контролю над тим, що бачать і роблять їхні діти на пристроях. Серед ключових змін: автоматична фільтрація зображень та запити на дозвіл від дорослих під час перегляду окремих сайтів чи спілкування із незнайомими контактами.",
+    "content": "Під час конференції WWDC 2026 Apple анонсувала зміни, які нададуть батькам більше контролю над тим, що бачать і роблять їхні діти на пристроях. Серед ключових змін: автоматична фільтрація зображень та запити на дозвіл від дорослих під час перегляду о... [1658 chars]",
+    "url": "https://mezha.ua/news/apple-zapuskaye-novi-funkciji-bezpeki-dlya-ditey-312092/",
+    "image": "https://img.mezha.ua/mezha/images/doc/4/9/312450/49ffafcb36a2ff51a233e9ae66a49e63.jpeg?w=1200&q=85&stamp=1780943579",
+    "publishedAt": "2026-06-08T19:01:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "6b0257d31504a630dde7752eed4e1e39",
+      "name": "Mezha",
+      "url": "https://mezha.ua"
+    }
+  },
+  {
     "id": "2fe43eca4565500e0071c874e6696b43",
     "title": "Скільки можна отримати, якщо здати золотий лом",
     "description": "Ціна на лом золота залежить від світових тенденцій. Також важливою є проба виробу. Яка вартість золотого брухту 8 червня 2026 року - Фінанси.",
@@ -42,111 +147,6 @@
       "id": "e13bcd14a7bd08edb7ba7e9f6c802b40",
       "name": "Фінанси 24",
       "url": "https://financy.24tv.ua"
-    }
-  },
-  {
-    "id": "5b42190ea95f7598bd621fa475030a9e",
-    "title": "Peugeot готує революційний двигун для Європи",
-    "description": "Автомобільний альянс Stellantis почав готувати новий двигун, який можуть отримати бренди Peugeot, Jeep та Alfa Romeo з 2027 року.",
-    "content": "Автомобільний альянс Stellantis почав готувати новий двигун, який можуть отримати бренди Peugeot, Jeep та Alfa Romeo з 2027 року.\nМоделі Peugeot можуть отримати новий двигун у 2027 році.\nНовий двигун має замінити дизельні версії.\nНовинка буде доступн... [2547 chars]",
-    "url": "https://motorcar.com.ua/news/peugeot-revolyuczijnyj-dvygun-yevropa-2026/",
-    "image": "https://motorcar.com.ua/wp-content/uploads/2023/01/peugeot-inception-concept-2023-logo.jpg",
-    "publishedAt": "2026-06-08T18:17:17Z",
-    "lang": "uk",
-    "source": {
-      "id": "ccf5b23cf2f813320e7baafea8cf4ea7",
-      "name": "motorcar.com.ua",
-      "url": "https://motorcar.com.ua"
-    }
-  },
-  {
-    "id": "3d11276b86261d282ab4b6020d0baf89",
-    "title": "OpenAI готує найбільше оновлення ChatGPT з моменту запуску",
-    "description": "Компанія OpenAI планує найбільшу модернізацію ChatGPT з моменту запуску сервісу, прагнучи перетворити популярний чат-бот на багатофункціональне",
-    "content": "Компанія OpenAI планує найбільшу модернізацію ChatGPT з моменту запуску сервісу, прагнучи перетворити популярний чат-бот на багатофункціональне «суперзастосунок» із вищою прибутковістю напередодні потенційного IPO.\nЗа даними Financial Times, компанія... [1428 chars]",
-    "url": "https://donpatriot.news/openai-gotuye-najbilshe-onovlennya-chatgpt-z-momentu-zapusku",
-    "image": "https://donpatriot.news/wp-content/uploads/2026/05/chatgpt.webp",
-    "publishedAt": "2026-06-08T18:15:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "556066753a7a30eb0619823360acdde4",
-      "name": "Патріот Донбасу",
-      "url": "https://donpatriot.news"
-    }
-  },
-  {
-    "id": "500494e802cca45ca08c2eabac081b3d",
-    "title": "Ціна біткойна просіла до психологічної позначки",
-    "description": "Біткойн за пів року втратив половину вартості і наблизився до психологічної позначки, за якою може статися новий обвал - читайте докладно на УНІАН",
-    "content": "З моменту досягнення рекордного максимуму на позначці 125 245,57 долара 5 жовтня 2025 року, біткойн вже втратив половину своєї вартості. Падіння криптовалюти може посилитися, вважають аналітики Reuters.\nПроблеми біткойна збіглися з посиленням ажіотаж... [1595 chars]",
-    "url": "https://www.unian.ua/economics/finance/cina-bitkoyna-prosila-do-psihologichnoji-poznachki-13406064.html",
-    "image": "https://images.unian.net/photos/2026_01/thumb_files/620_324_1769889406-9576.jpg?1",
-    "publishedAt": "2026-06-08T15:11:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "d4361862486677369ff2ae7719b8d313",
-      "name": "УНІАН",
-      "url": "https://www.unian.ua"
-    }
-  },
-  {
-    "id": "34b7b8ae68ac4fab071f3716d19bf8f9",
-    "title": "Найпопулярніші автомобілі в світі",
-    "description": "Рейтинг найпопулярніших кросоверів на глобальному ринку у 2026 році очолив електричний кросовер Tesla Model Y. Докладніше читайте на сайті УНІАН.",
-    "content": "Рейтинг найпопулярніших кросоверів на глобальному ринку нових автомобілів у 2026 році очолив електричний кросовер Tesla Model Y. Про це повідомляє Focus2Move.\nЗ початку 2026 року до квітня модель піднялася на одну позицію та забезпечила собі частку р... [1343 chars]",
-    "url": "https://www.unian.ua/economics/auto/naypopulyarnishi-avtomobili-v-sviti-yaki-krosoveri-kupuyut-naychastishe-13405968.html",
-    "image": "https://images.unian.net/photos/2026_06/thumb_files/620_324_1780927197-9200.jpg?1",
-    "publishedAt": "2026-06-08T14:03:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "d4361862486677369ff2ae7719b8d313",
-      "name": "УНІАН",
-      "url": "https://www.unian.ua"
-    }
-  },
-  {
-    "id": "31475be460ae79babeaa30bf786d81d5",
-    "title": "у Німеччині масово встановлюють альтернативні системи",
-    "description": "Фотовольтаїка тривалий час асоціювалася з найпопулярнішим способом використання сонячної енергії. Чому німці обрали цю технологію – читайте на УНІАН.",
-    "content": "Німці масово відмовляються від класичних сонячних панелей на користь нової технології. Ще зовсім недавно ця технологія захопила ринок Польщі.\nВидання wiadomosci.radiozet пише, що, як випливає з останніх даних Управління з регулювання енергетики, сере... [1461 chars]",
-    "url": "https://www.unian.ua/economics/energetics/sonyachni-paneli-u-nimechchini-masovo-vstanovlyuyut-alternativni-sistemi-13405947.html",
-    "image": "https://images.unian.net/photos/2026_03/thumb_files/1000_545_1773592617-6236.jpg?1",
-    "publishedAt": "2026-06-08T13:38:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "d4361862486677369ff2ae7719b8d313",
-      "name": "УНІАН",
-      "url": "https://www.unian.ua"
-    }
-  },
-  {
-    "id": "bb7ced9965774caf0c1fc49a5d965540",
-    "title": "чи залишаться українці без роботи",
-    "description": "Міністр економіки, довкілля та сільського господарства Олексій Соболев розповів, чи залишить штучний інтелект українців без роботи - подробиці читайте на УНІАН",
-    "content": "Штучний інтелект в Україні не витіснятиме працівників, а допомагатиме бізнесу працювати ефективніше в умовах гострого кадрового дефіциту. Як передає кореспондент УНІАН, про це повідомив міністр економіки, довкілля та сільського господарства України О... [1765 chars]",
-    "url": "https://www.unian.ua/economics/other/shtuchniy-intelekt-chi-zalishatsya-ukrajinci-bez-roboti-13405887.html",
-    "image": "https://images.unian.net/photos/2026_02/thumb_files/620_324_1772015033-3902.jpg?1",
-    "publishedAt": "2026-06-08T12:49:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "d4361862486677369ff2ae7719b8d313",
-      "name": "УНІАН",
-      "url": "https://www.unian.ua"
-    }
-  },
-  {
-    "id": "0515309823104ca674e506ae23b573a9",
-    "title": "З душею гонщика: далекобійник встановив у кабіні вантажівки гонковий симулятор за $6000",
-    "description": "Американський далекобійник встановив потужний гонковий симулятор за $6000 у кабіні",
-    "content": "Американський далекобійник встановив потужний гонковий симулятор за $6000 у кабіні власної вантажівки.\nЗана Замора ентузіаст гонкових та авіасимуляторів. Спільно з компанією Conspit — виробником керма для симуляторів водіння, він покращив початковий ... [1424 chars]",
-    "url": "https://itc.ua/ua/novini/z-dusheyu-gonshhyka-dalekobijnyk-vstanovyv-u-kabini-vantazhivky-gonkovyj-symulyator-za-6000/",
-    "image": "https://itcua-media-prod.fra1.cdn.digitaloceanspaces.com/uploads/2026/06/imgonline-com-ua-convert0jyV0SM9xZYw.jpg",
-    "publishedAt": "2026-06-08T10:30:29Z",
-    "lang": "uk",
-    "source": {
-      "id": "391d17d071b755a4bda37c1b43f47c2c",
-      "name": "ITC.ua",
-      "url": "https://itc.ua"
     }
   }
 ]
