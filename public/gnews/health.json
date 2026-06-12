@@ -1,5 +1,65 @@
 [
   {
+    "id": "0d22a60f229dc3b0cc47132b173e1c5f",
+    "title": "Штучний інтелект вперше розробив вакцину. Пов’язка для ран, яка знищує бактерії",
+    "description": "Головні науково-технологічні прориви та сенсації тижня: 05 – 12 червня — Укрінформ.",
+    "content": "Цього тижня ми дізналися про першу вакцину, повністю створену штучним інтелектом. NASA оголосило членів екіпажу наступної місячної місії ARTEMIS III для польоту на Місяць.\nПро ці та інші сенсації та важливі новини – у нашому огляді.\nУ «ФЕОФАНІЇ» ЗАПР... [6453 chars]",
+    "url": "https://www.ukrinform.ua/rubric-society/4133166-stucnij-intelekt-vperse-rozrobiv-vakcinu-povazka-dla-ran-aka-znisue-bakterii.html",
+    "image": "https://static.ukrinform.com/photos/2026_06/thumb_files/630_360_1781262096-119.jpg",
+    "publishedAt": "2026-06-12T11:02:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "ad3e5dd80ff943885e2407694a30bd5d",
+      "name": "Укрінформ",
+      "url": "https://www.ukrinform.ua"
+    }
+  },
+  {
+    "id": "d9fc398d3df2213eef46fab046be2f7e",
+    "title": "Замовте скриньку для телефону. Це може покращити вашу увагу і робочу пам’ять",
+    "description": "Звичка, яка взагалі не потребує часу і вимагає мінімум зусиль, а натомість обіцяє безліч плюсів — The Village Україна",
+    "content": "Щотижня ми знаходимо одну звичку, що може покращити життя – і це підтверджує наука, – і розповідаємо про неї вам. Не всі звички потрібні всім, проте ми хочемо, щоб тут ви зустріли свої улюблені методи, які допоможуть почуватися краще, без великих інв... [2299 chars]",
+    "url": "https://www.village.com.ua/village/podcasts/ps-habit/374551-zamovte-skrinku-dlya-telefonu-tse-mozhe-pokraschiti-vashu-uvagu-i-robochu-pam-rsquo-yat",
+    "image": "https://cdn.village.com.ua/the-village.com.ua/post-og_image/IRTNkSaTLqvwdjWaGnLOQQ.png",
+    "publishedAt": "2026-06-12T09:44:23Z",
+    "lang": "uk",
+    "source": {
+      "id": "abf5c254676d66dc83fae872b5c64654",
+      "name": "The Village Україна",
+      "url": "https://www.village.com.ua"
+    }
+  },
+  {
+    "id": "214cd1ebb9578e197b1ac10f19ca5d37",
+    "title": "Ще в яйці пташенята почули крик батьків про спеку й почали готуватись",
+    "description": "Активність 48 генів у мозку ембріонів змінилася — і лише в судинах, усупереч прогнозам. Реакція різнилася в самців та самиць, чого досі не помічали.",
+    "content": "Клітини мозку птахів зебрових діамантників ще під час розвитку почали пристосовуватись до спеки у відповідь на крик-попередження батьків про високу температуру довкілля. Це відбулось через зміни активності генів у клітинах судин мозку ембріонів. Наук... [3141 chars]",
+    "url": "https://nauka.ua/news/ptahi-pochali-pristosovuvatis-do-speki-shche-do-viluplennya-z-yajcya-cherez-poperedzhennya-batkiv",
+    "image": "https://nauka.ua/storage/uploads/public/6a2/bb5/d9e/6a2bb5d9ec55e526032698.jpg",
+    "publishedAt": "2026-06-12T07:37:07Z",
+    "lang": "uk",
+    "source": {
+      "id": "780644dab43a156799ba55a022663644",
+      "name": "nauka.ua",
+      "url": "https://nauka.ua"
+    }
+  },
+  {
+    "id": "a0144faee87d67761b2ff341395ed5a1",
+    "title": "Не лише вітаміни: 5 щоденних звичок, які допомагають зміцнити імунітет",
+    "description": "Міцний імунітет допомагає організму не лише ефективніше боротися з вірусами та інфекціями, а й підтримувати здоров’я впродовж багатьох років.",
+    "content": "Міцний імунітет допомагає організму не лише ефективніше боротися з вірусами та інфекціями, а й підтримувати здоров’я впродовж багатьох років. Науковці дедалі частіше пов’язують стан імунної системи з темпами старіння та ризиком розвитку хронічних зах... [6175 chars]",
+    "url": "https://healthnews.obozrevatel.com/ukr/ne-lishe-vitamini-5-schodennih-zvichok-yaki-dopomagayut-zmitsniti-imunitet.htm",
+    "image": "https://i.obozrevatel.com/news/2026/6/10/beautiful-woman-training-summer-park.jpg?size=1200x630",
+    "publishedAt": "2026-06-12T06:33:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "3d921d5786a366e655cc5bc98e744b7b",
+      "name": "Obozrevatel",
+      "url": "https://healthnews.obozrevatel.com"
+    }
+  },
+  {
     "id": "df337772177bf80684b4de76f95d2d5e",
     "title": "Де є найбільше омега-3",
     "description": "Омега-3 жирні кислоти мають кілька переваг для здоров'я: зменшують запалення, знижують рівень холестерину і артеріальний тиск, покращують здоров'я очей.",
@@ -87,66 +147,6 @@
       "id": "e03bb2649384b74a171d42f154d02071",
       "name": "bhub.com.ua",
       "url": "https://bhub.com.ua"
-    }
-  },
-  {
-    "id": "8ae182b0782cddb60c12c0f94e2088e7",
-    "title": "Не лише через зайву вагу: що таке діабет 5 типу і чому про нього заговорили",
-    "description": "У квітні 2025 року Міжнародна діабетична федерація (IDF) офіційно визнала так званий діабет 5 типу. Що це таке, симптоми та кому він загрожує?",
-    "content": "Коли ми чуємо слово «діабет», більшість одразу уявляє зайву вагу, солодощі й інсулінорезистентність. Але у світі офіційно визнали ще одну форму захворювання, яка розвивається за зовсім іншим сценарієм.\nУ квітні 2025 року Міжнародна діабетична федерац... [2664 chars]",
-    "url": "https://bhub.com.ua/uk/ne-lishe-cherez-zayvu-vagu-shcho-take-diabet-5-tipu-i-chomu-pro-nogo-zagovorili",
-    "image": "https://bcms-prod-magazine-posts.s3.us-east-1.amazonaws.com/6a2ae0ea43587_diabete5-desktop.webp",
-    "publishedAt": "2026-06-11T15:16:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "e03bb2649384b74a171d42f154d02071",
-      "name": "bhub.com.ua",
-      "url": "https://bhub.com.ua"
-    }
-  },
-  {
-    "id": "89d4179f0847e929a4e363be32f8ed7e",
-    "title": "Ліки від ожиріння зменшили депресію в мишей завдяки кишковим бактеріям",
-    "description": "Ліраглутид збільшив у мишей кількість кишкових лактобактерій, чий канабіноїд приглушував нейрони, що активуються під час стресу. На людях ще не перевіряли.",
-    "content": "Препарат від ожиріння ліраглутид зменшив симптоми депресії у мишей через зміну кишкової мікробіоти. Під впливом препарату у тварин зростала кількість лактобактерій, що сприяло синтезу ендоканабіноїду — речовини, яка пригнічувала надмірну активність н... [2814 chars]",
-    "url": "https://nauka.ua/news/preparat-vid-ozhirinnya-polegshiv-depresiyu-v-mishej-cherez-vpliv-na-bakteriyi-kishkivnika",
-    "image": "https://nauka.ua/storage/uploads/public/6a2/acc/492/6a2acc492d536475956018.jpg",
-    "publishedAt": "2026-06-11T14:57:55Z",
-    "lang": "uk",
-    "source": {
-      "id": "780644dab43a156799ba55a022663644",
-      "name": "nauka.ua",
-      "url": "https://nauka.ua"
-    }
-  },
-  {
-    "id": "e5e286e096a964eaf02f4de93f8b870b",
-    "title": "М'язи мишей із дистрофією Дюшена зміцніли від генної терапії",
-    "description": "Схвалена 2023 року вірусна терапія несе лише вкорочений ген DMD — найдовший у людини. Нові «конверти» з клітин шкіри доставили повну послідовність гена прямо в м'язи.",
-    "content": "Нова генна терапія відновила роботу та збільшила силу м’язів у мишей із дистрофією Дюшена — важким спадковим захворюванням, яке призводить до руйнування м’язової тканини, що починається в ранньому віці. Терапія успішно доставила до м’язів робочу копі... [1909 chars]",
-    "url": "https://nauka.ua/news/genna-terapiya-bez-vikoristannya-virusiv-vidnovila-robotu-myaziv-u-mishej-iz-distrofiyeyu-dyushena",
-    "image": "https://nauka.ua/storage/uploads/public/6a2/ab9/1e9/6a2ab91e9405f072216694.jpg",
-    "publishedAt": "2026-06-11T13:37:29Z",
-    "lang": "uk",
-    "source": {
-      "id": "780644dab43a156799ba55a022663644",
-      "name": "nauka.ua",
-      "url": "https://nauka.ua"
-    }
-  },
-  {
-    "id": "f265b7ca5b4ce173add137be9ff69e52",
-    "title": "Нові переваги ліків для нирок можуть змінити підхід до лікування",
-    "description": "Нові результати міжнародного клінічного дослідження свідчать, що препарат фінеренон може значно покращити стан пацієнтів із хронічною хворобою нирок навіть у тих випадках, коли у людини немає цукрового діабету. Це відкриття може суттєво розширити коло пацієнтів, які отримають доступ до сучасної терапії.",
-    "content": "Нові результати міжнародного клінічного дослідження свідчать, що препарат фінеренон може значно покращити стан пацієнтів із хронічною хворобою нирок навіть у тих випадках, коли у людини немає цукрового діабету. Це відкриття може суттєво розширити кол... [3071 chars]",
-    "url": "https://portaltele.com.ua/zdorovya/novi-perevagy-likiv-dlya-nyrok-mozhut-zminyty-pidhid-do-likuvannya.html",
-    "image": "https://portaltele.com.ua/wp-content/uploads/2023/08/kidneys.webp",
-    "publishedAt": "2026-06-11T10:07:17Z",
-    "lang": "uk",
-    "source": {
-      "id": "64d089bdfc2be7c93f12463048ae17a5",
-      "name": "portaltele.com.ua",
-      "url": "https://portaltele.com.ua"
     }
   }
 ]
