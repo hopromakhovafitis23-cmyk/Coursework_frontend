@@ -1,5 +1,20 @@
 [
   {
+    "id": "64dd6666ca486b4e4567bd1cb06752f9",
+    "title": "ТОП-10 вживаних автомобілів, які служать довше нових машин",
+    "description": "Сучасні транспортні засоби служать значно довше, ніж екземпляри...",
+    "content": "ТОП-10 вживаних автомобілів, які служать довше нових машин\nСучасні транспортні засоби служать значно довше, ніж екземпляри минулих десятиліть. Якщо у 1970 роках машини експлуатувалися в середньому менш як шість років і списувалися на позначці близько... [2579 chars]",
+    "url": "https://news.finance.ua/ua/top-10-vzhyvanyh-avtomobiliv-yaki-sluzhat-dovshe-novyh-mashyn",
+    "image": "https://finance-news-media.fra1.cdn.digitaloceanspaces.com/prod/8/7/8708da42dfd5a1fcb48a6d80d343f3e3",
+    "publishedAt": "2026-06-13T04:21:44Z",
+    "lang": "uk",
+    "source": {
+      "id": "1759d0a20c3bd01b1f404fba732c7f96",
+      "name": "Finance.ua",
+      "url": "https://news.finance.ua"
+    }
+  },
+  {
     "id": "f550329724aba24ddcb07aa6d9b73fdf",
     "title": "Новий BMW M3 здивував унікальним дизайном",
     "description": "Німецький бренд BMW презентував майбутнє моделі M3 в якості концепту M Concept Neue Klasse й новинка незабаром отримає серійну форму.",
@@ -132,21 +147,6 @@
       "id": "170951208432adcfd96b2d9def1a0127",
       "name": "Главком",
       "url": "https://glavcom.ua"
-    }
-  },
-  {
-    "id": "986b1f6c9df9461b278ea2f985d7deef",
-    "title": "скандальний смартфон виявився повною копією дешевого HTC",
-    "description": "Пропустивши смартфон через комп'ютерний томограф, а потім розібравши його до останньої гвинтики, експерти, як і очікувалося, виявили, що це повна копія HTC.",
-    "content": "Скандальний смартфон Трампа Trump T1 спочатку позиціювався як патріотична, \"на 100% зроблена в США\" альтернатива Apple і Samsung. Тепер, коли він через цілий рік нарешті дістався до перших власників, фахівці iFixit вирішили розібрати пристрій і перев... [1832 chars]",
-    "url": "https://www.unian.ua/techno/gadgets/smartfon-trampa-skandalniy-smartfon-viyavivsya-povnoyu-kopiyeyu-deshevogo-htc-13410375.html",
-    "image": "https://images.unian.net/photos/2026_06/thumb_files/1000_545_1781265694-6513.jpg?1",
-    "publishedAt": "2026-06-12T12:37:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "d4361862486677369ff2ae7719b8d313",
-      "name": "УНІАН",
-      "url": "https://www.unian.ua"
     }
   }
 ]
