@@ -1,12 +1,12 @@
 [
   {
-    "id": "74cba47e105a710c54540a04634e6267",
-    "title": "Летіли дрони та балістика, є \"прильоти\": як ППО впоралась з нічною атакою РФ",
-    "description": "Вночі 16 червня Росія випустила по Україні понад 130 ударних дронів і дві балістичні ракети....",
-    "content": "09:11 16.06.2026 Вт\n2 хв\nЩо відомо про нічний удар Росії по Україні?\nФото: перші дані про нічний удар РФ (Getty Images)\nВночі 16 червня Росія випустила по Україні понад 130 ударних дронів і дві балістичні ракети.\nПро це повідомляє РБК-Україна з посил... [1254 chars]",
-    "url": "https://www.rbc.ua/rus/news/letili-droni-ta-balistika-e-priloti-k-ppo-1781590252.html",
-    "image": "https://www.rbc.ua/static/img/_/v/_viyskovi_prikordonniki_mobilna_vogneva_grupa_odeska_oblast_osin_2024__gettyimages_2177704165_dcb42f532033ffd96371a8e77a78e482_1300x820.jpg",
-    "publishedAt": "2026-06-16T06:11:18Z",
+    "id": "0080e9cf04de271fccbde33e6101feb0",
+    "title": "Виробник Storm Shadow допоможе Україні створити нову ракету NEPTUNE2",
+    "description": "Виробник крилатих ракет Storm Shadow - європейська компанія MBDA - підписала меморандум про співпрацю з українським підприємством \"Луч\" щодо розробки ...",
+    "content": "Що передбачає угода\nМеморандум про взаєморозуміння між MBDA та \"Лучем\" передбачає спільну роботу над інноваційними рішеннями для далекобійного ураження в рамках проєкту NEPTUNE2 - подальшого розвитку вже відомої української крилатої ракети \"Нептун\".\n... [853 chars]",
+    "url": "https://www.rbc.ua/rus/news/virobnik-storm-shadow-dopomozhe-ukrayini-1781653530.html",
+    "image": "https://www.rbc.ua/static/img/_/f/_facebook_com_generalstaff_ua_ee317d4d8ba12d50378bf5230ae16e57_1300x820.jpg",
+    "publishedAt": "2026-06-16T23:45:30Z",
     "lang": "uk",
     "source": {
       "id": "6f1ead09126f1f4738a48957e22f789c",
@@ -15,28 +15,13 @@
     }
   },
   {
-    "id": "d322d48fd4835aac009e73a7929d19dd",
-    "title": "Британія виділить кошти на підтримку роботи двох АЕС в Україні",
-    "description": "Велика Британія забезпечуватиме роботу українських АЕС протягом наступних двох років завдяки підтримці UK Export Finance у розмірі 210 млн фунтів стерлінгів.",
-    "content": "Велика Британія забезпечуватиме роботу українських АЕС протягом наступних двох років завдяки підтримці UK Export Finance у розмірі 210 млн фунтів стерлінгів.\nЯк повідомляє \"Європейська правда\", про це йдеться у заяві британського уряду.\nЗазначається,... [1206 chars]",
-    "url": "https://www.eurointegration.com.ua/news/2026/06/16/7239747/",
-    "image": "https://img.eurointegration.com.ua/images/doc/9/5/9599b49-7-main-v1674633700-620x330.jpg",
-    "publishedAt": "2026-06-16T05:47:06Z",
-    "lang": "uk",
-    "source": {
-      "id": "92907bbd0364e9333834133beac47de2",
-      "name": "Європейська правда",
-      "url": "https://www.eurointegration.com.ua"
-    }
-  },
-  {
-    "id": "807246e2ff9a88e0bfff16ed3557c36c",
-    "title": "Британія запроваджує нові санкції проти російського енергетичного сектору",
-    "description": "Велика Британія запроваджує нові санкції проти РФ, а також підтримає українську енергетику у наступні два роки, повідомляє британський уряд.",
-    "content": "Велика Британія запроваджує нові енергетичні санкції проти Росії та постачатиме збагачений уран для українських атомних електростанцій протягом наступних двох років. Відповідні заяви у вівторок, 16 червня, на саміті G7 має зробити прем'єр-міністр Бри... [2486 chars]",
-    "url": "https://www.unian.ua/world/sankciji-proti-rf-britaniya-zaprovadzhuye-novi-obmezhennya-proti-rosiyskogo-energetichnogo-sektoru-13413273.html",
-    "image": "https://images.unian.net/photos/2026_06/thumb_files/620_324_1781584508-6260.jpg?1",
-    "publishedAt": "2026-06-16T04:40:00Z",
+    "id": "46a7a2ead4c558437503b2183cd119ef",
+    "title": "Завдання з математики для ШІ",
+    "description": "Особливість тесту полягала в тому, що ці питання не були присутні в навчальних даних моделей, тому штучний інтелект не міг \"списувати\".",
+    "content": "Незважаючи на стрімкий прогрес штучного інтелекту в обробці природної мови та написанні коду, передові моделі ШІ все ще помітно поступаються найкращим математикам-людям у розв'язанні складних наукових задач.\nЦе показало недавнє дослідження в рамках п... [1950 chars]",
+    "url": "https://www.unian.ua/techno/neiroseti/zavdannya-z-matematiki-dlya-shi-shi-postupivsya-lyudyam-u-nayskladnishomu-testi-13414167.html",
+    "image": "https://images.unian.net/photos/2026_06/thumb_files/1000_545_1781623318-6019.jpg?1",
+    "publishedAt": "2026-06-16T23:30:00Z",
     "lang": "uk",
     "source": {
       "id": "d4361862486677369ff2ae7719b8d313",
@@ -45,13 +30,28 @@
     }
   },
   {
-    "id": "0b98701923ea8e7a8d9fb863de84419b",
-    "title": "Морський дрон Sea Trident має потужний боєзаряд та вражаючу дальність дії",
-    "description": "Україна створила унікальний підводний безпілотник Sea Trident, здатний непомітно вражати стратегічні об'єкти на величезних відстанях. Ця розробка може...",
-    "content": "Українська компанія Global Mark презентувала свою розробку на престижній оборонній виставці у Франції. Апарат Sea Trident адаптували для операцій, які потребують повної автономності.\nЧитайте також: Бойові роботи і дрони під землею: як ШІ вчиться воюв... [2321 chars]",
-    "url": "https://www.rbc.ua/rus/news/ukrayini-predstavili-morskiy-trizub-shcho-1781582600.html",
-    "image": "https://www.rbc.ua/static/img/p/i/pidvodnyj_dron_sea_trident_1__18c90f8e1b97cca86f4f591f1fca1155_1300x820.jpg",
-    "publishedAt": "2026-06-16T04:24:05Z",
+    "id": "48bbd6493fb2504663437cbd1d81aa34",
+    "title": "\"Флеш\" розповів про новий БПЛА у росіян",
+    "description": "Росіяни намагаються застосовувати дешеві реактивні БПЛА як контрзахід проти зенітних дронів та МВГ.",
+    "content": "Росіяни намагаються застосовувати дешеві реактивні БПЛА як контрзахід проти зенітних дронів та МВГ.\nРосійські війська на півдні України почали використовувати новий вид ударних безпілотників з дальність польоту до 100 км. Про це у вівторок, 16 червня... [996 chars]",
+    "url": "https://ua.korrespondent.net/ukraine/4887093-flesh-rozpoviv-pro-novyi-bpla-u-rosiian",
+    "image": "https://kor.ill.in.ua/m/1260x900/4463282.jpg",
+    "publishedAt": "2026-06-16T22:49:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "5f3893b2bdd83721567eef82ac0a6d2e",
+      "name": "Korrespondent.net",
+      "url": "https://ua.korrespondent.net"
+    }
+  },
+  {
+    "id": "c9481ed40274d484fc43b7beb970e4a7",
+    "title": "Новий реактивний дрон армії РФ загрожує фронту",
+    "description": "Українські бійці помітили на лінії бойового зіткнення новинку окупантів - дешевий реактивний дрон. Хоча він досі примітивний, але має реактивну швидкі...",
+    "content": "Сергій описав концепцію цього безпілотника як \"дешевий та примітивний\". Цікаво, що сам дрон передає картинку на аналоговій частоті 3,3 ГГц.\nПоєднання реактивного двигуна та аналогового відео на частоті 3,3 ГГц у дешевому дроні - це дуже небезпечний т... [1863 chars]",
+    "url": "https://www.rbc.ua/rus/news/okupantiv-rf-z-yavivsya-nebezpechniy-desheviy-1781643424.html",
+    "image": "https://www.rbc.ua/static/img/_/v/_viyskoviy_dron_zima_snig_2026_gettyimages_2256809254_25adf7836050af854a22c39fc95f626d_1300x820.jpg",
+    "publishedAt": "2026-06-16T20:59:04Z",
     "lang": "uk",
     "source": {
       "id": "6f1ead09126f1f4738a48957e22f789c",
@@ -60,13 +60,43 @@
     }
   },
   {
-    "id": "c6a48cce3231c02433009948c7f29d33",
-    "title": "Нафтобаза в станиці Полтавській палає 16 червня 2026 року",
-    "description": "Невідомі безпілотники атакували Краснодарський край 16 червня 2026 року. У станиці Полтавській спалахнула нафтобаза. Подробиці інциденту, відео з місця події - 24 Канал",
-    "content": "Про це пише телеграм-канал Exilenovа+ та оперативний штаб Краснодарського краю.\nДивіться також Як падав російський бомбардувальник Ту-22М3: у мережі показали гарячі кадри\nДрони атакували Краснодарський край\nЗа даними російського оперативного штабу, з... [1764 chars]",
-    "url": "https://24tv.ua/naftobaza-stanitsi-poltavskiy-palaye-16-chervnya-2026-roku-detali_n3088393",
-    "image": "https://24tv.ua/resources/photos/news/202606/3088393.jpg?v=1781580904000&w=1200&h=675",
-    "publishedAt": "2026-06-16T04:05:00Z",
+    "id": "748a99e3494409c2b069762f7786aa5c",
+    "title": "Apple готує найбільше оновлення камери: чим iPhone 18 Pro здивує користувачів",
+    "description": "Apple може кардинально оновити камеру iPhone 18 Pro та iPhone 18 Pro Max. Нові флагмани отримають змінну діафрагму, покращений телеоб'єктив і розширені налаштування зйомки.",
+    "content": "Які нові можливості камери отримає iPhone 18 Pro?\nApple працює над одним із наймасштабніших оновлень камери в історії лінійки iPhone. За інформацією інсайдерів, iPhone 18 Pro та iPhone 18 Pro Max можуть отримати змінну діафрагму, покращений телеоб'єк... [2300 chars]",
+    "url": "https://blik.ua/techno/36245-revolyuciya-u-mobilnii-fotografiyi-yaki-sekreti-kameri-iphone-18-pro-vzhe-rozkrito",
+    "image": "https://blik.ua/img/news/thumbs/iphone1606main.jpg",
+    "publishedAt": "2026-06-16T18:56:02Z",
+    "lang": "uk",
+    "source": {
+      "id": "5e8763eb8f65bd733ca2324cfefbe5b6",
+      "name": "БЛІК",
+      "url": "https://blik.ua"
+    }
+  },
+  {
+    "id": "f0875f00f67074a07457ab5c337a73f0",
+    "title": "На півдні України росія почала застосовувати новий серійний реактивний ударний БПЛА, - \"Флеш\"",
+    "description": "На півдні України зафіксоване застосування російськими військовими нового ударного безпілотника.Про це повідомив ...➜ читайте далі на Rubryka.com",
+    "content": "Про це повідомив у Фейсбуці радник міністра оборони Сергій «Флеш» Бескрестнов, пише Рубрика.\nЗа словами радника, йдеться про серійний реактивний дрон – дешевий і примітивний. Крейсерська швидкість цього БПЛА становить 260 км/год, з розгонами до 300 к... [596 chars]",
+    "url": "https://rubryka.com/2026/06/16/na-pivdni-ukrayiny-rosiya-pochala-zastosovuvaty-novyj-serijnyj-reaktyvnyj-udarnyj-bpla-flesh/",
+    "image": "https://rubryka.com/wp-content/uploads/ogimages/ua_859916_1781635872na-pivdni-ukrayiny-rosiya-pochala-zastosovuvaty-novyj-serijnyj-reaktyvnyj-udarnyj-bpla-flesh.jpg",
+    "publishedAt": "2026-06-16T18:45:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "27b90949a0fb95263641f3538efcd662",
+      "name": "Rubryka",
+      "url": "https://rubryka.com"
+    }
+  },
+  {
+    "id": "0d3bb690f09fd900db2b8a8bf5a5ae9b",
+    "title": "Ракета FP-7.x завершила випробування",
+    "description": "Компанія Fire Point заявила, що ракета FP-7.x пройшла випробування і повністю готова до застосування. Ракета-перехоплювач FP-7.x, що відомо - Military 24",
+    "content": "Про це на виставці Eurosatory-2026 у Парижі повідомив співвласник і головний конструктор компанії Денис Штілерман, передає УНН.\nДивіться також Росія втратила понад 70% бомбардувальників Ту-22М3 з початку війни, – Defense Express\nЩо відомо про заверше... [1638 chars]",
+    "url": "https://24tv.ua/military/raketa-fp-7x-zavershila-viprobuvannya-shho-kazhut-fire-point_n3088966",
+    "image": "https://24tv.ua/resources/photos/news/202606/3088966.jpg?v=1781632933000&w=1200&h=675",
+    "publishedAt": "2026-06-16T18:11:01Z",
     "lang": "uk",
     "source": {
       "id": "e737a8e76b161ef4526698e2ec5f60c9",
@@ -75,78 +105,48 @@
     }
   },
   {
-    "id": "633efa7046c26f6bee51cf8fb9a58409",
-    "title": "Головні новини ночі 16 червня: Трамп про Іран, атака на Балаклію, вибух на нафтобазі РФ та рій дронів над Донецьком",
-    "description": "Головні події ночі 16 червня: Дональд Трамп висловився щодо ядерної програми Ірану, над окупованим Донецьком зафіксували рій дронів, Беньямін Нетаньягу зробив жорстку заяву про Тегеран, Росія атакувала Балаклію на Харківщині, а в Краснодарському краї після удару спалахнула нафтобаза.",
-    "content": "Приступаючи до використання Сайту, Користувач цим підтверджує, що досяг 21-річного віку.\nУ разі, якщо Ви не досягли 21-річного віку — не розпочинайте або припиніть користування Сайтом.\nАдміністрація Сайту не несе відповідальності за законність викори... [303 chars]",
-    "url": "https://tsn.ua/svit/huchna-zaiava-trampa-pro-iran-ta-ataka-droniv-na-tymchasovo-okupovanyy-donetsk-holovni-novyny-nochi-16-chervnia-2026-roku-3106973.html",
-    "image": "https://img.tsn.ua/cached/934/tsn-1284f5ef/thumbs/1200x630/b4/87/0c40ce8c583afdcd44102fe4e23a87b4.jpg",
-    "publishedAt": "2026-06-16T03:45:11Z",
+    "id": "870eed70e80344f1cf2cfbc76cd8f5a1",
+    "title": "Як замовити таксі під час збоїв GPS через роботу РЕБ - пояснення Bolt",
+    "description": "Через роботу систем радіоелектронної боротьби користувачі таксі дедалі частіше стикаються з некоректною геолокацією....",
+    "content": "Головне:\nGPS може працювати некоректно через РЕБ.\nПасажир може вручну змінити точку подачі авто.\nВартість поїздки після цього розраховується стандартно.\nЗбої геолокації не впливають на алгоритм тарифікації.\nЗамовити авто можна навіть за відсутності к... [974 chars]",
+    "url": "https://www.rbc.ua/rus/news/zboyi-geolokatsiyi-cherez-reb-bolt-poyasnili-1781631141.html",
+    "image": "https://www.rbc.ua/static/img/_/v/_vodiy_kruiz_kontrol_freepik_com_76bebad2ea811bc218aa3678a4475e27_1300x820.jpg",
+    "publishedAt": "2026-06-16T17:40:00Z",
     "lang": "uk",
     "source": {
-      "id": "ae8b9c98d707754fca5e1ea622855c50",
-      "name": "ТСН",
-      "url": "https://tsn.ua"
+      "id": "6f1ead09126f1f4738a48957e22f789c",
+      "name": "РБК-Україна",
+      "url": "https://www.rbc.ua"
     }
   },
   {
-    "id": "f34dbad40341c7b5d53583ad8c79c103",
-    "title": "\"Зльотка\" - не потрібна: у США збудують новітній літальний апарат, чий попередник розсікав небесну блакить над Києвом",
-    "description": "Агентство передових оборонних дослідницьких проєктів США — DARPA — представило експериментальний реактивний конвертоплан X-76.",
-    "content": "Агентство передових оборонних дослідницьких проєктів США — DARPA — представило експериментальний реактивний конвертоплан X-76.\nНовий літальний апарат має поєднати швидкість реактивного літака з можливістю вертикального зльоту і посадки без використан... [5689 chars]",
-    "url": "https://armyinform.com.ua/2026/06/16/zlotka-ne-potribna-u-ssha-zbuduyut-novitnij-litalnyj-aparat-chyj-poperednyk-rozsikav-nebesnu-blakyt-nad-kyyevom/",
-    "image": "https://armyinform.com.ua/wp-content/uploads/2026/06/foto-1.-prototyp-novogo-amerykanskogo-eksperymentalnogo-reaktyvnogo-konvertoplana-x-76-960x540.jpg",
-    "publishedAt": "2026-06-16T03:28:00Z",
+    "id": "e0567c4436a6098f01c26b38e982060f",
+    "title": "Зеленський анонсував виготовлення 10 млн дронів",
+    "description": "Також Зеленський заявив про здатність країни збільшити масштаби виробництва дронів вдвічі.",
+    "content": "Також Зеленський заявив про здатність країни збільшити масштаби виробництва дронів вдвічі.\nПрезидент України Володимир Зеленський анонсував виготовлення Україною 10 млн безпілотників до кінця поточного 2026 року і заявив про здатність країни збільшит... [696 chars]",
+    "url": "https://ua.korrespondent.net/ukraine/4887038-zelenskyi-anonsuvav-vyhotovlennia-10-mln-droniv",
+    "image": "https://kor.ill.in.ua/m/1260x900/4463163.jpg",
+    "publishedAt": "2026-06-16T16:31:00Z",
     "lang": "uk",
     "source": {
-      "id": "2e38197e59eebab4d9f99f889a185c5d",
-      "name": "armyinform.com.ua",
-      "url": "https://armyinform.com.ua"
+      "id": "5f3893b2bdd83721567eef82ac0a6d2e",
+      "name": "Korrespondent.net",
+      "url": "https://ua.korrespondent.net"
     }
   },
   {
-    "id": "6c1ef9b56061a5993d595ef826d17f09",
-    "title": "Яка музика в Україні популярна - що відбувається з чартами в YouTube, Spotify та Apple Music",
-    "description": "Українські музичні чарти продовжують дивувати появою контенту сумнівного походження та неоднозначного змісту.",
-    "content": "Українські музичні чарти продовжують дивувати появою контенту сумнівного походження та неоднозначного змісту. Аналіз топ-листів YouTube, Spotify та Apple Music показав, що серед найпопулярніших композицій опинилися як пісні, створені за допомогою шту... [3979 chars]",
-    "url": "https://www.obozrevatel.com/ukr/shou-oboz/novi-imena-rosijski-pisni-ta-shi-scho-vidbuvaetsya-z-trendami-ta-yaki-pisni-zaraz-sluhayut-ukraintsi.htm",
-    "image": "https://i.obozrevatel.com/news/2026/6/15/filestoragetemp-79.jpg?size=1200x630",
-    "publishedAt": "2026-06-16T00:30:00Z",
+    "id": "3f307b047c072f037ff36d338179c0f3",
+    "title": "Google Pixel змінить відео - ШІ зробить усе сам",
+    "description": "Google готує нове квартальне оновлення Pixel Feature Drop для своїх фірмових смартфонів. Головною зіркою майбутнього апдейту стане унікальна ШІ-функці...",
+    "content": "Що вміє функція Screen Reactions?\nНовий інструмент дозволить користувачам одночасно записувати власні емоції на фронтальну камеру та транслювати будь-яку активність на екрані смартфона.\nПрофесійний блогер або звичайний власник Pixel зможе:\nгортати ве... [1391 chars]",
+    "url": "https://www.rbc.ua/rus/news/pixel-otrimae-eksklyuzivnu-fishku-ku-mriyali-1781606322.html",
+    "image": "https://www.rbc.ua/static/img/_/2/_2_929de1717fe6c363f11ea9068d511e24_1300x820.jpg",
+    "publishedAt": "2026-06-16T16:12:33Z",
     "lang": "uk",
     "source": {
-      "id": "ca149ffefb31c86f82d7f299d744af59",
-      "name": "Obozrevatel",
-      "url": "https://www.obozrevatel.com"
-    }
-  },
-  {
-    "id": "8a01ef4c8aad305af735e8a4d432d8da",
-    "title": "забута технологія витісняє сонячні панелі з будинків",
-    "description": "За останнє десятиліття сонячні фотоелектричні панелі стали символом енергетичної трансформації, проте на зміну їм приходить забута технологія.",
-    "content": "В останнє десятиліття сонячні фотоелектричні панелі стали символом енергетичної трансформації в побуті та посідають центральне місце в державних програмах субсидування. Однак тепер дедалі більше людей звертають увагу на іншу технологію, пише Forsal.p... [2303 chars]",
-    "url": "https://www.unian.ua/curiosities/alternativna-energetika-zabuta-tehnologiya-vitisnyaye-sonyachni-paneli-z-budinkiv-13413171.html",
-    "image": "https://images.unian.net/photos/2025_12/thumb_files/1000_545_1766848488-6067.jpg?1",
-    "publishedAt": "2026-06-15T18:56:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "d4361862486677369ff2ae7719b8d313",
-      "name": "УНІАН",
-      "url": "https://www.unian.ua"
-    }
-  },
-  {
-    "id": "b140791743c85196daf8414012cf32c5",
-    "title": "Anthropic спробує відбити наказ США про блокування топових ШІ-моделей",
-    "description": "Anthropic блокує доступ до моделей Fable 5 і Mythos 5 для іноземців після рішення уряду США.",
-    "content": "Технічні фахівці Anthropic у понеділок зустрінуться з посадовцями Міністерства торгівлі США після наказу уряду обмежити доступ іноземців до найновіших моделей компанії.\nПро це повідомляє агентство Reuters.\nАдміністрація Трампа наказала Anthropic забл... [640 chars]",
-    "url": "https://epravda.com.ua/svit/anthropic-obmezhuye-dostup-do-shi-modeley-fable-5-i-mythos-5-za-nakazom-ssha-822697/",
-    "image": "https://img.epravda.com.ua/epravda/images/doc/b/4/152654/b4f08a0d6cf53b488c0573d459ca104f.jpeg?w=1920&q=85",
-    "publishedAt": "2026-06-15T17:45:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "9b9cf9e76aeefea346957bfe5f6dafc5",
-      "name": "Економічна правда",
-      "url": "https://epravda.com.ua"
+      "id": "6f1ead09126f1f4738a48957e22f789c",
+      "name": "РБК-Україна",
+      "url": "https://www.rbc.ua"
     }
   }
 ]
