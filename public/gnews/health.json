@@ -1,5 +1,50 @@
 [
   {
+    "id": "7b1035765b59084765ee1abc07e3fdef",
+    "title": "П’ять корів, забутих на острові в океані, поставили під сумнів уявлення про еволюцію",
+    "description": "Вчені зробили цікаве відкриття щодо еволюції тварин на островах, дослідивши популяцію корів на віддаленому острові - читайте докладно в матеріалі УНІАН",
+    "content": "У 1871 році фермер на ім'я Ертен залишив п'ять голів великої рогатої худоби на острові Амстердам у південній частині Індійського океану. Цей крихітний шматочок землі, площею 54 квадратних кілометри, потерпає від ураганних вітрів і не має жодних людсь... [3395 chars]",
+    "url": "https://www.unian.ua/curiosities/p-yat-koriv-zabutih-na-ostrovi-v-okeani-postavili-pid-sumniv-uyavlennya-pro-evolyuciyu-13415361.html",
+    "image": "https://images.unian.net/photos/2026_06/thumb_files/620_324_1781721131-8324.jpg?1",
+    "publishedAt": "2026-06-17T20:40:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "d4361862486677369ff2ae7719b8d313",
+      "name": "УНІАН",
+      "url": "https://www.unian.ua"
+    }
+  },
+  {
+    "id": "9df06917211d5732e4bf88c5c392b7f8",
+    "title": "вчені пояснили можливий зв’язок",
+    "description": "Високий рівень вітаміну B12 у крові може вказувати на приховані проблеми зі здоров’ям. Науковці пояснили, чому важливий баланс",
+    "content": "Джерело: Science Daily\nВітамін B12 необхідний для нормальної роботи організму, однак останніми роками науковці дедалі частіше досліджують його можливий зв’язок із розвитком онкологічних захворювань. Нові дослідження свідчать, що як дефіцит, так і над... [5046 chars]",
+    "url": "https://bukvy.org/defitsyt-i-nadlyshok-vitaminu-b12-mozhut-buty-pov-yazani-z-ryzykom-raku-doslidzhennya/",
+    "image": "https://bukvy.org/wp-content/uploads/devitem_opengraph_images/325765.jpg",
+    "publishedAt": "2026-06-17T17:09:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "8bbee1c72678a4ab4a072b208e0690f3",
+      "name": "Букви",
+      "url": "https://bukvy.org"
+    }
+  },
+  {
+    "id": "bf043b396bb444f3a96ca6adc7831b53",
+    "title": "Європа під прицілом радарів",
+    "description": "Учені провели наймасштабніше дослідження Європи за допомогою радарів і підтвердили наявність пористого льоду під її поверхнею. Це допоможе місії Europa Clipper.",
+    "content": "Що приховує крижана броня супутника Юпітера?\nГрупа дослідників завершила наймасштабніше на сьогодні радарне вивчення Європи, використовуючи потужності сонячного радара NASA Goldstone і телескопа Green Bank Національного наукового фонду США (NSF GBT).... [3767 chars]",
+    "url": "https://24tv.ua/tech/yevropa-pid-pritsilom-radariv-novi-dani-pro-strukturu-krizhanogo_n3089426",
+    "image": "https://24tv.ua/resources/photos/news/202606/3089426.jpg?v=1781701002000&w=1200&h=675",
+    "publishedAt": "2026-06-17T14:34:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "e737a8e76b161ef4526698e2ec5f60c9",
+      "name": "24 Канал",
+      "url": "https://24tv.ua"
+    }
+  },
+  {
     "id": "31a4e6cb2abca3bd120f255875f788a8",
     "title": "Тестостерон не замінить дієту та спорт у боротьбі з діабетом 2-го типу",
     "description": "Вчені розвінчали міф про гормональне схуднення.",
@@ -12,6 +57,21 @@
       "id": "6d8f5776f89de1749369cca52d244a33",
       "name": "obukhiv.info",
       "url": "https://obukhiv.info"
+    }
+  },
+  {
+    "id": "f7337f8640d9fa84d8f0128ce6741c74",
+    "title": "11 продуктів з вітаміном D і добові норми для дітей та дорослих",
+    "description": "Лікарка пояснила, скільки МО вітаміну D потрібно дітям, дорослим і літнім людям та назвала 11 продуктів, які найкраще закривають дефіцит без зайвих добавок.",
+    "content": "Автор: Анастасія Апетрі\nУчора, 12:57\n4 394\nВітамін D можна отримувати природним шляхом переважно із продуктів тваринного походження і деяких - рослинного.\nПро це розповіла магістерка охорони здоров'я, дипломована лікарка Синтія Сасс, пише УНІАН.\nВідп... [5308 chars]",
+    "url": "https://molbuk.ua/news/358843-u-iakii-izhi-naibilshe-vitaminu-d-likarka-nazvala-10-naikorysnishykh-produktiv.html",
+    "image": "https://molbuk.ua/uploads/posts/2026-06/7ebcbf8bcc840ec1531a867ac4ea3c45.webp",
+    "publishedAt": "2026-06-17T09:59:50Z",
+    "lang": "uk",
+    "source": {
+      "id": "f29fd2b0bf3bff7c6642e8f9d1dc98e2",
+      "name": "Молодий буковинець",
+      "url": "https://molbuk.ua"
     }
   },
   {
@@ -87,66 +147,6 @@
       "id": "687b815419a86d64780835373f4bda4f",
       "name": "Universe Space Tech",
       "url": "https://universemagazine.com"
-    }
-  },
-  {
-    "id": "08ce13cdc7c8f17b1ad65230d9b0404e",
-    "title": "Естроген пропустив у мозок самиць мишей більше ліків, ніж у самців",
-    "description": "У малому досліді на людях у 6 жінок пік концентрації ліків був удвічі вищим, ніж у 2 чоловіків. Можливо, тому ліки від хвороби Альцгеймера діють на статі по-різному.",
-    "content": "Фаза естрального циклу повпливала на те, як добре ліки від нейродегенеративних захворювань потрапляють до мозку самиць мишей. Це пов’язують зі впливом жіночого статевого гормону естрогену на проникність гематоенцефалічного бар’єра, який захищає мозок... [2337 chars]",
-    "url": "https://nauka.ua/news/potraplyannya-likiv-do-mozku-viyavilosya-zalezhnim-vid-fazi-ciklu-v-mishej",
-    "image": "https://nauka.ua/storage/uploads/public/6a3/12e/a9a/6a312ea9a03c4422306237.jpg",
-    "publishedAt": "2026-06-16T11:10:35Z",
-    "lang": "uk",
-    "source": {
-      "id": "780644dab43a156799ba55a022663644",
-      "name": "nauka.ua",
-      "url": "https://nauka.ua"
-    }
-  },
-  {
-    "id": "a54803f0910200fadaa6330d5a9f1e07",
-    "title": "Що треба їсти, щоб підняти вітамін D",
-    "description": "Кількість вітаміну D, яка необхідна людині, залежить від її віку та ризику дефіциту. Частково його організм отримує з раціону. Що потрібно їсти?",
-    "content": "Вітамін D можна отримувати природним шляхом переважно із продуктів тваринного походження і деяких - рослинного. Про це пише магістерка охорони здоров'я, дипломована лікарка Синтія Сасс у виданні Health.\nВідповідно до даних Національних інститутів охо... [5167 chars]",
-    "url": "https://www.unian.ua/health/shcho-treba-jisti-shchob-pidnyati-vitamin-d-likarka-nazvala-10-naykrashchih-produktiv-13413642.html",
-    "image": "https://images.unian.net/photos/2026_06/thumb_files/620_324_1781604414-5824.jpg?1",
-    "publishedAt": "2026-06-16T10:15:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "d4361862486677369ff2ae7719b8d313",
-      "name": "УНІАН",
-      "url": "https://www.unian.ua"
-    }
-  },
-  {
-    "id": "5b9c12de523c142dc2b706b8eaaa9022",
-    "title": "Чи можна їсти насіння кавуна",
-    "description": "Насіння теж є джерелом вітамінів та мінералів, таких як фосфор, калій, марганець, фолати, цинк та залізо, а також незамінних жирних кислот та білка.",
-    "content": "У дитинстві ви могли чути про те, що насіння кавуна не можна ковтати, однак, як виявилося його цілком безпечно вживати. Як пише Southern Living, діти, вагітні та інші дорослі можуть спокійно його їсти без жодних проблем.\n\"Кавун можна використовувати ... [2296 chars]",
-    "url": "https://www.unian.ua/curiosities/chi-mozhna-jisti-nasinnya-kavuna-vidpovid-diyetologiv-13413459.html",
-    "image": "https://images.unian.net/photos/2025_07/thumb_files/620_324_1751696685-3026.jpg?1",
-    "publishedAt": "2026-06-16T09:20:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "d4361862486677369ff2ae7719b8d313",
-      "name": "УНІАН",
-      "url": "https://www.unian.ua"
-    }
-  },
-  {
-    "id": "781b551a51ceb167bb0bbff0507c7555",
-    "title": "Засоби для схуднення знижують ризик розвитку онкологічних захворювань, запевняють вчені",
-    "description": "То що ж таке цей Оземпік?",
-    "content": "Популярні препарати для схуднення та лікування діабету, такі як Ozempic, Wegovy, Mounjaro та Zepbound, можуть мати несподівану користь, що виходить за межі простого зниження ваги, пише scitechdaily. Нове велике дослідження показало, що у жінок, які п... [4698 chars]",
-    "url": "https://socportal.info/ua/news/preparati-dlya-skhudnennya-mozhut-prinesti-nespodivanu-korist-doslidzhennya/",
-    "image": "https://socportal.info/site/assets/files/0/06/92/525/pexels-towfiqu-ves-3440682-9927899.jpg?3dbjpb",
-    "publishedAt": "2026-06-16T09:15:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "6a351bc824aa09e9d8177e4fb2f09c73",
-      "name": "socportal.info",
-      "url": "https://socportal.info"
     }
   }
 ]
