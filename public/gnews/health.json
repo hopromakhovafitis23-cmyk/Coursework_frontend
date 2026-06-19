@@ -1,5 +1,50 @@
 [
   {
+    "id": "1cee488adaa60d56fc372ae73f4e2727",
+    "title": "Генна терапія зменшила розростання серця при атаксії Фрідрайха",
+    "description": "Дефіцит фратаксину руйнує серце — це головна причина смерті при цій хворобі. Здорова копія гена FXN підвищила рівень цього білка на 20–123% у вісьмох із 17 пацієнтів.",
+    "content": "Генна терапія зменшила пошкодження серця в перших 17 пацієнтів з атаксією Фрідрайха — вродженим розладом координації довільних рухів. У тих, кому ввели препарат для генної терапії, на 10 відсотків зменшився рівень білка, що вказує на пошкодження серц... [1649 chars]",
+    "url": "https://nauka.ua/news/genna-terapiya-vpershe-zmenshila-poshkodzhennya-sercya-v-paciyentiv-zi-spadkovoyu-ataksiyeyu",
+    "image": "https://nauka.ua/storage/uploads/public/6a3/3d1/c4f/6a33d1c4f1d6b064493438.jpg",
+    "publishedAt": "2026-06-18T11:10:12Z",
+    "lang": "uk",
+    "source": {
+      "id": "780644dab43a156799ba55a022663644",
+      "name": "nauka.ua",
+      "url": "https://nauka.ua"
+    }
+  },
+  {
+    "id": "67a58ed139817fe01661c4c9daf12e42",
+    "title": "Relativity Space Еріка Шмідта спробує випередити SpaceX у гонці до Марса",
+    "description": "Космічний стартап Relativity Space, контроль над яким минулого року отримав ексголова Google Ерік Шмідт, має шанси обігнати SpaceX Ілона Маска на шляху до Червоної планети. Космічне агентство NASA обрало компанію для розробки та запуску місії, яка досліджуватиме марсіанську атмосферу.",
+    "content": "Як повідомляє TechCrunch із посиланням на заяву NASA, приватну компанію найняли для створення космічного апарата, інтеграції наукових приладів та безпосередньої доставки вантажу до Марса. Фінансові деталі угоди наразі не розголошуються — ані космічне... [1952 chars]",
+    "url": "https://dev.ua/news/relativity-space-erika-shmidta-sprobuie-vyperedyty-spacex-1781771506",
+    "image": "https://dev.ua/storage/images/51/17/56/06/derived/60460e786ddc4d4c4fb6dc2094c508d3.jpg",
+    "publishedAt": "2026-06-18T08:53:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "d597d08d30da5c6ae044461783e5194d",
+      "name": "dev.ua",
+      "url": "https://dev.ua"
+    }
+  },
+  {
+    "id": "05d644d7da496a3904b0e4ffbf7feecc",
+    "title": "Місія Aeolus на Марс від Relativity Space може випередити SpaceX",
+    "description": "NASA обрала Relativity Space для запуску марсіанської місії Aeolus у 2028 році. Компанія Еріка Шмідта може першою серед приватних операторів доставити апарат до Марса.",
+    "content": "NASA оголосило про укладення контракту з компанією Relativity Space на створення та запуск космічного апарата для марсіанської місії Aeolus. Про це пише Techcrunch.\nДивіться також У космосі проведуть рятувальну операцію, яку ще ніхто не наважувався в... [3769 chars]",
+    "url": "https://24tv.ua/tech/misiya-aeolus-mars-vid-relativity-space-mozhe-viperediti-spacex_n3089837",
+    "image": "https://24tv.ua/resources/photos/news/202606/3089837.jpg?v=1781767905000&w=1200&h=675",
+    "publishedAt": "2026-06-18T08:30:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "e737a8e76b161ef4526698e2ec5f60c9",
+      "name": "24 Канал",
+      "url": "https://24tv.ua"
+    }
+  },
+  {
     "id": "7b1035765b59084765ee1abc07e3fdef",
     "title": "П’ять корів, забутих на острові в океані, поставили під сумнів уявлення про еволюцію",
     "description": "Вчені зробили цікаве відкриття щодо еволюції тварин на островах, дослідивши популяцію корів на віддаленому острові - читайте докладно в матеріалі УНІАН",
@@ -45,6 +90,21 @@
     }
   },
   {
+    "id": "1ce2c6bfbd3eea95d4afc70d99bb0e15",
+    "title": "10 продуктів для раціону",
+    "description": "Фахівці назвали продукти з високим вмістом вітаміну D, які допомагають заповнити його дефіцит в організмі.",
+    "content": "Про це пише магістр охорони здоров’я, дипломований лікар Синтія Сасс для видання Health. Інформацію передає УНІАН.\nЗгідно з даними Національних інститутів охорони здоров’я США, кількість вітаміну D, необхідна людині, залежить від її віку та ризику де... [4856 chars]",
+    "url": "https://socportal.info/ua/news/eksperti-perelichili-10-produktiv-dlya-shchodennogo-ratcionu-yaki-mistyat-bagato-vitaminu-d/",
+    "image": "https://socportal.info/site/assets/files/0/06/92/876/pexels-rio-lecatompessy-2410995-4184073.jpg?3dfg67",
+    "publishedAt": "2026-06-17T13:43:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "6a351bc824aa09e9d8177e4fb2f09c73",
+      "name": "socportal.info",
+      "url": "https://socportal.info"
+    }
+  },
+  {
     "id": "31a4e6cb2abca3bd120f255875f788a8",
     "title": "Тестостерон не замінить дієту та спорт у боротьбі з діабетом 2-го типу",
     "description": "Вчені розвінчали міф про гормональне схуднення.",
@@ -87,66 +147,6 @@
       "id": "dbc51365598ef11dea0a569f5ee284ac",
       "name": "Південна правда",
       "url": "https://www.up.mk.ua"
-    }
-  },
-  {
-    "id": "d8f141dc6f929f28b100eea384d7cd9a",
-    "title": "Як ультраоброблені продукти шкодять здоров'ю",
-    "description": "Кожне збільшення частки калорій з ультраоброблених продуктів на 10% асоціювалося з погіршенням показників здоров’я",
-    "content": "Суспільне занепокоєння щодо впливу ультраоброблених продуктів постійно зростає. Дослідження дедалі частіше пов’язують ці продукти з підвищеним ризиком розвитку таких станів, як серцеві захворювання, діабет, ожиріння та навіть передчасна смерть. Про ц... [2539 chars]",
-    "url": "https://life.liga.net/health/news/ne-lyshe-sklad-chomu-vazhlyva-tekhnolohiia-obrobky-ultraobroblenykh-produktiv",
-    "image": "https://storage.liga.net/images/general/social/social-4626396-ua.png?v=1781618229",
-    "publishedAt": "2026-06-16T16:30:09Z",
-    "lang": "uk",
-    "source": {
-      "id": "bbf1605b958b020fa27799844b910803",
-      "name": "life.liga.net",
-      "url": "https://life.liga.net"
-    }
-  },
-  {
-    "id": "ca02ad850e0bdb7d44fbe0532525e0a6",
-    "title": "Ozempic і Wegovy можуть мати шкідливий вплив на здоров’я кісток - дослідження",
-    "description": "Семаглутид, який входить до складу препаратів Ozempic, Wegovy та Rybelsus, пов’язали з меншою кількістю переломів у людей із діабетом другого типу. У великому дослідженні ризик був на 15% нижчим, ніж під час використання кількох інших засобів для контролю ваги.",
-    "content": "Джерело: ScienceDaily.\nПрепарати на основі семаглутиду можуть мати додаткову перевагу для людей із діабетом другого типу. Результати дослідження, яке представили на щорічній конференції Ендокринного товариства ENDO 2026 у Чикаго, показали, що ацієнти... [2343 chars]",
-    "url": "https://bukvy.org/ozempic-i-wegovy-mozhut-maty-shkidlyvyj-vplyv-na-zdorov-ya-kistok-doslidzhennya/",
-    "image": "https://bukvy.org/wp-content/uploads/2026/06/1-221.png",
-    "publishedAt": "2026-06-16T16:03:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "8bbee1c72678a4ab4a072b208e0690f3",
-      "name": "Букви",
-      "url": "https://bukvy.org"
-    }
-  },
-  {
-    "id": "b7083ab33ca6bfbb140336e0b027a7a9",
-    "title": "Потрапляння ліків до мозку залежить від фази естрального циклу - дослідження",
-    "description": "Ефективність проникнення препарату до мозку у самиць мишей змінювалася залежно від рівня естрогену, що може пояснити різницю в дії ліків між статями",
-    "content": "Фото: depositphotos\nНауковці встановили, що здатність лікарських препаратів проникати до мозку у мишей-самиць залежить від фази естрального циклу. Про це йдеться у дослідженні, опублікованому в журналі Genomic Psychiatry.\nДослідники пов’язують це з в... [1466 chars]",
-    "url": "https://pravdatutnews.com/health/2026/06/16/80732-potraplyannya-likiv-do-mozku-zalezhyt-vid-fazy-estralnogo-cyklu",
-    "image": "https://pravdatutnews.com/sites/default/files/news/2026/06/16/photo_2026-04-13_21-09-47.jpg",
-    "publishedAt": "2026-06-16T13:06:21Z",
-    "lang": "uk",
-    "source": {
-      "id": "716e7cb92f5f203aa3506c9ba057538c",
-      "name": "ПравдаТУТ NEWS",
-      "url": "https://pravdatutnews.com"
-    }
-  },
-  {
-    "id": "4ad719aaf136454abc86ca62dd7567ad",
-    "title": "Людство на крок до створення штучної гравітації у космосі",
-    "description": "Завдяки приватним компаніям, таким як Vast, концепція станцій зі штучною гравітацією перетвориться на реальність у наступному десятилітті",
-    "content": "Людство стоїть на порозі нової ери космічних подорожей. Щоб зробити можливими тривалі місії до Марса та інших куточків Сонячної системи, приватні космічні компанії розробляють орбітальні форпости зі штучною гравітацією. Лідером у цьому напрямку стала... [3320 chars]",
-    "url": "https://universemagazine.com/kosmichnyj-turyzm-peretvoryuyetsya-z-rozvagy-na-eksperyment-nad-lyudmy/",
-    "image": "https://universemagazine.com/wp-content/uploads/2026/06/mos-design-zzpknfi993a-unsplash.jpg",
-    "publishedAt": "2026-06-16T11:22:51Z",
-    "lang": "uk",
-    "source": {
-      "id": "687b815419a86d64780835373f4bda4f",
-      "name": "Universe Space Tech",
-      "url": "https://universemagazine.com"
     }
   }
 ]
