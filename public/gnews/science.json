@@ -1,5 +1,35 @@
 [
   {
+    "id": "9a0be504f423127ba0ebdb7631796b75",
+    "title": "Чому комарі кусають одних людей частіше",
+    "description": "Вчені розповіли, чому одних людей комарі приваблюють більше, ніж інших",
+    "content": "Вчені наблизилися до розгадки того, чому комарі кусають одних людей частіше, ніж інших. Усе полягає у складному хімічному «коктейлі», який робить одних людей для них привабливішими, повідомляє Science Alert.\n«Це не помилка, що комарів приваблюють одн... [2553 chars]",
+    "url": "https://zn.ua/ukr/TECHNOLOGIES/vcheni-rozpovili-chomu-komari-kusajut-odnikh-ljudej-chastishe-nizh-inshikh.html",
+    "image": "https://zn.ua/img/article/6867/83_main-v1781899633.webp",
+    "publishedAt": "2026-06-20T05:05:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "c5c959cb41bdd64f8b2b81a75752cf74",
+      "name": "Дзеркало тижня",
+      "url": "https://zn.ua"
+    }
+  },
+  {
+    "id": "9971bc95586883762680cc67ae109275",
+    "title": "Косумельську лисицю вперше за 20 років помітили в Мексиці",
+    "description": "Вчені сфотографували косумельську лисицю, яку вважали вимерлою 20 років тому",
+    "content": "Невловиму карликову лисицю, яку вважали вимерлою, помітили біля шосе на острові Косумель у Мексиці. Вченим навіть вдалося зробити знімки цього хижака, повідомляє Live Science.\nКрихітна тварина належить до загадкової популяції косумельських лисиць — в... [1762 chars]",
+    "url": "https://zn.ua/ukr/TECHNOLOGIES/vvazhalasja-vimerloju-vcheni-zmohli-sfotohrafuvati-ridkisnu-karlikovu-lisitsju.html",
+    "image": "https://zn.ua/img/article/6867/78_main-v1781874915.webp",
+    "publishedAt": "2026-06-20T01:30:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "c5c959cb41bdd64f8b2b81a75752cf74",
+      "name": "Дзеркало тижня",
+      "url": "https://zn.ua"
+    }
+  },
+  {
     "id": "fa3949844966ca1570489f615b19770a",
     "title": "Китай розробляє проект орбітальної станції для збору сонячної енергії",
     "description": "У Китаї розробляють нові технології для збору сонячної енергії в космосі та її бездротової передачі на Землю. У майбутньому станцію можуть розмістити на орбіті.",
@@ -117,36 +147,6 @@
       "id": "ae8b9c98d707754fca5e1ea622855c50",
       "name": "ТСН",
       "url": "https://tsn.ua"
-    }
-  },
-  {
-    "id": "674f7b502148a43228ecbf3d2593b744",
-    "title": "Фізики ЦЕРН виявили баріон",
-    "description": "Відкриття нової елементарної частинки з двома зачарованими кварками на Великому адронному колайдері допоможе вченим краще зрозуміти сильну взаємодію матерії.",
-    "content": "Останній представник \"зачарованої\" родини\nФізики з колаборації LHCb, що працюють на Великому адронному колайдері, виявили рідкісну частинку під назвою баріон Ωcc+. Цей об’єкт містить у своєму складі два \"зачаровані\" кварки та один \"дивний\" кварк. Від... [3694 chars]",
-    "url": "https://24tv.ua/tech/fiziki-tsern-viyavili-barion-ostanniy-element-rodini-dvichi-zacharovanih_n3090738",
-    "image": "https://24tv.ua/resources/photos/news/202606/3090738.jpg?v=1781865750000&w=1200&h=675",
-    "publishedAt": "2026-06-19T12:06:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "e737a8e76b161ef4526698e2ec5f60c9",
-      "name": "24 Канал",
-      "url": "https://24tv.ua"
-    }
-  },
-  {
-    "id": "668a17aede23d0d8165efe9e1dd8aee4",
-    "title": "NASA випробувала новий ровер Ernest для місій на Місяць і Марс",
-    "description": "NASA випробувала ровер ERNEST, що може самостійно долати складний рельєф і ухвалювати рішення під час руху. Як новий марсохід допоможе в дослідженні Місяця та Марса — читайте на Фактах ICTV",
-    "content": "Інженери NASA завершили серію випробувань нового прототипу планетохода Ernest (Exploration Rover for Navigating Extreme Sloped Terrain), що у майбутньому може використовуватися для дослідження Місяця та Марса.\nАпарат уже продемонстрував вищу швидкіст... [3706 chars]",
-    "url": "https://fakty.com.ua/ua/styl-zhyttia/nauka-tekhnolohii/20260619-shvydshyj-za-curiosity-nasa-testuye-novyj-rover-dlya-misyatsya-i-marsa/",
-    "image": "https://fakty.com.ua/wp-content/uploads/2026/06/19/novyj-rover-NASA-768x432.jpg",
-    "publishedAt": "2026-06-19T11:30:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "10828aeaae724c71000c1326d888e604",
-      "name": "fakty.com.ua",
-      "url": "https://fakty.com.ua"
     }
   }
 ]
