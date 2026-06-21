@@ -1,5 +1,65 @@
 [
   {
+    "id": "04c9f4f145953d2f339cef6042492281",
+    "title": "Renault презентувала новий кросовер Symbioz в Україні",
+    "description": "Французький бренд Renault вивів на український ринок новий кросовер Symbioz, який фактично розміститься в лінійці вище Duster.",
+    "content": "Французький бренд Renault вивів на український ринок новий кросовер Symbioz, який фактично розміститься в лінійці вище Duster.\nНовий кросовер Renault Symbioz дебютував в Україні.\nНовинка стане флагманом бренду на місцевому ринку.\nКросовер пропонуєтьс... [5847 chars]",
+    "url": "https://motorcar.com.ua/news/renault-symbioz-krosover-prezentacziya-ukrayina-2026/",
+    "image": "https://motorcar.com.ua/wp-content/uploads/2024/05/renault-symbioz-2024-12.jpg",
+    "publishedAt": "2026-06-20T18:34:48Z",
+    "lang": "uk",
+    "source": {
+      "id": "ccf5b23cf2f813320e7baafea8cf4ea7",
+      "name": "motorcar.com.ua",
+      "url": "https://motorcar.com.ua"
+    }
+  },
+  {
+    "id": "428e6adfb7e383c0c034d18ba2ce9555",
+    "title": "Ілон Маск придумав, де розмістити дата-центри, щоб вони не заважали",
+    "description": "Дата-центри можна перемістити в космос або в океан, щоб нівелювати їхній негативний вплив на навколишнє середовище – подробиці читайте на УНІАН.",
+    "content": "Дата-центри стають тягарем, підвищуючи тарифи на комунальні послуги, створюючи шум і забруднюючи навколишнє середовище, при цьому приносять мало користі місцевій економіці. Водночас розвиток штучного інтелекту не дозволяє відмовитися від них.\nВидання... [5374 chars]",
+    "url": "https://www.unian.ua/curiosities/shtuchniy-intelekt-ilon-mask-pridumav-de-rozmistiti-data-centri-shchob-voni-ne-zavazhali-13418115.html",
+    "image": "https://images.unian.net/photos/2025_07/thumb_files/1000_545_1753946413-9898.jpg?1",
+    "publishedAt": "2026-06-20T17:00:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "d4361862486677369ff2ae7719b8d313",
+      "name": "УНІАН",
+      "url": "https://www.unian.ua"
+    }
+  },
+  {
+    "id": "2cbcfc1c2c5aa3366cfce7b5a8572fb9",
+    "title": "Які цікаві варіанти озброєння є для вантажівок від Daimler Truck, які сотнями постачаються Україні",
+    "description": "Пускова для дронів чи цікавий варіант для протиповітряної оборони - які варіанти з вантажівками від Daimler Truck показали на Eurosatory",
+    "content": "Компанія Daimler Truck, яка є найбільшим у світі виробником комерційних автомобілів, на виставці Eurosatory 2026 представила декілька варіантів, як їхні вантажівки можна \"проапгрейдити\" для використання на сучасному полі бою - йдеться про співпрацю з... [2068 chars]",
+    "url": "https://defence-ua.com/people_and_company/jaki_tsikavi_varianti_ozbrojennja_je_dlja_vantazhivok_vid_daimler_truck_jaki_sotnjami_postachajutsja_ukrajini-23387.html",
+    "image": "https://defence-ua.com/media/illustration/articles/7736a36af4a9de88.jpg",
+    "publishedAt": "2026-06-20T16:24:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "f488af954cb509cbacccbd34e7f47985",
+      "name": "Defense Express",
+      "url": "https://defence-ua.com"
+    }
+  },
+  {
+    "id": "7c268e8c49e4d1e6c843ce5c1a68b7d2",
+    "title": "Найкращі компактні електромобілі: топ-10",
+    "description": "Маленькі електромобілі дедалі частіше з’являються на дорогах. Такі моделі стають чимдалі доступнішими, а їхні акумулятори – потужнішими, тому ріст їхньої популярності є цілком закономірним.",
+    "content": "Маленькі електромобілі дедалі частіше з’являються на дорогах. Такі моделі стають чимдалі доступнішими, а їхні акумулятори – потужнішими, тому ріст їхньої популярності є цілком закономірним. Зараз уже можна стверджувати, що вони стали повноцінною альт... [8870 chars]",
+    "url": "https://www.obozrevatel.com/ukr/avto-oboz/najkraschi-kompaktni-elektromobili-top-10.htm",
+    "image": "https://i.obozrevatel.com/news/2026/6/18/pexels-bertellifotografia-15141233.jpg?size=1200x630",
+    "publishedAt": "2026-06-20T14:00:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "ca149ffefb31c86f82d7f299d744af59",
+      "name": "Obozrevatel",
+      "url": "https://www.obozrevatel.com"
+    }
+  },
+  {
     "id": "03309a47a5c8cef49dcc4e268bc7c7ef",
     "title": "Яке авто найкраще для пенсіонерів - названий ідеальний позашляховик",
     "description": "Хороший автомобіль для пенсіонерів має бути безпечним, комфортним, простим у керуванні, зручним для посадки та не надто дорогим в обслуговуванні. Однією з моделей, яка відповідає цим вимогам, назвали Hyundai Santa Fe.",
@@ -87,66 +147,6 @@
       "id": "ca149ffefb31c86f82d7f299d744af59",
       "name": "Obozrevatel",
       "url": "https://www.obozrevatel.com"
-    }
-  },
-  {
-    "id": "27525dc93a396e4c11f94e0f05c7a148",
-    "title": "Як очистити кеш на телевізорі LG: інструкція щодо прискорення роботи системи",
-    "description": "Телевізор LG може гальмувати через накопичений кеш, фонові процеси або нестачу пам'яті. Як очистити кеш через налаштування webOS.",
-    "content": "Телевізор LG може почати гальмувати не через поломку, а через накопичений кеш. Тимчасові файли займають пам'ять, сповільнюють меню, заважають швидкому запуску додатків і можуть викликати повідомлення про нестачу місця.\nПро те, як очистити кеш на теле... [2512 chars]",
-    "url": "https://novyny.live/tehnologii/iak-ochistiti-kesh-na-televizori-lg-i-prishvidshiti-webos-331741.html",
-    "image": "https://novyny.live/cdn-cgi/imagedelivery/4_JwVYxosZqzJ7gIDJgTLA/0864b19b-5545-451c-7a19-f769a57c7700/16x9",
-    "publishedAt": "2026-06-19T13:32:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "24859de7683ddeaf2e8bc4f3eec7de6b",
-      "name": "Новини.LIVE",
-      "url": "https://novyny.live"
-    }
-  },
-  {
-    "id": "6dba572e3154b25310ceccd6b42b16fb",
-    "title": "Акції SpaceX впали після історичного виходу на біржу",
-    "description": "Ціна акцій аерокосмічної компанії SpaceX знизилася на понад 6%. Інвестори фіксують прибутки після масштабного IPO та на тлі витратної ШІ-експансії.",
-    "content": "Акції компанії SpaceX знизилися на понад 6% на торгах у четвер, оскільки ажіотаж після нещодавнього первинного публічного розміщення, який ненадовго вивів ракетно-технологічну імперію Ілона Маска до п'ятірки найдорожчих компаній світу, почав вщухати.... [2166 chars]",
-    "url": "https://delo.ua/news/akciyi-spacex-vpali-pislya-aziotazu-navkolo-istoricnogo-ipo-467737/",
-    "image": "https://delo.ua/static/content/thumbs/1200x630/6/42/7chzir---c1200x630x50px50p--be80d82555d5cf6e65574d6834cfe426.jpg",
-    "publishedAt": "2026-06-19T13:04:01Z",
-    "lang": "uk",
-    "source": {
-      "id": "089318c55bc4acf31cc81fdec955261d",
-      "name": "Delo.ua",
-      "url": "https://delo.ua"
-    }
-  },
-  {
-    "id": "05b0f66548d9d8907f7c25b7f6ebc8e6",
-    "title": "Хакери заразили понад 1500 пакетів Arch Linux і встигли запустити другу хвилю, поки йшло прибирання",
-    "description": "Хакери скомпрометували 1 579 пакетів Arch User Repository, вбудувавши шкідливий код через захоплені покинуті пакети. Руткіт на базі eBPF краде SSH-ключі, паролі браузерів і CI/CD-токени. Офіційні репозиторії Arch не постраждали.",
-    "content": "Дослідники Sonatype виявили масштабну атаку на ланцюг постачання Arch User Repository: зловмисники систематично захоплювали покинуті AUR-пакети і вбудовували в них шкідливий код, що краде облікові дані. Поки команда Arch Linux зачищала сліди першої х... [3668 chars]",
-    "url": "https://itc.ua/ua/novini/hakery-zarazyly-ponad-1500-paketiv-arch-linux-i-vstygly-zapustyty-drugu-hvylyu-poky-jshlo-prybyrannya/",
-    "image": "https://itcua-media-prod.fra1.cdn.digitaloceanspaces.com/uploads/2026/06/ARH-arch-linux-white.png",
-    "publishedAt": "2026-06-19T12:46:39Z",
-    "lang": "uk",
-    "source": {
-      "id": "391d17d071b755a4bda37c1b43f47c2c",
-      "name": "ITC.ua",
-      "url": "https://itc.ua"
-    }
-  },
-  {
-    "id": "3715c3629b879f15d20423fc7fcc4701",
-    "title": "Зарплати IT-топменеджерів в Україні: скільки заробляють керівники компаній",
-    "description": "Майже половина IT-топменеджерів в Україні отримали підвищення зарплати у 2026 році. Скільки заробляють керівники українських компаній, у кого найвищі зарплати і в яких менеджерів вони зростають найбільше?",
-    "content": "У 2026 році топменеджери IT-компаній в Україні у середньому отримують 5800 доларів на місяць. Такі дані показало щорічне дослідження компенсацій від Indigo Tech Recruiters та Gidni Executive Search, пише Forbes.\nЗа розподілом зарплат, чверть керівник... [2039 chars]",
-    "url": "https://zaxid.net/zarplati_it_topmenedzheriv_v_ukrayini_skilki_zaroblyayut_kerivniki_kompaniy_n1639675",
-    "image": "https://zaxid.net/resources/photos/news/600x315_DIR/202606/1639675.jpg",
-    "publishedAt": "2026-06-19T11:46:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "7ab609f566cdbec66a589947504f2d4c",
-      "name": "Zaxid.net",
-      "url": "https://zaxid.net"
     }
   }
 ]
