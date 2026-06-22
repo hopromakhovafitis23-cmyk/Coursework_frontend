@@ -1,5 +1,65 @@
 [
   {
+    "id": "a737f6d9e93e86b2136813ee884558dd",
+    "title": "деталі оновлення електромобіля",
+    "description": "Компанія Renault представила оновлений електромобіль Megane E-Tech electric з новою LFP-батареєю на 67 кВт-год, запасом ходу до 500 км та інтегрованим штучним інтелектом Google Gemini - Авто24",
+    "content": "Оскільки понад дві третини покупців цієї моделі є новачками у світі електромобілів, бренд зробив ставку на простоту експлуатації, ефективність та щоденний комфорт. Виробництво новинки та акумуляторних батарей повністю локалізовано у Франції, зазначає... [4031 chars]",
+    "url": "https://24tv.ua/auto/renault_prezentuvala_restailinhovyi_megane_shcho_zminylos_n73335",
+    "image": "https://24tv.ua/auto/resources/photos/news/202606/733353359fe62-8925-4a23-aa7b-25280e9184e7.jpg",
+    "publishedAt": "2026-06-22T07:50:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "e737a8e76b161ef4526698e2ec5f60c9",
+      "name": "24 Канал",
+      "url": "https://24tv.ua"
+    }
+  },
+  {
+    "id": "f3f6cbf41eb222576e9ce8c681ff31be",
+    "title": "Toyota презентувала в Україні новий RAV4 та три електромобілі",
+    "description": "Компанія Toyota презентувала в Україні нове покоління культового кросовера RAV4, а також одразу три електричні моделі – C-HR+, bZ4X та bZ4X Touring.",
+    "content": "Компанія Toyota презентувала в Україні нове покоління культового кросовера RAV4, а також одразу три електричні моделі – C-HR+, bZ4X та bZ4X Touring.\nПро деякі з цих автомобілів АвтоСвіт вже розповідав, оскільки ми їздили на їх міжнародні тест-драйви,... [1473 chars]",
+    "url": "https://www.avtomir.ua/news/toyota-prezentuvala-v-ukrayini-novyj-rav4-ta-try-elektromobili/",
+    "image": "https://www.avtomir.ua/wp-content/uploads/2026/06/toyota_rav4_phev_gr_sport24.webp",
+    "publishedAt": "2026-06-22T07:18:28Z",
+    "lang": "uk",
+    "source": {
+      "id": "0d8fa2a9055c6fc2ace2650b663c989a",
+      "name": "автосвіт",
+      "url": "https://www.avtomir.ua"
+    }
+  },
+  {
+    "id": "3b1d5879acd27b01c5e6c025e0ef7a0c",
+    "title": "Samsung більше не найдорожча компанія Південної Кореї",
+    "description": "Корпорація Samsung Electronics втратила статус найдорожчої компанії Південної Кореї. Її обігнала SK Hynix на тлі глобального ШІ-буму.",
+    "content": "Компанія SK Hynix обійшла Samsung Electronics за ринковою капіталізацією і стала найдорожчою лістинговою компанією Південної Кореї. Це ознаменувало кардинальні зміни для виробника чипів, який ще два десятиліття тому ледь не збанкрутував через величез... [2409 chars]",
+    "url": "https://delo.ua/news/samsung-bilse-ne-naidorozca-kompaniya-pivdennoyi-koreyi-liderom-stav-golovnii-konkurent-467788/",
+    "image": "https://delo.ua/static/content/thumbs/1200x630/1/4d/74hxwd---c1200x630x50px50p--1c158305a15c5e88bf54645f0d1b04d1.jpg",
+    "publishedAt": "2026-06-22T06:30:41Z",
+    "lang": "uk",
+    "source": {
+      "id": "089318c55bc4acf31cc81fdec955261d",
+      "name": "Delo.ua",
+      "url": "https://delo.ua"
+    }
+  },
+  {
+    "id": "da9c63e28242f33f4ad909cc399d4567",
+    "title": "Наступний CEO Apple готує зміни в дизайн-команді компанії – Bloomberg",
+    "description": "Apple може провести перебудову дизайн-підрозділу після років кадрових втрат. Майбутній CEO Джон Тернус уже почав працювати над змінами в команді.",
+    "content": "Майбутній генеральний директор Apple Джон Тернус уже почав активніше працювати з дизайн-командою компанії та готує зміни в її структурі напередодні вступу на посаду у вересні. Про це повідомляє журналіст Bloomberg Марк Гурман.\nТернус узяв під свій ко... [1564 chars]",
+    "url": "https://mezha.ua/news/apple-ceo-designe-changes-312501/",
+    "image": "https://img.mezha.ua/mezha/images/doc/d/2/313930/d25e565a46f6eb29de47e3c6724a069a.jpeg?w=1200&q=85&stamp=1782107835",
+    "publishedAt": "2026-06-22T06:04:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "6b0257d31504a630dde7752eed4e1e39",
+      "name": "Mezha",
+      "url": "https://mezha.ua"
+    }
+  },
+  {
     "id": "5bd29e6f1ed5bc531999eadbb4d467cb",
     "title": "В Україні стартує \"старший брат\" Renault Captur: бюджетний кросовер з витратою від 4,7 л",
     "description": "Renault Symbioz виходить на український ринок у липні 2026 року: новий кросовер пропонує просторий салон, багажник до 695 літрів і економну гібридну установку з витратою 4,7 л/100 км.",
@@ -87,66 +147,6 @@
       "id": "03b83fc2b8d962895f470f83ac3ac6a2",
       "name": "AgroPortal.ua",
       "url": "https://agroportal.ua"
-    }
-  },
-  {
-    "id": "3b9f276f9b7b15ba9aeb6bf0d36019ed",
-    "title": "Єдина в Україні Lancia Thema 8.32 з мотором V8 від Ferrari вже 30 років їздить по нашим дорогам (фото)",
-    "description": "В Україні досі зберігається та експлуатується унікальний седан Lancia Thema 8.32, оснащений заводським восьмициліндровим двигуном Ferrari. За даними",
-    "content": "В Україні досі зберігається та експлуатується унікальний седан Lancia Thema 8.32, оснащений заводським восьмициліндровим двигуном Ferrari. За даними дослідника ретротехніки Романа Уррака, це єдиний відомий екземпляр такої моделі в країні. Про це пише... [1847 chars]",
-    "url": "https://mmr.net.ua/autonews/241929",
-    "image": "https://mmr.net.ua/catalog/uploads/2026/06/lancia-thema-8.32-1.jpg",
-    "publishedAt": "2026-06-21T11:32:47Z",
-    "lang": "uk",
-    "source": {
-      "id": "7ff09923d78a57fb490f8d4a12e79fae",
-      "name": "MMR.net.ua",
-      "url": "https://mmr.net.ua"
-    }
-  },
-  {
-    "id": "71e33b915ac5fa182561b63bc557a99f",
-    "title": "Volkswagen Passat B7 2011 року з найменшим пробігом в Україні: за скільки продають ексклюзив (фото)",
-    "description": "На українському вторинному ринку з’явився Volkswagen Passat B7 2011 року випуску з незвично малим пробігом. У Сумах виставили на продаж на AUTO.RIA",
-    "content": "На українському вторинному ринку з’явився Volkswagen Passat B7 2011 року випуску з незвично малим пробігом. У Сумах виставили на продаж на AUTO.RIA офіційний седан, який за весь час експлуатації проїхав лише 15 тис. км. Вартість автомобіля становить ... [1467 chars]",
-    "url": "https://mmr.net.ua/autonews/241924",
-    "image": "https://mmr.net.ua/catalog/uploads/2026/06/volkswagen-passat-b7-2011-1.jpg",
-    "publishedAt": "2026-06-21T10:32:45Z",
-    "lang": "uk",
-    "source": {
-      "id": "7ff09923d78a57fb490f8d4a12e79fae",
-      "name": "MMR.net.ua",
-      "url": "https://mmr.net.ua"
-    }
-  },
-  {
-    "id": "d0f1cc97797fee85e8f86a013d173f21",
-    "title": "Курс євро в Україні спіймав низхідний тренд: до чого готуватися найближчим часом",
-    "description": "Офіційний курс гривні до євро опустився до 51,46 грн/євро. Наприкінці червня 2026 року можливі коливання в обидві сторони залежно від співвідношення у головній валютній парі.",
-    "content": "Українці можуть вигідніше придбати купюри євро, оскільки офіційний курс різко впав. Всього за одну добу показники опустилися на 48 копійок. Не завадить дізнатися, чим пояснюється така динаміка і до чого готуватися нашим громадянам найближчим часом.\nП... [1981 chars]",
-    "url": "https://novyny.live/ekonomi/kurs-ievro-zainiav-vigidnu-pozitsiiu-do-iakikh-zmin-gotuvatisia-naprikintsi-chervnia-331856.html",
-    "image": "https://novyny.live/cdn-cgi/imagedelivery/4_JwVYxosZqzJ7gIDJgTLA/f4b87a7f-cb3c-4553-b893-ac54e05aee00/16x9",
-    "publishedAt": "2026-06-21T08:35:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "24859de7683ddeaf2e8bc4f3eec7de6b",
-      "name": "Новини.LIVE",
-      "url": "https://novyny.live"
-    }
-  },
-  {
-    "id": "3614ed20c10a1f9d57c0dc1d739513cc",
-    "title": "Капсула часу: Daewoo Lanos 2007 року продають з пробігом 15 тисяч км за вигідною ціною (фото)",
-    "description": "На українському вторинному ринку з’явився Daewoo Lanos 2007 року випуску з надзвичайно малим пробігом. Седан з Калуша за весь час проїхав лише 14 965 км.",
-    "content": "На українському вторинному ринку з’явився Daewoo Lanos 2007 року випуску з надзвичайно малим пробігом. Седан з Калуша за весь час проїхав лише 14 965 км. За автомобіль на AUTO.RIA просять 4600 доларів або близько 206 тис. грн.\nDaewoo Lanos 2007 майже... [1054 chars]",
-    "url": "https://mmr.net.ua/autonews/241911",
-    "image": "https://mmr.net.ua/catalog/uploads/2026/06/daewoo-lanos-2007-1-1.jpg",
-    "publishedAt": "2026-06-21T07:37:33Z",
-    "lang": "uk",
-    "source": {
-      "id": "7ff09923d78a57fb490f8d4a12e79fae",
-      "name": "MMR.net.ua",
-      "url": "https://mmr.net.ua"
     }
   }
 ]
