@@ -1,5 +1,65 @@
 [
   {
+    "id": "ef39b1ffdb18e7f24f7df000ee889857",
+    "title": "5 перевершив планові продажи",
+    "description": "Японський виробник Mazda отримав вп’ятеро більше замовлень на новий кросовер CX-5 на місцевому ринку.",
+    "content": "Японський виробник Mazda отримав вп’ятеро більше замовлень на новий кросовер CX-5 на місцевому ринку.\nНовий Mazda CX-5 вже отримав 10 000 замовлень по всій Японії.\nПопит у першому місяці перевищив планові 2000 одиниць.\nТопова комплектація обрана у 65... [2684 chars]",
+    "url": "https://motorcar.com.ua/news/krosover-mazda-cx-5-prodazh-yaponiya-2026/",
+    "image": "https://motorcar.com.ua/wp-content/uploads/2026/06/mazda-cx-5-japan-2.webp",
+    "publishedAt": "2026-06-24T18:22:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "ccf5b23cf2f813320e7baafea8cf4ea7",
+      "name": "motorcar.com.ua",
+      "url": "https://motorcar.com.ua"
+    }
+  },
+  {
+    "id": "6b46db2832de48b69700ad5c6a249dd5",
+    "title": "У Київ привезли незвичайний BMW Z3 M Coupe",
+    "description": "Культовий спорткар BMW Z3 M Coupe можна вважати однми з найнеординарніших моделей в історії підрозділу BMW M.",
+    "content": "Особливу увагу привернув той факт, що автомобіль має праве розташування керма, що для України є великою рідкістю. Серед шанувальників BMW модель отримала прізвисько “Clown Shoe” (Клоунський черевик) або просто Башмак. Про це пише topgir.com.ua.\nЧитай... [2020 chars]",
+    "url": "https://24tv.ua/auto/u_kyiv_pryvezly_nezvychainyi_bmw_z3_m_coupe_n73444",
+    "image": "https://24tv.ua/auto/resources/photos/news/202606/7344453594bcc-67a4-4c51-8899-ce12d73a753c.jpg",
+    "publishedAt": "2026-06-24T16:20:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "e737a8e76b161ef4526698e2ec5f60c9",
+      "name": "24 Канал",
+      "url": "https://24tv.ua"
+    }
+  },
+  {
+    "id": "599b534bc205faa854e3caf9b696e263",
+    "title": "Золото вперше за тривалий час впало в ціні",
+    "description": "Вартість дорогоцінного металу знизилася більш ніж на 20% від свого останнього піку - близько 5600 доларів за унцію.",
+    "content": "Вартість дорогоцінного металу знизилася більш ніж на 20% від свого останнього піку - близько 5600 доларів за унцію.\n24 червня 2026 року ціни на золото впали нижче позначки в 4000 доларів за унцію, що стало першим таким випадком з листопада минулого р... [1931 chars]",
+    "url": "https://ua.korrespondent.net/business/4888987-zoloto-vpershe-za-tryvalyi-chas-vpalo-v-tsini",
+    "image": "https://kor.ill.in.ua/m/1260x900/4469883.jpg",
+    "publishedAt": "2026-06-24T16:16:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "5f3893b2bdd83721567eef82ac0a6d2e",
+      "name": "Korrespondent.net",
+      "url": "https://ua.korrespondent.net"
+    }
+  },
+  {
+    "id": "4207414d09bf3aa50f0e1e31f92f6b24",
+    "title": "Справжня обдирайлівка: водії з Каліфорнії судяться з автозаправками через завищення цін на бензин за допомогою ШІ",
+    "description": "Мешканці Каліфорнії сплачують найбільше за бензин у США. В колективному судовому",
+    "content": "Мешканці Каліфорнії сплачують найбільше за бензин у США. В колективному судовому позові зазначається, що оператори автозаправок використовують ШІ для завищення цін.\nВ позові йдеться, що оператори на автозаправках використовують ШІ-інструмент Kalibrat... [1914 chars]",
+    "url": "https://itc.ua/ua/novini/spravzhnya-obdyrajlivka-vodiyi-z-kaliforniyi-sudyatsya-z-avtozapravkamy-cherez-zavyshhennya-tsin-na-benzyn-z-dopomogoyu-shi/",
+    "image": "https://itcua-media-prod.fra1.cdn.digitaloceanspaces.com/uploads/2026/06/imgonline-com-ua-convertWfP8TpZUKhHa-835x557.jpg",
+    "publishedAt": "2026-06-24T15:36:32Z",
+    "lang": "uk",
+    "source": {
+      "id": "391d17d071b755a4bda37c1b43f47c2c",
+      "name": "ITC.ua",
+      "url": "https://itc.ua"
+    }
+  },
+  {
     "id": "96d519a6618b25883d52faa4249c4485",
     "title": "Банкрутство Альянс Рітейл Груп - чому закриваються мережі магазинів в Україні",
     "description": "Реєстрація справи про банкрутство щодо \"Альянс Рітейл Груп\" ставить крапку в історії агресивного зростання мережі зі 170 магазинів за чужі кошти. Поді...",
@@ -75,78 +135,18 @@
     }
   },
   {
-    "id": "8a03781202807c25f401fe206a242b83",
-    "title": "Традиіні авто втратили 20% ринку у країнах ЄС",
-    "description": "У країнах ЄС попит на електромобілі зростає. Водночас популярність авто з традиційними двигунами падає.",
-    "content": "За даними European Automobile Manufacturers' Association, на які посилаєтеся Укравтопром, у травні 2026 року в країнах Європейського Союзу було зареєстровано близько 955 тисяч нових легкових автомобілів. У порівнянні з травнем 2025 року ринок зріс на... [1957 chars]",
-    "url": "https://24tv.ua/auto/benzynovi_ta_dyzelni_avto_vtratyly_po_20_rynku_u_krainakh_yes_n73427",
-    "image": "https://24tv.ua/auto/resources/photos/news/202606/73427bb7213f8-d7e8-455f-b86a-9232eb0b7e34.jpg",
-    "publishedAt": "2026-06-24T09:32:00Z",
+    "id": "36a81687f6bb94304d117364025bf03d",
+    "title": "Сервери та вінчестери як родовище: у США видобуватимуть рідкісноземельні елементи зі старої електроніки",
+    "description": "Американська компанія Paladin Envirotech видобуває рідкісноземельні елементи — неодим, диспрозій, тербій — зі старих серверів і жорстких дисків за допомогою запатентованої безкислотної технології Ames National Laboratory. Мережа з семи заводів у різних штатах має утримати критичну сировину всередині внутрішнього ланцюжка постачання США.",
+    "content": "Пристрої, які ми щодня викидаємо, — старі комп’ютери, жорсткі диски, сервери та промислова електроніка — можуть містити одні з найцінніших матеріалів у світі. Усередині них приховані рідкісноземельні елементи — група металів, необхідних для інфрастру... [5064 chars]",
+    "url": "https://itc.ua/ua/novini/servery-ta-vinchestery-yak-rodovyshhe-u-ssha-vydobuvatymut-ridkisnozemelni-elementy-zi-staroyi-elektroniky/",
+    "image": "https://itcua-media-prod.fra1.cdn.digitaloceanspaces.com/uploads/2026/06/Vynchester-Depositphotos_793178772_L.jpg",
+    "publishedAt": "2026-06-24T10:00:08Z",
     "lang": "uk",
     "source": {
-      "id": "e737a8e76b161ef4526698e2ec5f60c9",
-      "name": "24 Канал",
-      "url": "https://24tv.ua"
-    }
-  },
-  {
-    "id": "005f118fdf2b34c4c9e1cefb5bb7b80d",
-    "title": "Toyota у шоці від попиту на новий RAV4",
-    "description": "Один з найпопулярніших кросоверів компанії у США фактично продається швидше, ніж встигає потрапляти до дилерських центрів.",
-    "content": "Toyota зіткнулася з настільки високим попитом на нове покоління RAV4, що один з найпопулярніших кросоверів компанії у США фактично продається швидше, ніж встигає потрапляти до дилерських центрів.\nЯк повідомляє Automotive News, автосалон Longo Toyota ... [1055 chars]",
-    "url": "https://www.avtomir.ua/news/toyota-u-shoczi-vid-popytu-na-novyj-rav4/",
-    "image": "https://www.avtomir.ua/wp-content/uploads/2026/06/tmmk_my26rav4_hero-copy-1536x865-1.webp",
-    "publishedAt": "2026-06-24T09:09:48Z",
-    "lang": "uk",
-    "source": {
-      "id": "0d8fa2a9055c6fc2ace2650b663c989a",
-      "name": "автосвіт",
-      "url": "https://www.avtomir.ua"
-    }
-  },
-  {
-    "id": "303e797b4bde5355d89d4f82247f643c",
-    "title": "CUPRA Leon SP: \"вхідний квиток\" у світ CUPRA",
-    "description": "Аналізуємо, що собою являє автомобіль CUPRA Leon SP – це просто стильний універсал чи все ж справжній представник родини CUPRA? Для чого він створений, яких клієнтів зможе зацікавити? Й загалом – розбираємо плюси та мінуси автомобіля в нашому детальному огляді, ділимось враженням від тест-драйву.",
-    "content": "Приблизно рік тому виходив тест-драйв та детальний огляд автомобіля CUPRA Leon VZ – й ось нова зустріч. Маємо аналогічну назву бренду та моделі, маємо майже ідентичний дизайн та в салоні; проте насправді CUPRA Leon SP в багатьох деталях відрізняється... [17603 chars]",
-    "url": "https://mezha.ua/reviews/test-drayv-cupra-leon-sp-vhidniy-kvitok-v-svit-cupra-312597/",
-    "image": "https://img.mezha.ua/mezha/images/doc/c/a/314478/ca908e9097844cd6785cda667cd8ff97.jpeg?w=1200&q=85&stamp=1782287556",
-    "publishedAt": "2026-06-24T08:31:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "6b0257d31504a630dde7752eed4e1e39",
-      "name": "Mezha",
-      "url": "https://mezha.ua"
-    }
-  },
-  {
-    "id": "082911c27c140aa3d9b7af2e69731568",
-    "title": "56-річна дружина Джеффа Безоса показалася без макіяжу",
-    "description": "Зірка опублікувала селфі практично без макіяжу, продемонструвавши свою природну зовнішність.",
-    "content": "Зірка опублікувала селфі практично без макіяжу, продемонструвавши свою природну зовнішність.\n56-річна Лорен Санчес, дружина засновника Amazon Джеффа Безоса, потішила прихильників незвичним кадром.\nНа фото Санчес позує на тлі мальовничого морського уз... [1323 chars]",
-    "url": "https://ua.korrespondent.net/lifestyle/4888836-56-richna-druzhyna-dzheffa-bezosa-pokazalasia-bez-makiiazhu",
-    "image": "https://kor.ill.in.ua/m/1260x900/4469638.jpg",
-    "publishedAt": "2026-06-24T07:46:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "5f3893b2bdd83721567eef82ac0a6d2e",
-      "name": "Korrespondent.net",
-      "url": "https://ua.korrespondent.net"
-    }
-  },
-  {
-    "id": "fc39110653151050a296e994fb238dd1",
-    "title": "новий електричний флагман бренду із запасом ходу до 630 км • Межа",
-    "description": "Skoda офіційно презентувала свій новий флагманський електричний SUV Peaq, який став найбільшим електромобілем у лінійці бренду та продовженням напрацювань компанії, отриманих під час розробки бензинового Kodiaq.",
-    "content": "Skoda офіційно представила свій новий флагманський електричний SUV – Peaq. Він став найбільшим електромобілем бренду та логічним розвитком досвіду компанії, отриманого під час створення бензинового Kodiaq.\nМодель орієнтована на сім'ї, яким потрібен п... [2649 chars]",
-    "url": "https://mezha.ua/news/skoda-peaq-noviy-elektrichniy-flagman-brendu-iz-zapasom-hodu-do-630-km-312589/",
-    "image": "https://img.mezha.ua/mezha/images/doc/9/9/314440/995982308de17d8ec21f3a46b1d8fc34.jpeg?w=1200&q=85&stamp=1782280371",
-    "publishedAt": "2026-06-24T07:22:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "6b0257d31504a630dde7752eed4e1e39",
-      "name": "Mezha",
-      "url": "https://mezha.ua"
+      "id": "391d17d071b755a4bda37c1b43f47c2c",
+      "name": "ITC.ua",
+      "url": "https://itc.ua"
     }
   }
 ]
