@@ -1,5 +1,80 @@
 [
   {
+    "id": "351bf38dfa391445550a08bdc5946b4a",
+    "title": "Android-застосунок для блокування казино та букмекерських сайтів",
+    "description": "Блокувальник казино та букмекерських сайтів для Android.",
+    "content": "💡 Усі статті, обговорення, новини про Mobile — в одному місці. Приєднуйтесь до Mobile спільноти!\nОстанні кілька місяців працюю над власним Android-застосунком Casino Blocker, який допомагає обмежити доступ до онлайн-казино, букмекерських контор та ін... [1144 chars]",
+    "url": "https://dou.ua/forums/topic/60311/?from=fpcommunity",
+    "image": "https://s.dou.ua/img/announces/1782302759850.png",
+    "publishedAt": "2026-06-24T12:30:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "d1ef16b5a7558a99f3c289a3b0f93527",
+      "name": "Спільнота програмістів",
+      "url": "https://dou.ua"
+    }
+  },
+  {
+    "id": "5847f1e8061aafe54215354d6dd72373",
+    "title": "Щирий і навмисний сміх виникли через активацію різних частин мозку",
+    "description": "Нейробіологи виокремили дві мережі сміху. Одна вмикає його з веселістю, інша — як чистий рух. Стимуляція другої давала сміх без жодних емоцій. Як це можливо?",
+    "content": "Нейробіологи з’ясували, що за щирий і навмисний сміх у мозку відповідають різні мережі нейронів. Проаналізувавши десятки попередніх досліджень, вони описали цілу архітектуру сміху — систему, яка поєднує емоції, рух, соціальну взаємодію та регуляцію б... [2500 chars]",
+    "url": "https://nauka.ua/news/za-shchirij-i-navmisnij-smih-u-mozku-viyavilisya-vidpovidalnimi-rizni-nejronni-sistemi",
+    "image": "https://nauka.ua/storage/uploads/public/6a3/bb7/a04/6a3bb7a0449ae860093195.jpg",
+    "publishedAt": "2026-06-24T10:56:40Z",
+    "lang": "uk",
+    "source": {
+      "id": "780644dab43a156799ba55a022663644",
+      "name": "nauka.ua",
+      "url": "https://nauka.ua"
+    }
+  },
+  {
+    "id": "ee0a9103285acb3f34113740b5876dbc",
+    "title": "Громадське здоров’я та епідемічні ризики: глобальні тенденції, інфекційний контроль і моніторинг захворювань",
+    "description": "Огляд сучасного стану громадського здоров’я у світі, епідемічних ризиків, інфекційних захворювань та розвитку систем епідеміологічного моніторингу і профілактики.",
+    "content": "Сфера громадського здоров’я у світі продовжує перебувати під впливом низки факторів, пов’язаних із поширенням інфекційних захворювань, локальними епідемічними спалахами та розвитком систем медичного моніторингу. Міжнародні організації охорони здоров’... [3095 chars]",
+    "url": "https://www.berdichev.biz/hromadske-zdorov-ya-ta-epidemichni-ryzyky-hlobalni-tendentsii/",
+    "image": "https://www.berdichev.biz/wp-content/uploads/2026/06/yzobrazhenye_2026-06-24_111733418-e1782292664992.png",
+    "publishedAt": "2026-06-24T09:18:30Z",
+    "lang": "uk",
+    "source": {
+      "id": "1e462a313e341a9c8bc0cd53b0d80841",
+      "name": "Бердичів.biz",
+      "url": "https://www.berdichev.biz"
+    }
+  },
+  {
+    "id": "309a0ceabb57905cd70693dffc30611e",
+    "title": "Більшість додаткових процедур під час ЕКЗ не мають надійної доказової бази",
+    "description": "Вони не впливають на фертильність або їхня користь залишається непідтвердженою — Wonderzine",
+    "content": "Більшість додаткових процедур, які пропонують пацієнтам під час екстракорпорального запліднення (ЕКЗ) для підвищення шансів на народження дитини, не мають надійної доказової бази, не покращують фертильність і можуть бути марною тратою грошей. Про це ... [3793 chars]",
+    "url": "https://www.wonderzine.me/wonderzine/health/health-news/25287-bilshist-dodatkovih-protsedur-pid-chas-ekz-ne-mayut-nadiynoyi-dokazovoyi-bazi-doslidzhennya",
+    "image": "https://cdn.wonderzine.me/wonderzine.com.ua/post-og_image/omdImWs3fQoBr68UJ8l9zw.png",
+    "publishedAt": "2026-06-24T08:44:33Z",
+    "lang": "uk",
+    "source": {
+      "id": "f0f9e17ac9097cb73cf6395363cdc8d7",
+      "name": "Wonderzine Україна",
+      "url": "https://www.wonderzine.me"
+    }
+  },
+  {
+    "id": "fbbc8ae7a0fcaacde42b412b2633aa88",
+    "title": "Вчені виявили вражальний наслідок силових тренувань",
+    "description": "Упрордовж тривалого часу підняття ваги асоціювалося виключно зі створенням привабливого рельєфу тіла або нарощуванням об'ємних м'язів.",
+    "content": "Упрордовж тривалого часу підняття ваги асоціювалося виключно зі створенням привабливого рельєфу тіла або нарощуванням об'ємних м'язів. Проте масштабне наукове дослідження доводить, що користь від занять із гантелями та тренажерами сягає набагато глиб... [3502 chars]",
+    "url": "https://www.obozrevatel.com/ukr/nauka-oboz/vcheni-viyavili-vrazhalnij-naslidok-silovih-trenuvan.htm",
+    "image": "https://i.obozrevatel.com/news/2026/6/24/pexels-andres-ayrton-6551411.jpg?size=1200x630",
+    "publishedAt": "2026-06-24T08:01:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "ca149ffefb31c86f82d7f299d744af59",
+      "name": "Obozrevatel",
+      "url": "https://www.obozrevatel.com"
+    }
+  },
+  {
     "id": "65aa7300830ac13bb05873601919d272",
     "title": "Небезпечна звичка за сніданком: онкологи пояснили, від чого краще відмовитися",
     "description": "Медики нагадали, чому важливо додавати до сніданку білок, клітковину та мінімально оброблені продукти.",
@@ -72,81 +147,6 @@
       "id": "5272f0939d2489e38ba73b9d4f69646f",
       "name": "kyiv.news",
       "url": "https://kyiv.news"
-    }
-  },
-  {
-    "id": "2f11d9810ddbaaa84038eea7994d591a",
-    "title": "Київ лідирує в Україні за охопленням пацієнтів антиретровірусною терапією",
-    "description": "Київ утримує лідерські позиції в Україні за кількістю пацієнтів, які отримують антиретровірусну терапію (АРТ). Станом на 1 червня 2026 року в закладах охорони",
-    "content": "Скільки українців отримують АРТ і яку схему лікування обирають найчастіше?\nЗагалом в Україні станом на 1 червня 2026 року антиретровірусну терапію отримують 115 752 людини. Переважну більшість із них складають дорослі віком від 18 років — 114 212 осі... [2839 chars]",
-    "url": "https://kyiv.news/suspilstvo-podii/kyiv-lidyruie-ukraini-okhoplenniam-patsiientiv-antyretrovirusnoiu/",
-    "image": "https://kyiv.news/wp-content/uploads/2026/06/rss-1782212439.jpg",
-    "publishedAt": "2026-06-23T11:20:47Z",
-    "lang": "uk",
-    "source": {
-      "id": "5272f0939d2489e38ba73b9d4f69646f",
-      "name": "kyiv.news",
-      "url": "https://kyiv.news"
-    }
-  },
-  {
-    "id": "423579358d1e0015a3a7abc0a848433f",
-    "title": "Здоровий спосіб життя знижує ризик хронічних хвороб на десятиліття",
-    "description": "[Технології] Дієта та регулярні фізичні вправи можуть знизити ризик розвитку кількох хронічних захворювань на 21% протягом десятиліть.",
-    "content": "Масштабне 20-річне дослідження в США продемонструвало тривалий вплив здорового способу життя.\nДослідження в рамках американської Програми профілактики діабету (Diabetes Prevention Program, DPP) виявило, що зміни в способі життя можуть значно знижуват... [2770 chars]",
-    "url": "https://renews.com.ua/tehnologiyi/zdorovii-sposib-jittia-moje-zmenshiti-imovirnist-rozvitky-hronichnih-zahvoruvan-na-desiatilittia-zgidno-z-rezyltatami-doslidjennia-programi-profilaktiki-diabety/",
-    "image": "https://renews.com.ua/wp-content/uploads/2026/06/zdorovij-sposib-zhittja-mozhe-zmenshiti-jmovirnist-rozvitku-hronichnih-zahvorjuvan-na-desjatilittja-zgidno-z-rezultatami-doslidzhennja-programi-p-7eea813.jpg",
-    "publishedAt": "2026-06-23T05:50:03Z",
-    "lang": "uk",
-    "source": {
-      "id": "82c4321bd609a180dc3391604266fdd1",
-      "name": "renews.com.ua",
-      "url": "https://renews.com.ua"
-    }
-  },
-  {
-    "id": "eae455c27c655f4996e898b0e77caded",
-    "title": "У Святошинському районі Києва щодня роблять близько 100 щеплень",
-    "description": "КНП «Центр первинної медико-санітарної допомоги №1» Святошинського району Києва щодня проводить близько 100 профілактичних щеплень. Заклад забезпечений повним",
-    "content": "Від яких хвороб захищає Національний календар щеплень?\nВ Україні профілактичні щеплення проводяться відповідно до Національного календаря профілактичних щеплень, затвердженого Міністерством охорони здоров’я. Усі вакцини, передбачені цим документом, є... [2640 chars]",
-    "url": "https://kyiv.news/medytsyna/sviatoshynskomu-raioni-kyieva-shchodnia-robliat-blyzko/",
-    "image": "https://kyiv.news/wp-content/uploads/2026/06/rss-1782114760.jpg",
-    "publishedAt": "2026-06-23T05:49:54Z",
-    "lang": "uk",
-    "source": {
-      "id": "5272f0939d2489e38ba73b9d4f69646f",
-      "name": "kyiv.news",
-      "url": "https://kyiv.news"
-    }
-  },
-  {
-    "id": "f56a33e4c3ee53383640ca160d30e786",
-    "title": "дієтолог пояснила, як уникнути різких стрибків цукру",
-    "description": "Дієтологи назвали найкращий час для вживання солодощів. Експерти пояснили, коли десерти найменше впливають на рівень цукру в крові та які продукти допомагають уникнути різких глюкозних стрибків.",
-    "content": "Любителі солодкого можуть зменшити ризик різких коливань рівня цукру в крові, якщо звертатимуть увагу не лише на кількість десертів, а й на час їх споживання. Дієтологи стверджують, що вживання солодощів у першій половині дня допомагає організму ефек... [3606 chars]",
-    "url": "https://parlament.ua/news/nazvano-najkrashhyj-chas-dlya-solodkogo-diyetolog-poyasnyla-yak-unyknuty-rizkyh-strybkiv-czukru-v-krovi/",
-    "image": "https://parlament.ua/wp-content/cache/thumb/fc/261d909ee7c08fc_1200x630.jpg",
-    "publishedAt": "2026-06-22T18:46:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "ede139fa3f54dd871bd54fd8873615a3",
-      "name": "Парламент.UA",
-      "url": "https://parlament.ua"
-    }
-  },
-  {
-    "id": "534439f45fdd50a6da424bab9d497ddb",
-    "title": "FARS у Lemma: як AI за два дні написав дев’ятисторінковий пейпер про галюцинації LLM",
-    "description": "У новому відео на каналі Tech With Tim розробник і контентмейкер Тим демонструє, як платформа Lemma від Analemma AI провела повністю автономне дослідження про галюцинації великих мовних моделей. Центральний епізод — режим FARS (Fully Automated Research System), у якому система сама спланувала експеримент, обрала моделі, запустила код, проаналізувала результати й згенерувала дев’ятисторінковий ресерч-пейпер у класичному […]",
-    "content": "У новому відео на каналі Tech With Tim розробник і контентмейкер Тим демонструє, як платформа Lemma від Analemma AI провела повністю автономне дослідження про галюцинації великих мовних моделей. Центральний епізод — режим FARS (Fully Automated Resear... [8420 chars]",
-    "url": "https://techtoday.in.ua/news/fars-u-lemma-iak-ai-za-dva-dni-napysav-deviatystorinkovyi-peiper-pro-haliutsynatsii-llm-208413.html",
-    "image": "https://techtoday.in.ua/wp-content/uploads/2026/06/001_web-55.jpg",
-    "publishedAt": "2026-06-22T16:12:11Z",
-    "lang": "uk",
-    "source": {
-      "id": "5d79623fcb8e15053d441ba3ad41f8a8",
-      "name": "techtoday.in.ua",
-      "url": "https://techtoday.in.ua"
     }
   }
 ]
