@@ -1,5 +1,65 @@
 [
   {
+    "id": "fe313809c7d020294451ee136b2f388f",
+    "title": "Apple різко підняла ціни майже всіх своїх пристроїв: що здорожчало найбільше",
+    "description": "Apple суттєво підняла ціни на iPad, MacBook та Mac через дефіцит пам'яті. Причиною став бум штучного інтелекту, що спровокував дефіцит комплектуючих.",
+    "content": "Чому дорожчає техніка?\nСучасні нейромережі та ШІ-моделі потребують гігантських обсягів даних для навчання й роботи. Через це технологічні гіганти масово скуповують найшвидші чипи пам'яті для своїх серверів. Як наслідок, на ринку виникла гостра нестач... [3629 chars]",
+    "url": "https://24tv.ua/tech/apple-zbilshuye-tsini-ipad-macbook-poki-iphone-trimayetsya-tomu_n3094658",
+    "image": "https://24tv.ua/resources/photos/news/202606/3094658.jpg?v=1782456149000&w=1200&h=675",
+    "publishedAt": "2026-06-26T07:01:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "e737a8e76b161ef4526698e2ec5f60c9",
+      "name": "24 Канал",
+      "url": "https://24tv.ua"
+    }
+  },
+  {
+    "id": "50d8b8899e405fec87e307ac410ae0f9",
+    "title": "IBM заявила про створення першої в світі технології виробництва чипів розміром менше 1 нм",
+    "description": "В IBM заявили, що їхня нова архітектура мікросхем дозволяє розмістити майже 100 мільярдів транзисторів на одному крихітному чипі.",
+    "content": "В IBM заявили, що їхня нова архітектура мікросхем дозволяє розмістити майже 100 мільярдів транзисторів на одному крихітному чипі.\nЦе забезпечує покращення обчислювальної потужності та енергоефективності. В IBM описують власну технологію “як першу у с... [3610 chars]",
+    "url": "https://itc.ua/ua/novini/ibm-zayavyla-pro-stvorennya-pershoyi-v-sviti-tehnologiyi-vyrobnytstva-chypiv-rozmirom-menshe-1-nm/",
+    "image": "https://itcua-media-prod.fra1.cdn.digitaloceanspaces.com/uploads/2026/06/Sub-1nm-node-chip-3-e1782339299592-1440x1098-3.jpg",
+    "publishedAt": "2026-06-26T06:58:46Z",
+    "lang": "uk",
+    "source": {
+      "id": "391d17d071b755a4bda37c1b43f47c2c",
+      "name": "ITC.ua",
+      "url": "https://itc.ua"
+    }
+  },
+  {
+    "id": "9baecd135ac23369a77289bb87e0cbaf",
+    "title": "Nissan випустив новий позашляховик Kicks, що витрачає 4 л/100 км",
+    "description": "Відомий японський автовиробник офіційно презентував на домашньому ринку повністю нову генерацію свого популярного компактного позашляховика Nissan Kicks.",
+    "content": "Відомий японський автовиробник офіційно презентував на домашньому ринку повністю нову генерацію свого популярного компактного позашляховика Nissan Kicks. Автомобіль суттєво змінився порівняно зі своїм попередником і тепер виготовляється безпосередньо... [3158 chars]",
+    "url": "https://www.obozrevatel.com/ukr/avto-oboz/nissan-vipustiv-novij-pozashlyahovik-kicks-scho-vitrachae-4-l100-km.htm",
+    "image": "https://i.obozrevatel.com/news/2026/6/26/znimok-ekrana-2026-06-26-085659.png?size=1200x630",
+    "publishedAt": "2026-06-26T06:15:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "ca149ffefb31c86f82d7f299d744af59",
+      "name": "Obozrevatel",
+      "url": "https://www.obozrevatel.com"
+    }
+  },
+  {
+    "id": "ddda38d63466d7943ac15e13d259c26e",
+    "title": "Україна переходить на новий стандарт електронного підпису - що зміниться з 1 вересня",
+    "description": "З 1 вересня 2026 року всі нові сертифікати КЕП видаватимуть за криптографічним алгоритмом Купина - відомство пояснило, як пройде міграція",
+    "content": "З 1 вересня 2026 року Україна повністю переходить на новий криптографічний стандарт захисту електронного підпису - \"Купина\". ШІ-агент у додатку Дія - не єдина цифрова новація Мінцифри цього року. Для звичайних громадян міграція пройде непомітно, а ци... [2704 chars]",
+    "url": "https://informator.ua/uk/ukrajina-perehodit-na-noviy-standart-elektronnogo-pidpisu-shcho-zminitsya-z-1-veresnya",
+    "image": "https://cdn.informator.ua/@prod/media/ua/2026/06/26/6a3e10c5cdf920.45967790.webp",
+    "publishedAt": "2026-06-26T05:36:59Z",
+    "lang": "uk",
+    "source": {
+      "id": "bde7804d66349150533dd42fb6d86eca",
+      "name": "informator.ua",
+      "url": "https://informator.ua"
+    }
+  },
+  {
     "id": "d11b174af3380f0bedad6f2b27b853c7",
     "title": "Microsoft знову підвищує ціни на XBOX • Межа",
     "description": "Microsoft оголосила про підвищення цін на консолі XBOX по всьому світу, яке набуде чинності 1 серпня 2026 року. Згідно з офіційним повідомленням, вартість моделей із обсягом пам'яті 512 ГБ зросте на $100, а консолі з накопичувачем ємністю 1 ТБ подорожчають на $150.",
@@ -82,66 +142,6 @@
     "url": "https://itc.ua/ua/novini/vzhe-trohy-ne-takyj-byudzhetnyj-apple-pidnyala-tsinu-na-macbook-neo-ta-inshi-mac/",
     "image": "https://itcua-media-prod.fra1.cdn.digitaloceanspaces.com/uploads/2026/06/Depositphotos_874252776_L.jpg",
     "publishedAt": "2026-06-25T15:22:26Z",
-    "lang": "uk",
-    "source": {
-      "id": "391d17d071b755a4bda37c1b43f47c2c",
-      "name": "ITC.ua",
-      "url": "https://itc.ua"
-    }
-  },
-  {
-    "id": "94cdfc18e12aedfec67567542bba2cd2",
-    "title": "Найкращі електромобілі у 2026 році - рейтинг",
-    "description": "Світовий ринок електричного транспорту продовжує стрімко розвиватися, пропонуючи покупцям дедалі технологічніші та доступніші варіанти.",
-    "content": "Світовий ринок електричного транспорту продовжує стрімко розвиватися, пропонуючи покупцям дедалі технологічніші та доступніші варіанти. Провідні європейські фахівці проаналізували ключові новинки та сформували детальний рейтинг електромобілів у різни... [9507 chars]",
-    "url": "https://www.obozrevatel.com/ukr/avto-oboz/najkraschi-elektrichki-2026-roku-top-avtomobiliv.htm",
-    "image": "https://i.obozrevatel.com/news/2026/6/25/pexels-hyundaimotorgroup-17920198.jpg?size=1200x630",
-    "publishedAt": "2026-06-25T14:05:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "ca149ffefb31c86f82d7f299d744af59",
-      "name": "Obozrevatel",
-      "url": "https://www.obozrevatel.com"
-    }
-  },
-  {
-    "id": "4b645f839c16b65ea1ad9685c76b1120",
-    "title": "Долар б’є рекорди - що про це кажуть аналітики",
-    "description": "Долар стрімко зміцнюється і вже сягнув найбільшого місячного...",
-    "content": "Долар б’є рекорди — що про це кажуть аналітики\nДолар стрімко зміцнюється і вже продемонстрував найсильніше місячне зростання майже за рік.\nПро це повідомляє Reuters.\nІнвестори готуються до ключових даних з інфляції у США, які можуть підтвердити очіку... [2121 chars]",
-    "url": "https://news.finance.ua/ua/dolar-b-ye-rekordy-shho-pro-ce-kazhut-analityky",
-    "image": "https://finance-news-media.fra1.cdn.digitaloceanspaces.com/prod/f/0/f030367664446365a9483d9bad87704e",
-    "publishedAt": "2026-06-25T13:02:09Z",
-    "lang": "uk",
-    "source": {
-      "id": "1759d0a20c3bd01b1f404fba732c7f96",
-      "name": "Finance.ua",
-      "url": "https://news.finance.ua"
-    }
-  },
-  {
-    "id": "af7ade07886487a1bf76e434d305ee25",
-    "title": "Hyundai знімає з виробництва свій останній універсал i30 Wagon",
-    "description": "Компанія Hyundai офіційно завершує випуск універсала i30 Wagon через низьку рентабельність та падіння попиту. Автовиробник зосередиться на популярних кросоверах Bayon, Kona та Tucson - Авто24",
-    "content": "Світовий споживчий інтерес до класичних сімейних універсалів продовжує стрімко падати, поступаючись місцем сегменту кросоверів та позашляховиків.\nЧитайте також: Новий електроседан Hyundai Ioniq V має малу батарею, але проїжджає 650 кілометрів\nЕкономі... [2035 chars]",
-    "url": "https://24tv.ua/auto/hyundai_znimaie_z_vyrobnytstva_svii_ostannii_universal_cherez_padinnia_popytu_na_rynku_n73472",
-    "image": "https://24tv.ua/auto/resources/photos/news/202606/7347215f5da6b-bcab-4ba7-9bef-61a185bc50eb.jpg",
-    "publishedAt": "2026-06-25T12:00:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "e737a8e76b161ef4526698e2ec5f60c9",
-      "name": "24 Канал",
-      "url": "https://24tv.ua"
-    }
-  },
-  {
-    "id": "c261ca9d3f92feffa0857395574e1612",
-    "title": "Чиста енергія: Нідерланди будують рекордну залізо-повітряну батарею на 1 ГВт·год",
-    "description": "Нідерландська Ore Energy і постачальник Budget Thuis підписали найбільшу залізо-повітряну угоду в Європі: 1 ГВт·год накопичення енергії на 24–100 годин без літію і кобальту. Перша черга на 400 МВт·год запланована на 2028 рік — як альтернатива газовому резервному живленню.",
-    "content": "Нідерландська компанія із залізо-повітряного багатодобового зберігання енергії об’єдналася з одним із найбільших постачальників енергії країни для розгортання одного гігават-годину (ГВт·год) залізо-повітряного довготривалого накопичення енергії (LDES... [4248 chars]",
-    "url": "https://itc.ua/ua/novini/chysta-energiya-niderlandy-buduyut-rekordnu-zalizo-povitryanu-batareyu-na-1-gvt-god/",
-    "image": "https://itcua-media-prod.fra1.cdn.digitaloceanspaces.com/uploads/2026/06/batareya-3346df96-d4d9-4375-8982-930cc1929a0d.png",
-    "publishedAt": "2026-06-25T10:00:31Z",
     "lang": "uk",
     "source": {
       "id": "391d17d071b755a4bda37c1b43f47c2c",
