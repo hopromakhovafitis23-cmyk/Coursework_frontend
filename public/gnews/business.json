@@ -1,5 +1,50 @@
 [
   {
+    "id": "d11b174af3380f0bedad6f2b27b853c7",
+    "title": "Microsoft знову підвищує ціни на XBOX • Межа",
+    "description": "Microsoft оголосила про підвищення цін на консолі XBOX по всьому світу, яке набуде чинності 1 серпня 2026 року. Згідно з офіційним повідомленням, вартість моделей із обсягом пам'яті 512 ГБ зросте на $100, а консолі з накопичувачем ємністю 1 ТБ подорожчають на $150.",
+    "content": "Компанія Microsoft оголосила про чергове підвищення цін на консолі XBOX по всьому світу, яке набуде чинності 1 серпня 2026 року. Згідно з офіційним повідомленням, вартість моделей із обсягом пам'яті 512 ГБ зросте на $100, а консолі з накопичувачем єм... [1168 chars]",
+    "url": "https://mezha.ua/news/microsoft-znovu-pidvishchuye-cini-na-xbox-312669/",
+    "image": "https://img.mezha.ua/mezha/images/doc/a/0/314879/a00b61dce6d1299cd2fa32367d0f334f.jpeg?w=1200&q=85&stamp=1782421996",
+    "publishedAt": "2026-06-25T21:22:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "6b0257d31504a630dde7752eed4e1e39",
+      "name": "Mezha",
+      "url": "https://mezha.ua"
+    }
+  },
+  {
+    "id": "e79577d283649161f03804382f002399",
+    "title": "Citroen показав військову версію кросовера C3 Aircross",
+    "description": "Шоу-кар Citroen C3 Aircross Marine Nationale святкує 400-річчя ВМС Франції із перетворенням у військовий автомобіль.",
+    "content": "Шоу-кар Citroen C3 Aircross Marine Nationale святкує 400-річчя ВМС Франції із перетворенням у військовий автомобіль.\nCitroen C3 Aircross було перетворено на тактичний кросовер.\nАвтомобіль має фарбування військового корабля.\nЧервоне підсвічування натх... [2282 chars]",
+    "url": "https://motorcar.com.ua/news/citroen-c3-aircross-krosover-marine-nationale-2026/",
+    "image": "https://motorcar.com.ua/wp-content/uploads/2026/06/citroen-c3-aircross-marine-nationale-1.webp",
+    "publishedAt": "2026-06-25T19:10:22Z",
+    "lang": "uk",
+    "source": {
+      "id": "ccf5b23cf2f813320e7baafea8cf4ea7",
+      "name": "motorcar.com.ua",
+      "url": "https://motorcar.com.ua"
+    }
+  },
+  {
+    "id": "c1ae88e0576dfffb9570c0725470689c",
+    "title": "\"Лузер\" і \"китайська підробка\": Ferrari знайшла винуватця у провалі електромобіля Luce",
+    "description": "Компанія Ferrari звільнила свого директора з маркетингу та комерції Енріко Гальєру, який обіймав цю посаду протягом 16 років - подробиці на УНІАН.",
+    "content": "Компанія Ferrari звільнила свого директора з маркетингу та комерції Енріко Гальєру (Enrico Galliera), який обіймав цю посаду протягом 16 років. Про це повідомляє autoevolution.\nТаким чином, на думку фахівців, італійський бренд знайшов \"цапа-відбувайл... [3017 chars]",
+    "url": "https://www.unian.ua/economics/auto/luzer-i-kitayska-pidrobka-ferrari-znayshla-vinuvatcya-u-provali-elektromobilya-luce-13422513.html",
+    "image": "https://images.unian.net/photos/2026_06/thumb_files/620_324_1782384890-1968.jpg?1",
+    "publishedAt": "2026-06-25T16:26:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "d4361862486677369ff2ae7719b8d313",
+      "name": "УНІАН",
+      "url": "https://www.unian.ua"
+    }
+  },
+  {
     "id": "94cdfc18e12aedfec67567542bba2cd2",
     "title": "Найкращі електромобілі у 2026 році - рейтинг",
     "description": "Світовий ринок електричного транспорту продовжує стрімко розвиватися, пропонуючи покупцям дедалі технологічніші та доступніші варіанти.",
@@ -12,6 +57,21 @@
       "id": "ca149ffefb31c86f82d7f299d744af59",
       "name": "Obozrevatel",
       "url": "https://www.obozrevatel.com"
+    }
+  },
+  {
+    "id": "4b645f839c16b65ea1ad9685c76b1120",
+    "title": "Долар б’є рекорди - що про це кажуть аналітики",
+    "description": "Долар стрімко зміцнюється і вже сягнув найбільшого місячного...",
+    "content": "Долар б’є рекорди — що про це кажуть аналітики\nДолар стрімко зміцнюється і вже продемонстрував найсильніше місячне зростання майже за рік.\nПро це повідомляє Reuters.\nІнвестори готуються до ключових даних з інфляції у США, які можуть підтвердити очіку... [2121 chars]",
+    "url": "https://news.finance.ua/ua/dolar-b-ye-rekordy-shho-pro-ce-kazhut-analityky",
+    "image": "https://finance-news-media.fra1.cdn.digitaloceanspaces.com/prod/f/0/f030367664446365a9483d9bad87704e",
+    "publishedAt": "2026-06-25T13:02:09Z",
+    "lang": "uk",
+    "source": {
+      "id": "1759d0a20c3bd01b1f404fba732c7f96",
+      "name": "Finance.ua",
+      "url": "https://news.finance.ua"
     }
   },
   {
@@ -82,66 +142,6 @@
     "url": "https://24tv.ua/tech/shtuchniy-intelekt-programisti-doslidzhennya-pokazalo-nespodivanu_n3093966",
     "image": "https://24tv.ua/resources/photos/news/202606/3093966.jpg?v=1782369194000&w=1200&h=675",
     "publishedAt": "2026-06-25T06:33:20Z",
-    "lang": "uk",
-    "source": {
-      "id": "e737a8e76b161ef4526698e2ec5f60c9",
-      "name": "24 Канал",
-      "url": "https://24tv.ua"
-    }
-  },
-  {
-    "id": "d9f7206426d3f8a52a6f242f655f5805",
-    "title": "Біткоїн впав нижче 60 тисяч доларів",
-    "description": "УНН Економіка ✎ Курс біткоїна опустився до 59 023 доларів, найнижчого рівня з жовтня. Трейдери за добу втратили майже 800 млн доларів у\nліквідованих довгих позиціях.",
-    "content": "Курс біткоїна опустився нижче 60 тис. доларів, посиливши занепокоєння інвесторів щодо подальшої динаміки криптовалютного ринку. На тлі падіння трейдери за добу втратили майже 800 млн доларів у ліквідованих довгих позиціях, повідомляє Bloomberg, пише ... [855 chars]",
-    "url": "https://unn.ua/news/bitkoin-vpav-nyzhche-60-tysiach-dolariv",
-    "image": "https://unn.ua/img/2026/06/24/1782336568-4174-large.webp",
-    "publishedAt": "2026-06-24T23:17:29Z",
-    "lang": "uk",
-    "source": {
-      "id": "052123f557cbbddd4dd84cb648e3b977",
-      "name": "Українські Національні Новини (УНН)",
-      "url": "https://unn.ua"
-    }
-  },
-  {
-    "id": "348e30b6183fbd0e3d5ef64d43ec19a6",
-    "title": "Ferrari змінює керівника маркетингу після критики електрокара Luce • Межа",
-    "description": "Ferrari оголосила про кадрові зміни у керівництві після суперечливого дебюту свого першого електромобіля Luce. З 1 липня посаду директора з маркетингу та комерційної діяльності обійме Масиміліано Ді Сільвестре, який раніше очолював BMW Italy. Він замінить Енріко Галлієру, що працював у Ferrari понад 16 років.",
-    "content": "Італійський виробник люксових спортивних автомобілів Ferrari оголосив про заміну керівника свого маркетингового та комерційного департаменту, пише Gizmodo. Посаду залишає Енріко Галльєра, який працював у компанії протягом 16 років. З 1 липня 2026 рок... [1722 chars]",
-    "url": "https://mezha.ua/news/ferrari-zminyuye-kerivnika-marketingu-pislya-kritiki-elektrokara-luce-312621/",
-    "image": "https://img.mezha.ua/mezha/images/doc/1/6/314599/166fa5360b4e09c5bfb1628c27ea220d.jpeg?w=1200&q=85&stamp=1782327303",
-    "publishedAt": "2026-06-24T19:17:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "6b0257d31504a630dde7752eed4e1e39",
-      "name": "Mezha",
-      "url": "https://mezha.ua"
-    }
-  },
-  {
-    "id": "ef39b1ffdb18e7f24f7df000ee889857",
-    "title": "5 перевершив планові продажи",
-    "description": "Японський виробник Mazda отримав вп’ятеро більше замовлень на новий кросовер CX-5 на місцевому ринку.",
-    "content": "Японський виробник Mazda отримав вп’ятеро більше замовлень на новий кросовер CX-5 на місцевому ринку.\nНовий Mazda CX-5 вже отримав 10 000 замовлень по всій Японії.\nПопит у першому місяці перевищив планові 2000 одиниць.\nТопова комплектація обрана у 65... [2684 chars]",
-    "url": "https://motorcar.com.ua/news/krosover-mazda-cx-5-prodazh-yaponiya-2026/",
-    "image": "https://motorcar.com.ua/wp-content/uploads/2026/06/mazda-cx-5-japan-2.webp",
-    "publishedAt": "2026-06-24T18:22:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "ccf5b23cf2f813320e7baafea8cf4ea7",
-      "name": "motorcar.com.ua",
-      "url": "https://motorcar.com.ua"
-    }
-  },
-  {
-    "id": "6b46db2832de48b69700ad5c6a249dd5",
-    "title": "У Київ привезли незвичайний BMW Z3 M Coupe",
-    "description": "Культовий спорткар BMW Z3 M Coupe можна вважати однми з найнеординарніших моделей в історії підрозділу BMW M.",
-    "content": "Особливу увагу привернув той факт, що автомобіль має праве розташування керма, що для України є великою рідкістю. Серед шанувальників BMW модель отримала прізвисько “Clown Shoe” (Клоунський черевик) або просто Башмак. Про це пише topgir.com.ua.\nЧитай... [2020 chars]",
-    "url": "https://24tv.ua/auto/u_kyiv_pryvezly_nezvychainyi_bmw_z3_m_coupe_n73444",
-    "image": "https://24tv.ua/auto/resources/photos/news/202606/7344453594bcc-67a4-4c51-8899-ce12d73a753c.jpg",
-    "publishedAt": "2026-06-24T16:20:00Z",
     "lang": "uk",
     "source": {
       "id": "e737a8e76b161ef4526698e2ec5f60c9",
