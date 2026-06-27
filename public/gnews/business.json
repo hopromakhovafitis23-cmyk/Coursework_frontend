@@ -1,5 +1,35 @@
 [
   {
+    "id": "03f276d863cfee6334af99af184a073a",
+    "title": "Skoda Octavia засвітила важливий рестайлінг",
+    "description": "Чеська марка Skoda готує рестайлінг для моделі Octavia й оновлення бестселера відбудеться вже на початку 2027 року.",
+    "content": "Чеська марка Skoda готує рестайлінг для моделі Octavia й оновлення бестселера відбудеться вже на початку 2027 року.\nSkoda планує оновити Octavia для 2027 року.\nОновлений Skoda Octavia вже виїхав на тести.\nРестайлінг вплине на екстер’єр та технології ... [2313 chars]",
+    "url": "https://motorcar.com.ua/news/skoda-octavia-restajling-test-2026/",
+    "image": "https://motorcar.com.ua/wp-content/uploads/2026/06/skoda-octavia-facelift-2026-1.jpg",
+    "publishedAt": "2026-06-26T17:29:31Z",
+    "lang": "uk",
+    "source": {
+      "id": "ccf5b23cf2f813320e7baafea8cf4ea7",
+      "name": "motorcar.com.ua",
+      "url": "https://motorcar.com.ua"
+    }
+  },
+  {
+    "id": "088c92f4d91b1ded26d6df63feafdbf5",
+    "title": "Ford повернув звільнених інженерів після збоїв через ШІ",
+    "description": "Керівництво Ford заявило, що штучного інтелекту недостатньо для розв'язання проблем з якістю",
+    "content": "Американська компанія Ford найняла, підвищила на посаді або повернула на роботу близько 350 досвідчених технічних фахівців у рамках масштабних зусиль щодо вирішення проблем з якістю автомобілів. Про це пишуть Bloomberg та Business Insider.\nЗа словами... [2294 chars]",
+    "url": "https://biz.liga.net/ua/transport/news/amerykanskyy-avtohihant-povernuv-zvilnenykh-inzheneriv-dlia-vypravlennia-pomylok-iaki-narobyv-shi",
+    "image": "https://storage.liga.net/images/general/social/social-4628024-ua.png?v=1782478339",
+    "publishedAt": "2026-06-26T15:40:35Z",
+    "lang": "uk",
+    "source": {
+      "id": "b93e328777e19b792d6622633a10161e",
+      "name": "Liga.Biz",
+      "url": "https://biz.liga.net"
+    }
+  },
+  {
     "id": "ac13ea7c6d6ae63bdd94603881213a0f",
     "title": "SpaceX може запустити власний мобільний сервіс Starlink • Межа",
     "description": "SpaceX планує запустити мобільний сервіс Starlink для користувачів у США. Як повідомляє Financial Times, про це під час зустрічі з інвесторами, присвяченої нещодавньому IPO, розповіла президентка та операційна директорка Гвінн Шотвелл.",
@@ -117,36 +147,6 @@
       "id": "391d17d071b755a4bda37c1b43f47c2c",
       "name": "ITC.ua",
       "url": "https://itc.ua"
-    }
-  },
-  {
-    "id": "9baecd135ac23369a77289bb87e0cbaf",
-    "title": "Nissan випустив новий позашляховик Kicks, що витрачає 4 л/100 км",
-    "description": "Відомий японський автовиробник офіційно презентував на домашньому ринку повністю нову генерацію свого популярного компактного позашляховика Nissan Kicks.",
-    "content": "Відомий японський автовиробник офіційно презентував на домашньому ринку повністю нову генерацію свого популярного компактного позашляховика Nissan Kicks. Автомобіль суттєво змінився порівняно зі своїм попередником і тепер виготовляється безпосередньо... [3158 chars]",
-    "url": "https://www.obozrevatel.com/ukr/avto-oboz/nissan-vipustiv-novij-pozashlyahovik-kicks-scho-vitrachae-4-l100-km.htm",
-    "image": "https://i.obozrevatel.com/news/2026/6/26/znimok-ekrana-2026-06-26-085659.png?size=1200x630",
-    "publishedAt": "2026-06-26T06:15:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "ca149ffefb31c86f82d7f299d744af59",
-      "name": "Obozrevatel",
-      "url": "https://www.obozrevatel.com"
-    }
-  },
-  {
-    "id": "ddda38d63466d7943ac15e13d259c26e",
-    "title": "Україна переходить на новий стандарт електронного підпису - що зміниться з 1 вересня",
-    "description": "З 1 вересня 2026 року всі нові сертифікати КЕП видаватимуть за криптографічним алгоритмом Купина - відомство пояснило, як пройде міграція",
-    "content": "З 1 вересня 2026 року Україна повністю переходить на новий криптографічний стандарт захисту електронного підпису - \"Купина\". ШІ-агент у додатку Дія - не єдина цифрова новація Мінцифри цього року. Для звичайних громадян міграція пройде непомітно, а ци... [2704 chars]",
-    "url": "https://informator.ua/uk/ukrajina-perehodit-na-noviy-standart-elektronnogo-pidpisu-shcho-zminitsya-z-1-veresnya",
-    "image": "https://cdn.informator.ua/@prod/media/ua/2026/06/26/6a3e10c5cdf920.45967790.webp",
-    "publishedAt": "2026-06-26T05:36:59Z",
-    "lang": "uk",
-    "source": {
-      "id": "bde7804d66349150533dd42fb6d86eca",
-      "name": "informator.ua",
-      "url": "https://informator.ua"
     }
   }
 ]
