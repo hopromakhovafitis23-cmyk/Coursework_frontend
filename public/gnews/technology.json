@@ -1,12 +1,117 @@
 [
   {
-    "id": "2d34ef6eceb0639923d62d659a89e94b",
-    "title": "НПЗ у Слов'янську-на-Кубані охопила пожежа після атаки дронів 28 червня",
-    "description": "У ніч на 28 червня безпілотники атакували нафтопереробний завод у місті Слов'янськ-на-Кубані, що в Краснодарському краї РФ....",
-    "content": "За словами очевидців, у районі Слов'янського нафтопереробного заводу пролунала серія потужних вибухів, після чого на об'єкті піднявся густий стовп диму та спалахнула масштабна пожежа.\nНаразі відомо про загоряння щонайменше кількох ємностей із нафтопр... [1411 chars]",
-    "url": "https://www.rbc.ua/rus/news/droni-atakuvali-naftopererobniy-zavod-krasnodarskomu-1782610588.html",
-    "image": "https://www.rbc.ua/static/img/p/h/photo_2026_06_28_01_26_36__1__fba3cce47b0b71cc5cc668eba36e9f4c_1300x820.jpg",
-    "publishedAt": "2026-06-28T01:36:28Z",
+    "id": "47dd835e10c86d81810d80888d1432ee",
+    "title": "HMD готує повернення ще однієї легендарної Nokia",
+    "description": "Компанія HMD, яка багато років випускала телефони під брендом Nokia, схоже, готує ще одне повернення моделі з минулого. Цього разу йдеться не про класичний кнопковий телефон, а про відродження лінійки Asha — серії недорогих сенсорних пристроїв, які Nokia просувала ще на початку 2010-х років.Що відомо про нову HMD Asha 305Чим запам’яталась оригінальна Nokia Asha 305 […]",
+    "content": "Компанія HMD, яка багато років випускала телефони під брендом Nokia, схоже, готує ще одне повернення моделі з минулого. Цього разу йдеться не про класичний кнопковий телефон, а про відродження лінійки Asha — серії недорогих сенсорних пристроїв, які N... [2612 chars]",
+    "url": "https://gsminfo.com.ua/199018-hmd-gotuye-povernennya-shhe-odniyeyi-legendarnoyi-nokia-na-rynok-mozhe-vyjty-asha-305.html",
+    "image": "https://gsminfo.com.ua/wp-content/uploads/2023/03/nokia-9.jpeg",
+    "publishedAt": "2026-06-28T07:11:13Z",
+    "lang": "uk",
+    "source": {
+      "id": "4ad9a17bdb41e9b5209119de5f38e809",
+      "name": "GSMinfo",
+      "url": "https://gsminfo.com.ua"
+    }
+  },
+  {
+    "id": "0bee365b3792854decddbd3217e6a5ce",
+    "title": "iOS 27 - ключова функція iPhone стане окремим додатком",
+    "description": "Apple продовжує розвивати власну екосистему пристроїв і програмного забезпечення, роблячи ставку на технології штучного інтелекту. Одним із наймасштабніших нововведень компанії стане оновлення голосового помічника Siri.",
+    "content": "Apple продовжує розвивати власну екосистему пристроїв і програмного забезпечення, роблячи ставку на технології штучного інтелекту. Одним із наймасштабніших нововведень компанії стане оновлення голосового помічника Siri. У iOS 27 сервіс не лише отрима... [2462 chars]",
+    "url": "https://www.obozrevatel.com/ukr/tehno-oboz/klyuchova-funktsiya-iphone-stane-okremim-dodatkom-scho-vidomo.htm",
+    "image": "https://i.obozrevatel.com/news/2026/6/24/pexels-freestocks-688963.jpg?size=1200x630",
+    "publishedAt": "2026-06-28T07:03:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "ca149ffefb31c86f82d7f299d744af59",
+      "name": "Obozrevatel",
+      "url": "https://www.obozrevatel.com"
+    }
+  },
+  {
+    "id": "43626fa53ec3ebb42bdf88b1c2ac0a89",
+    "title": "\"Ми відкрили полювання на ворожі антени і знищуємо їх десятками та сотнями\": у Покровську засліплюють ворожих пілотів",
+    "description": "Окупанти намагаються наростити у місті свою ударну компоненту у вигляді БПЛА, для чого встановлюють велику кількість антен.",
+    "content": "Окупанти намагаються наростити у місті свою ударну компоненту у вигляді БПЛА, для чого встановлюють велику кількість антен.\nПро це на стрімі АрміяTV розповів начальник відділу комунікацій 7-го корпусу швидкого реагування ДШВ полковник Володимир Полев... [1017 chars]",
+    "url": "https://armyinform.com.ua/2026/06/28/my-vidkryly-polyuvannya-na-vorozhi-anteny-i-znyshhuyemo-yih-desyatkamy-ta-sotnyamy-u-pokrovsku-zasliplyuyut-vorozhyh-pilotiv/",
+    "image": "https://armyinform.com.ua/wp-content/uploads/2026/05/striks_udary-po-antenah.png",
+    "publishedAt": "2026-06-28T06:41:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "2e38197e59eebab4d9f99f889a185c5d",
+      "name": "ArmyInform",
+      "url": "https://armyinform.com.ua"
+    }
+  },
+  {
+    "id": "dab0381c3c4581a8d75281bc53c9d137",
+    "title": "Україна відкрила доступ до секретів російської зброї",
+    "description": "Новий портал TrophyLab дозволяє вивчати захоплені російські ракети, дрони та бронетехніку, а третина перших користувачів уже приєдналася з-за кордону.",
+    "content": "Україна запустила унікальну платформу TrophyLab, яка відкриває доступ до даних про захоплену російську військову техніку. Новим ресурсом уже зацікавилися українські військові, виробники озброєння, дослідницькі центри та уряди іноземних держав, пише B... [2682 chars]",
+    "url": "https://www.unian.ua/weapons/ukrajina-vidkrila-dostup-do-sekretiv-rosiyskoji-zbroji-bi-rozkriv-detali-13424811.html",
+    "image": "https://images.unian.net/photos/2023_05/thumb_files/620_324_1684041338-6170.jpg?1",
+    "publishedAt": "2026-06-28T06:01:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "d4361862486677369ff2ae7719b8d313",
+      "name": "УНІАН",
+      "url": "https://www.unian.ua"
+    }
+  },
+  {
+    "id": "7ed432c879878ed2b60441177e401b50",
+    "title": "Атака на Харків 28 червня 2026",
+    "description": "Дрон поцілив у багатоповерхівку у Харкові 28 червня, які наслідки обстрілу. Приліт БпЛА у Харкові, що відомо. Київський район, удар дрона 28.06.2026 - Харків",
+    "content": "Про це повідомив мер міста Ігор Терехов.\nДивіться також Ворог атакував ракетами Київ: спалахнули пожежі, є постраждалі\nЩо відомо про атаку на Харків?\nПовідомлення про влучання ударного дрона надійшло о 8:38. БпЛА поцілив у багатоповерхівку у Київсько... [1193 chars]",
+    "url": "https://24tv.ua/kharkiv/harkovi-dron-vluchiv-bagatopoverhivk_n3095730",
+    "image": "https://24tv.ua/resources/photos/news/202606/3095730.jpg?v=1782626028000&w=1200&h=675",
+    "publishedAt": "2026-06-28T05:42:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "e737a8e76b161ef4526698e2ec5f60c9",
+      "name": "24 Канал",
+      "url": "https://24tv.ua"
+    }
+  },
+  {
+    "id": "eedc25c94e6d5fef52959702e2281cf2",
+    "title": "Росіяни атакували Україну вісьмома ракетами та 142 БпЛА",
+    "description": "Росіяни атакували Україну вісьмома ракетами та 142 БпЛА, ППО збила 125 БпЛА та 7 ракет",
+    "content": "У ніч проти 28 червня росіяни атакували Україну вісьмома ракетами та 142 ударними дронами.\nПро це повідомили у Повітряних силах.\nРосія атакувала двома протикорабельними ракетами «Циркон», або «Онікс» із Курської області, шістьма балістичними ракетами... [1094 chars]",
+    "url": "https://babel.ua/news/128096-rosiyani-atakuvali-ukrajinu-vismoma-raketami-ta-142-bpla-skilki-ciley-zbila-ppo",
+    "image": "https://babel.ua/static/content/frtlki9g/thumbs/1200x630/e/04/f49967eded70770fa6fb16cecdecd04e.jpeg?v=5469",
+    "publishedAt": "2026-06-28T05:35:52Z",
+    "lang": "uk",
+    "source": {
+      "id": "d5c141466738ababa5e945e8f8127bbf",
+      "name": "Бабель",
+      "url": "https://babel.ua"
+    }
+  },
+  {
+    "id": "897dd69445c0d01aa374120a92c80955",
+    "title": "росія атакувала Київ балістикою, Сумщину - КАБами, Дніпропетровщину та Миколаївщину - дронами: що відомо про наслідки",
+    "description": "У ніч проти 28 червня російська армія атакувала Київ балістичними ракетами: відомо про щонайменше двох постраждалих, ...➜ читайте далі на Rubryka.com",
+    "content": "«Увечері росіяни вдарили керованими авіабомбами по цивільній інфраструктурі у Сумській та Ворожбянській громадах», – написав він.\nЗокрема, два КАБи влучили по території з промисловими та складськими об'єктами у Ковпаківському районі Сум. За попередні... [880 chars]",
+    "url": "https://rubryka.com/2026/06/28/rosiya-atakuvala-kyyiv-balistykoyu-sumshhynu-kabamy-dnipropetrovshhynu-ta-mykolayivshhynu-dronamy-shho-vidomo-pro-naslidky/",
+    "image": "https://rubryka.com/wp-content/uploads/ogimages/ua_862732_1782625151rosiya-atakuvala-kyyiv-balistykoyu-sumshhynu-kabamy-dnipropetrovshhynu-ta-mykolayivshhynu-dronamy-shho-vidomo-pro-naslidky.jpg",
+    "publishedAt": "2026-06-28T05:28:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "27b90949a0fb95263641f3538efcd662",
+      "name": "Рубрика",
+      "url": "https://rubryka.com"
+    }
+  },
+  {
+    "id": "034b2f38d7215c25e887c121137fe35a",
+    "title": "Вертоліт Chinook оснастять можливістю запускати безпілотники",
+    "description": "Британські військові перетворюють легендарні транспортні гелікоптери Chinook на потужну зброю майбутнього. Тепер вони запускатимуть рої автономних без...",
+    "content": "Десятиліттями Chinook служив британській армії для перевезення солдатів та техніки. Тепер командування авіації вирішило змінити правила гри: частину важких літаків перетворять на носіїв безпілотних систем.\nВипробування вже тривають і військові демонс... [2071 chars]",
+    "url": "https://www.rbc.ua/rus/news/britanski-gelikopteri-chinook-navchat-skidati-1782589758.html",
+    "image": "https://www.rbc.ua/static/img/9/7/9761600_5487407f23a15ef6bace607306f85a8e_1300x820.jpg",
+    "publishedAt": "2026-06-28T05:18:06Z",
     "lang": "uk",
     "source": {
       "id": "6f1ead09126f1f4738a48957e22f789c",
@@ -15,138 +120,33 @@
     }
   },
   {
-    "id": "4a0786b205042907cf96e5720f7ff04f",
-    "title": "Google навчила Gemini керувати комп’ютером: що тепер ШІ робить без людини",
-    "description": "Google додала в Gemini 3.5 Flash функцію computer use. Тепер штучний інтелект може самостійно працювати з комп’ютером і виконувати завдання.",
-    "content": "Важливі новини щодня — додайте «Експерт» в улюблені джерела Google\nШтучний інтелект виходить за межі чатів і бере на себе реальні дії за комп’ютером. Google вбудувала в Gemini 3.5 Flash функцію, яка дозволяє моделі самій працювати з екраном, вкладкам... [2111 chars]",
-    "url": "https://expert.in.ua/tehnologiyi/google-navchyla-gemini-keruvaty-komp-yuterom-shho-teper-shi-robyt-bez-lyudyny/",
-    "image": "https://expert.in.ua/wp-content/uploads/2026/06/expert-1782549955507.jpg",
-    "publishedAt": "2026-06-28T01:16:21Z",
+    "id": "9cb8a94ee5b8f3fd1be0c6c1a592261f",
+    "title": "Рукопис, який переміг ШІ - таємниця Кодексу Рохонці",
+    "description": "Світова наукова спільнота продовжує безуспішні спроби розгадати таємницю Кодексу Рохонці - унікального середньовічного рукопису, заповненого невідомим...",
+    "content": "Невелика книга розміром 12 на 10 сантиметрів містить 448 сторінок унікального тексту та 87 детальних малюнків на релігійну та військову тематику.\nЗ моменту своєї першої публічної появи в Угорщині у 1830-х роках манускрипт бентежив істориків, лінгвіст... [2311 chars]",
+    "url": "https://www.rbc.ua/rus/news/nauka-ta-shi-bezsili-kodeks-rohontsi-rozshifruvali-1782212283.html",
+    "image": "https://www.rbc.ua/static/img/_/2/_2_d7a01283c2589f914fa732d001eb147b_1300x820.jpg",
+    "publishedAt": "2026-06-28T05:12:00Z",
     "lang": "uk",
     "source": {
-      "id": "5cfb172c3b6bcccc081b0d75e324cb1f",
-      "name": "expert.in.ua",
-      "url": "https://expert.in.ua"
+      "id": "6f1ead09126f1f4738a48957e22f789c",
+      "name": "РБК-Україна",
+      "url": "https://www.rbc.ua"
     }
   },
   {
-    "id": "62874ffa9ec4c8c4a02237969956f080",
-    "title": "Чи варто купувати вживані смартфони: досвід користувачів та ризики",
-    "description": "Багато споживачів досі з осторогою ставляться до покупки відновлених смартфонів, оскільки очікують, що такий пристрій прослужить недовго. Проте досвід",
-    "content": "Багато споживачів досі з осторогою ставляться до покупки відновлених смартфонів, оскільки очікують, що такий пристрій прослужить недовго. Проте досвід користувачів Apple iPhone та Samsung Galaxy показує, що при належному стані гаджети можуть стабільн... [1482 chars]",
-    "url": "https://prostomob.com/283982-processing-how-long-do-owners-say-refurbished-phones-usually-last",
-    "image": "https://prostomob.com/wp-content/uploads/2026/06/intro-285.jpg",
-    "publishedAt": "2026-06-28T01:07:01Z",
+    "id": "0a7884028caa7e6ffc1c70a95a3c6f35",
+    "title": "Які професії замінить ШІ",
+    "description": "ШІ насамперед замінить важливу професії - програмістів. Такі висновки представив творець штучного інтелекту Claude. Які професії зникнуть через ШІ - Бізнес 24.",
+    "content": "Які професії замінить ШІ\nРейтинг покликаний показати, які професії вже зараз найбільше піддаються автоматизації й під загрозою через ШІ, пише Anthropic.\nДивіться також Власник TikTok ставить 20 мільярдів доларів на ШІ: що з цього вийде\nЗа результатам... [1726 chars]",
+    "url": "https://24tv.ua/business/yaki-profesiyi-zaminit-shi-anthropic-nazvala-naybilsh-vrazlivi_n3094409",
+    "image": "https://24tv.ua/resources/photos/news/202606/3094409.jpg?v=1782399481000&w=1200&h=675",
+    "publishedAt": "2026-06-28T05:10:00Z",
     "lang": "uk",
     "source": {
-      "id": "7636b958d76298a2e2ea6b3c284899fd",
-      "name": "prostomob.com",
-      "url": "https://prostomob.com"
-    }
-  },
-  {
-    "id": "c9f17ba88fabcf2e295c23b8b1b6ac53",
-    "title": "На Кубані в Росії після атаки дронів горить НПЗ",
-    "description": "У ніч на 28 червня українські дрони атакували Слов'янський НПЗ у Росії .",
-    "content": "У російському Слов'янську-на-Кубані горить НПЗ після нічної атаки \"з боку України\".\nДжерело: Astra, Exilenova+, Supernova+, інші Telegram-канали, оперштаб Краснодарського краю РФ\nДеталі: Російський паблік Astra проаналізував опубліковані відео і вста... [1169 chars]",
-    "url": "https://www.pravda.com.ua/news/2026/06/28/8041423/",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/8/859387/c889f848cc747b3a18bc8306850ed174.jpeg?w=1200&q=85&stamp=1782606125",
-    "publishedAt": "2026-06-28T00:04:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "f22da91c498603eb4d447ae38063cc99",
-      "name": "Українська правда",
-      "url": "https://www.pravda.com.ua"
-    }
-  },
-  {
-    "id": "fe75b07f8cfef398fbdaaa9ad5a74325",
-    "title": "Ера доступних компʼютерів і консолей у минулому: подорожчання пам'яті затягнеться на роки",
-    "description": "Ціни на оперативну пам'ять продовжують стрімко зростати, а її дефіцит поглиблюється з кожним днем. Високі ціни на техніку триматимуться роками - читайте",
-    "content": "Ціни на оперативну пам'ять продовжують стрімко зростати, а її дефіцит поглиблюється з кожним днем. Представники компанії Lenovo кажуть, що в найближчі роки слід готуватися до набагато гірших наслідків, оскільки розрив між попитом і пропозицією збільш... [1717 chars]",
-    "url": "https://www.unian.ua/techno/hardware/era-dostupnih-komp-yuteriv-i-konsoley-u-minulomu-podorozhchannya-pam-yati-zatyagnetsya-na-roki-13424781.html",
-    "image": "https://images.unian.net/photos/2023_06/thumb_files/620_324_1685958744-9958.jpg?1",
-    "publishedAt": "2026-06-27T23:28:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "d4361862486677369ff2ae7719b8d313",
-      "name": "УНІАН",
-      "url": "https://www.unian.ua"
-    }
-  },
-  {
-    "id": "7b181b9e676c0b89c188fdcbe4b2f734",
-    "title": "Redmi готує до виходу серію смартфонів Redmi Note 17",
-    "description": "Наступного місяця у Китаї очікується офіційна презентація нової серії смартфонів Redmi Note 17. До лінійки увійдуть три моделі: базова Redmi Note 17, а також",
-    "content": "Очікувані характеристики лінійки Redmi Note 17\nНаступного місяця у Китаї очікується офіційна презентація нової серії смартфонів Redmi Note 17. До лінійки увійдуть три моделі: базова Redmi Note 17, а також версії Note 17 Pro та Note 17 Pro Max. Згідно... [1427 chars]",
-    "url": "https://prostomob.com/283964-processing-redmi-note-17-17-pro-17-pro-max-key-specifications-tipped-again",
-    "image": "https://prostomob.com/wp-content/uploads/2026/06/redmi-note-15-series-chinese-new-year-edition.jpg",
-    "publishedAt": "2026-06-27T22:07:01Z",
-    "lang": "uk",
-    "source": {
-      "id": "7636b958d76298a2e2ea6b3c284899fd",
-      "name": "prostomob.com",
-      "url": "https://prostomob.com"
-    }
-  },
-  {
-    "id": "4942fc98b262d83de6d673188772b3f0",
-    "title": "В Україні представили морський безпілотник MOBIDIK",
-    "description": "MOBIDIK: новий український морський безпілотник представили в Україні.",
-    "content": "Під час українсько-нордичної конференції DIH Naval Forge 2026 українська компанія \"Аварід\" представила морський безпілотник MOBIDIK, який може автономно працювати 120 годин і оснащуватися далекобійними дронами класу middle strike та ракета-дроном.\nДж... [1559 chars]",
-    "url": "https://www.pravda.com.ua/news/2026/06/28/8041419/",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/3/859368/331cca051ce769df14afef537c85b45c.jpeg?w=1200&q=85&stamp=1782596771",
-    "publishedAt": "2026-06-27T21:54:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "f22da91c498603eb4d447ae38063cc99",
-      "name": "Українська правда",
-      "url": "https://www.pravda.com.ua"
-    }
-  },
-  {
-    "id": "7058fac994dfff4a98226077016838c2",
-    "title": "Війна в Україні змінила сучасну війну",
-    "description": "Війна Росії проти України кардинально змінює сучасне військове мистецтво. Досвід українських військових із використання дронів та засобів радіоелектронної боротьби вже вивчають армії НАТО.",
-    "content": "Повномасштабна війна в Україні стала не лише одним із найбільших конфліктів XXI століття, а й каталізатором стрімкого розвитку військових технологій. Якщо раніше танки, авіація та артилерія визначали хід бойових дій, то сьогодні дедалі більшу роль ві... [3319 chars]",
-    "url": "https://www.unian.ua/world/viyna-v-ukrajini-zminila-suchasnu-viynu-dosvid-zsu-vivchayut-armiji-nato-13424751.html",
-    "image": "https://images.unian.net/photos/2026_05/thumb_files/620_324_1778758267-6645.jpg?1",
-    "publishedAt": "2026-06-27T20:23:11Z",
-    "lang": "uk",
-    "source": {
-      "id": "d4361862486677369ff2ae7719b8d313",
-      "name": "УНІАН",
-      "url": "https://www.unian.ua"
-    }
-  },
-  {
-    "id": "91dc5f70913e4125ce95cdd230f14f57",
-    "title": "Спекулянти перепродають бронювання на Steam Machine за ціною до $2900 • Межа",
-    "description": "На eBay вже з’явилися пропозиції перепродажу бронювань на нову Steam Machine, яка ще не надійшла у продаж. Користувачі, що отримали підтвердження бронювання через електронну пошту, почали продавати свої місця у черзі за значно завищеними цінами.",
-    "content": "На платформі eBay вже з'явилися пропозиції перепродажу бронювань на нову Steam Machine, яку компанія Valve планує випустити 29 червня 2026 року. Спекулянти виставляють свої резервування за ціною від $1950 до $2899 залежно від версії, що удвічі переви... [1736 chars]",
-    "url": "https://mezha.ua/news/spekulyanti-pereprodayut-bronyuvannya-na-steam-machine-za-cinoyu-do-2900-312723/",
-    "image": "https://img.mezha.ua/mezha/images/doc/3/a/315237/3ade195b319e40257c91a6bc373c0d7f.jpeg?w=1200&q=85&stamp=1782589016",
-    "publishedAt": "2026-06-27T20:19:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "6b0257d31504a630dde7752eed4e1e39",
-      "name": "Mezha",
-      "url": "https://mezha.ua"
-    }
-  },
-  {
-    "id": "cff1c65b10277e2ebfb625d2dc4991f6",
-    "title": "MacBook Neo за 600 доларів: Apple запустила відновлені ноутбуки",
-    "description": "MacBook Neo за 600 доларів: Apple запустила відновлені ноутбуки.Останні новини Новини України та Світу на сайті - iTechua. Свіжа стрічка новин сьогодні.",
-    "content": "Apple почала продавати відновлені ноутбуки MacBook Neo, що дозволяє повернутися до колишнього рівня цін, але вже у форматі refurbished. Базова версія з 256 ГБ пам’яті (без Touch ID) тепер доступна за 600 доларів — це фактично та сама ціна, за якою пр... [841 chars]",
-    "url": "https://itechua.com/news/304975",
-    "image": "https://itechua.com/wp-content/uploads/2026/06/csm_macbook_neo_case_08_f7f4f17565.webp",
-    "publishedAt": "2026-06-27T19:44:52Z",
-    "lang": "uk",
-    "source": {
-      "id": "5325beb151675ab1fa9e30c3e01b3ef3",
-      "name": "iTechua",
-      "url": "https://itechua.com"
+      "id": "e737a8e76b161ef4526698e2ec5f60c9",
+      "name": "24 Канал",
+      "url": "https://24tv.ua"
     }
   }
 ]
