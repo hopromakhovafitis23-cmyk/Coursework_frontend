@@ -1,5 +1,65 @@
 [
   {
+    "id": "3e442d3926d1c9dd3af34bf1201cfa2a",
+    "title": "Українці масово купують старі автомобілі: яка ціна найпопулярнішої моделі",
+    "description": "У травні українці придбали 3,8 тис. вживаних легкових автомобілів із США. Середній вік таких авто склав 6,3 року. Найпопулярнішою моделлю став FORD Escape – таких авто було куплено 410 одиниць.",
+    "content": "У травні українці придбали 3,8 тис. вживаних легкових автомобілів із США. Середній вік таких авто склав 6,3 року. Найпопулярнішою моделлю став FORD Escape – таких авто було куплено 410 одиниць. Придбати таку машину в Україні можна як за 7 900, так і ... [1213 chars]",
+    "url": "https://www.obozrevatel.com/ukr/ekonomika-glavnaya/economy/ukraintsi-masovo-kupuyut-stari-avtomobili-yaka-tsina-najpopulyarnishoi-modeli.htm",
+    "image": "https://i.obozrevatel.com/news/2025/12/25/ford-escape.jpg?size=1200x630",
+    "publishedAt": "2026-06-28T00:20:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "ca149ffefb31c86f82d7f299d744af59",
+      "name": "Obozrevatel",
+      "url": "https://www.obozrevatel.com"
+    }
+  },
+  {
+    "id": "fe75b07f8cfef398fbdaaa9ad5a74325",
+    "title": "Ера доступних компʼютерів і консолей у минулому: подорожчання пам'яті затягнеться на роки",
+    "description": "Ціни на оперативну пам'ять продовжують стрімко зростати, а її дефіцит поглиблюється з кожним днем. Високі ціни на техніку триматимуться роками - читайте",
+    "content": "Ціни на оперативну пам'ять продовжують стрімко зростати, а її дефіцит поглиблюється з кожним днем. Представники компанії Lenovo кажуть, що в найближчі роки слід готуватися до набагато гірших наслідків, оскільки розрив між попитом і пропозицією збільш... [1717 chars]",
+    "url": "https://www.unian.ua/techno/hardware/era-dostupnih-komp-yuteriv-i-konsoley-u-minulomu-podorozhchannya-pam-yati-zatyagnetsya-na-roki-13424781.html",
+    "image": "https://images.unian.net/photos/2023_06/thumb_files/620_324_1685958744-9958.jpg?1",
+    "publishedAt": "2026-06-27T23:28:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "d4361862486677369ff2ae7719b8d313",
+      "name": "УНІАН",
+      "url": "https://www.unian.ua"
+    }
+  },
+  {
+    "id": "bca1b80a2cbed141b1f4de752249b508",
+    "title": "Рейтинг зарплат CEO - мільярдні пакети виплат керівникам - новини світу - ZN.ua",
+    "description": "Рейтинг зарплат CEO зафіксував історичний стрибок. Дізнайтеся, скільки мільярдів отримують топменеджери США та які сфери платять найбільше.",
+    "content": "Виплати головним виконавчим директорам найбільших американських корпорацій у 2025 році сягнули нових історичних максимумів, продемонструвавши колосальне зростання не лише через масштабний компенсаційний пакет засновника Tesla Ілона Маска. Кількість к... [4652 chars]",
+    "url": "https://zn.ua/ukr/ECONOMICS/zarplati-topmenedzheriv-bjut-novi-rekordi-skilki-zarobili-najbahatshi-kerivniki-svitu.html",
+    "image": "https://zn.ua/img/article/6877/68_main-v1782594636.webp",
+    "publishedAt": "2026-06-27T21:10:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "c5c959cb41bdd64f8b2b81a75752cf74",
+      "name": "Дзеркало тижня",
+      "url": "https://zn.ua"
+    }
+  },
+  {
+    "id": "f59c6c30e49be47850d96711952bb40f",
+    "title": "Swatch вимагає від Samsung $170 млн через авторські права • Межа",
+    "description": "Швейцарський виробник годинників Swatch вимагає від компанії Samsung виплатити $170 мільйонів компенсації за використання циферблатів смартгодинників Galaxy Watch, які, за твердженням позивача, копіюють дизайн популярних моделей його брендів.",
+    "content": "Швейцарський виробник годинників Swatch вимагає від компанії Samsung виплатити $170 мільйонів компенсації за використання циферблатів смартгодинників Galaxy Watch, які, за твердженням позивача, копіюють дизайн популярних моделей його брендів. Про це ... [910 chars]",
+    "url": "https://mezha.ua/news/swatch-vimagaye-vid-samsung-170-mln-cherez-avtorski-prava-312722/",
+    "image": "https://img.mezha.ua/mezha/images/doc/3/1/315236/3153a104d631b43153a8df971300e225.jpeg?w=1200&q=85&stamp=1782580911",
+    "publishedAt": "2026-06-27T17:50:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "6b0257d31504a630dde7752eed4e1e39",
+      "name": "Mezha",
+      "url": "https://mezha.ua"
+    }
+  },
+  {
     "id": "cc25f22f7a42bc43ac9cf6f333fe13cd",
     "title": "Що вимкнути на Samsung для економії батареї: всього один додаток",
     "description": "Дізнайтеся, що таке AICore на Samsung та як його вимкнути, щоб звільнити пам’ять ᐅТSN.ua(новини 1+1).",
@@ -87,66 +147,6 @@
       "id": "e737a8e76b161ef4526698e2ec5f60c9",
       "name": "24 Канал",
       "url": "https://24tv.ua"
-    }
-  },
-  {
-    "id": "55dc3bbd9f05787244806f182c44d8c0",
-    "title": "Volkswagen закриє чотири заводи і звільнить 100 000 людей - ЗМІ",
-    "description": "Ключовий бренд Volkswagen, а також підрозділ з виробництва компонентів планується вивести з концерну та перетворити на самостійні компанії.",
-    "content": "Ключовий бренд Volkswagen, а також підрозділ з виробництва компонентів планується вивести з концерну та перетворити на самостійні компанії.\nНайбільший автовиробник Європи - Volkswagen - має намір скоротити до 100 тисяч робочих місць та припинити виро... [1368 chars]",
-    "url": "https://ua.korrespondent.net/business/auto/4889605-Volkswagen-zakryie-chotyry-zavody-i-zvilnyt-100-000-luidei-zmi",
-    "image": "https://kor.ill.in.ua/m/1260x900/4472341.jpg",
-    "publishedAt": "2026-06-27T04:56:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "5f3893b2bdd83721567eef82ac0a6d2e",
-      "name": "Korrespondent.net",
-      "url": "https://ua.korrespondent.net"
-    }
-  },
-  {
-    "id": "89c6fcf0dc60bf4b755773d8cf2501d0",
-    "title": "Volkswagen планує скоротити 100 тисяч робочих місць • Межа",
-    "description": "Volkswagen готується до найбільшої реорганізації за всю свою 89‑річну історію. Компанія планує у найближчі роки скоротити близько 100 тисяч робочих місць, що становить приблизно 15% її глобальної робочої сили.",
-    "content": "Німецький автовиробник Volkswagen готується до найбільшої реорганізації за всю свою 89‑річну історію. За даними Manager Magazin, компанія планує у найближчі роки скоротити близько 100 тисяч робочих місць, що становить приблизно 15% її глобальної робо... [1693 chars]",
-    "url": "https://mezha.ua/news/volkswagen-planuye-skorotiti-100-tisyach-robochih-misc-312709/",
-    "image": "https://img.mezha.ua/mezha/images/doc/d/b/315154/dbd73b2984ae7f452d552969895d3759.jpeg?w=1200&q=85&stamp=1782504432",
-    "publishedAt": "2026-06-26T20:36:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "6b0257d31504a630dde7752eed4e1e39",
-      "name": "Mezha",
-      "url": "https://mezha.ua"
-    }
-  },
-  {
-    "id": "03f276d863cfee6334af99af184a073a",
-    "title": "Skoda Octavia засвітила важливий рестайлінг",
-    "description": "Чеська марка Skoda готує рестайлінг для моделі Octavia й оновлення бестселера відбудеться вже на початку 2027 року.",
-    "content": "Чеська марка Skoda готує рестайлінг для моделі Octavia й оновлення бестселера відбудеться вже на початку 2027 року.\nSkoda планує оновити Octavia для 2027 року.\nОновлений Skoda Octavia вже виїхав на тести.\nРестайлінг вплине на екстер’єр та технології ... [2313 chars]",
-    "url": "https://motorcar.com.ua/news/skoda-octavia-restajling-test-2026/",
-    "image": "https://motorcar.com.ua/wp-content/uploads/2026/06/skoda-octavia-facelift-2026-1.jpg",
-    "publishedAt": "2026-06-26T17:29:31Z",
-    "lang": "uk",
-    "source": {
-      "id": "ccf5b23cf2f813320e7baafea8cf4ea7",
-      "name": "motorcar.com.ua",
-      "url": "https://motorcar.com.ua"
-    }
-  },
-  {
-    "id": "088c92f4d91b1ded26d6df63feafdbf5",
-    "title": "Ford повернув звільнених інженерів після збоїв через ШІ",
-    "description": "Керівництво Ford заявило, що штучного інтелекту недостатньо для розв'язання проблем з якістю",
-    "content": "Американська компанія Ford найняла, підвищила на посаді або повернула на роботу близько 350 досвідчених технічних фахівців у рамках масштабних зусиль щодо вирішення проблем з якістю автомобілів. Про це пишуть Bloomberg та Business Insider.\nЗа словами... [2294 chars]",
-    "url": "https://biz.liga.net/ua/transport/news/amerykanskyy-avtohihant-povernuv-zvilnenykh-inzheneriv-dlia-vypravlennia-pomylok-iaki-narobyv-shi",
-    "image": "https://storage.liga.net/images/general/social/social-4628024-ua.png?v=1782478339",
-    "publishedAt": "2026-06-26T15:40:35Z",
-    "lang": "uk",
-    "source": {
-      "id": "b93e328777e19b792d6622633a10161e",
-      "name": "Liga.Biz",
-      "url": "https://biz.liga.net"
     }
   }
 ]
