@@ -1,5 +1,65 @@
 [
   {
+    "id": "6fc4a80afd0de6958536de4a298c3448",
+    "title": "Toyota представила ювілейну спецверсію Cross до 60-річчя Corolla",
+    "description": "Спеціальне виконання Z Adventure 60th Anniversary вирізняється позашляховим стилем, ексклюзивним оздобленням і присвячене ювілею найуспішнішої моделі Toyota.",
+    "content": "Спеціальне виконання Z Adventure 60th Anniversary вирізняється позашляховим стилем, ексклюзивним оздобленням і присвячене ювілею найуспішнішої моделі Toyota.\nToyota представила спеціальну версію кросовера Corolla Cross, присвячену 60-річчю легендарно... [1784 chars]",
+    "url": "https://ua.korrespondent.net/lifestyle/motors/4891183-Toyota-predstavyla-yuvileinu-spetsversiui-Cross-do-60-richchia-Corolla",
+    "image": "https://kor.ill.in.ua/m/1260x900/4477336.jpg",
+    "publishedAt": "2026-07-02T17:09:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "5f3893b2bdd83721567eef82ac0a6d2e",
+      "name": "Korrespondent.net",
+      "url": "https://ua.korrespondent.net"
+    }
+  },
+  {
+    "id": "3bf5d6aad3c11557954684557f97e562",
+    "title": "Tesla перевершила очікування за підсумками поставок у другому кварталі",
+    "description": "Tesla повідомила про виробництво 451 758 автомобілів та постачання 480 126 автомобілів за квартал, що свідчить про високий попит та скорочення накопиченого складського запасу.",
+    "content": "Tesla повідомила про виробництво 451 758 автомобілів та постачання 480 126 автомобілів за квартал, що свідчить про високий попит та скорочення накопиченого складського запасу.\nКомпанія Tesla перевершила очікування за підсумками другого кварталу, опуб... [3376 chars]",
+    "url": "https://ua.korrespondent.net/business/companies/4891179-Tesla-perevershyla-ochikuvannia-za-pidsumkamy-postavok-u-druhomu-kvartali",
+    "image": "https://kor.ill.in.ua/m/1260x900/4477335.jpg",
+    "publishedAt": "2026-07-02T17:04:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "5f3893b2bdd83721567eef82ac0a6d2e",
+      "name": "Korrespondent.net",
+      "url": "https://ua.korrespondent.net"
+    }
+  },
+  {
+    "id": "37037acc3e91566d4c3a8d9a64f81278",
+    "title": "Tesla зафіксувала рекордні продажі",
+    "description": "Детальніше про це читайте у новині ЕП",
+    "content": "Компанія Tesla значно перевершила прогнози Волл-стріт щодо обсягів поставок у другому кварталі, встановивши рекорд за цей період, оскільки відновлення попиту в Європі переважало тривалу слабкість на ринку Північної Америки.\nПро це повідомляє Reuters.... [1167 chars]",
+    "url": "https://epravda.com.ua/biznes/tesla-zafiksuvala-rekordni-prodazhi-823290/",
+    "image": "https://img.epravda.com.ua/epravda/images/doc/a/7/157493/a76bc5e896749d5f2bffaae07d81878d.jpeg?w=1920&q=85",
+    "publishedAt": "2026-07-02T16:50:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "9b9cf9e76aeefea346957bfe5f6dafc5",
+      "name": "Економічна правда",
+      "url": "https://epravda.com.ua"
+    }
+  },
+  {
+    "id": "3f78e2e742c17354e3547fbf964af67c",
+    "title": "Valar Atomics у прямому ефірі запустила ядерний мікрореактор для живлення NVIDIA RTX Spark",
+    "description": "Стартап Valar Atomics запустив ядерний мікрореактор Ward 250 прямо на сцені у прямому ефірі",
+    "content": "Стартап Valar Atomics запустив ядерний мікрореактор Ward 250 прямо на сцені у прямому ефірі для живлення ПК NVIDIA RTX Spark.\nРеактор запрацював на 37% від загальної потужності для живлення ПК RTX Spark з процесором Blackwell. В рамках заходу стартап... [1576 chars]",
+    "url": "https://itc.ua/ua/novini/valar-atomics-u-pryamomu-efiri-zapustyla-yadernyj-mikroreaktor-dlya-zhyvlennya-nvidia-rtx-spark/",
+    "image": "https://itcua-media-prod.fra1.cdn.digitaloceanspaces.com/uploads/2026/07/imgonline-com-ua-converta3mMnKpkTq5N-835x557.jpg",
+    "publishedAt": "2026-07-02T16:28:54Z",
+    "lang": "uk",
+    "source": {
+      "id": "391d17d071b755a4bda37c1b43f47c2c",
+      "name": "ITC.ua",
+      "url": "https://itc.ua"
+    }
+  },
+  {
     "id": "d492c4129beca0e04c6de01b21694e4c",
     "title": "Дистриб'ютор відмовився продавати Peugeot та Citroen",
     "description": "Незалежний австралійський дистриб'ютор Inchcape відмовився від брендів Peugeot та Citroen після серйозного падіння продажів.",
@@ -87,66 +147,6 @@
       "id": "6f1ead09126f1f4738a48957e22f789c",
       "name": "РБК-Україна",
       "url": "https://www.rbc.ua"
-    }
-  },
-  {
-    "id": "30a168dfb01d8c8fb80915703d44f180",
-    "title": "Це вимкне цілу групу функцій, але ви навряд чи помітите зміни",
-    "description": "Якщо ви користуєтесь смартфоном на операційній системі Android, то швидше за все просто зараз цілих 6 гігабайтів простору на вашому гаджеті з'їдає один-єдиний системний застосунок, про який ви, найімовірніше, ніколи й не чули.",
-    "content": "Якщо ви користуєтесь смартфоном на операційній системі Android, то швидше за все просто зараз цілих 6 гігабайтів простору на вашому гаджеті з'їдає один-єдиний системний застосунок, про який ви, найімовірніше, ніколи й не чули. Він називається AICore,... [4502 chars]",
-    "url": "https://www.obozrevatel.com/ukr/tehno-oboz/yak-zvilniti-pamyat-na-android-koristuvach-odnieyu-dieyu-ochistiv-6-gb.htm",
-    "image": "https://i.obozrevatel.com/news/2026/7/1/onur-binay-tsjqqcn4rka-unsplash.jpg?size=1200x630",
-    "publishedAt": "2026-07-02T04:30:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "ca149ffefb31c86f82d7f299d744af59",
-      "name": "Obozrevatel",
-      "url": "https://www.obozrevatel.com"
-    }
-  },
-  {
-    "id": "85dfb9bdd53a011ed9b5a517c8588333",
-    "title": "Потужний електрокросовер Tata Sierra EV за $20 000 обіцяє запас ходу, як у Tesla",
-    "description": "Електрокросовер Tata Sierra EV став сенсацією індійського ринку: за $20 000 покупець отримує запас ходу до 665 км, потужність до 349 к.с. і рівень оснащення, який наближає модель до преміальних SUV.",
-    "content": "Фото: Tata\nЦе стратегічний прорив Tata Motors у сегменті доступних електромобілів.\nНовий етап для Tata Motors\nКомпанія Tata Motors презентувала електричну версію легендарного кросовера Sierra, який повертається на ринок після тривалої перерви, розпов... [2287 chars]",
-    "url": "https://pravdatutnews.com/avto/2026/07/02/81645-potuzhnyy-elektrokrosover-tata-sierra-ev-za-20-000-obicyaye-zapas",
-    "image": "https://pravdatutnews.com/sites/default/files/news/2026/07/02/tata_sierra_ev.jpg",
-    "publishedAt": "2026-07-01T22:41:46Z",
-    "lang": "uk",
-    "source": {
-      "id": "716e7cb92f5f203aa3506c9ba057538c",
-      "name": "ПравдаТУТ NEWS",
-      "url": "https://pravdatutnews.com"
-    }
-  },
-  {
-    "id": "25a05c25a12868b7f7ec5a469008017c",
-    "title": "Dacia Sandero Hybrid: найпотужніший і найдешевший серед гібридів із витратою 4,2 л/100 км",
-    "description": "Гібридна версія Dacia Sandero стала справжнім проривом для бренду, який традиційно асоціювався з бюджетними авто.",
-    "content": "Позашляховий варіант Stepway. Фото: Dacia\nТепер компактний хетчбек отримав найпотужнішу установку в історії моделі — 155 к.с., витрата пального становить лише 4,2 л/100 км, а стартова ціна — від 19 900 євро.\nЦе робить Sandero одним із найдоступніших ... [2024 chars]",
-    "url": "https://pravdatutnews.com/avto/2026/07/01/81641-dacia-sandero-hybrid-naypotuzhnishyy-i-naydeshevshyy-sered",
-    "image": "https://pravdatutnews.com/sites/default/files/news/2026/07/01/dacia_sandero_hybrid.jpeg",
-    "publishedAt": "2026-07-01T20:15:59Z",
-    "lang": "uk",
-    "source": {
-      "id": "716e7cb92f5f203aa3506c9ba057538c",
-      "name": "ПравдаТУТ NEWS",
-      "url": "https://pravdatutnews.com"
-    }
-  },
-  {
-    "id": "1d8d9768b25c72d0c832878125eb1cc6",
-    "title": "Новий BMW X5 дебютував офіційно: детально про кросовер",
-    "description": "Німецький бренд BMW презентував нове покоління кросовера X5 (G65), яке отримало дизайн Neue Klasse та безпрецедентне розмаїття силових агрегатів.",
-    "content": "Німецький бренд BMW презентував нове покоління кросовера X5 (G65), яке отримало дизайн Neue Klasse та безпрецедентне розмаїття силових агрегатів.\nНовий BMW X5 отримав надзвичайно незвичний вигляд.\nПід капотом ховаються потужності до 612 к.с.\nІнтер’єр... [11810 chars]",
-    "url": "https://motorcar.com.ua/news/bmw-x5-detali-prezentacziya-2026/",
-    "image": "https://motorcar.com.ua/wp-content/uploads/2026/06/2027-bmw-ix5-60-16.jpg",
-    "publishedAt": "2026-07-01T19:18:05Z",
-    "lang": "uk",
-    "source": {
-      "id": "ccf5b23cf2f813320e7baafea8cf4ea7",
-      "name": "motorcar.com.ua",
-      "url": "https://motorcar.com.ua"
     }
   }
 ]
