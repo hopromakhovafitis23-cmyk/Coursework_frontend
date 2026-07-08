@@ -75,6 +75,21 @@
     }
   },
   {
+    "id": "bc49a4200a7bf66ffe2eea9a72a47f97",
+    "title": "Ціни на нерухомість в Україні: чому на ринку настав мертвий сезон і що купують",
+    "description": "Чому ціни на нерухомість в Україні демонструють застій? ➤ Яке житло шукають покупці та чи реально знайти дешеві квартири під час війни – деталі на OBOZ.UA.",
+    "content": "Український ринок нерухомості увійшов у \"мертвий сезон\", покупців небагато, угоди укладаються повільно, а власники все частіше змушені йти на знижки, щоб знайти реального клієнта. Водночас дедалі більше людей чекають можливості купити житло значно де... [4234 chars]",
+    "url": "https://www.obozrevatel.com/ukr/ekonomika-glavnaya/economy/na-rinku-neruhomosti-nastav-mertvij-sezon-ukraintsi-masovo-polyuyut-za-deshevimi-kvartirami.htm",
+    "image": "https://i.obozrevatel.com/news/2024/7/23/hata.jpg?size=1200x630",
+    "publishedAt": "2026-07-07T14:45:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "ca149ffefb31c86f82d7f299d744af59",
+      "name": "Obozrevatel",
+      "url": "https://www.obozrevatel.com"
+    }
+  },
+  {
     "id": "7da9045557980be5cf67a529c5c861d5",
     "title": "\"id Software фактично мертва\": після масштабних скорочень студія може перетворитися на команду підтримки",
     "description": "Інсайдери стверджують, що студія може перетворитися на команду підтримки інших проєктів Bethesda, а майбутнє Doom і рушія id Tech опинилося під питанням.",
@@ -132,21 +147,6 @@
       "id": "391d17d071b755a4bda37c1b43f47c2c",
       "name": "ITC.ua",
       "url": "https://itc.ua"
-    }
-  },
-  {
-    "id": "f8e86055aa57f2704f525376203dc080",
-    "title": "Рашисти \"нашкребли по засіках\" на нову модернізацію Т-80, яка дозволяє оминути потребу працювати з харківським двигуном",
-    "description": "Танків Т-80 для відновлення у РФ майже не лишилося, тож взялися за створення \"гібрида\", який фактично виглядає як аналог Т-80УЕ-1 з модернізацією до рівня Т-80БВМ",
-    "content": "У відео про 50-річчя танка Т-80 та сюжеті пропагандистів рашисти показали чергову модернізацію, яка складається з башти Т-80УД, яку встановили на шасі від Т-80Б/БВ/У. Завдяки такому умовному Т-80-УЕ-1 2.0 стає ясно, що РФ знайшли застосування машинам... [2172 chars]",
-    "url": "https://defence-ua.com/weapon_and_tech/rashisti_nashkrebli_po_zasikah_na_novu_modernizatsiju_t_80_jaka_dozvoljaje_ominuti_potrebu_pratsjuvati_z_harkivskim_dvigunom-23543.html",
-    "image": "https://defence-ua.com/media/illustration/articles/c656a4cbbb0a2095.jpg",
-    "publishedAt": "2026-07-07T09:58:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "f488af954cb509cbacccbd34e7f47985",
-      "name": "Defense Express",
-      "url": "https://defence-ua.com"
     }
   }
 ]
