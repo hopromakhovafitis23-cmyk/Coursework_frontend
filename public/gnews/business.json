@@ -1,5 +1,110 @@
 [
   {
+    "id": "03e9accf74b71fcc8f5bc4735719a3de",
+    "title": "характеристики та зміни",
+    "description": "Компанія Toyota повернула на ринок легендарний позашляховик Land Cruiser 70-ї серії. Модель отримала 2,8-літровий дизельний двигун з AdBlue замість 4,5-літрового турбодизеляд V8 - Авто24",
+    "content": "Попри те, що історія цієї лінійки датується ще 1980-ми роками, експерти прогнозують збереження масового попиту на автомобіль. За словами віцепрезидента Toyota Australia з продажу, маркетингу та франчайзингових операцій Джона Паппаса, призупинення зам... [1052 chars]",
+    "url": "https://24tv.ua/auto/povernennia_lehendy_toyota_znovu_vidkryvaie_zamovlennia_na_land_cruiser_70_i_serii_v_avstralii_n73840",
+    "image": "https://24tv.ua/auto/resources/photos/news/202607/73840f1e4892e-0218-4e06-ab45-4783ff3087d6.jpeg",
+    "publishedAt": "2026-07-08T13:30:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "e737a8e76b161ef4526698e2ec5f60c9",
+      "name": "24 Канал",
+      "url": "https://24tv.ua"
+    }
+  },
+  {
+    "id": "9b267e03c7a2c0c40b0958e5ac3564a9",
+    "title": "Apple програла суд, у якому оскаржувала європейський \"Закон про цифрові ринки\" • Межа",
+    "description": "Apple програла суд в Європейському Союзі, де вона намагалася довести, що \"Закон про цифрові ринки\", який вимагає, аби компанія відкрила свої сервіси конкурентам, шкодить конфіденційності користувачів.",
+    "content": "Apple програла судову справу, у якій оскаржувала \"Закон про цифрові ринки\" (DMA) Європейського Союзу. Відтепер компанія буде зобов'язана виконувати суворі вимоги європейських регуляторів, що змушують її відкрити свою ексосистему для конкурентів. Про ... [1428 chars]",
+    "url": "https://mezha.ua/news/apple-lost-dma-challenges-in-eu-313045/",
+    "image": "https://img.mezha.ua/mezha/images/doc/4/e/316736/4e909623e7f37a5feadf7553f6ac7842.jpeg?w=1200&q=85&stamp=1783512791",
+    "publishedAt": "2026-07-08T13:20:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "6b0257d31504a630dde7752eed4e1e39",
+      "name": "Mezha",
+      "url": "https://mezha.ua"
+    }
+  },
+  {
+    "id": "4b2abbc526deaea2b147c1652da1be0f",
+    "title": "представлено позашляховий універсал Striker",
+    "description": "Компанія Dacia представила новий позашляховий універсал Striker, який стане альтернативою кросоверам. Детальніше про це читайте у матеріалі УНІАН.",
+    "content": "Компанія Dacia представила новий універсал Striker, який стане альтернативою кросоверам. Подробиці про нову модель опубліковано на сайті бренду.\nЗазначається, що Dacia Striker поєднує в собі високий дорожній просвіт, універсальність і практичність. Т... [2487 chars]",
+    "url": "https://www.unian.ua/economics/auto/dacia-novi-modeli-predstavleno-pozashlyahoviy-universal-striker-13434894.html",
+    "image": "https://images.unian.net/photos/2026_07/thumb_files/1000_545_1783514351-7370.jpg?1",
+    "publishedAt": "2026-07-08T12:47:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "d4361862486677369ff2ae7719b8d313",
+      "name": "УНІАН",
+      "url": "https://www.unian.ua"
+    }
+  },
+  {
+    "id": "7d2353d296691a9d801e87bafce8fd71",
+    "title": "Які вживані авто українці найчастіше привозили у червні 2026 року",
+    "description": "У червні 2026 року в Україну ввезли 21 378 вживаних легковиків. Бензинові авто зайняли 55% імпорту, а найпопулярнішими моделями стали Volkswagen Tiguan і Audi Q5. Електромобілі та гібриди разом отримали понад 21% ринку.",
+    "content": "За даними Інституту досліджень авторинку, у червні 2026 року в Україні вперше зареєстрували 21 378 вживаних легкових автомобілів, ввезених з-за кордону. Це майже точне повторення травневого результату: зниження становило лише 0,3%. Водночас порівняно... [6278 chars]",
+    "url": "https://24tv.ua/auto/volkswagen_tiguan_stav_naipopuliarnishym_svizhopryhnanym_avto_u_chervni_n73836",
+    "image": "https://24tv.ua/auto/resources/photos/news/202607/73836bb0eacdf-1aff-4096-b2c9-ed362d9f7cc9.jpg",
+    "publishedAt": "2026-07-08T11:05:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "e737a8e76b161ef4526698e2ec5f60c9",
+      "name": "24 Канал",
+      "url": "https://24tv.ua"
+    }
+  },
+  {
+    "id": "a4f1d5c8af8b8ba8e20232df89bb1752",
+    "title": "Названо найпопулярніші в Україні вживані авто з-за кордону",
+    "description": "Найпопулярнішою моделлю став Volkswagen Golf. За пів року українську реєстрацію отримали 5143 такі автомобілі.",
+    "content": "Найпопулярнішою моделлю став Volkswagen Golf. За пів року українську реєстрацію отримали 5143 такі автомобілі.\nСередній вік вживаних машин, що в цьому році переходили на українські номери становить – 9,7 року.\nНайпопулярнішою моделлю серед імпортован... [877 chars]",
+    "url": "https://ua.korrespondent.net/business/auto/4892583-nazvano-naipopuliarnishi-v-ukraini-vzhyvani-avto-z-za-kordonu",
+    "image": "https://kor.ill.in.ua/m/1260x900/4482623.jpg",
+    "publishedAt": "2026-07-08T10:20:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "5f3893b2bdd83721567eef82ac0a6d2e",
+      "name": "Korrespondent.net",
+      "url": "https://ua.korrespondent.net"
+    }
+  },
+  {
+    "id": "982c98ded4cb1efd74932ae541dd2b3f",
+    "title": "ціни, комплектації та фото",
+    "description": "Оновлений крос-фастбек Peugeot 408 вже доступний в Україні за ціною від 1 374 700 грн. Огляд комплектацій Allure та GT, технічні характеристики та особливості дизайну - Авто24",
+    "content": "За словами Peugeot, новинка створена для водіїв, які не бажають шукати компромісів між щоденною практичністю та яскравими емоціями від керування.\nЧитайте також: Stellantis запускає доступні фургони для бізнесу: водій в кабіні один\nДизайн, що пробуджу... [4056 chars]",
+    "url": "https://24tv.ua/auto/novyi_peugeot_408_uzhe_v_ukraini_oholosheno_ofitsiini_tsiny_ta_komplektatsii_n73832",
+    "image": "https://24tv.ua/auto/resources/photos/news/202607/73832074b0e0e-8008-48fa-9c79-7c9ab59a90a5.jpg",
+    "publishedAt": "2026-07-08T09:30:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "e737a8e76b161ef4526698e2ec5f60c9",
+      "name": "24 Канал",
+      "url": "https://24tv.ua"
+    }
+  },
+  {
+    "id": "ccd8be4b6de5f5a69b9eb280b0061aeb",
+    "title": "Швидкість до 28,4 ГБ/с: Samsung випустила перший SSD PCIe 6.0",
+    "description": "Samsung оголосила про початок серійного виробництва SSD PM1763 PCIe 6.0, призначеного для сер",
+    "content": "Samsung оголосила про початок серійного виробництва SSD PM1763 PCIe 6.0, призначеного для серверів наступного покоління.\nPM1763 — це твердотілий накопичувач для корпоративного сегмента на базі PCIe 6.0, оптимізований під сервери наступного покоління,... [1382 chars]",
+    "url": "https://itc.ua/ua/novini/shvydkist-do-28-4-gb-s-samsung-vypustyla-pershyj-ssd-pcie-6-0/",
+    "image": "https://itcua-media-prod.fra1.cdn.digitaloceanspaces.com/uploads/2026/07/20260401142127651.jpg",
+    "publishedAt": "2026-07-08T08:26:26Z",
+    "lang": "uk",
+    "source": {
+      "id": "391d17d071b755a4bda37c1b43f47c2c",
+      "name": "ITC.ua",
+      "url": "https://itc.ua"
+    }
+  },
+  {
     "id": "02ce2d8b66bbc09280f21e8404bb708d",
     "title": "Renault Megane 2026 збільшив запас ходу, заряджається швидше і подешевшав",
     "description": "Електричний Renault Megane 2026 після рестайлінгу отримав стратегічні зміни: нову LFP батарею на 67 кВт·год із запасом ходу до 500 км, швидку зарядку за 24 хвилини та дизайн у стилі Alpine та ще й за зниженими цінами. Модель зберегла 220 сильний електромотор.",
@@ -42,111 +147,6 @@
       "id": "5f3893b2bdd83721567eef82ac0a6d2e",
       "name": "Korrespondent.net",
       "url": "https://ua.korrespondent.net"
-    }
-  },
-  {
-    "id": "4d5d8f176ee0e58921f767f01873a507",
-    "title": "Китайські автомобілі провалились у продажах",
-    "description": "Продажі електромобілів у Китаї впали протягом першої половини 2026 року, і скорочення субсидій, що відбудеться наступного року, навряд чи допоможе.",
-    "content": "Продажі електромобілів у Китаї впали протягом першої половини 2026 року, і скорочення субсидій, що відбудеться наступного року, навряд чи допоможе.\nУряд Китаю скасовує пільги для електромобілів з січня 2027 року.\nЛише три виробники електромобілів у К... [2196 chars]",
-    "url": "https://motorcar.com.ua/news/kytajski-avtomobili-proval-prodazhi-2026/",
-    "image": "https://motorcar.com.ua/wp-content/uploads/2026/04/byd-atto-3.jpg",
-    "publishedAt": "2026-07-07T17:17:50Z",
-    "lang": "uk",
-    "source": {
-      "id": "ccf5b23cf2f813320e7baafea8cf4ea7",
-      "name": "motorcar.com.ua",
-      "url": "https://motorcar.com.ua"
-    }
-  },
-  {
-    "id": "969ffce34fac2cd34adaebf8ede730a7",
-    "title": "Fiat завершив виробництво Tipo після 11 років на ринку",
-    "description": "На турецькому заводі Tofaş припинили випуск Fiat Egea, який у більшості європейських країн продавався під назвою Fiat Tipo. За 11 років було виготовлено понад 1,4 млн авто.",
-    "content": "На турецькому заводі Tofaş припинили випуск Fiat Egea, який у більшості європейських країн продавався під назвою Fiat Tipo. За 11 років було виготовлено понад 1,4 млн авто.\nКомпанія Tofaş офіційно завершила виробництво моделі Fiat Egea, яка на більшо... [1797 chars]",
-    "url": "https://ua.korrespondent.net/business/auto/4892416-Fiat-zavershyv-vyrobnytstvo-Tipo-pislia-11-rokiv-na-rynku",
-    "image": "https://kor.ill.in.ua/m/1260x900/4482019.jpg",
-    "publishedAt": "2026-07-07T16:59:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "5f3893b2bdd83721567eef82ac0a6d2e",
-      "name": "Korrespondent.net",
-      "url": "https://ua.korrespondent.net"
-    }
-  },
-  {
-    "id": "bc49a4200a7bf66ffe2eea9a72a47f97",
-    "title": "Ціни на нерухомість в Україні: чому на ринку настав мертвий сезон і що купують",
-    "description": "Чому ціни на нерухомість в Україні демонструють застій? ➤ Яке житло шукають покупці та чи реально знайти дешеві квартири під час війни – деталі на OBOZ.UA.",
-    "content": "Український ринок нерухомості увійшов у \"мертвий сезон\", покупців небагато, угоди укладаються повільно, а власники все частіше змушені йти на знижки, щоб знайти реального клієнта. Водночас дедалі більше людей чекають можливості купити житло значно де... [4234 chars]",
-    "url": "https://www.obozrevatel.com/ukr/ekonomika-glavnaya/economy/na-rinku-neruhomosti-nastav-mertvij-sezon-ukraintsi-masovo-polyuyut-za-deshevimi-kvartirami.htm",
-    "image": "https://i.obozrevatel.com/news/2024/7/23/hata.jpg?size=1200x630",
-    "publishedAt": "2026-07-07T14:45:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "ca149ffefb31c86f82d7f299d744af59",
-      "name": "Obozrevatel",
-      "url": "https://www.obozrevatel.com"
-    }
-  },
-  {
-    "id": "7da9045557980be5cf67a529c5c861d5",
-    "title": "\"id Software фактично мертва\": після масштабних скорочень студія може перетворитися на команду підтримки",
-    "description": "Інсайдери стверджують, що студія може перетворитися на команду підтримки інших проєктів Bethesda, а майбутнє Doom і рушія id Tech опинилося під питанням.",
-    "content": "Після масштабної хвилі скорочень у Microsoft з’явилися тривожні повідомлення щодо майбутнього id Software — легендарної студії, яка подарувала світові Doom, Quake та рушій id Tech. За даними інсайдерів, компанія втратила майже половину співробітників... [1603 chars]",
-    "url": "https://itc.ua/ua/novini/id-software-faktychno-mertva-pislya-masshtabnyh-skorochen-studiya-mozhe-peretvorytysya-na-komandu-pidtrymky/",
-    "image": "https://itcua-media-prod.fra1.cdn.digitaloceanspaces.com/uploads/2026/07/id-software-doom-is-already-working-on-a-new-game-cover68b00ddd25f39.jpg",
-    "publishedAt": "2026-07-07T11:37:44Z",
-    "lang": "uk",
-    "source": {
-      "id": "391d17d071b755a4bda37c1b43f47c2c",
-      "name": "ITC.ua",
-      "url": "https://itc.ua"
-    }
-  },
-  {
-    "id": "a2df105724387ed2fb71d952f4ee611a",
-    "title": "Київстар чи МХП: акції якої компанії краще додати до свого портфелю",
-    "description": "«Мінфін» порівняв фінансовий стан та перспективи українських лідерів фондового ринку",
-    "content": "«Мінфін» продовжує проєкт з формування інвестиційного портфелю наших читачів. Ми аналізуємо кілька активів у які можна вкласти гроші, а ви голосуєте та визначаєте, чи варто додавати їх до свого кошика.\nЦього разу ми пропонуємо вам на розгляд акції дв... [9438 chars]",
-    "url": "https://minfin.com.ua/ua/invest/articles/kievstar-ili-mhp-akcii-kakoy-kompanii-luchshe-dobavit-v-svoy-portfel/",
-    "image": "https://minfin.com.ua/favicon-32x32.png",
-    "publishedAt": "2026-07-07T11:30:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "6028444ee1303e4577f50406a4c7988e",
-      "name": "Minfin.com.ua",
-      "url": "https://minfin.com.ua"
-    }
-  },
-  {
-    "id": "77ee79a3cb6183fe4e7c72cec7db6176",
-    "title": "В США обвалилися ціни на електромобілі Polestar 3 та Polestar 4",
-    "description": "Компанія Polestar оголосила знижки до 25 000 доларів на електромобілі в США через вихід з ринку після 2026 року. Ціни нових Polestar 3 і Polestar 4 - Авто24",
-    "content": "Головною причиною такої агресивної цінової політики стала нещодавня заява уряду США, згідно з якою Polestar більше не зможе продавати свої транспортні засоби в країні після 2026 модельного року. Для покупців, яких не лякає майбутнє припинення офіційн... [2292 chars]",
-    "url": "https://24tv.ua/auto/v_ssha_suttievo_vpala_tsina_novykh_polestar_cherez_maibutnii_vykhid_brendu_z_rynku_n73801",
-    "image": "https://24tv.ua/auto/resources/photos/news/202607/7380113aebe7c-bf44-45b7-8b76-5741ee7458ba.jpg",
-    "publishedAt": "2026-07-07T11:30:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "e737a8e76b161ef4526698e2ec5f60c9",
-      "name": "24 Канал",
-      "url": "https://24tv.ua"
-    }
-  },
-  {
-    "id": "aedb36bc40d1ecc18746d80fc42311a1",
-    "title": "Суцільне крило замість фюзеляжу: у США збирають перший повнорозмірний літак зі змішаним корпусом",
-    "description": "JetZero розпочала складання повномасштабного демонстраційного літака Jet1 зі змішаним корпусом крила. Нова конструкція обіцяє до 50% економії палива, використання композитних матеріалів та інноваційні технології виробництва, які можуть змінити майбутнє цивільної авіації.",
-    "content": "Розпочалося складання фюзеляжу для першого демонстраційного зразка літака Jet1 зі змішаним корпусом крила (Blended Wing Body, BWB) від JetZero. Роботи ведуться на підприємстві Scaled Composites компанії Northrop Grumman у Мохаве, штат Каліфорнія.\nJet... [3689 chars]",
-    "url": "https://itc.ua/ua/novini/sutsilne-krylo-zamist-fyuzelyazhu-u-ssha-zbyrayut-pershyj-povnorozmirnyj-litak-zi-zmishanym-korpusom/",
-    "image": "https://itcua-media-prod.fra1.cdn.digitaloceanspaces.com/uploads/2026/07/Dzhet-Untitled-design-3-2.jpeg",
-    "publishedAt": "2026-07-07T10:00:52Z",
-    "lang": "uk",
-    "source": {
-      "id": "391d17d071b755a4bda37c1b43f47c2c",
-      "name": "ITC.ua",
-      "url": "https://itc.ua"
     }
   }
 ]
