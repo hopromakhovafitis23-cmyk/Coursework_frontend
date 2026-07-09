@@ -1,117 +1,27 @@
 [
   {
-    "id": "5ab615b11d65478894f34d0bcb6f4e59",
-    "title": "Apple вже тестує пам'ять від китайської CXMT – FT",
-    "description": "Apple, довкола якої останній місяць ходить чимало чуток щодо бажання закуповувати пам'ять у китайських виробників, начебто розпочала тестування чипів китайської компанії CXMT, що входить до чорного списку Пентагону.",
-    "content": "Останнього місяця почали з'являтися повідомлення про те, що Apple хоче закуповувати пам'ять у китайських виробників та намагається лобіювати це рішення уряду Сполучених Штатів, який вважає їх загрозою для національної безпеки. Попри це, компанія з Ку... [2295 chars]",
-    "url": "https://mezha.ua/news/apple-reportedly-tests-cxmt-memory-313052/",
-    "image": "https://img.mezha.ua/mezha/images/doc/d/8/316757/d8cee3048f5f9bd87386ebd05e6797dd.jpeg?w=1200&q=85&stamp=1783523127",
-    "publishedAt": "2026-07-08T15:11:00Z",
+    "id": "5ee62075a9f90100f2b95b444b95ba11",
+    "title": "Удари по рф - МЗС Казахстану відповіло на звинувачення щодо атак дронів на рф",
+    "description": "Міністерство закордонних справ Казахстану заявило, що інформація про нібито використання території країни для запуску безпілотників по росії не відповідає дійсності.",
+    "content": "Міністерство закордонних справ Казахстану спростувало інформацію про нібито використання території країни для запуску безпілотників, які атакували об'єкти в росії. У відомстві заявили, що такі повідомлення не мають жодного фактичного підтвердження.\nП... [2302 chars]",
+    "url": "https://www.slovoidilo.ua/2026/07/08/novyna/svit/kazaxstan-vidpoviv-zvynuvachennya-vykorystanni-svoyeyi-terytoriyi-atak-rf",
+    "image": "https://media.slovoidilo.ua/media/scimage/240/239916-uk.png",
+    "publishedAt": "2026-07-08T20:47:08Z",
     "lang": "uk",
     "source": {
-      "id": "6b0257d31504a630dde7752eed4e1e39",
-      "name": "Mezha",
-      "url": "https://mezha.ua"
+      "id": "15797505fcdbf49191263455ed070cbb",
+      "name": "Слово і Діло",
+      "url": "https://www.slovoidilo.ua"
     }
   },
   {
-    "id": "ae65501bf5b66cede2865feb8d7b55f2",
-    "title": "Танкер Blue був атакований дроном СБУ в Чорному морі 8 липня",
-    "description": "Уранці 8 липня Служба безпеки України провела чергову успішну спецоперацію на Чорному морі....",
-    "content": "Морський дрон Sea Baby \"вполював\" танкер Blue\nМорський безпілотник Sea Baby уразив танкер Blue, який входить до \"тіньової флотилії\" РФ.\nНа момент удару судно знаходилося неподалік тимчасово окупованої Ялти, у виключній економічній зоні України, зазна... [1239 chars]",
-    "url": "https://www.rbc.ua/rus/news/dron-sea-baby-vletiv-tanker-tinovogo-flotu-1783521066.html",
-    "image": "https://www.rbc.ua/static/img/_/s/_sbu_seababy_foto_vitaliy_nosach_rbk_ukrayina_7287_a6101897a858e066c0982cb669a5087b_1300x820.jpg",
-    "publishedAt": "2026-07-08T15:08:51Z",
-    "lang": "uk",
-    "source": {
-      "id": "6f1ead09126f1f4738a48957e22f789c",
-      "name": "РБК-Україна",
-      "url": "https://www.rbc.ua"
-    }
-  },
-  {
-    "id": "2a7acfe89d61a37dd904fb875e7c3f38",
-    "title": "Без пілота від злету до перехоплення F-Drones показала автономний дрон LITAVR",
-    "description": "Українська компанія F-Drones представила оновлений LITAVR із програмним забезпеченням 3D LARAG. Перехоплювач самостійно виконує політ, як оператор лише запускає дрон і підтверджує ураження",
-    "content": "F-Drones показала польові випробування оновленого дрона-перехоплювача LITAVR коптерного типу, під час яких він автономно наздогнав і знищив повітряну ціль. Виробник називає розробку першим повністю автономним перехоплювачем такого типу. Незалежного п... [3131 chars]",
-    "url": "https://24tv.ua/military/bez-pilota-vid-zletu-do-perehoplennya-f-drones-pokazala-avtonomniy_n3102086",
-    "image": "https://24tv.ua/resources/photos/news/202607/3102086.jpg?v=1783508916000&w=1200&h=675",
-    "publishedAt": "2026-07-08T15:08:36Z",
-    "lang": "uk",
-    "source": {
-      "id": "e737a8e76b161ef4526698e2ec5f60c9",
-      "name": "24 Канал",
-      "url": "https://24tv.ua"
-    }
-  },
-  {
-    "id": "1b0f454bff767b1c88f319d113e47082",
-    "title": "Безпека дітей в інтернеті та перші гаджети - залежність і онлайн-ризики в Україні",
-    "description": "Гаджети та інтернет стають невід'ємною частиною життя не лише дорослих, а й дітей. Проте разом із новими можливостями мережа приховує чимало серйозних...",
-    "content": "Про яке дослідження йдеться\nНаціональне дослідження щодо онлайн-безпеки дітей в Україні реалізувала дослідницька агенція Sense Research:\nза ініціативи Міністерства цифрової трансформації;\nна замовлення громадської організації Dignity Online - разом і... [3080 chars]",
-    "url": "https://www.rbc.ua/rus/news/koli-yuni-ukrayintsi-otrimuyut-pershiy-gadzhet-1783520917.html",
-    "image": "https://www.rbc.ua/static/img/_/d/_diti_gadzheti_u_bagatoh_v_ryad_divchina_navushniki_kosichki_zeleni_kviti_na_vikni_gettyimages_2194060795_9c78778ea3589a4bf7e06b8e08f2e227_1300x820.jpg",
-    "publishedAt": "2026-07-08T14:54:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "6f1ead09126f1f4738a48957e22f789c",
-      "name": "РБК-Україна",
-      "url": "https://www.rbc.ua"
-    }
-  },
-  {
-    "id": "fb3dd2646f5f90998b5d6ad823cbf0cf",
-    "title": "Морський дрон СБУ Sea Baby уразив танкер \"тіньового флоту\" рф у Чорному морі",
-    "description": "Служба безпеки України провела чергову успішну спецоперацію, виконуючи поставлені Президентом України завдання щодо ...➜ читайте далі на Rubryka.com",
-    "content": "Служба безпеки України провела чергову успішну спецоперацію, виконуючи поставлені Президентом України завдання щодо системного зниження воєнно-економічного потенціалу рф. Сьогодні вранці морський дрон СБУ Sea Baby уразив танкер «Blue», який входить д... [1269 chars]",
-    "url": "https://rubryka.com/2026/07/08/morskyj-dron-sbu-sea-baby-urazyv-tanker-tinovogo-flotu-rf-u-chornomu-mori/",
-    "image": "https://rubryka.com/wp-content/uploads/ogimages/ua_865688_1783521533morskyj-dron-sbu-sea-baby-urazyv-tanker-tinovogo-flotu-rf-u-chornomu-mori.jpg",
-    "publishedAt": "2026-07-08T14:37:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "27b90949a0fb95263641f3538efcd662",
-      "name": "Рубрика",
-      "url": "https://rubryka.com"
-    }
-  },
-  {
-    "id": "7ad53506c9beaeda3ee3f74874aae272",
-    "title": "Як думає Claude - вчені вперше побачили приховані процеси ШІ",
-    "description": "Anthropic опублікувала масштабне дослідження - мовні моделі Claude спонтанно розвинули внутрішню архітектуру, яка копіює одну з провідних нейробіологі...",
-    "content": "Що таке J-space?\nДослідження під назвою \"Verbalizable Representations Form a Global Workspace in Language Models\" описує відкриття особливої зони всередині штучної нейромережі, яку назвали J-space (Джей-простір).\nЦе обмежена зона внутрішньої активнос... [3994 chars]",
-    "url": "https://www.rbc.ua/rus/news/useredini-claude-znayshli-analog-lyudskoyi-1783495928.html",
-    "image": "https://www.rbc.ua/static/img/_/1/_1_d82ceeae779d53f2271954041a8cd20b_1300x820.jpg",
-    "publishedAt": "2026-07-08T14:33:43Z",
-    "lang": "uk",
-    "source": {
-      "id": "6f1ead09126f1f4738a48957e22f789c",
-      "name": "РБК-Україна",
-      "url": "https://www.rbc.ua"
-    }
-  },
-  {
-    "id": "7efc416aca70303ab72ba6290a27a25a",
-    "title": "Трамп: Ми будемо купувати дрони в України",
-    "description": "Трамп заявив, що США планують закуповувати дрони з України. Угода обговорювалась на зустрічі із Зеленським в Анкарі.",
-    "content": "Американський президент Дональд Трамп заявив, що США купуватимуть в України дрони.\nДжерело: Трамп під час зустрічі із президентом України Володимиром Зеленським в Анкарі на полях саміту НАТО, пише \"Європейська правда\"\nДеталі: У Трампа запитали, який ... [536 chars]",
-    "url": "https://www.pravda.com.ua/news/2026/07/08/8043089/",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/5/867326/f5e01e90c3ac3a0683351945fb6beb39.jpeg?w=1200&q=85&stamp=1783521187",
-    "publishedAt": "2026-07-08T14:32:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "f22da91c498603eb4d447ae38063cc99",
-      "name": "Українська правда",
-      "url": "https://www.pravda.com.ua"
-    }
-  },
-  {
-    "id": "6adc0ffdb1e5c707a685103a50c3ecd2",
-    "title": "Володимир Зеленський не поїде в Москву через українські дрони",
-    "description": "Зеленський заявив, що не може поїхати в Москву на переговори з Путіним, бо там забагато українських дронів - читайте докладно в матеріалі УНІАН",
-    "content": "Президент Володимир Зеленський заявив, що не поїде до Москви через атаки українських дронів по російській столиці. Таку відповідь він дав президенту США Дональду Трампу під час їхньої спільної прес-конференції на полях саміту НАТО в Анкарі.\n\"Президен... [1203 chars]",
-    "url": "https://www.unian.ua/politics/volodimir-zelenskiy-ne-pojide-v-moskvu-cherez-ukrajinski-droni-13434999.html",
-    "image": "https://images.unian.net/photos/2024_06/thumb_files/620_324_1717269084-1117.jpg?1",
-    "publishedAt": "2026-07-08T14:00:00Z",
+    "id": "ac50c1be83c006bb2055ae832efd1411",
+    "title": "у чому полягають складнощі їхнього виробництва в Україні",
+    "description": "Складність виробництва ракет-перехоплювачів полягає у складному технологічному процесі та суворому контролі з боку США щодо своїх технологій, пише Bloomberg.",
+    "content": "Організація виробництва ракет-перехоплювачів для систем Patriot в Україні буде тривалим і складним процесом, пише Bloomberg.\nВидання зазначило, що найсучасніший варіант перехоплювачів, а саме ракети PAC-3 вартістю 5 млн доларів кожна, виробляють лише... [1994 chars]",
+    "url": "https://www.unian.ua/weapons/raketi-patriot-u-chomu-polyagayut-skladnoshchi-jihnogo-virobnictva-v-ukrajini-13435284.html",
+    "image": "https://images.unian.net/photos/2024_04/thumb_files/1000_545_1713074445-1588.jpg?1",
+    "publishedAt": "2026-07-08T20:08:00Z",
     "lang": "uk",
     "source": {
       "id": "d4361862486677369ff2ae7719b8d313",
@@ -120,13 +30,58 @@
     }
   },
   {
-    "id": "6142614fb87a204d0aae3d94930a2964",
-    "title": "Кар'єрна студія на Дія.Освіта: Мінцифри запустила новий сервіс",
-    "description": "Кар'єрна студія на Дія.Освіта стала доступною для користувачів. Які інструменти для пошуку роботи та підготовки до співбесіди пропонує новий сервіс — читайте в матеріалі Фактів ICTV",
-    "content": "На платформі Дія.Освіта запрацювала Кар’єрна студія — новий безоплатний державний сервіс для пошуку роботи та підготовки до працевлаштування. Однією з його головних функцій став симулятор співбесіди на основі штучного інтелекту.\nЯк повідомили в Мініс... [1826 chars]",
-    "url": "https://fakty.com.ua/ua/styl-zhyttia/nauka-tekhnolohii/20260708-na-diya-osvita-zapustyly-servis-dlya-poshuku-roboty-iz-shi-symulyatorom-spivbesidy/",
-    "image": "https://fakty.com.ua/wp-content/uploads/2026/07/08/kar-yerna-studiya-768x432.jpg",
-    "publishedAt": "2026-07-08T13:55:00Z",
+    "id": "bac676c97302aba6e1400e68c5c8bb95",
+    "title": "Starlink України намагається глушити РФ для зриву обстрілів",
+    "description": "Росіяни намагаються захистити свою логістику від українських дронів. Вони маскують паливо під цивільні вантажі та намагаються глушити зв'язок Starlink...",
+    "content": "Більшість українських ударів на середні відстані залежить від систем Starlink. Тривалий час вони були стійкими до перешкод, однак зараз окупанти почали розгортати комплекси радіоелектронної боротьби \"Волна Купол Гарант\".\nТакі системи здатні блокувати... [1606 chars]",
+    "url": "https://www.rbc.ua/rus/news/rosiya-namagaetsya-glushiti-starlink-zrivu-1783539756.html",
+    "image": "https://www.rbc.ua/static/img/_/v/_viyskoviy_polk_bezpilotnih_sistem_lava__hartiya__dron_bpla_harkivska_oblast_vesna_2026__gettyimages_2277733749_01cb0856e9442be5c8013efe80ab6b05_1300x820_b23a4d1433b1478fed82df4864d9594a_1300x820_d59f35d77f436f9829fdfe42bc4ecfd6_1300x820.jpg",
+    "publishedAt": "2026-07-08T19:55:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "6f1ead09126f1f4738a48957e22f789c",
+      "name": "РБК-Україна",
+      "url": "https://www.rbc.ua"
+    }
+  },
+  {
+    "id": "292bf40aa26fef4b45a20d459cadba02",
+    "title": "у Швеції створили інноваційний безпілотник K100XR",
+    "description": "Компанія Nordic Air Defense продемонструвала \"інтелектуальний\" дрон-перехоплювач K100XR, призначений для перехоплення повітряних загроз на близькій відстані.",
+    "content": "Шведська компанія Nordic Air Defense представила \"інтелектуальний\" дрон-перехоплювач K100XR, який призначений для перехоплення повітряних загроз на близькій відстані. Про це пише Interesting Engineering.\nЗазначається, що K100XR вже продемонстрували в... [2699 chars]",
+    "url": "https://www.unian.ua/weapons/droni-perehoplyuvachi-u-shveciji-stvorili-innovaciyniy-bezpilotnik-k100xr-13435254.html",
+    "image": "https://images.unian.net/photos/2026_07/thumb_files/1000_545_1783536513-1567.jpg?1",
+    "publishedAt": "2026-07-08T18:58:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "d4361862486677369ff2ae7719b8d313",
+      "name": "УНІАН",
+      "url": "https://www.unian.ua"
+    }
+  },
+  {
+    "id": "afff2befbac52e954266ff2f8bfe9cbf",
+    "title": "Захід КАІ за участі виробників дронів",
+    "description": "Публічний анонс заходу в Києві за участю виробників безпілотників привернув увагу російських пропагандистів. Подробиці читайте ᐅ TSN.ua (новини 1+1)",
+    "content": "На тлі посилених російських ударів по Києву публічний анонс заходу за участю виробників безпілотників привернув увагу російських пропагандистів, які поширили інформацію про місце його проведення та опублікували його координати.\nНа це звернув увагу ук... [1329 chars]",
+    "url": "https://tsn.ua/ukrayina/rosiyskyy-propahandyst-opublikuvav-koordynaty-budivli-v-kyyevi-de-zaplanovano-zakhid-z-vyrobnykamy-droniv-3123728.html",
+    "image": "https://img.tsn.ua/cached/282/tsn-68a41e04dcd5a9f31ad7b42986ffb0f3/thumbs/1200x630/89/b3/8ea50f71d08f31c6d0bfa514def9b389.jpeg",
+    "publishedAt": "2026-07-08T18:01:04Z",
+    "lang": "uk",
+    "source": {
+      "id": "ae8b9c98d707754fca5e1ea622855c50",
+      "name": "ТСН",
+      "url": "https://tsn.ua"
+    }
+  },
+  {
+    "id": "31b42ce637d81044cfa734225fb8fa5f",
+    "title": "Думайте як аналітики: в ОБСЄ дали поради з медіаграмотності в епоху ШІ",
+    "description": "Представник ОБСЄ з питань свободи медіа Ян Браату закликав перевіряти інформацію з соцмереж та пояснив, чому критичне мислення необхідно впроваджувати на рівні шкіл в епоху штучного інтелекту – деталі на Фактах ICTV",
+    "content": "Медіаграмотність включає три фактори – набір навичок, звичок та спосіб мислення. Варто перевірити, з’ясувати та переконатися у правдивості інформації, перш ніж вірити на слово.\nПро це заявив представник ОБСЄ з питань свободи медіа Ян Браату під час м... [1942 chars]",
+    "url": "https://fakty.com.ua/ua/svit/20260708-my-prosymo-lyudej-dumaty-persh-nizh-viryty-predstavnyk-obsye-pro-dezinformatsiyu-v-epohu-shi/",
+    "image": "https://fakty.com.ua/wp-content/uploads/2026/07/08/YAn-Braatu-768x432.jpg",
+    "publishedAt": "2026-07-08T17:59:00Z",
     "lang": "uk",
     "source": {
       "id": "10828aeaae724c71000c1326d888e604",
@@ -135,18 +90,63 @@
     }
   },
   {
-    "id": "40b3e930a1f45ab7af7aeacc190f82a5",
-    "title": "Астрономи розгадали космічну загадку: гігантська планета вижила після смерті своєї зірки",
-    "description": "Телескоп James Webb допоміг пояснити, як планета-гігант уникла знищення та що це відкриття говорить про майбутнє Сонячної системи",
-    "content": "Міжнародна група астрономів зробила відкриття, яке змінює уявлення про еволюцію планетних систем після загибелі зірок. За допомогою космічного телескопа James Webb вчені встановили, як газовий гігант WD 1856b зміг пережити перетворення своєї зірки на... [1699 chars]",
-    "url": "https://it.comments.ua/ua/news/space/cya-planeta-mala-zaginuti-sche-milyardi-rokiv-tomu-astronomi-shokuvali-rozgadkoyu-810661.html",
-    "image": "https://comments.ua/img/facebooks_img/ua/aDofncyCb4j2N8JTgp_BJWPkboanxgz-.jpg",
-    "publishedAt": "2026-07-08T13:50:00Z",
+    "id": "654853e3af8717925d7565fb25628448",
+    "title": "Аналог \"Молнії\". РФ випробовує новий дрон на оптоволокні, - \"Флеш\"",
+    "description": "Росіяни розробили новий БпЛА на оптоволокні дальністю до 50 кілометрів, який схожий на \"Молнію\"....",
+    "content": "Росія випробовує новий дрон на оптоволокні\n\"Противник випробовує новий безпілотник крилатого типу на оптоволокні. Анонсують плани щодо серійного випуску аналога \"Молнії\" з дальністю польоту 50 кілометрів\", - зазначив експерт.\nЗа словами \"Флеша\", осно... [991 chars]",
+    "url": "https://www.rbc.ua/rus/news/analog-molniyi-rf-viprobovue-noviy-dron-optovolokni-1783532829.html",
+    "image": "https://www.rbc.ua/static/img/_/d/_dron_molniya_facebook_com_dsnssumy__244d23adfde29ad8946f8bb19851c95c_1300x820.jpg",
+    "publishedAt": "2026-07-08T17:53:51Z",
     "lang": "uk",
     "source": {
-      "id": "f3e13980836c5027da583232ba783135",
-      "name": "Comments.ua",
-      "url": "https://it.comments.ua"
+      "id": "6f1ead09126f1f4738a48957e22f789c",
+      "name": "РБК-Україна",
+      "url": "https://www.rbc.ua"
+    }
+  },
+  {
+    "id": "e3d28e262e68b256ea7daf22a45d97f5",
+    "title": "Американський бронетранспортер М113 українці навчили їздити без водія",
+    "description": "Американський бронтетранспорте М113 у 13-й бригаді НГУ \"Хартія\" інженери переробили в роботизовану машину. Тепер \"американець\" їздить по передовій без водія - оператор керує машиною дистанційно.",
+    "content": "\"Технології бережуть життя людей – це один із принципів \"Хартії\", який підштовхує наших розробників шукати нові рішення для сучасного поля бою\", – зазначили у бригаді.\nВідео з коротким текстовим супроводом розміщено на ФБ-сторінці 13-ї бригади НГУ \"Х... [2494 chars]",
+    "url": "https://24tv.ua/auto/khartiia_peretvoryla_btr_na_robotyzovanoho_tralshchyka_vin_rozminovuie_dorohy_y_vozyt_vantazhi_n73853",
+    "image": "https://24tv.ua/auto/resources/photos/news/202607/73853c72d43bf-dfc7-4580-850f-ffae8ede4920.jpg",
+    "publishedAt": "2026-07-08T17:07:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "e737a8e76b161ef4526698e2ec5f60c9",
+      "name": "24 Канал",
+      "url": "https://24tv.ua"
+    }
+  },
+  {
+    "id": "c4ac1355129c59a7c66838d3769ff048",
+    "title": "Xbox і його нова стратегія",
+    "description": "Microsoft планує зробити свої найкращі ігри ексклюзивними для Xbox та ПК – причини зміни стратегії, масові звільнення та доля The Elder Scrolls 6.",
+    "content": "Ми знову повертаємось до ексклюзивів\nКорпорація Microsoft готує масштабний розворот у своїй ігровій стратегії, плануючи зробити більше найкращих проєктів ексклюзивами для власних консолей. Головна мета такого кроку – нарешті дати гравцям вагому причи... [3016 chars]",
+    "url": "https://games.24tv.ua/xbox-yogo-nova-strategiya-microsoft-povertaye-eksklyuzivi-dlya_n3102008",
+    "image": "https://games.24tv.ua/resources/photos/news/202607/3102008.jpg?v=1783504021000&w=1200&h=675",
+    "publishedAt": "2026-07-08T16:58:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "86b62aad07ac59a35ae9e88cb20e4646",
+      "name": "24 Канал",
+      "url": "https://games.24tv.ua"
+    }
+  },
+  {
+    "id": "f727311575f63d2a3cbc4b9ab16730c0",
+    "title": "Дані дозиметрів спростовують інформацію телеграм-каналів про радіаційне забруднення у Вишневому, - StopFake",
+    "description": "Радіаційний фон у місті в межах норми. При цьому, як повідомляла Київська ОВА, у Вишневій громаді фіксували підвищене забруднення атмосферного повітря СО₂ та дрібним пилом унаслідок пожеж.",
+    "content": "Радіаційний фон у місті в межах норми. При цьому, як повідомляла Київська ОВА, у Вишневій громаді фіксували підвищене забруднення атмосферного повітря СО₂ та дрібним пилом унаслідок пожеж.\nДані дозиметрів спростовують інформацію з низки проросійських... [2440 chars]",
+    "url": "https://detector.media/infospace/article/251072/2026-07-08-dani-dozymetriv-sprostovuyut-informatsiyu-telegram-kanaliv-pro-radiatsiyne-zabrudnennya-u-vyshnevomu-stopfake/",
+    "image": "https://detector.media/doc/images/news/archive/2021/251072/ArticleImage_251072.jpg?t=1783536458",
+    "publishedAt": "2026-07-08T16:45:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "c5aed81ccfa2363a13757e53d9211b2a",
+      "name": "detector.media",
+      "url": "https://detector.media"
     }
   }
 ]
