@@ -1,5 +1,20 @@
 [
   {
+    "id": "f4b843b078fedaac55d92370c814e128",
+    "title": "Xiaomi показала свій перший гібрид Sky Nomad N90",
+    "description": "Ще вчора Xiaomi тизерила свій загадковий бренд Sky Nomad у вигляді величезних банерів на будинках, а сьогодні компанія показала, що мала на увазі. Повнорозмірний SUV Sky Nomad N90, на відміну від попередніх авто Xiaomi, отримав додатковий бензобак.",
+    "content": "Ще вчора Xiaomi тизерила свій загадковий бренд Sky Nomad у вигляді величезних банерів на будинках, а сьогодні компанія показала, що мала на увазі. Повнорозмірний SUV Sky Nomad N90, на відміну від попередніх авто Xiaomi, отримав додатковий бензобак.\nР... [2343 chars]",
+    "url": "https://mezha.ua/news/xiaomi-sky-nomad-n90-erev-suv-313098/",
+    "image": "https://img.mezha.ua/mezha/images/doc/2/1/317145/21dcf288632e5e47366b99b473f61e97.jpeg?w=1200&q=85&stamp=1783629835",
+    "publishedAt": "2026-07-09T20:52:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "6b0257d31504a630dde7752eed4e1e39",
+      "name": "Mezha",
+      "url": "https://mezha.ua"
+    }
+  },
+  {
     "id": "48b714c102e99722e34113ec039d8e6c",
     "title": "Volkswagen планує закриття чотирьох заводів",
     "description": "Найбільший німецький автовиробник планує закрити чотири заводи в Німеччині до 2034 року, щоб скоротити витрати.",
@@ -37,6 +52,21 @@
     "url": "https://retailers.ua/news/menedjment/uniqlo-demonstruye-rekordni-prodaji-u-sviti-ale-pereglyadaye-tsini-na-chastinu-tovariv",
     "image": "https://retailers.ua/media/news/364-s/00/19/19790/russel-bailo-ElUv8iQt7CM-unsplash-26727-30958.jpg",
     "publishedAt": "2026-07-09T18:33:38Z",
+    "lang": "uk",
+    "source": {
+      "id": "e1db65ee22b4e2d08bcca5c44a306103",
+      "name": "Retailers.ua",
+      "url": "https://retailers.ua"
+    }
+  },
+  {
+    "id": "12e01bd4da8f3956901f7e6ee47f50c1",
+    "title": "Як KFC планує конкурувати з McDonald's і новими курячими мережами",
+    "description": "KFC оновлює глобальну стратегію: мережа розширює меню з куркою без кісток, додає нові соуси й напої та запускає сучасні формати ресторанів, щоб посилити конкуренцію на ринку.",
+    "content": "Фото: magnific.com\nKFC змінює підхід до розвитку мережі, щоб краще відповідати очікуванням сучасних клієнтів. Компанія робить ставку на страви з курки без кісток, розширює лінійку соусів, оновлює напої та запускає новий формат ресторанів. Так мережа ... [3498 chars]",
+    "url": "https://retailers.ua/news/menedjment/kfc-zminyuye-strategiyu-bilshe-stripsiv-sousiv-i-novih-formativ-restoran",
+    "image": "https://retailers.ua/media/news/364-s/00/19/19783/28542-30951.jpg",
+    "publishedAt": "2026-07-09T17:28:35Z",
     "lang": "uk",
     "source": {
       "id": "e1db65ee22b4e2d08bcca5c44a306103",
@@ -117,36 +147,6 @@
       "id": "e737a8e76b161ef4526698e2ec5f60c9",
       "name": "24 Канал",
       "url": "https://24tv.ua"
-    }
-  },
-  {
-    "id": "7c491069230a4fb5d20fcd6be84490ed",
-    "title": "Ютубер встановив SteamOS на робочу станцію від AMD за $4000 та порівняв зі Steam Machine",
-    "description": "Ютубер ETA Prime встановив SteamOS 3.8.14 на робочу станцію Ryzen AI Halo MiniAI від AMD за $3999 та порівн",
-    "content": "Ютубер ETA Prime встановив SteamOS 3.8.14 на робочу станцію Ryzen AI Halo MiniAI від AMD за $3999 та порівняв зі Steam Machine від Valve.\nЦя система включає процесор Ryzen AI Max+ 395, 128 ГБ пам’яті LPDDR5X. AMD випустила лінійку процесорів Strix Ha... [2103 chars]",
-    "url": "https://itc.ua/ua/novini/yutuber-vstanovyv-steamos-na-robochu-stantsiyu-vid-amd-za-4000-ta-porivnyav-zi-steam-machine/",
-    "image": "https://itcua-media-prod.fra1.cdn.digitaloceanspaces.com/uploads/2026/07/amd-ryzen-ai-max-395-mini-pc-steamos-gaming-monitor.jpg",
-    "publishedAt": "2026-07-09T15:36:30Z",
-    "lang": "uk",
-    "source": {
-      "id": "391d17d071b755a4bda37c1b43f47c2c",
-      "name": "ITC.ua",
-      "url": "https://itc.ua"
-    }
-  },
-  {
-    "id": "d6440b75570057da2a8f3dc90999a7c4",
-    "title": "Українці змінили вподобання щодо авто: які машини більше не хочуть купувати",
-    "description": "Після повернення ПДВ (податок на додану вартість) українці значно рідше купують нові та щойно пригнані електромобілі – за рік імпорт уживаних авто впав майже на 44%, а нових електрокарів більш ніж на 71%.",
-    "content": "Після повернення ПДВ (податок на додану вартість) українці значно рідше купують нові та щойно пригнані електромобілі – за рік імпорт уживаних авто впав майже на 44%, а нових електрокарів більш ніж на 71%. Сьогодні ринок фактично тримається на перепро... [3068 chars]",
-    "url": "https://www.obozrevatel.com/ukr/ekonomika-glavnaya/economy/ukraintsi-zminili-vpodobannya-schodo-avto-yaki-mashini-bilshe-ne-kupuyut.htm",
-    "image": "https://i.obozrevatel.com/news/2025/12/16/woman-charging-electro-car-by-her-house.jpg?size=1200x630",
-    "publishedAt": "2026-07-09T14:42:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "ca149ffefb31c86f82d7f299d744af59",
-      "name": "Obozrevatel",
-      "url": "https://www.obozrevatel.com"
     }
   }
 ]

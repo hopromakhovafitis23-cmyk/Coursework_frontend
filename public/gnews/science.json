@@ -1,5 +1,20 @@
 [
   {
+    "id": "cf0152aa6b0d1eff39b542b27d94c7cb",
+    "title": "Глибоководні дива: вчені вперше зняли на відео «рибу-привида»",
+    "description": "Вчені зняли на відео рибу з випуклими очима, яка мешкає в глибинах океану",
+    "content": "Група вчених під керівництвом Аарона Мікаллефа з Науково-дослідного інституту акваріума Монтерей-Бей у Каліфорнії за допомогою дистанційно керованого апарата змогла зняти на відео глибоководні дива, які до цього ніколи не спостерігалися. Зокрема, вон... [1227 chars]",
+    "url": "https://zn.ua/ukr/TECHNOLOGIES/hlibokovodni-diva-vcheni-vpershe-znjali-na-video-ribu-privida.html",
+    "image": "https://zn.ua/img/article/6891/36_main-v1783626427.webp",
+    "publishedAt": "2026-07-10T01:30:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "c5c959cb41bdd64f8b2b81a75752cf74",
+      "name": "Дзеркало тижня",
+      "url": "https://zn.ua"
+    }
+  },
+  {
     "id": "7f73531f083a0c0ae81f71a82fa481d0",
     "title": "Космічний зонд NASA, що знаходиться на краю Сонячної системи, подав сигнал після 11 місяців мовчання",
     "description": "Зонд NASA Нові горизонти відновив зв'язок з Землею після 11 місяців мовчання. Дізнайтеся, які таємниці Сонячної системи він досліджує",
@@ -132,21 +147,6 @@
       "id": "60510e5dd05ebc090df0b3585363b2e6",
       "name": "Радіо ТРЕК",
       "url": "https://radiotrek.rv.ua"
-    }
-  },
-  {
-    "id": "962765fd307d76f6283c65255619481f",
-    "title": "У Києві триває ліквідація забруднення озера Кирилівського: до розробки програми відновлення екосистеми залучили науковців",
-    "description": "Фахівці КП «Плесо» у взаємодії з ДСНС України, Державною екологічною інспекцією Столичного округу, Держводагентством і ...➜ читайте далі на Rubryka.com",
-    "content": "Фахівці КП «Плесо» у взаємодії з ДСНС України, Державною екологічною інспекцією Столичного округу, Держводагентством і науковцями Інституту гідробіології НАН України продовжують ліквідовувати наслідки забруднення озера Кирилівського, спричиненого рос... [3169 chars]",
-    "url": "https://rubryka.com/2026/07/09/u-kyyevi-tryvaye-likvidatsiya-zabrudnennya-ozera-kyrylivskogo-do-rozrobky-programy-vidnovlennya-ekosystemy-zaluchyly-naukovtsiv/",
-    "image": "https://rubryka.com/wp-content/uploads/ogimages/ua_865969_1783609286u-kyyevi-tryvaye-likvidatsiya-zabrudnennya-ozera-kyrylivskogo-do-rozrobky-programy-vidnovlennya-ekosystemy-zaluchyly-naukovtsiv.jpg",
-    "publishedAt": "2026-07-09T14:59:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "27b90949a0fb95263641f3538efcd662",
-      "name": "Рубрика",
-      "url": "https://rubryka.com"
     }
   }
 ]
