@@ -1,57 +1,27 @@
 [
   {
-    "id": "1dbd84c35d644d5bdaac5465a2bc0f62",
-    "title": "\"Українські оборонні компанії перебувають у кращому становищі, ніж європейські\", - СЕО PBS Velka Bites Мілан Махолан",
-    "description": "Як за роки війни змінилася співпраця оборонних галузей ЄС та України та як війна з Росією впливає на розвиток військових технологій Європи - розповів УНІАН генеральний директор чеської PBS Velka Bites Мілан Махолан.",
-    "content": "Генеральний директор чеської PBS Velka Bites Мілан Махолан розповів УНІАН, як за роки війни змінилася співпраця оборонних галузей ЄС та України та як війна з Росією впливає на розвиток військових технологій Європи.\nПовномасштабна війна Росії проти Ук... [6247 chars]",
-    "url": "https://www.unian.ua/weapons/ukrajinski-oboronni-kompaniji-perebuvayut-u-krashchomu-stanovishchi-nizh-yevropeyski-seo-pbs-velka-bites-milan-maholan-13435506.html",
-    "image": "https://images.unian.net/photos/2026_07/thumb_files/1000_545_1783582576-3587.jpg",
-    "publishedAt": "2026-07-09T07:39:00Z",
+    "id": "4186fef8f13f4cef6d6f8e09ebde199c",
+    "title": "стали відомі подробиці останнього бою",
+    "description": "30 червня екіпаж Мі-8 загинув під час виконання бойового завдання, знищивши два дрони Shahed.",
+    "content": "Екіпаж гелікоптера Мі-8, який загинув 30 червня під час бойового завдання на Полтавщині, устиг збити два російські ударні дрони Shahed, але третій уразив сам вертоліт.\nПро це розповіли в Нехворощанській громаді Полтавської області, де поховали одного... [996 chars]",
+    "url": "https://hromadske.ua/viyskovi/267343-tretiy-shakhed-pryynialy-na-sebe-staly-vidomi-obstavyny-zahybeli-ekipazu-mi-8-iakyy-rozbyvsia-na-poltavshchyni",
+    "image": "https://hromadske.ua/static/content/thumbs/1200x630/7/8f/wz7hc3---c1200x630x50px50p--f2c45c1fe5e8cafc0e3b6b849ee0a8f7.jpeg",
+    "publishedAt": "2026-07-09T15:08:00Z",
     "lang": "uk",
     "source": {
-      "id": "d4361862486677369ff2ae7719b8d313",
-      "name": "УНІАН",
-      "url": "https://www.unian.ua"
+      "id": "e5c9eb01018c5028b5e73134cb311034",
+      "name": "Hromadske",
+      "url": "https://hromadske.ua"
     }
   },
   {
-    "id": "3f99c7ab550e137dd0917cfc74a4f25d",
-    "title": "Китайські чипи для Apple - чому США виступили проти",
-    "description": "Apple розпочала тестування чіпів динамічної пам'яті (DRAM) виробництва китайської компанії ChangXin Memory Technologies. Такий крок є частиною стратег...",
-    "content": "Лобізм у Вашингтоні та компромісний план Apple\nПопри те, що Apple уже співпрацює з трьома найбільшими світовими виробниками пам'яті - Samsung, SK Hynix та Micron, компанія була змушена підвищити ціни на лінійки iPad та Mac через стрімке здорожчання к... [2141 chars]",
-    "url": "https://www.rbc.ua/rus/news/apple-testue-kitayski-chipi-pam-yati-chomu-1783580835.html",
-    "image": "https://www.rbc.ua/static/img/_/f/_f9b20fb0f673ed7e4798be9ad7af7ce9_1300x820.jpg",
-    "publishedAt": "2026-07-09T07:13:15Z",
-    "lang": "uk",
-    "source": {
-      "id": "6f1ead09126f1f4738a48957e22f789c",
-      "name": "РБК-Україна",
-      "url": "https://www.rbc.ua"
-    }
-  },
-  {
-    "id": "7b81ed4e49af5ed6b0eceba6e5b29f80",
-    "title": "У Криму після серії вибухів горять позиції ППО окупантів",
-    "description": "Ударні дрони атакували Крим у ніч на 9 липня. Після серії вибухів спалахнула пожежа на позиціях ППО росіян на північ від Керчі.",
-    "content": "У тимчасово окупованому Криму 9 липня пролунала серія вибухів. На півночі Керчі неподалік позицій ППО окупантів спалахнула пожежа.\nПро це пише моніторингова група «Кримського вітру» з посиланням на дані супутникової зйомки.\n«На північ від Керчі на го... [2495 chars]",
-    "url": "https://www.slovoidilo.ua/2026/07/09/novyna/bezpeka/krymu-pislya-seriyi-vybuxiv-horyat-pozycziyi-ppo-okupantiv",
-    "image": "https://media.slovoidilo.ua/media/scimage/240/239928-uk.png",
-    "publishedAt": "2026-07-09T07:09:05Z",
-    "lang": "uk",
-    "source": {
-      "id": "15797505fcdbf49191263455ed070cbb",
-      "name": "Слово і Діло",
-      "url": "https://www.slovoidilo.ua"
-    }
-  },
-  {
-    "id": "dc8028186f19013052e426d22f865289",
-    "title": "DuckDuckGo тепер автоматично блокує всю рекламу на YouTube",
-    "description": "Нова функція браузера DuckDuckGo дозволяє безкоштовно дивитися YouTube без реклами. Механізм нативної фільтрації працює на Windows, Mac і смартфонах без сторонніх розширень.",
-    "content": "Як працює новий інструмент у DuckDuckGo?\nТехнічна реалізація цього рішення базується на відкритих списках фільтрів від відомого проєкту uBlock Origin, зокрема на репозиторії uAssets у GitHub. Ці списки постійно оновлює спільнота, яка відстежує зміни ... [2797 chars]",
-    "url": "https://24tv.ua/tech/duckduckgo-teper-avtomatichno-blokuye-vsyu-reklamu-youtube_n3102483",
-    "image": "https://24tv.ua/resources/photos/news/202607/3102483.jpg?v=1783578363000&w=1200&h=675",
-    "publishedAt": "2026-07-09T06:34:00Z",
+    "id": "8536f9df4c2837fd46e4a05827190478",
+    "title": "як заборонити використання ваших фото в Instagram",
+    "description": "Користувачі Instagram можуть легко вимкнути функцію Meta Muse Image, яка дозволяє будь-кому генерувати ШІ-зображення та відео з вашим обличчям без сповіщень.",
+    "content": "Як працює нова система і де ховається небезпека\nMuse Image дозволяє створювати зображення в чатах WhatsApp, застосовувати понад 30 нових ефектів у Stories і перетворювати звичайні селфі на персонажів відеоігор чи мультфільмів. Проблема полягає в авто... [1983 chars]",
+    "url": "https://24tv.ua/tech/meta-muse-image-yak-zaboroniti-vikoristannya-vashih-foto-instagram_n3102812",
+    "image": "https://24tv.ua/resources/photos/news/202607/3102812.jpg?v=1783598597000&w=1200&h=675",
+    "publishedAt": "2026-07-09T15:01:00Z",
     "lang": "uk",
     "source": {
       "id": "e737a8e76b161ef4526698e2ec5f60c9",
@@ -60,28 +30,43 @@
     }
   },
   {
-    "id": "c02fe9fce3c8a67ba5044e78bb525e09",
-    "title": "Події на ранок 9 липня: день жалоби в Одесі та атаки дронів на нафтобази РФ",
-    "description": "Детальніше про головні події ночі читайте в добірці від Фактів ICTV. Атака на Україну Вночі російський противник атакував територію України двома балістичними",
-    "content": "Детальніше про головні події ночі читайте в добірці від Фактів ICTV.\nАтака на Україну\nВночі російський противник атакував територію України двома балістичними ракетами Іскандер-М та 94 ударними БпЛА типу Shahed, Гербера, Італмас та дронами-імітаторам... [2400 chars]",
-    "url": "https://fakty.com.ua/ua/ukraine/20260709-podiyi-na-ranok-9-lypnya-den-zhaloby-v-odesi-ta-ataky-droniv-na-naftobazy-rf/",
-    "image": "https://fakty.com.ua/wp-content/uploads/2026/07/09/09-07-nich-768x432.jpg",
-    "publishedAt": "2026-07-09T06:29:00Z",
+    "id": "18e96a105593756c4e2e1419ac16330b",
+    "title": "FPV-дрон по автобусу: у центрі Херсона росіяни поранили вісьмох цивільних",
+    "description": "Російські війська атакували FPV-дроном пасажирський автобус у центрі Херсона. Поранення дістали водій і семеро пасажирів.",
+    "content": "Російські війська атакували FPV-дроном пасажирський автобус у центрі Херсона. Поранення дістали водій і семеро пасажирів.\nПро це повідомили в Національній поліції України.\nЗа даними правоохоронців, атака сталася 9 липня близько 14:00. Російський FPV-... [1299 chars]",
+    "url": "https://armyinform.com.ua/2026/07/09/fpv-dron-po-avtobusu-u-czentri-hersona-rosiyany-poranyly-vismoh-czyvilnyh/",
+    "image": "https://armyinform.com.ua/wp-content/uploads/2026/07/photo_2026-07-09_16-08-47-2-960x540.jpg",
+    "publishedAt": "2026-07-09T14:24:00Z",
     "lang": "uk",
     "source": {
-      "id": "10828aeaae724c71000c1326d888e604",
-      "name": "Факти ICTV",
-      "url": "https://fakty.com.ua"
+      "id": "2e38197e59eebab4d9f99f889a185c5d",
+      "name": "ArmyInform",
+      "url": "https://armyinform.com.ua"
     }
   },
   {
-    "id": "6b158392b6d82b595464476c030e6a78",
-    "title": "Дрони атакували ще два танкери РФ у Таганрозькій затоці",
-    "description": "У Таганрозькій затоці вночі 9 липня безпілотники знову атакували два російські танкери. На суднах спалахнули пожежі....",
-    "content": "За його словами, внаслідок влучання безпілотників на обох суднах виникла пожежа.\nТанкери зазнали механічних пошкоджень. Екіпажі суден були евакуйовані.\nНа одному з танкерів займання вже ліквідували, тоді як інший продовжує горіти.\nСлюсар також заявив... [930 chars]",
-    "url": "https://www.rbc.ua/rus/news/droni-atakuvali-shche-dva-tankeri-rf-taganrozkiy-1783576378.html",
-    "image": "https://www.rbc.ua/static/img/_/t/_tanker_gettyimages_503850269_34383987ad508ad7e265e376e99750f5_1300x820.jpg",
-    "publishedAt": "2026-07-09T06:02:00Z",
+    "id": "771c004a80e5ecfa4cb9f0c957298e9b",
+    "title": "Російський дрон знову атакував АЗС у Харкові - влада",
+    "description": "Наразі постраждалих немає, на місці ліквідували пожежу",
+    "content": "Російські війська вдарили дроном по АЗС в Шевченківському районі Харкова, повідомив голова обласної військової адміністрації Олег Синєгубов.\nЗа його словами, наразі постраждалих немає, на місці ліквідували пожежу.\nРосійські війська посилили атаки по ... [2662 chars]",
+    "url": "https://www.radiosvoboda.org/a/news-ataka-dron-azs-kharkiv/33800301.html",
+    "image": "https://gdb.rferl.org/902d5079-bcbb-4bd2-7a3b-08decad17715_w1200_h630.jpg",
+    "publishedAt": "2026-07-09T14:23:31Z",
+    "lang": "uk",
+    "source": {
+      "id": "5c9ced304d672fe93c822292939bf821",
+      "name": "Радіо Свобода",
+      "url": "https://www.radiosvoboda.org"
+    }
+  },
+  {
+    "id": "3ffe124c3043d0688d7fb3c7cff9b458",
+    "title": "Galaxy Fold 8 - інсайдери злили дизайн, характеристики і ціну",
+    "description": "Samsung готується до проведення великої літньої презентації Unpacked, яка відбудеться 22 липня у Лондоні. Головними зірками заходу мають стати нові по...",
+    "content": "17:17 09.07.2026 Чт\n3 хв\nРозкрито кардинальні зміни у пропорціях екрана та габаритах корпусу\nGalaxy Fold 8 стане одним із найтонших ШІ-флагманів (фото: Unsplash)\nSamsung готується до проведення великої літньої презентації Unpacked, яка відбудеться 22... [2963 chars]",
+    "url": "https://www.rbc.ua/rus/news/samsung-zminila-galaxy-fold-8-golovniy-nedolik-1783600031.html",
+    "image": "https://www.rbc.ua/static/img/_/2/_2_26fa0542f9b1f0de637ca9dc3c8d897d_1300x820.jpg",
+    "publishedAt": "2026-07-09T14:17:41Z",
     "lang": "uk",
     "source": {
       "id": "6f1ead09126f1f4738a48957e22f789c",
@@ -90,63 +75,78 @@
     }
   },
   {
-    "id": "ae44a1b66498b4aefd933c25bfa35368",
-    "title": "ШІ-акторка Тіллі Норвуд вперше зіграє головну роль у фільмі Misaligned",
-    "description": "Віртуальна ШІ-акторка Тіллі Норвуд вперше в історії отримала головну роль у повнометражному кіно.",
-    "content": "Штучний інтелект робить ще один крок у світ великого кіно. Віртуальна акторка Тіллі Норвуд, створена британською компанією Particle 6, стане головною героїнею повнометражного фільму Misaligned (\"Розрегульована\"). Це перший випадок, коли цифровий перс... [2008 chars]",
-    "url": "https://stars.comments.ua/ua/news/show-business/shi-aktorka-vpershe-otrimala-golovnu-rol-u-velikomu-filmi-yak-vona-viglyadae-foto-810701.html",
-    "image": "https://comments.ua/img/facebooks_img/ua/jVk4urcmkGOGzY46rEhPvQwQAnTTfYFR.jpg",
-    "publishedAt": "2026-07-09T05:05:00Z",
+    "id": "4c2ee42dbf4d2d68e6a071f873d0a20c",
+    "title": "Паливна криза в рф безпосередньо впливає на близько 50 мільйонів росіян – FT",
+    "description": "Паливна криза в рф, спровокована ударами українських дронів, вже безпосередньо зачіпає близько 50 млн жителів країни-окупанта.",
+    "content": "Паливна криза в росії, спровокована ударами українських дронів по нафтопереробній інфраструктурі, вже безпосередньо зачіпає близько 50 млн осіб, або 35% населення країни.\nПро це повідомляє Financial Times, посилаючись на власний аналіз.\nЖорсткий дефі... [1938 chars]",
+    "url": "https://www.slovoidilo.ua/2026/07/09/novyna/svit/palyvna-kryza-rf-bezposeredno-vplyvaye-50-miljoniv-rosiyan-ft",
+    "image": "https://media.slovoidilo.ua/media/scimage/240/239957-uk.png",
+    "publishedAt": "2026-07-09T14:16:50Z",
     "lang": "uk",
     "source": {
-      "id": "771b5de2cad01e2a1b385c5eb0c13b18",
-      "name": "Comments.ua",
-      "url": "https://stars.comments.ua"
+      "id": "15797505fcdbf49191263455ed070cbb",
+      "name": "Слово і Діло",
+      "url": "https://www.slovoidilo.ua"
     }
   },
   {
-    "id": "bb73cdb7115b64bd94f5b7f3b1391c28",
-    "title": "Що відбувається з мозком людини в космосі",
-    "description": "Космос змінює мозок астронавтів - і це може стати серйозною проблемою для місій за межі Місяця.",
-    "content": "Author, Річард Голлінгем\nPublished 9 липня 2026, 05:00 GMT\nЧас прочитання: 7 хв\nКосмос змінює мозок астронавтів - і це може стати серйозною проблемою для місій за межі Місяця.\nПісля приблизно чотирьох мільярдів років еволюції на Землі людина чудово п... [8873 chars]",
-    "url": "https://www.bbc.com/ukrainian/articles/c5yz0l9z6q9o",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_ukrainian/edda/live/83b1fff0-7ac6-11f1-9510-1546718f668b.jpg",
-    "publishedAt": "2026-07-09T05:03:56Z",
+    "id": "05dfd597e8d43581b91820b750c80ba2",
+    "title": "Окупанти вдарили по автівці та маршрутці у центрі Херсона, є жертви та поранені",
+    "description": "Російські окупаційні війська 9 липня атакували дронами цивільне авто та маршрутне таксі з людьми у центрі Херсона. Двоє людей загинули, а восьмеро пасажирів громадського транспорту отримали поранення.",
+    "content": "Російські окупаційні війська у четвер, 9 липня, вдарили безпілотниками по цивільній автівці та маршрутці з пасажирами у центрі Херсона. Внаслідок обстрілів двоє людей загинули, а восьмеро пасажирів громадського транспорту отримали поранення.\nПро це п... [2074 chars]",
+    "url": "https://www.slovoidilo.ua/2026/07/09/novyna/suspilstvo/okupanty-vdaryly-po-avtivkax-ta-marshrutczi-centri-xersona-ye-zhertvy-ta-poraneni",
+    "image": "https://media.slovoidilo.ua/media/scimage/240/239954-uk.png",
+    "publishedAt": "2026-07-09T13:54:47Z",
     "lang": "uk",
     "source": {
-      "id": "f331a5ed3965fb59761dfcecfc7e7a34",
-      "name": "BBC",
-      "url": "https://www.bbc.com"
+      "id": "15797505fcdbf49191263455ed070cbb",
+      "name": "Слово і Діло",
+      "url": "https://www.slovoidilo.ua"
     }
   },
   {
-    "id": "b8c3e253c4ec877de32840a7ffe8140e",
-    "title": "У Таганрозькій затоці дрони вдруге атакували два російські танкери",
-    "description": "У Таганрозькій затоці вдруге за кілька днів через атаку БПЛА пошкоджено два російські танкери, сталося загоряння.",
-    "content": "Губернатор Ростовської області Юрій Слюсар вдруге за кілька днів поскаржився, що у Таганрозькій затоці внаслідок атаки БПЛА пошкоджено два танкери.\nДжерело: Слюсар у соцмережах\nПряма мова Слюсара: \"У Таганрозькій затоці БПЛА знову атакували два танке... [469 chars]",
-    "url": "https://www.pravda.com.ua/news/2026/07/09/8043166/",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/e/867588/9e48b6c79aba5143ffd72c3dd31eba76.jpeg?w=1200&q=85&stamp=1783573713",
-    "publishedAt": "2026-07-09T05:03:00Z",
+    "id": "ed98ac200f48179e97a641584226585f",
+    "title": "Ознаки високого інтелекту: які дивні звички видають розумну людину",
+    "description": "Психологи назвали дві особливості поведінки людей із високим інтелектом, які часто вважають дивацтвами. Потреба в когніції та параліч аналізу.",
+    "content": "У суспільстві існує стереотип, що розумна людина завжди рішуча, врівноважена та діє без помилок. Проте реальні дослідження показують, що володарі високого інтелекту часто мають специфічні звички, які збоку виглядають як слабкості чи дивацтва. Психоло... [2004 chars]",
+    "url": "https://blik.ua/nauka/38061-tayemnici-visokogo-intelektu-dvi-nespodivani-zvichki-rozumnikh-lyudei-yaki-dratuyut-socium",
+    "image": "https://blik.ua/img/news/thumbs/152481.jpg",
+    "publishedAt": "2026-07-09T13:32:20Z",
     "lang": "uk",
     "source": {
-      "id": "f22da91c498603eb4d447ae38063cc99",
-      "name": "Українська правда",
-      "url": "https://www.pravda.com.ua"
+      "id": "5e8763eb8f65bd733ca2324cfefbe5b6",
+      "name": "БЛІК",
+      "url": "https://blik.ua"
     }
   },
   {
-    "id": "7aa52e0b95acef8d20a23eead39a4d6b",
-    "title": "Застосунки на Android, які краще видалити - список і причина",
-    "description": "Власникам  смартфонів на Android частину  застосунків можна безпечно видалити або вимкнути без шкоди для роботи пристрою.",
-    "content": "Власникам смартфонів на Android частину застосунків можна безпечно видалити або вимкнути без шкоди для роботи пристрою. Насамперед це стосується програм операторів мобільного зв'язку, фірмових сервісів виробників, дублікатів системних застосунків, ст... [4796 chars]",
-    "url": "https://www.obozrevatel.com/ukr/tehno-oboz/tsi-pyat-zastosunkiv-na-android-krasche-vidaliti-u-chomu-prichina.htm",
-    "image": "https://i.obozrevatel.com/news/2026/7/9/intro-1782757786.jpg?size=1200x630",
-    "publishedAt": "2026-07-09T04:59:00Z",
+    "id": "55bf9a833b5f85c48e1c3f7f0616addf",
+    "title": "Європейці запустили GDPRchat - аналог ChatGPT з акцентом на конфіденційність",
+    "description": "Розробники з Данії представили \"європейський аналог ChatGPT\" – чатбот під назвою GDPRchat, зосереджений на конфіденційності. Він зберігатиме інформацію користувачів виключно в межах ЄС із дотриманням місцевих стандартів захисту персональних даних.",
+    "content": "Розробники з Данії представили \"європейський аналог ChatGPT\" – чатбот під назвою GDPRchat, зосереджений на конфіденційності. Він, як зазначає CyberNews, зберігатиме інформацію користувачів виключно в межах ЄС і з дотриманням місцевих стандартів захис... [2745 chars]",
+    "url": "https://mezha.ua/news/egdprchat-a-privacy-focused-chatgpt-alternative-313082/",
+    "image": "https://img.mezha.ua/mezha/images/doc/a/e/317079/ae67b927d77f0c89370fcf1e2bfac9b5.jpeg?w=1200&q=85&stamp=1783597926",
+    "publishedAt": "2026-07-09T13:27:00Z",
     "lang": "uk",
     "source": {
-      "id": "ca149ffefb31c86f82d7f299d744af59",
-      "name": "Obozrevatel",
-      "url": "https://www.obozrevatel.com"
+      "id": "6b0257d31504a630dde7752eed4e1e39",
+      "name": "Mezha",
+      "url": "https://mezha.ua"
+    }
+  },
+  {
+    "id": "2e16d43f5339a9c9e9f69477a4fb8da0",
+    "title": "Ідея пролежала в шухляді вісім років. Потім я відкрив Claude Code - і тепер у мою гру грає пів офісу",
+    "description": "Штучний інтелект прибрав бар’єр між ідеєю та продуктом. Олександр, PM компанії RetroStyle Games, розповів, як візія та Claude Code допомогли йому створити складну RPG, у яку грає пів офісу. Чому реклама провалилася, а соціальні механіки допомогли? Чесний розбір із цифрами та нюансами розробки читайте у блозі.",
+    "content": "Вісім років тому ми з другом-девелопером загорілися ідеєю зробити власну текстову RPG. Сіли ввечері, я накидав лор, він зробив форму реєстрації... і на цьому все скінчилося. Порахували чесно: щоб довести таке до живої гри, потрібні місяці роботи післ... [6345 chars]",
+    "url": "https://gamedev.dou.ua/blogs/how-i-made-a-game-with-claude-code/",
+    "image": "https://s.dou.ua/img/announces/blogclaude1.jpg",
+    "publishedAt": "2026-07-09T13:19:34Z",
+    "lang": "uk",
+    "source": {
+      "id": "9afa9079fea6215587bd459094664fcb",
+      "name": "GameDev DOU",
+      "url": "https://gamedev.dou.ua"
     }
   }
 ]
