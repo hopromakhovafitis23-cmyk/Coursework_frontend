@@ -1,5 +1,65 @@
 [
   {
+    "id": "a78ae8de75b47eeebd09640306ba7e37",
+    "title": "деталі - ZAXID.NET",
+    "description": "Вітроелектростанцію в Сокалі на Львівщині в червні підключили до загальної енергомережі України. Що це означає, читайте на сайті ZAXID.NET.",
+    "content": "У червні до енергомережі України підключили Сокальську вітрову електростанцію групи компаній «Еко-Оптіма», що належить батькові голови Львівської ОВА Зіновію Козицькому. Про це йдеться в дайджесті «Еко-Оптіма», оприлюдненому на фейсбук-сторінці бізне... [579 chars]",
+    "url": "https://zaxid.net/u_sokali_rozpochala_robotu_nova_vitroelektrostantsiya_kompaniyi_zinoviya_kozitskogo_n1641294",
+    "image": "https://zaxid.net/resources/photos/news/600x315_DIR/202607/1641294.jpg",
+    "publishedAt": "2026-07-10T12:59:34Z",
+    "lang": "uk",
+    "source": {
+      "id": "7ab609f566cdbec66a589947504f2d4c",
+      "name": "Zaxid.net",
+      "url": "https://zaxid.net"
+    }
+  },
+  {
+    "id": "a65e4c9cc308d62306b1078bf3a86bca",
+    "title": "Samsung збільшує виробництво Galaxy S26 на 50% через вищий попит",
+    "description": "Samsung планує збільшити виробництво всіх смартфонів лінійки Galaxy S26 на 50% на фоні зростання попиту через маркетингові кампанії та побоювання споживачів щодо подорожчання Galaxy S27.",
+    "content": "Samsung підвищила план виробництва всієї лінійки Galaxy S26 через зростаючий попит на смартфони, спричинений масштабними рекламними заходами компанії, а також занепокоєнням користувачів, що майбутні Galaxy S27 коштуватимуть дорожче через дефіцит пам'... [1289 chars]",
+    "url": "https://mezha.ua/news/samsung-raises-galaxy-s26-production-313117/",
+    "image": "https://img.mezha.ua/mezha/images/doc/e/f/317193/ef3c1975b17f46093d208a794283eeea.jpeg?w=1200&q=85&stamp=1783681628",
+    "publishedAt": "2026-07-10T11:43:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "6b0257d31504a630dde7752eed4e1e39",
+      "name": "Mezha",
+      "url": "https://mezha.ua"
+    }
+  },
+  {
+    "id": "97ed82b5e82706240a348fe1221ee688",
+    "title": "Батько геймера з Сербії відремонтував RTX 3070 з допомогою конденсатора від радіоприймача",
+    "description": "Геймер з Сербії повідомив на Reddit, що його батьку вдалось відремонтувати його пошкоджену Geforce RTX 3070 за допомогою конденсатора від радіоприймача.",
+    "content": "Геймер з Сербії повідомив на Reddit, що його батьку вдалось відремонтувати його пошкоджену Geforce RTX 3070 за допомогою конденсатора від радіоприймача.\nЗа словами геймера, у ремонтній майстерні за відновлення його Geforce RTX 3070 попросили близько ... [1243 chars]",
+    "url": "https://itc.ua/ua/novini/batko-gejmera-z-serbiyi-vidremontuvav-rtx-3070-z-dopomogoyu-kondensatora-vid-radiopryjmacha/",
+    "image": "https://itcua-media-prod.fra1.cdn.digitaloceanspaces.com/uploads/2026/07/imgonline-com-ua-convertGb9YoY0sahJB.jpg",
+    "publishedAt": "2026-07-10T11:11:22Z",
+    "lang": "uk",
+    "source": {
+      "id": "391d17d071b755a4bda37c1b43f47c2c",
+      "name": "ITC.ua",
+      "url": "https://itc.ua"
+    }
+  },
+  {
+    "id": "812234a56d11bf3576470ec5c4e00102",
+    "title": "Творець DOOM Джон Кармак розкритикував Microsoft після масових звільнень в id Software",
+    "description": "Засновник id Software Джон Кармак прокоментувавзвільнення в студії після скорочень Xbox. Він визнав, що його колишній оптимізм щодо Microsoft погано постарів.",
+    "content": "Співавтор DOOM і співзасновник id Software Джон Кармак відреагував на масштабні скорочення в легендарній студії після нещодавньої хвилі звільнень у Xbox. Розробник із сарказмом визнав, що його колишній оптимізм щодо Microsoft не виправдався.\nПісля по... [2034 chars]",
+    "url": "https://itc.ua/ua/novini/tvorets-doom-dzhon-karmak-rozkrytykuvav-microsoft-pislya-masovyh-zvilnen-v-id-software/",
+    "image": "https://itcua-media-prod.fra1.cdn.digitaloceanspaces.com/uploads/2026/07/742153991_2086734495599068_721215435266435464_n-835x470.jpg",
+    "publishedAt": "2026-07-10T10:52:59Z",
+    "lang": "uk",
+    "source": {
+      "id": "391d17d071b755a4bda37c1b43f47c2c",
+      "name": "ITC.ua",
+      "url": "https://itc.ua"
+    }
+  },
+  {
     "id": "b9cdde4d2387116f16c9a6a4e1d7f115",
     "title": "Які мотоцикли найпопулярніші в Україні у червні 2026 року",
     "description": "У червні 2026 року українці зареєстрували 11 298 мотоциклів. Найбільшим сегментом стали нові імпортовані байки з часткою 52,6%, внутрішні перепродажі зайняли 37,4%, а свіжий імпорт — 10%. На новому ринку домінують Spark, Lifan, Kovi та Musstang, на вторинці лідирує Honda.",
@@ -27,6 +87,21 @@
       "id": "391d17d071b755a4bda37c1b43f47c2c",
       "name": "ITC.ua",
       "url": "https://itc.ua"
+    }
+  },
+  {
+    "id": "da1ce5a7d20efcfe8eb75b21d9d78a31",
+    "title": "Оновлений Nissan X-Trail вразив цінами в ЄС: упівтора вищі, ніж в Україні",
+    "description": "Nissan представив рестайлінговий X-Trail 2026 року для європейського ринку.",
+    "content": "Фото: Nissan\nМодель отримала низку косметичних змін у дизайні та сучасні цифрові оновлення, але головним сюрпризом стали ціни: у Німеччині вони стартують від 42 890 євро, тоді як в Україні базова версія коштує близько 27 600 євро.\nЦей контраст у варт... [2476 chars]",
+    "url": "https://pravdatutnews.com/avto/2026/07/10/82101-onovlenyy-nissan-x-trail-vrazyv-cinamy-v-yes-upivtora-vyshchi",
+    "image": "https://pravdatutnews.com/sites/default/files/news/2026/07/10/nissan_x-trail2026-cini.jpg",
+    "publishedAt": "2026-07-10T01:09:28Z",
+    "lang": "uk",
+    "source": {
+      "id": "716e7cb92f5f203aa3506c9ba057538c",
+      "name": "ПравдаТУТ NEWS",
+      "url": "https://pravdatutnews.com"
     }
   },
   {
@@ -72,81 +147,6 @@
       "id": "716e7cb92f5f203aa3506c9ba057538c",
       "name": "ПравдаТУТ NEWS",
       "url": "https://pravdatutnews.com"
-    }
-  },
-  {
-    "id": "8a5ab7d58411514e578bf4dda515a9f8",
-    "title": "Китайська Denza представила 2000-сильний електричний суперкар",
-    "description": "Преміальний бренд Denza, що належить BYD, представив електричний суперкар Z на фестивалі швидкості в Гудвуді.",
-    "content": "Преміальний бренд Denza, що належить BYD, представив електричний суперкар Z на фестивалі швидкості в Гудвуді.\nКомпанія Denza, преміальний підрозділ BYD, офіційно представила електричний суперкар Denza Z. Новинка дебютувала на фестивалі швидкості в Гу... [2377 chars]",
-    "url": "https://ua.korrespondent.net/lifestyle/motors/4893070-kytaiska-Denza-predstavyla-2000-sylnyi-elektrychnyi-superkar",
-    "image": "https://kor.ill.in.ua/m/1260x900/4484932.jpg",
-    "publishedAt": "2026-07-09T18:51:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "5f3893b2bdd83721567eef82ac0a6d2e",
-      "name": "Korrespondent.net",
-      "url": "https://ua.korrespondent.net"
-    }
-  },
-  {
-    "id": "3eb26874d1599f8b563c1af64ad7add0",
-    "title": "Uniqlo демонструє рекордні продажі у світі, але переглядає ціни на частину товарів",
-    "description": "Fast Retailing очікує рекордний прибуток Uniqlo на тлі зростання продажів у США та Європі",
-    "content": "Фото: Unsplash\nЯпонська корпорація Fast Retailing, власник бренду Uniqlo, втретє за сезон підвищила прогноз річного прибутку. Основним драйвером зростання стали високі результати міжнародних ринків. Про це повідомляє Delo.ua з посиланням на матеріал ... [1840 chars]",
-    "url": "https://retailers.ua/news/menedjment/uniqlo-demonstruye-rekordni-prodaji-u-sviti-ale-pereglyadaye-tsini-na-chastinu-tovariv",
-    "image": "https://retailers.ua/media/news/364-s/00/19/19790/russel-bailo-ElUv8iQt7CM-unsplash-26727-30958.jpg",
-    "publishedAt": "2026-07-09T18:33:38Z",
-    "lang": "uk",
-    "source": {
-      "id": "e1db65ee22b4e2d08bcca5c44a306103",
-      "name": "Retailers.ua",
-      "url": "https://retailers.ua"
-    }
-  },
-  {
-    "id": "12e01bd4da8f3956901f7e6ee47f50c1",
-    "title": "Як KFC планує конкурувати з McDonald's і новими курячими мережами",
-    "description": "KFC оновлює глобальну стратегію: мережа розширює меню з куркою без кісток, додає нові соуси й напої та запускає сучасні формати ресторанів, щоб посилити конкуренцію на ринку.",
-    "content": "Фото: magnific.com\nKFC змінює підхід до розвитку мережі, щоб краще відповідати очікуванням сучасних клієнтів. Компанія робить ставку на страви з курки без кісток, розширює лінійку соусів, оновлює напої та запускає новий формат ресторанів. Так мережа ... [3498 chars]",
-    "url": "https://retailers.ua/news/menedjment/kfc-zminyuye-strategiyu-bilshe-stripsiv-sousiv-i-novih-formativ-restoran",
-    "image": "https://retailers.ua/media/news/364-s/00/19/19783/28542-30951.jpg",
-    "publishedAt": "2026-07-09T17:28:35Z",
-    "lang": "uk",
-    "source": {
-      "id": "e1db65ee22b4e2d08bcca5c44a306103",
-      "name": "Retailers.ua",
-      "url": "https://retailers.ua"
-    }
-  },
-  {
-    "id": "c2c72a159bd2d8a8f766df67609b24ce",
-    "title": "Trail отримав ціни для 2026 року",
-    "description": "Оновлений кросовер Nissan X-Trail отримав комплектації та ціни для модельного 2026 року.",
-    "content": "Оновлений кросовер Nissan X-Trail отримав комплектації та ціни для модельного 2026 року.\nNissan оновив кросовер X-Trail для Європи.\nРестайлінг охоплює екстер’єр, двигуни та «медійку».\nТепер виробник оголосив ціни в Німеччині.\nПісля презентації оновле... [2844 chars]",
-    "url": "https://motorcar.com.ua/news/nissan-x-trail-restajling-komplektacziyi-cziny-2026/",
-    "image": "https://motorcar.com.ua/wp-content/uploads/2026/03/nissan-x-trail-n-trek-2026-13.jpg",
-    "publishedAt": "2026-07-09T17:26:15Z",
-    "lang": "uk",
-    "source": {
-      "id": "ccf5b23cf2f813320e7baafea8cf4ea7",
-      "name": "motorcar.com.ua",
-      "url": "https://motorcar.com.ua"
-    }
-  },
-  {
-    "id": "5398bbab91cf9e098dee68f66bfbccae",
-    "title": "Toyota повернула спортивну версію Aqua GR Sport",
-    "description": "Спортивна модифікація відрізняється агресивнішим дизайном, доопрацьованою підвіскою та жорсткішим кузовом.",
-    "content": "Спортивна модифікація відрізняється агресивнішим дизайном, доопрацьованою підвіскою та жорсткішим кузовом.\nКомпанія Toyota офіційно представила оновлену версію гібридного хетчбека Aqua GR Sport для японського ринку. Після рестайлінгу моделі, який від... [1877 chars]",
-    "url": "https://ua.korrespondent.net/lifestyle/motors/4893032-Toyota-povernula-sportyvnu-versiui-Aqua-GR-Sport",
-    "image": "https://kor.ill.in.ua/m/1260x900/4484770.jpg",
-    "publishedAt": "2026-07-09T16:35:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "5f3893b2bdd83721567eef82ac0a6d2e",
-      "name": "Korrespondent.net",
-      "url": "https://ua.korrespondent.net"
     }
   }
 ]
