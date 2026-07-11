@@ -1,5 +1,20 @@
 [
   {
+    "id": "4fba8bcd2f9f4f32f1dd7b7a1ce36160",
+    "title": "Apple подала до суду на OpenAI через крадіжку надсекретних розробок",
+    "description": "Компанія Apple подала позов до федерального суду Каліфорнії проти OpenAI та двох її співробітників, звинувативши розробника ChatGPT у систематичній крадіжці конфіденційної інформації та проєктів апаратного забезпечення, готуючись до випуску власних пристроїв на базі штучного інтелекту.",
+    "content": "Компанія Apple подала позов до федерального суду Каліфорнії проти OpenAI та двох її співробітників, звинувативши розробника ChatGPT у систематичній крадіжці конфіденційної інформації та проєктів апаратного забезпечення, готуючись до випуску власних п... [3439 chars]",
+    "url": "https://www.pravda.com.ua/news/2026/07/11/8043537/",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/5/869369/854222fbe331b735f80d2a108c02e13e.jpeg?w=1200&q=85&stamp=1783741787",
+    "publishedAt": "2026-07-11T03:45:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "f22da91c498603eb4d447ae38063cc99",
+      "name": "Українська правда",
+      "url": "https://www.pravda.com.ua"
+    }
+  },
+  {
     "id": "f639d0a9150a77eec846448273faecd4",
     "title": "Найдешевший кросовер Nissan Tekton дебютував офіційно",
     "description": "Японський бренд Nissan презентував новий кросовер Tekton, який використовує платформу та технології Dacia Duster, що робить новинку доступною.",
@@ -127,21 +142,6 @@
     "url": "https://itc.ua/ua/novini/tvorets-doom-dzhon-karmak-rozkrytykuvav-microsoft-pislya-masovyh-zvilnen-v-id-software/",
     "image": "https://itcua-media-prod.fra1.cdn.digitaloceanspaces.com/uploads/2026/07/742153991_2086734495599068_721215435266435464_n-835x470.jpg",
     "publishedAt": "2026-07-10T10:52:59Z",
-    "lang": "uk",
-    "source": {
-      "id": "391d17d071b755a4bda37c1b43f47c2c",
-      "name": "ITC.ua",
-      "url": "https://itc.ua"
-    }
-  },
-  {
-    "id": "21f3456bc27bcd7f4291752f07a44ebc",
-    "title": "Очільниця Xbox Аша Шарма стала радницею Федеральної резервної системи США з питань штучного інтелекту",
-    "description": "Аша Шарма стала радницею Федеральної резервної системи США у групі Productivity and Jobs, яка оцінюватиме вплив ШІ на економіку, продуктивність і ринок праці.",
-    "content": "Генеральна директорка Xbox Аша Шарма отримала нову роль поза межами Microsoft. Федеральна резервна система США призначила її зовнішньою радницею спеціальної робочої групи Productivity and Jobs, яка досліджуватиме вплив штучного інтелекту та інших уні... [1539 chars]",
-    "url": "https://itc.ua/ua/novini/ochilnytsya-xbox-asha-sharma-stala-radnytseyu-federalnoyi-rezervnoyi-systemy-ssha-z-pytan-shtuchnogo-intelektu/",
-    "image": "https://itcua-media-prod.fra1.cdn.digitaloceanspaces.com/uploads/2026/07/fZ7TQ2ESwMUYXbS8QFfaML.jpg",
-    "publishedAt": "2026-07-10T08:18:30Z",
     "lang": "uk",
     "source": {
       "id": "391d17d071b755a4bda37c1b43f47c2c",
