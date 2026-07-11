@@ -15,6 +15,21 @@
     }
   },
   {
+    "id": "0401db4755a0f4810a787c335e075db9",
+    "title": "Оновлений Skoda Kodiaq засвітився на тестах",
+    "description": "Чеська марка Skoda продовжує готувати перший рестайлінг свого великого кросовера Kodiaq.",
+    "content": "Чеська марка Skoda продовжує готувати перший рестайлінг свого великого кросовера Kodiaq.\nSkoda Kodiaq незабаром отримає рестайлінг.\nОновлений кросовер вдруге виїхав на тести.\nНаразі дизайн схований під захисною плівкою.\nДруге покоління Skoda Kodiaq в... [2595 chars]",
+    "url": "https://motorcar.com.ua/news/onovlenyj-krosover-skoda-kodiaq-test-2026/",
+    "image": "https://motorcar.com.ua/wp-content/uploads/2026/07/skoda-kodiaq-facelift-2027-1.jpg",
+    "publishedAt": "2026-07-10T16:11:27Z",
+    "lang": "uk",
+    "source": {
+      "id": "ccf5b23cf2f813320e7baafea8cf4ea7",
+      "name": "motorcar.com.ua",
+      "url": "https://motorcar.com.ua"
+    }
+  },
+  {
     "id": "c73d1da7b42cea0cacf64f476485d275",
     "title": "Скільки коштує ВАЗ-2108 у стані нового авто",
     "description": "В Україні продають ВАЗ-2108 із мінімальним пробігом. Автомобіль має колекційну цінність.",
@@ -120,33 +135,18 @@
     }
   },
   {
-    "id": "90972e9bf4495d980e2f8ab6e329f342",
-    "title": "ціни та характеристики",
-    "description": "В Україні стартували продажі абсолютно нової Toyota RAV4 шостого покоління. Огляд дизайну, платформи Arene, характеристик гібридів та спортивної версії GR SPORT - Авто24",
-    "content": "Нова генерація пропонує радикальне оновлення дизайну, повністю нові цифрові технології та вдосконалені гібридні силові установки. На українському ринку модель офіційно доступна для придбання виключно у версіях гібрид (HEV) та плагін-гібрид (PHEV) з п... [5345 chars]",
-    "url": "https://24tv.ua/auto/novyi_toyota_rav4_debiutuvav_na_rynku_ukrainy_versii_ta_tsiny_n73904",
-    "image": "https://24tv.ua/auto/resources/photos/news/202607/7390427aaf86a-e555-4ccf-9810-121b4461dfa3.jpg",
-    "publishedAt": "2026-07-10T07:50:00Z",
+    "id": "21f3456bc27bcd7f4291752f07a44ebc",
+    "title": "Очільниця Xbox Аша Шарма стала радницею Федеральної резервної системи США з питань штучного інтелекту",
+    "description": "Аша Шарма стала радницею Федеральної резервної системи США у групі Productivity and Jobs, яка оцінюватиме вплив ШІ на економіку, продуктивність і ринок праці.",
+    "content": "Генеральна директорка Xbox Аша Шарма отримала нову роль поза межами Microsoft. Федеральна резервна система США призначила її зовнішньою радницею спеціальної робочої групи Productivity and Jobs, яка досліджуватиме вплив штучного інтелекту та інших уні... [1539 chars]",
+    "url": "https://itc.ua/ua/novini/ochilnytsya-xbox-asha-sharma-stala-radnytseyu-federalnoyi-rezervnoyi-systemy-ssha-z-pytan-shtuchnogo-intelektu/",
+    "image": "https://itcua-media-prod.fra1.cdn.digitaloceanspaces.com/uploads/2026/07/fZ7TQ2ESwMUYXbS8QFfaML.jpg",
+    "publishedAt": "2026-07-10T08:18:30Z",
     "lang": "uk",
     "source": {
-      "id": "e737a8e76b161ef4526698e2ec5f60c9",
-      "name": "24 Канал",
-      "url": "https://24tv.ua"
-    }
-  },
-  {
-    "id": "b9cdde4d2387116f16c9a6a4e1d7f115",
-    "title": "Які мотоцикли найпопулярніші в Україні у червні 2026 року",
-    "description": "У червні 2026 року українці зареєстрували 11 298 мотоциклів. Найбільшим сегментом стали нові імпортовані байки з часткою 52,6%, внутрішні перепродажі зайняли 37,4%, а свіжий імпорт — 10%. На новому ринку домінують Spark, Lifan, Kovi та Musstang, на вторинці лідирує Honda.",
-    "content": "За даними Інституту досліджень авторинку, у червні 2026 року в Україні зареєстрували 11 298 мотоциклів. Це трохи менше, ніж у травні, однак значно більше, ніж торік. Попит підтримують високі ціни на пальне, потреба в дешевому щоденному транспорті та ... [6864 chars]",
-    "url": "https://24tv.ua/auto/ukraintsi_kupyly_ponad_11_tysiach_mototsykliv_za_misiats_yaki_same_n73901",
-    "image": "https://24tv.ua/auto/resources/photos/news/202607/7390154ff5349-bb13-4982-b82c-5b5836737f69.jpg",
-    "publishedAt": "2026-07-10T07:02:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "e737a8e76b161ef4526698e2ec5f60c9",
-      "name": "24 Канал",
-      "url": "https://24tv.ua"
+      "id": "391d17d071b755a4bda37c1b43f47c2c",
+      "name": "ITC.ua",
+      "url": "https://itc.ua"
     }
   }
 ]
