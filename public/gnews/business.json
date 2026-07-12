@@ -1,5 +1,50 @@
 [
   {
+    "id": "142350f813c238f1d3d1d2c947249500",
+    "title": "Apple подала до суду на OpenAI через ймовірне викрадення комерційних таємниць",
+    "description": "Компанія Apple подала позов проти OpenAI, її підрозділу io Products та двох колишніх співробітників Apple, звинувативши їх у",
+    "content": "Компанія Apple подала позов проти OpenAI, її підрозділу io Products та двох колишніх співробітників Apple, звинувативши їх у незаконному привласненні конфіденційної інформації для розробки власних пристроїв зі штучним інтелектом. Позов подано до феде... [556 chars]",
+    "url": "https://donpatriot.news/apple-podala-do-sudu-na-openai-cherez-jmovirne-vykradennya-komerczijnyh-tayemnycz",
+    "image": "https://donpatriot.news/wp-content/uploads/2022/11/logo.png",
+    "publishedAt": "2026-07-11T11:00:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "556066753a7a30eb0619823360acdde4",
+      "name": "Патріот Донбасу",
+      "url": "https://donpatriot.news"
+    }
+  },
+  {
+    "id": "f3631d767ee3247b724ec3199d7ea26e",
+    "title": "Попри скорочення: id Software вже працює над новим DOOM",
+    "description": "Масштабні скорочення в id Software не припинили діяльність студії. Інсайдери повідомляють, що наразі ведеться активна робота над новою частиною DOOM.",
+    "content": "Масштабні скорочення в id Software не припинили діяльність студії. Інсайдери повідомляють, що наразі ведеться активна робота над новою частиною DOOM.\nЗа інформацією Тома Воррена з The Verge, попри скорочення, id Software не перетвориться на студію пі... [1138 chars]",
+    "url": "https://itc.ua/ua/novini/popry-skorochennya-id-software-vzhe-pratsyuye-nad-novym-doom/",
+    "image": "https://itcua-media-prod.fra1.cdn.digitaloceanspaces.com/uploads/2026/07/doom-tda-premium-banner_mquj.jpg",
+    "publishedAt": "2026-07-11T09:12:40Z",
+    "lang": "uk",
+    "source": {
+      "id": "391d17d071b755a4bda37c1b43f47c2c",
+      "name": "ITC.ua",
+      "url": "https://itc.ua"
+    }
+  },
+  {
+    "id": "a422dbad68e98a8224028a4d66997acc",
+    "title": "ОLED-дисплеї з частотою оновлення 480 Гц покращують FPS в іграх на 38% - дослідження LG Display",
+    "description": "LG Display оприлюднила результати дослідження з вивчення впливу частоти оновлення монітора на ігрову продуктивність.",
+    "content": "LG Display оприлюднила результати дослідження з вивчення впливу частоти оновлення монітора на ігрову продуктивність.\nУ тестах взяв участь 31 дорослий чоловік-геймер, який грав в шутер від першої особи з частотою оновлення 60 Гц, 240 Гц, 360 Гц та 480... [1720 chars]",
+    "url": "https://itc.ua/ua/novini/oled-dyspleyi-z-chastotoyu-onovlennya-480-gts-pokrashhuyut-fps-v-igrah-na-38-doslidzhennya-lg-display/",
+    "image": "https://itcua-media-prod.fra1.cdn.digitaloceanspaces.com/uploads/2026/07/Gamin-OLED-performance-1-1024x572-1.png",
+    "publishedAt": "2026-07-11T07:34:52Z",
+    "lang": "uk",
+    "source": {
+      "id": "391d17d071b755a4bda37c1b43f47c2c",
+      "name": "ITC.ua",
+      "url": "https://itc.ua"
+    }
+  },
+  {
     "id": "4fba8bcd2f9f4f32f1dd7b7a1ce36160",
     "title": "Apple подала до суду на OpenAI через крадіжку надсекретних розробок",
     "description": "Компанія Apple подала позов до федерального суду Каліфорнії проти OpenAI та двох її співробітників, звинувативши розробника ChatGPT у систематичній крадіжці конфіденційної інформації та проєктів апаратного забезпечення, готуючись до випуску власних пристроїв на базі штучного інтелекту.",
@@ -45,6 +90,21 @@
     }
   },
   {
+    "id": "d0a8335c92b2f471f95e7bc8bca13fbd",
+    "title": "Масові скорочення на Volkswagen: чому штат такий роздутий",
+    "description": "Німецький автоконцерн Volkswagen планує скоротити до 100 тисяч із нинішніх 630 тисяч працівників. Чому штат концерну такий роздутий і чи допоможуть скорочення дати відсіч конкуренції з Китаю?",
+    "content": "Volkswagen створив один із найбільших штатів працівників у світовій автомобільній промисловості. Маючи майже 630 тисяч працівників - 680 тисяч, якщо враховувати спільні підприємства в Китаї, - VW має приблизно на 60 відсотків більше персоналу, ніж To... [7535 chars]",
+    "url": "https://www.dw.com/uk/masovi-skorocenna-na-volkswagen-comu-stat-avtovirobnika-takij-rozdutij/a-77910496",
+    "image": "https://static.dw.com/image/77785907_6.jpg",
+    "publishedAt": "2026-07-10T16:01:23Z",
+    "lang": "uk",
+    "source": {
+      "id": "67e0c40c5e24b3fec372ab75763abad9",
+      "name": "DW.com",
+      "url": "https://www.dw.com"
+    }
+  },
+  {
     "id": "c73d1da7b42cea0cacf64f476485d275",
     "title": "Скільки коштує ВАЗ-2108 у стані нового авто",
     "description": "В Україні продають ВАЗ-2108 із мінімальним пробігом. Автомобіль має колекційну цінність.",
@@ -87,66 +147,6 @@
       "id": "d4361862486677369ff2ae7719b8d313",
       "name": "УНІАН",
       "url": "https://www.unian.ua"
-    }
-  },
-  {
-    "id": "a78ae8de75b47eeebd09640306ba7e37",
-    "title": "деталі - ZAXID.NET",
-    "description": "Вітроелектростанцію в Сокалі на Львівщині в червні підключили до загальної енергомережі України. Що це означає, читайте на сайті ZAXID.NET.",
-    "content": "У червні до енергомережі України підключили Сокальську вітрову електростанцію групи компаній «Еко-Оптіма», що належить батькові голови Львівської ОВА Зіновію Козицькому. Про це йдеться в дайджесті «Еко-Оптіма», оприлюдненому на фейсбук-сторінці бізне... [579 chars]",
-    "url": "https://zaxid.net/u_sokali_rozpochala_robotu_nova_vitroelektrostantsiya_kompaniyi_zinoviya_kozitskogo_n1641294",
-    "image": "https://zaxid.net/resources/photos/news/600x315_DIR/202607/1641294.jpg",
-    "publishedAt": "2026-07-10T12:59:34Z",
-    "lang": "uk",
-    "source": {
-      "id": "7ab609f566cdbec66a589947504f2d4c",
-      "name": "Zaxid.net",
-      "url": "https://zaxid.net"
-    }
-  },
-  {
-    "id": "a65e4c9cc308d62306b1078bf3a86bca",
-    "title": "Samsung збільшує виробництво Galaxy S26 на 50% через вищий попит",
-    "description": "Samsung планує збільшити виробництво всіх смартфонів лінійки Galaxy S26 на 50% на фоні зростання попиту через маркетингові кампанії та побоювання споживачів щодо подорожчання Galaxy S27.",
-    "content": "Samsung підвищила план виробництва всієї лінійки Galaxy S26 через зростаючий попит на смартфони, спричинений масштабними рекламними заходами компанії, а також занепокоєнням користувачів, що майбутні Galaxy S27 коштуватимуть дорожче через дефіцит пам'... [1289 chars]",
-    "url": "https://mezha.ua/news/samsung-raises-galaxy-s26-production-313117/",
-    "image": "https://img.mezha.ua/mezha/images/doc/e/f/317193/ef3c1975b17f46093d208a794283eeea.jpeg?w=1200&q=85&stamp=1783681628",
-    "publishedAt": "2026-07-10T11:43:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "6b0257d31504a630dde7752eed4e1e39",
-      "name": "Mezha",
-      "url": "https://mezha.ua"
-    }
-  },
-  {
-    "id": "97ed82b5e82706240a348fe1221ee688",
-    "title": "Батько геймера з Сербії відремонтував RTX 3070 з допомогою конденсатора від радіоприймача",
-    "description": "Геймер з Сербії повідомив на Reddit, що його батьку вдалось відремонтувати його пошкоджену Geforce RTX 3070 за допомогою конденсатора від радіоприймача.",
-    "content": "Геймер з Сербії повідомив на Reddit, що його батьку вдалось відремонтувати його пошкоджену Geforce RTX 3070 за допомогою конденсатора від радіоприймача.\nЗа словами геймера, у ремонтній майстерні за відновлення його Geforce RTX 3070 попросили близько ... [1243 chars]",
-    "url": "https://itc.ua/ua/novini/batko-gejmera-z-serbiyi-vidremontuvav-rtx-3070-z-dopomogoyu-kondensatora-vid-radiopryjmacha/",
-    "image": "https://itcua-media-prod.fra1.cdn.digitaloceanspaces.com/uploads/2026/07/imgonline-com-ua-convertGb9YoY0sahJB.jpg",
-    "publishedAt": "2026-07-10T11:11:22Z",
-    "lang": "uk",
-    "source": {
-      "id": "391d17d071b755a4bda37c1b43f47c2c",
-      "name": "ITC.ua",
-      "url": "https://itc.ua"
-    }
-  },
-  {
-    "id": "812234a56d11bf3576470ec5c4e00102",
-    "title": "Творець DOOM Джон Кармак розкритикував Microsoft після масових звільнень в id Software",
-    "description": "Засновник id Software Джон Кармак прокоментувавзвільнення в студії після скорочень Xbox. Він визнав, що його колишній оптимізм щодо Microsoft погано постарів.",
-    "content": "Співавтор DOOM і співзасновник id Software Джон Кармак відреагував на масштабні скорочення в легендарній студії після нещодавньої хвилі звільнень у Xbox. Розробник із сарказмом визнав, що його колишній оптимізм щодо Microsoft не виправдався.\nПісля по... [2034 chars]",
-    "url": "https://itc.ua/ua/novini/tvorets-doom-dzhon-karmak-rozkrytykuvav-microsoft-pislya-masovyh-zvilnen-v-id-software/",
-    "image": "https://itcua-media-prod.fra1.cdn.digitaloceanspaces.com/uploads/2026/07/742153991_2086734495599068_721215435266435464_n-835x470.jpg",
-    "publishedAt": "2026-07-10T10:52:59Z",
-    "lang": "uk",
-    "source": {
-      "id": "391d17d071b755a4bda37c1b43f47c2c",
-      "name": "ITC.ua",
-      "url": "https://itc.ua"
     }
   }
 ]
