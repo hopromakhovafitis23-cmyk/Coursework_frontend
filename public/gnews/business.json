@@ -1,5 +1,35 @@
 [
   {
+    "id": "dff3faf488b8064eb9afc02aa987081e",
+    "title": "Сонячна станція Hami працює 8 годин після заходу сонця без літієвих батарей",
+    "description": "Останніми роками Китай активно зміцнює своє лідерство у сфері сонячної енергетики. У країні вже побудовано гігантські сонячні електростанції в пустелі Гобі",
+    "content": "У Китаї запрацювала найбільша у світі гібридна сонячна електростанція. Вона поєднує фотоелектричні панелі та технологію концентрованої сонячної енергії (CSP).\nЙдеться про електростанцію Hami потужністю 1 ГВт. Вона розташована в пустелі Гобі. Унікальн... [3366 chars]",
+    "url": "https://www.unian.ua/curiosities/sonyachna-stanciya-hami-pracyuye-8-godin-pislya-zahodu-soncya-bez-litiyevih-batarey-13438965.html",
+    "image": "https://images.unian.net/photos/2025_10/thumb_files/620_324_1760116910-2603.jpg?1",
+    "publishedAt": "2026-07-13T05:46:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "d4361862486677369ff2ae7719b8d313",
+      "name": "УНІАН",
+      "url": "https://www.unian.ua"
+    }
+  },
+  {
+    "id": "150c1540b40cb51f306a4554fdc089bf",
+    "title": "топ-10 моделей за відгуками власників",
+    "description": "Високі місця посіли автомобілі марок Skoda та Subaru. Зокрема Skoda Karoq та Skoda Yeti належать до найкраще оцінених сімейних SUV за показниками надійності.",
+    "content": "Купівля вживаного автомобіля завжди є ризикованою, тому багато водіїв шукають моделі, які відомі довговічністю та низькою аварійністю. Зокрема один з рейтингів, складений на основі відгуків власників, показує, що деякі авто вже багато років поспіль з... [3446 chars]",
+    "url": "https://www.unian.ua/economics/auto/naynadiynishi-vzhivani-avtomobili-top-10-modeley-za-vidgukami-vlasnikiv-13438926.html",
+    "image": "https://images.unian.net/photos/2025_05/thumb_files/620_324_1746602367-7233.jpg?1",
+    "publishedAt": "2026-07-13T04:41:19Z",
+    "lang": "uk",
+    "source": {
+      "id": "d4361862486677369ff2ae7719b8d313",
+      "name": "УНІАН",
+      "url": "https://www.unian.ua"
+    }
+  },
+  {
     "id": "de85c4af2301678c3482148e613f0988",
     "title": "Китайські електромобілі в самому Китаї змінюють частіше, ніж телефони",
     "description": "В Китаї середній вік електромобіля складає менше двох років, що навіть менше за середній вік смартфона - читайте докладніше в матеріалі УНІАН",
@@ -75,6 +105,21 @@
     }
   },
   {
+    "id": "2d30f65c98cf664f989f5c3e5efc1043",
+    "title": "Глава VW: Є рішення розумніші, ніж закриття заводів",
+    "description": "На тлі зниження прибутку концерну Volkswagen його керівництво планує масштабну реструктуризацію, однак закривати заводи ніхто не збирається.",
+    "content": "Генеральний директор німецького автомобільного концерну Volkswagen (VW Олівер Блуме (Oliver Blume) має намір уникнути закриття виробничих майданчиків. Відповідну заяву він зробив у інтерв'ю газеті Bild am Sonntag (BamS), опублікованому в неділю, 12 л... [1974 chars]",
+    "url": "https://www.dw.com/uk/glava-vw-e-risenna-rozumnisi-niz-zakritta-zavodiv/a-77924640",
+    "image": "https://static.dw.com/image/76520700_6.jpg",
+    "publishedAt": "2026-07-12T16:10:39Z",
+    "lang": "uk",
+    "source": {
+      "id": "67e0c40c5e24b3fec372ab75763abad9",
+      "name": "dw.com",
+      "url": "https://www.dw.com"
+    }
+  },
+  {
     "id": "3ed3c34fcfb0e31a790f804b1382aaa2",
     "title": "Уживаний електромобіль Fisker Ocean One продали на аукціоні за безцінь",
     "description": "Трирічний електричний кросовер Fisker Ocean One з пробігом 27 тисяч кілометрів продали на аукціоні всього за 15 800 доларів. Огляд ризиків купівлі авто з США від збанкрутілого бренду - Авто24",
@@ -102,51 +147,6 @@
       "id": "54b33233e9f0f396fe0c9e0f95f2a6f6",
       "name": "UA.NEWS",
       "url": "https://ua.news"
-    }
-  },
-  {
-    "id": "de7359bc699fd779b5600b48b810675e",
-    "title": "Без двигуна і батареї: у Румунії показали Audi, який їздить на пневматичних поршнях",
-    "description": "Румунська компанія Rosmar H представила незвичайний прототип Audi, який пересувається за допомогою пневматичних поршнів і стисненого повітря. Розповідаємо, як працює система, для чого її створили та чому заявлені характеристики викликають великі сумніви.",
-    "content": "Румунська компанія Rosmar H створила пневматичний прототип на базі кузова Audi, який пересувається дорогою так, ніби це механічна багатоніжка. Автомобіль не використовує бензин, акумулятор чи електромотор. Лише стиснене повітря, великі поздовжні порш... [4173 chars]",
-    "url": "https://itc.ua/ua/novini/bez-dvyguna-i-batareyi-u-rumuniyi-pokazaly-audi-yakyj-yizdyt-na-pnevmatychnyh-porshnyah/",
-    "image": "https://itcua-media-prod.fra1.cdn.digitaloceanspaces.com/uploads/2026/07/Audy.png",
-    "publishedAt": "2026-07-12T12:00:47Z",
-    "lang": "uk",
-    "source": {
-      "id": "391d17d071b755a4bda37c1b43f47c2c",
-      "name": "ITC.ua",
-      "url": "https://itc.ua"
-    }
-  },
-  {
-    "id": "f58cf3164036b1a3f72ae60570d597cd",
-    "title": "Електрокросовер ŠkodaElroq vRS обігнав суперкари Ferrari та Lamborghini: відео",
-    "description": "Електричний сімейний позашляховик Škoda Elroq vRS потужністю 340 к.с. переміг легендарні Ferrari Testarossa та Lamborghini Countach у драг-рейсингу. Деталі та результати заїзду - Авто24",
-    "content": "Автовиробник виставив свою найшвидшу серійну модель – електричний сімейний кросовер Škoda Elroq vRS – на пряму лінію проти трьох легендарних суперкарів 1980-х років. Попри те, що сучасний кросовер мав найменшу потужність серед більшості учасників, ми... [2487 chars]",
-    "url": "https://24tv.ua/auto/koda_elroq_vrs_proty_superkariv_1980_kh_rokiv_elektrychnyi_krosover_kynuv_vyklyk_avtomobilnym_ikonam_n73923",
-    "image": "https://24tv.ua/auto/resources/photos/news/202607/73923710fa6bc-0189-4765-9d27-0bd8fa6f8eb7.jpg",
-    "publishedAt": "2026-07-12T10:13:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "e737a8e76b161ef4526698e2ec5f60c9",
-      "name": "24 Канал",
-      "url": "https://24tv.ua"
-    }
-  },
-  {
-    "id": "f9067a8ee863d3e945de3be53dd5f5c0",
-    "title": "Новий рекорд Європи: рейтинг електромобілів, які розкуповують найшвидше",
-    "description": "Попит на електромобілі в світі зростає вже четвертий місяць поспіль, а Європа встановила рекорд продажів.",
-    "content": "На європейському ринку лідерство досі тримають Tesla Model Y та Skoda Elroq. Водночас моделі концерну Volkswagen продовжують зміцнювати свої позиції. А до десятки лідерів також увійшли Renault, BMW та Audi, повідомляє «Главком» з посиланням на Reuter... [1100 chars]",
-    "url": "https://glavcom.ua/techno/auto/tesla-zberehla-liderstvo-na-jevropejskomu-rinku-volkswagen-zrostaje-1130759.html",
-    "image": "https://glavcom.ua/img/article/11307/59_main-v1783844070.webp",
-    "publishedAt": "2026-07-12T08:25:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "170951208432adcfd96b2d9def1a0127",
-      "name": "Главком",
-      "url": "https://glavcom.ua"
     }
   }
 ]
