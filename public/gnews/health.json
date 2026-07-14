@@ -1,5 +1,35 @@
 [
   {
+    "id": "0ebe72c424f0d9789d0fd73f24c3f7a8",
+    "title": "ООН прогнозує ризик виникнення нової епідемії ВІЛ у світі",
+    "description": "Світ знову опинився на межі катастрофи: масштабна епідемія ВІЛ та СНІДу загрожує мільйонам людей через різке скорочення фінансування медичних програм.",
+    "content": "Світ на порозі нової масштабної епідемії ВІЛ та СНІДу. Через критичне скорочення міжнародного фінансування медичних програм з боку США та Великої Британії люди масово втрачають доступ до базового тестування, через що багато людей дізнаватимуться про ... [1370 chars]",
+    "url": "https://1news.com.ua/tsikave/oon-prognozuye-ryzyk-vynyknennya-novoyi-epidemiyi-vil-u-sviti.html",
+    "image": "https://1news.com.ua/wp-content/uploads/2018/03/1NEWS-OGG-1.jpg",
+    "publishedAt": "2026-07-13T19:45:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "52452fe826f101109c6d8f7a4118fb63",
+      "name": "1news.com.ua",
+      "url": "https://1news.com.ua"
+    }
+  },
+  {
+    "id": "5dc8886f27f5ddf6fea56c501344d256",
+    "title": "В Україні 77% жінок живуть більше п’яти років після діагнозу раку молочної залози",
+    "description": "На це впливає доступ до діагностики та лікування — Wonderzine",
+    "content": "В Україні кількість жінок, які живуть понад п’ять років після діагностування раку молочної залози перевищує 77%. В середньому цей показник у світі становить майже 78%.\nПро це повідомлеє nauka.ua із посиланням на звіт Всесвітньої організації охорони з... [1052 chars]",
+    "url": "https://www.wonderzine.me/wonderzine/health/health-news/25409-v-ukrayini-77-zhinok-iz-rakom-molochnoyi-zalozi-prozhili-ponad-p-yat-rokiv-pislya-diagnozu-doslidzhennya",
+    "image": "https://cdn.wonderzine.me/wonderzine.com.ua/post-og_image/NYD5-1gigESsHF8DXnmq1g.png",
+    "publishedAt": "2026-07-13T16:07:07Z",
+    "lang": "uk",
+    "source": {
+      "id": "f0f9e17ac9097cb73cf6395363cdc8d7",
+      "name": "Wonderzine Україна",
+      "url": "https://www.wonderzine.me"
+    }
+  },
+  {
     "id": "b6948eff7c32dce96028ac7e4759e608",
     "title": "Що корисніше - скумбрія чи оселедець і де більше корисних Омега-3 та вітаміну D",
     "description": "І скумбрія, і оселець обидві належать до жирних морських риб та є лідерами за вмістом корисних жирних кислот Омега-3 та вітаміну D.",
@@ -117,36 +147,6 @@
       "id": "716e7cb92f5f203aa3506c9ba057538c",
       "name": "ПравдаТУТ NEWS",
       "url": "https://pravdatutnews.com"
-    }
-  },
-  {
-    "id": "637b8a5bea059a47cb6608717b5a0b46",
-    "title": "Який перекус корисний для здоров'я мозку, серця та кишківника: дієтологи назвали продукт",
-    "description": "У цьому продукті містяться такі поживні речовини, як калій, кальцій та магній.",
-    "content": "У цьому продукті містяться такі поживні речовини, як калій, кальцій та магній.\nПопри те, що існує багато варіантів перекусів, які сприяють доброму самопочуттю, є один, який дипломовані дієтологи вважають найкращим вибором. Йдеться про грецький йогурт... [1998 chars]",
-    "url": "https://rivne1.tv/news/yakiy-perekus-korisniy-dlya-zdorov-ya-mozku-sertsya-ta-kishkivnika-dietolohi-nazvali-produkt",
-    "image": "https://rivne1.tv/pics2/2607/i174168.webp",
-    "publishedAt": "2026-07-12T17:02:04Z",
-    "lang": "uk",
-    "source": {
-      "id": "108b7d8463279d65dd6bb0bc111d2cca",
-      "name": "Телеканал «Рівне 1",
-      "url": "https://rivne1.tv"
-    }
-  },
-  {
-    "id": "ffddc037918d1db37c9d157ee239e242",
-    "title": "Вакцинація не закінчується у 18: що потрібно знати про щеплення дітям і дорослим",
-    "description": "Сьогодні навколо теми щеплень все ще залишається чимало міфів, які часто передаються з покоління в покоління. Чому не варто боятися кількох вакцин в один",
-    "content": "Сьогодні навколо теми щеплень все ще залишається чимало міфів, які часто передаються з покоління в покоління. Чому не варто боятися кількох вакцин в один день, як легка ГРВІ перестала бути приводом для відмови від щеплення та чому дорослим критично в... [14952 chars]",
-    "url": "https://kurs.if.ua/article/vid-pravczya-do-planuvannya-vagitnosti-chomu-vakczynacziya-vazhlyva-i-pislya-18-rokiv/",
-    "image": "https://kurs.if.ua/wp-content/uploads/ogimages/499664_2879430915.jpg",
-    "publishedAt": "2026-07-12T16:46:40Z",
-    "lang": "uk",
-    "source": {
-      "id": "f3ba6fa6f36df765a6b77927c05953c6",
-      "name": "kurs.if.ua",
-      "url": "https://kurs.if.ua"
     }
   }
 ]

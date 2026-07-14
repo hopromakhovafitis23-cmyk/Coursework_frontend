@@ -1,42 +1,12 @@
 [
   {
-    "id": "039b2faf487cddbec177210d7062a043",
-    "title": "ЄС запровадив санкції проти російської VK та розробника месенджера Max",
-    "description": "Зокрема, під санкції потрапила ТОВ «Комунікаційна платформа» та її гендиректорка Олена Багудіна.",
-    "content": "Зокрема, під санкції потрапила ТОВ «Комунікаційна платформа» та її гендиректорка Олена Багудіна.\nЄвропейський Союз запровадив санкції проти російської компанії VK, якій належить соцмережа «ВКонтакте», а також її дочірньої компанії — розробника націон... [2371 chars]",
-    "url": "https://detector.media/infospace/article/251174/2026-07-13-ies-zaprovadyv-sanktsii-proty-rosiyskoi-vk-ta-rozrobnyka-mesendzhera-max/",
-    "image": "https://detector.media/doc/images/news/archive/2021/251174/ArticleImage_251174.jpg?t=1783968035",
-    "publishedAt": "2026-07-13T14:25:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "c5aed81ccfa2363a13757e53d9211b2a",
-      "name": "detector.media",
-      "url": "https://detector.media"
-    }
-  },
-  {
-    "id": "2979360f2a2ab44d496f0bef61dfb1ce",
-    "title": "Спецслужби дев'яти країн попереджають про нову хакерську кампанію Росії",
-    "description": "США та союзники попередили про кіберзагрозу від ФСБ Росії. Хакери зламують роутери Cisco для шпигунства за енергетикою та оборонним сектором.",
-    "content": "Хто стоїть за кібердиверсіями?\nАтаки приписують підрозділу \"Центр 16\" Федеральної служби безпеки РФ. Ця хакерська група відома в експертних колах під назвами Berserk Bear, Energetic Bear, Crouching Yeti, Dragonfly, Ghost Blizzard та Static Tundra. Пр... [2009 chars]",
-    "url": "https://24tv.ua/tech/rosiyski-hakeri-atakuyut-kritichnu-infrastrukturu-cherez-vrazlivi_n3104765",
-    "image": "https://24tv.ua/resources/photos/news/202607/3104765.jpg?v=1783938141000&w=1200&h=675",
-    "publishedAt": "2026-07-13T14:01:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "e737a8e76b161ef4526698e2ec5f60c9",
-      "name": "24 Канал",
-      "url": "https://24tv.ua"
-    }
-  },
-  {
-    "id": "bfde671e57a425a6e740a9d5ef36bce7",
-    "title": "Ілон Маск назвав главу OpenAI шахраєм \"нового рівня\"",
-    "description": "Інцидент стався через кілька днів після того, як Apple подала позов проти OpenAI, звинувативши розробників ChatGPT у крадіжці комерційної таємниці.",
-    "content": "Колишні друзі та ділові партнери, Сем Альтман та Ілон Маск, знову публічно посварилися. Інцидент стався через деілька днів після того, як Apple подала до суду на OpenAI, звинувативши розробників ChatGPT у крадіжці комерційної таємниці.\nЗа версією App... [1944 chars]",
-    "url": "https://www.unian.ua/techno/neiroseti/mask-ta-altman-ilon-mask-nazvav-glavu-openai-shahrayem-novogo-rivnya-13439652.html",
-    "image": "https://images.unian.net/photos/2026_07/thumb_files/1000_545_1783946547-2390.jpg?1",
-    "publishedAt": "2026-07-13T13:32:00Z",
+    "id": "d469448662330fb63d21a156c5c533ab",
+    "title": "ЗСУ більш ніж удвічі збільшили використання наземних дронів на фронті",
+    "description": "У червні Сили оборони України провели понад 16 000 операцій із використанням наземних дронів. Це більш ніж удвічі перевищує показники січня.",
+    "content": "У червні Сили оборони України виконали понад 16 000 операцій із використанням наземних дронів, що більш ніж удвічі перевищує показник січня. Про це пише Business Insider.\n\"Від матеріально-технічного забезпечення до медичної евакуації – підрозділи наз... [2285 chars]",
+    "url": "https://www.unian.ua/weapons/viyna-v-ukrajini-zsu-bilsh-nizh-udvichi-zbilshili-vikoristannya-nazemnih-droniv-na-fronti-13439961.html",
+    "image": "https://images.unian.net/photos/2021_11/thumb_files/1000_545_1636655879-6228.jpg?1",
+    "publishedAt": "2026-07-13T19:02:00Z",
     "lang": "uk",
     "source": {
       "id": "d4361862486677369ff2ae7719b8d313",
@@ -45,73 +15,43 @@
     }
   },
   {
-    "id": "b5cc2060276be4775f7bd004a31231e5",
-    "title": "Українські БпЛА вдарили по енергомосту Кубань-Крим та низці енерговузлів",
-    "description": "Сили безпілотних систем Збройних сил України (СБС ЗСУ) 12-13 липня уразили енергоміст Кубань-Крим та 11 енерговузлів на тимчасово окупованих Росією територіях.",
-    "content": "Сили безпілотних систем Збройних сил України (СБС ЗСУ) 12-13 липня уразили енергоміст Кубань-Крим та 11 енерговузлів на тимчасово окупованих Росією територіях.\nПро це інформує командувач СБС ЗСУ Роберт Бровді (\"Мадяр\")\n\"Операція \"Кримський рубильник ... [1355 chars]",
-    "url": "https://epravda.com.ua/biznes/ukrajinski-bpla-vdarili-po-energomostu-kuban-krim-ta-nizci-energovuzliv-823605/",
-    "image": "https://img.epravda.com.ua/epravda/images/doc/0/a/163125/0aa121690499a7d705e8abafcdf5aff9.jpeg?w=1920&q=85",
-    "publishedAt": "2026-07-13T13:28:00Z",
+    "id": "1930e1395faf22ecd515517933e06de0",
+    "title": "Redmi Note 17: батарея 9000 мАг, IP69K і 5 років гарантії",
+    "description": "Офіційна прем'єра лінійки Redmi Note 17 відбудеться вже 14 липня, але інсайдери не залишили місця для сюрпризів — у мережу злили повний технічний паспорт обох моделей.",
+    "content": "Xiaomi готується до одного з найгучніших анонсів літа. У вівторок, 14 липня, компанія офіційно представить лінійку бюджетних смартфонів Redmi Note 17, однак технічні характеристики новинок опинилися у відкритому доступі ще до презентації. Китайський ... [2928 chars]",
+    "url": "https://techno.znaj.ua/553290-9000-mag-i-5-rokiv-garantiji-na-batareyu-harakteristiki-redmi-note-17-zlili-do-anonsu",
+    "image": "https://znaj.ua/images/2026/07/13/CwDqq1vkrQeQllvo.webp",
+    "publishedAt": "2026-07-13T17:55:00Z",
     "lang": "uk",
     "source": {
-      "id": "9b9cf9e76aeefea346957bfe5f6dafc5",
-      "name": "Економічна правда",
-      "url": "https://epravda.com.ua"
+      "id": "1aa0e680f4add2f45b73aa15fa428251",
+      "name": "znaj.ua",
+      "url": "https://techno.znaj.ua"
     }
   },
   {
-    "id": "36c626df80966f220662085b853a7527",
-    "title": "Тіна Кароль заговорила про майбутнє музики: артистка пояснила, чому AI став новим суперником виконавців",
-    "description": "Тіна Кароль розповіла, як штучний інтелект змінює музичну індустрію. Співачка вважає, що AI уже впливає на творчість і створює нові виклики для артистів.",
-    "content": "Співачка Тіна Кароль поділилася своєю думкою про стрімкий розвиток штучного інтелекту та його вплив на музичну індустрію, про це вона розповіла у випуску програми «Тур зірками».\nЗа словами артистки, сучасні виконавці вже конкурують не лише між собою,... [723 chars]",
-    "url": "https://blik.ua/show-biz/38448-tina-karol-vislovilasya-pro-ai-spivachka-zayavila-sho-muzikanti-vzhe-konkuruyut-zi-shtuchnim-intelektom",
-    "image": "https://blik.ua/img/news/Show-biz/thumbs/2026-07-13162715.jpg",
-    "publishedAt": "2026-07-13T13:15:13Z",
+    "id": "30236dc7dfe30dfbcd104d52801afde8",
+    "title": "Китайці міняють електромобілі частіше за смартфони: за три роки ті втрачають 57% ціни",
+    "description": "Китайський ринок електромобілів переживає парадокс: середній “вік” авто там менший, ніж у смартфонів — лише 1,8 року.",
+    "content": "Ілюстрація: Copilot для pravdatutnews.com\nЗа цей час електрокари втрачають до 57% вартості, що змушує власників міняти їх навіть частіше, ніж гаджети.\n⚡ Електромобіль як тимчасовий гаджет\nБум електромобілів у Китаї створив ситуацію, яку аналітики Blo... [1909 chars]",
+    "url": "https://pravdatutnews.com/avto/2026/07/13/82263-kytayci-minyayut-elektromobili-chastishe-za-smartfony-za-try-roky",
+    "image": "https://pravdatutnews.com/sites/default/files/news/2026/07/13/elektromobili-yak-smartfoni_copilot.png",
+    "publishedAt": "2026-07-13T17:02:55Z",
     "lang": "uk",
     "source": {
-      "id": "5e8763eb8f65bd733ca2324cfefbe5b6",
-      "name": "БЛІК",
-      "url": "https://blik.ua"
+      "id": "716e7cb92f5f203aa3506c9ba057538c",
+      "name": "ПравдаТУТ NEWS",
+      "url": "https://pravdatutnews.com"
     }
   },
   {
-    "id": "f4b569337fbea55d2330e67b390d92df",
-    "title": "Кремль відреагував на спільний демарш Латвії, Естонії та Литви",
-    "description": "Латвія, Естонія та Литва оголосили спільний демарш МЗС РФ у зв’язку із заявами Москви щодо українських БПЛА, у Кремлі відреагували",
-    "content": "Речник кремлівського режиму Дмитро Пєсков стверджує, що військові окупаційної армії РФ та спецслужби відстежують, «що звідки летить і як летить», пише російське пропагандистське агентство Интерфакс.\nРеклама\nТак він відповів на запитання, чи готова Мо... [1265 chars]",
-    "url": "https://nv.ua/ukr/world/geopolitics/kreml-vidreaguvav-na-spilniy-demarsh-latviji-estoniji-ta-litvi-do-chogo-tut-ukrajinski-bpla-50624025.html",
-    "image": "https://static.nv.ua/shared/system/Article/posters/003/325/687/original/ed8a8fa776dbcaef0a317b93c139b37f.jpg?q=85&stamp=20260713152849&f=webp",
-    "publishedAt": "2026-07-13T12:51:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "f194bf27373973fc9320a73bf1f13909",
-      "name": "nv.ua",
-      "url": "https://nv.ua"
-    }
-  },
-  {
-    "id": "e58ca6561325c02dff005ade632c7539",
-    "title": "Ігнат пояснив, у чому головна загроза для ППО України",
-    "description": "Юрій Ігнат заявив, що Росія використовує реактивні БПЛА для ускладнення роботи української ППО. Такі безпілотники потребують інших засобів ураження\nᐅTSN.ua(новини 1+1)",
-    "content": "Росія застосовує реактивні безпілотники, щоб ускладнити роботу української протиповітряної оборони. Такі БПЛА потребують інших засобів ураження, ніж звичайні дрони.\nПро це заявив керівник управління комунікацій Командування Повітряних сил ЗСУ Юрій Іг... [1140 chars]",
-    "url": "https://tsn.ua/ato/novyy-vyklyk-dlia-ppo-ihnat-poiasnyv-taktyku-rosiyi-iz-reaktyvnymy-bpla-3126824.html",
-    "image": "https://img.tsn.ua/cached/459/tsn-2caa9e2b3b3790ab31ffc1dec16b4315/thumbs/1200x630/6b/7c/e7d1f6b1b09b684884548a6aef607c6b.png",
-    "publishedAt": "2026-07-13T12:49:30Z",
-    "lang": "uk",
-    "source": {
-      "id": "ae8b9c98d707754fca5e1ea622855c50",
-      "name": "ТСН",
-      "url": "https://tsn.ua"
-    }
-  },
-  {
-    "id": "2ab7ce5c96f250797f3a6aeea11f8213",
-    "title": "Україна має, як мінімум, цілу ескадрилью багаторазових дронів-бомбардувальників \"Горинич\" для знищення захищених об'єктів рашистів",
-    "description": "\"Горинич\" - перероблений з легкомоторного літака SkyRanger багаторазовий дрон-бомбардувальник, а одна деталь на фото, вказує, що така кількість машин у розпорядженні Сил оборони України вже доволі давно",
-    "content": "Для знищення нетипових захищених об'єктів рашистів, зокрема складів зберігання, Україна доволі масово використовує багаторазові дрони-бомбардувальники \"Горинич\".\nЦе стало відомо завдяки допису каналу \"Николаевский Ванек\", де було оприлюднено фотограф... [1760 chars]",
-    "url": "https://defence-ua.com/news/ukrajina_maje_jak_minimum_tsilu_eskadrilju_bagatorazovih_droniv_bombarduvalnikiv_gorinich_dlja_znischennja_zahischenih_objektiv_rashistiv-23603.html",
-    "image": "https://defence-ua.com/media/illustration/articles/2916a54ce6604650.jpg",
-    "publishedAt": "2026-07-13T12:21:00Z",
+    "id": "8b9afdfb9fb8d2f6dd7a426d1635f290",
+    "title": "Який морський дрон-камікадзе США вперше використали у бою, атакувавши Іран та який підводний човен знищили",
+    "description": "Схоже США перші, кому вдалось морським дроном-камікадзе знищити підводний човен, хоча й не без деяких \"але\"",
+    "content": "США вперше завдали ударів із використанням морських дронів-камікадзе, атакувавши портову інфраструктуру Ірану на морській базі Бандар-Аббас.\nДля цього було використано одразу три дрони Corsair, повідомляє центральне командування збройних сил США CENT... [1918 chars]",
+    "url": "https://defence-ua.com/weapon_and_tech/jakij_morskij_dron_kamikadze_ssha_vpershe_vikoristali_u_boju_atakuvavshi_iran_ta_jakij_pidvodnij_choven_znischili-23608.html",
+    "image": "https://defence-ua.com/media/illustration/articles/7556a55085549a05.jpg",
+    "publishedAt": "2026-07-13T16:40:00Z",
     "lang": "uk",
     "source": {
       "id": "f488af954cb509cbacccbd34e7f47985",
@@ -120,13 +60,58 @@
     }
   },
   {
-    "id": "ee13ee32a8016cf8a2de489e007d923c",
-    "title": "Українцю доставили AMD Ryzen 7 9800X3D замість дешевшого 7800X3D - думки спільноти розділилися",
-    "description": "Зазвичай про подібне повідомляють з США чи інших країн, але це й випадок трапився в Україні. Замість AMD Ryzen 7 7800X3D покупець отримав 9800X3D, з різницею у ціні 5100 грн. Якщо у більшості закордонних випадків це чиста вдача, то цей збурив інтернет.",
-    "content": "Зазвичай про подібне повідомляють з США чи інших країн, але цей випадок трапився в Україні. Замість AMD Ryzen 7 7800X3D покупець отримав з магазину 9800X3D, з різницею у ціні 5100 грн. Якщо у більшості закордонних випадків це чиста вдача, то цей збур... [2738 chars]",
-    "url": "https://mezha.ua/news/amd-ryzen-7-9800x3d-vs-7800x3d-313176/",
-    "image": "https://img.mezha.ua/mezha/images/doc/3/7/317390/3707e093de5ad6518bc6d5ad842d1513.jpeg?w=1200&q=85&stamp=1783944307",
-    "publishedAt": "2026-07-13T12:18:00Z",
+    "id": "f8a3ca423e2cb7aaffe4dd4aac37d0f2",
+    "title": "Tesla демонтувала конвеєрні лінії Model S та X для виробництва роботів Optimus",
+    "description": "Компанія Tesla за 46 днів демонтувала складальні лінії Model S/X на заводі у Фремонті. Звільнене місце переобладнають під випуск роботів Optimus потужністю 1 мільйонів на рік - Авто24",
+    "content": "Цей процес включав залучення важкої техніки, ліквідацію бетонних ям, демонтаж конвеєрних систем і численних роботизованих рук, що дозволило повністю розчистити промисловий простір під нові завдання, зазначає Teslarati.\nЧитайте також: Tesla випускає ф... [1679 chars]",
+    "url": "https://24tv.ua/auto/tesla_rozibrala_svii_avtozavod_fremonti__teper_tam_zbyratymut_robotiv_humanoidiv_n73965",
+    "image": "https://24tv.ua/auto/resources/photos/news/202607/739653b87d828-38c4-467e-a55b-698087aae569.jpg",
+    "publishedAt": "2026-07-13T16:20:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "e737a8e76b161ef4526698e2ec5f60c9",
+      "name": "24 Канал",
+      "url": "https://24tv.ua"
+    }
+  },
+  {
+    "id": "ef62fb35b8ec3ca4792e16d0cf1ffd47",
+    "title": "Fire Point показала ракету проти балістики - коли запрацює Freyja",
+    "description": "Компанія Fire Point представила антибалістичну ракету FP-7.x. Комплекс Freyja може запрацювати вже до кінця року....",
+    "content": "Судячи з опублікованого відео, ракета має правильну циліндричну форму з обтічником, у нижній її частині помітні відносно невеликі рухомі стабілізатори.\nТакож у компанії зазначили, що Freyja стане пан'європейським протибалістичним щитом, який перебува... [2565 chars]",
+    "url": "https://www.rbc.ua/rus/news/ukrayinska-freyja-proti-balistiki-koli-zapratsyue-1783957097.html",
+    "image": "https://www.rbc.ua/static/img/1/4/14_skrin_video_c3322deb42d886c01e10d32fc33e7056_1300x820.jpg",
+    "publishedAt": "2026-07-13T15:38:17Z",
+    "lang": "uk",
+    "source": {
+      "id": "6f1ead09126f1f4738a48957e22f789c",
+      "name": "РБК-Україна",
+      "url": "https://www.rbc.ua"
+    }
+  },
+  {
+    "id": "09db8640783ae085a3deb129d941abb7",
+    "title": "Grok від Ілона Маска сплутав GTA V з реальністю та дав поради грабіжнику магазину",
+    "description": "Штучний інтелект Grok сприйняв гру GTA V за справжній злочин – спочатку нейромережа благала геймера зупинитися, а потім почала допомагати порадами.",
+    "content": "Штучний інтелект компанії мільярдера Ілона Маска проявив неабияку відданість своєму користувачеві, хоч і сплутав реальність з грою від Rockstar, інформує 24 Канал.\nПеретворення зі свідка на спільника від Grok\nВідео, яке швидко стало вірусним у соціал... [1332 chars]",
+    "url": "https://games.24tv.ua/grok-vid-ilona-maska-splutav-gta-realnistyu-dav-poradi-grabizhniku_n3104971",
+    "image": "https://games.24tv.ua/resources/photos/news/202607/3104971.jpg?v=1783953856000&w=1200&h=675",
+    "publishedAt": "2026-07-13T15:30:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "86b62aad07ac59a35ae9e88cb20e4646",
+      "name": "24 Канал",
+      "url": "https://games.24tv.ua"
+    }
+  },
+  {
+    "id": "19d95cfa0eca869b7ff15bd76e790112",
+    "title": "Android Auto отримує велике оновлення Google Maps із 3D-навігацією",
+    "description": "Google почала розгортати функцію Immersive Navigation для Google Maps на Android Auto. Оновлення додає 3D-будівлі, зручніше відображення естакад і з'їздів, а також інші візуальні покращення.",
+    "content": "Google почала розгортати функцію Immersive Navigation для Google Maps на Android Auto. Оновлення додає 3D-будівлі, зручніше відображення естакад і з'їздів, а також інші візуальні покращення.\nЯк зазначає Android Authority, нова функція поширюється пос... [2120 chars]",
+    "url": "https://mezha.ua/news/android-auto-gets-3d-google-maps-update-313183/",
+    "image": "https://img.mezha.ua/mezha/images/doc/4/6/317406/46c5bac4b02550481f34a024ce237173.jpeg?w=1200&q=85&stamp=1783952641",
+    "publishedAt": "2026-07-13T15:22:00Z",
     "lang": "uk",
     "source": {
       "id": "6b0257d31504a630dde7752eed4e1e39",
@@ -135,18 +120,33 @@
     }
   },
   {
-    "id": "2391c4893c5fb4a82fddc5c1145fc0f1",
-    "title": "Microsoft залишила найкращі Surface лише для бізнесу - що це означає",
-    "description": "Microsoft продовжує суперечливу стратегію розвитку фірмових гаджетів Surface. Для роздрібного ринку компанія пропонує модифікації на базі процесорів A...",
-    "content": "Відмова від ARM - у чому причина?\nРішення повністю перевести споживчі версії Surface Pro та Surface Laptop на процесори Snapdragon X другого покоління виглядає ризикованим кроком на тлі минулого досвіду.\nКоли Microsoft вперше спробувала зробити це у ... [1678 chars]",
-    "url": "https://www.rbc.ua/rus/news/novi-surface-vid-microsoft-rozcharuyut-bagatoh-1783934537.html",
-    "image": "https://www.rbc.ua/static/img/_/0/_0dfd1b297ad9f9f3e6ab690a5ead2255_1300x820.jpg",
-    "publishedAt": "2026-07-13T11:16:00Z",
+    "id": "3bab62b73047f937b253ed1e586fc404",
+    "title": "Мінцифри пообіцяло допомогу прифронтовим інтернет-провайдерам",
+    "description": "Міністерство цифрової трансформації оголосило збір заявок на технічну підтримку для місцевих інтернет-провайдерів: телеком-компаніям із прифронтових і прикордонних територій допоможуть відремонтувати пошкоджені лінії та розбудувати нові.",
+    "content": "Міністерство цифрової трансформації оголосило збір заявок на технічну підтримку для місцевих інтернет-провайдерів: телеком-компаніям із прифронтових і прикордонних територій допоможуть відремонтувати пошкоджені лінії та розбудувати нові.\nПро це повід... [2096 chars]",
+    "url": "https://epravda.com.ua/biznes/mincifri-poobicyalo-dopomogu-prifrontovim-internet-provayderam-823611/",
+    "image": "https://img.epravda.com.ua/epravda/images/doc/f/2/163157/f29330245e5016aad8a18217e54bf5a8.jpeg?w=1920&q=85",
+    "publishedAt": "2026-07-13T15:18:00Z",
     "lang": "uk",
     "source": {
-      "id": "6f1ead09126f1f4738a48957e22f789c",
-      "name": "РБК-Україна",
-      "url": "https://www.rbc.ua"
+      "id": "9b9cf9e76aeefea346957bfe5f6dafc5",
+      "name": "Економічна правда",
+      "url": "https://epravda.com.ua"
+    }
+  },
+  {
+    "id": "dc65edf7f9fb63956e0f386f586769a4",
+    "title": "Новий порядок експорту зброї",
+    "description": "Уряд прийняв окремий порядок для експорту зброї. Він може бути корисним для виробників, але його практична цінність залежить від багатьох нюансів - 24 Канал.",
+    "content": "За загальними правилами державного експортного контролю, експорт товарів військового призначення та подвійного використання був можливий і раніше. 1 липня 2026 року уряд прийняв постанову № 875, якою затвердив окремий порядок таких міжнародних переда... [4534 chars]",
+    "url": "https://24tv.ua/noviy-poryadok-eksportu-zbroyi-shho-treba-znati-pro-postanovu_n3104932",
+    "image": "https://24tv.ua/resources/photos/news/202607/3104932.jpg?v=1783950767000&w=1200&h=675",
+    "publishedAt": "2026-07-13T15:04:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "e737a8e76b161ef4526698e2ec5f60c9",
+      "name": "24 Канал",
+      "url": "https://24tv.ua"
     }
   }
 ]
