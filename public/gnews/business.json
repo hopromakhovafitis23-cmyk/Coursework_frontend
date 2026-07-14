@@ -1,5 +1,20 @@
 [
   {
+    "id": "8e4c8d2d174296215326cc3f773364b7",
+    "title": "Ці вживані автомобілі майже не ламаються",
+    "description": "Купівля вживаного автомобіля завжди є ризикованою, тому багато водіїв...",
+    "content": "Ці вживані автомобілі майже не ламаються\nКупівля вживаного автомобіля завжди є ризикованою, тому багато водіїв шукають моделі, які відомі довговічністю та низькою аварійністю.\nЗокрема один з рейтингів, складений на основі відгуків власників, показує,... [2423 chars]",
+    "url": "https://news.finance.ua/ua/ci-vzhyvani-avtomobili-mayzhe-ne-lamayut-sya",
+    "image": "https://finance-news-media.fra1.cdn.digitaloceanspaces.com/prod/3/b/3bd155088278d0878c8fd59fb5acfa0b",
+    "publishedAt": "2026-07-13T20:33:24Z",
+    "lang": "uk",
+    "source": {
+      "id": "1759d0a20c3bd01b1f404fba732c7f96",
+      "name": "Finance.ua",
+      "url": "https://news.finance.ua"
+    }
+  },
+  {
     "id": "a7cc4ef3fd413a7905b6bff0f5e8e918",
     "title": "Стали відомі характеристики двох автомобілів нового суббренду Xiaomi",
     "description": "У Китаї сертифікували моделі Skynomad N70 та N90 із гібридними силовими установками. Вони орієнтовані насамперед на сімейних покупців.",
@@ -132,21 +147,6 @@
       "id": "d4361862486677369ff2ae7719b8d313",
       "name": "УНІАН",
       "url": "https://www.unian.ua"
-    }
-  },
-  {
-    "id": "19d95cfa0eca869b7ff15bd76e790112",
-    "title": "Android Auto отримує велике оновлення Google Maps із 3D-навігацією",
-    "description": "Google почала розгортати функцію Immersive Navigation для Google Maps на Android Auto. Оновлення додає 3D-будівлі, зручніше відображення естакад і з'їздів, а також інші візуальні покращення.",
-    "content": "Google почала розгортати функцію Immersive Navigation для Google Maps на Android Auto. Оновлення додає 3D-будівлі, зручніше відображення естакад і з'їздів, а також інші візуальні покращення.\nЯк зазначає Android Authority, нова функція поширюється пос... [2120 chars]",
-    "url": "https://mezha.ua/news/android-auto-gets-3d-google-maps-update-313183/",
-    "image": "https://img.mezha.ua/mezha/images/doc/4/6/317406/46c5bac4b02550481f34a024ce237173.jpeg?w=1200&q=85&stamp=1783952641",
-    "publishedAt": "2026-07-13T15:22:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "6b0257d31504a630dde7752eed4e1e39",
-      "name": "Mezha",
-      "url": "https://mezha.ua"
     }
   }
 ]
