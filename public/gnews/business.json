@@ -1,5 +1,65 @@
 [
   {
+    "id": "f6ff06c60f29aea3877ba0af1f344455",
+    "title": "Китайська BYD оновить свій найпопулярніший хетчбек",
+    "description": "Новий BYD Seagull став більшим і потужнішим за попередника, зберігши впізнаваний дизайн, а його дебют очікується вже цього року.",
+    "content": "Новий BYD Seagull став більшим і потужнішим за попередника, зберігши впізнаваний дизайн, а його дебют очікується вже цього року.\nУ базі даних Міністерства промисловості та інформаційних технологій Китаю з'явилися перші фотографії та технічні характер... [1930 chars]",
+    "url": "https://ua.korrespondent.net/lifestyle/motors/4894560-kytaiska-BYD-onovyt-svii-naipopuliarnishyi-khetchbek",
+    "image": "https://kor.ill.in.ua/m/1260x900/4494726.jpg",
+    "publishedAt": "2026-07-15T18:54:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "5f3893b2bdd83721567eef82ac0a6d2e",
+      "name": "Korrespondent.net",
+      "url": "https://ua.korrespondent.net"
+    }
+  },
+  {
+    "id": "0b77551841f61feb49c371827a7094ea",
+    "title": "Найдешевший електромобіль Suzuki готується для Європи",
+    "description": "Серійна версія концепту Suzuki Vision e-Sky 2025 року не обмежуватиметься японським ринком.",
+    "content": "Серійна версія концепту Suzuki Vision e-Sky 2025 року не обмежуватиметься японським ринком.\nSuzuki представить міський електромобіль у Європі навесні 2027 року.\nЦіна серійної версії Vision e-Sky починатиметься від 20 тисяч євро.\nСеред конкурентів – D... [2332 chars]",
+    "url": "https://motorcar.com.ua/news/najdeshevshyj-elektromobil-suzuki-vision-e-sky-prodazhi-yevropa-2026/",
+    "image": "https://motorcar.com.ua/wp-content/uploads/2026/07/suzuki-e-every-concept-2025_green_render.jpg",
+    "publishedAt": "2026-07-15T17:34:45Z",
+    "lang": "uk",
+    "source": {
+      "id": "ccf5b23cf2f813320e7baafea8cf4ea7",
+      "name": "motorcar.com.ua",
+      "url": "https://motorcar.com.ua"
+    }
+  },
+  {
+    "id": "d523641323c1efab610ea8e06dfceaa5",
+    "title": "Дебютував найдоступніший електрокросовер Volkswagen",
+    "description": "Новий ID. Cross має запас ходу до 436 км, фізичні кнопки в салоні та стартову ціну від €28 тисяч.",
+    "content": "Новий ID. Cross має запас ходу до 436 км, фізичні кнопки в салоні та стартову ціну від €28 тисяч.\nКомпанія Volkswagen офіційно представила серійну версію нового електричного кросовера ID. Cross, який став найдоступнішим кросовером у сімействі ID. Нов... [3084 chars]",
+    "url": "https://ua.korrespondent.net/lifestyle/motors/4894539-debuituvav-naidostupnishyi-elektrokrosover-Volkswagen",
+    "image": "https://kor.ill.in.ua/m/1260x900/4494603.jpg",
+    "publishedAt": "2026-07-15T17:15:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "5f3893b2bdd83721567eef82ac0a6d2e",
+      "name": "Korrespondent.net",
+      "url": "https://ua.korrespondent.net"
+    }
+  },
+  {
+    "id": "594390361cfe1a7f7ba369e67d0f703a",
+    "title": "Український стартап Agenda хоче замінити ексель-таблиці з графіками змін у кафе та ресторанах",
+    "description": "В Україні запустився сервіс Agenda – вебзастосунок для складання графіків робочих змін, орієнтований на сферу HoReCa. Стартап хоче прибрати з роботи менеджерів закладів найнуднішу рутину: щомісячне \"зведення\" розкладу в таблицях Google чи Excel зі скріном у робочий чат і десятком повідомлень з уточненнями.",
+    "content": "В Україні запустився сервіс Agenda – вебзастосунок для складання графіків робочих змін, орієнтований на сферу HoReCa. Стартап хоче прибрати з роботи менеджерів закладів найнуднішу рутину: щомісячне \"зведення\" розкладу в таблицях Google чи Excel зі ск... [1531 chars]",
+    "url": "https://mezha.ua/news/ukrajinskiy-startap-agenda-hoche-zaminiti-eksel-tablici-z-grafikami-zmin-u-kafe-ta-restoranah-313272/",
+    "image": "https://img.mezha.ua/mezha/images/doc/4/0/317633/4039f13976daa9125cd59f4e11a498db.jpeg?w=1200&q=85&stamp=1784116589",
+    "publishedAt": "2026-07-15T12:25:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "6b0257d31504a630dde7752eed4e1e39",
+      "name": "Mezha",
+      "url": "https://mezha.ua"
+    }
+  },
+  {
     "id": "7c2f66069e969f8de08c0949e43a604a",
     "title": "Результати тесту Tesla Model Y на 140 тисяч кілометрів від німецького клубу ADAC",
     "description": "Експерии ADAC проїхали наа Tesla Model Y 140 тисяч кілометрів пробігу за підсумками тривалого випробування. Детальний аналіз деградації батареї, швидкості зарядки, проблем та поломок - Авто24",
@@ -87,66 +147,6 @@
       "id": "e737a8e76b161ef4526698e2ec5f60c9",
       "name": "24 Канал",
       "url": "https://24tv.ua"
-    }
-  },
-  {
-    "id": "39a37a4d06919e40618f293b06c8564a",
-    "title": "Французькі інженери створили для Макрона унікальний броньовик",
-    "description": "Французький бренд DS Automobiles створив справжній кабінет на колесах для глави держави",
-    "content": "Президент Франції Емманюель Макрон отримав новий офіційний автомобіль – спеціально створений броньований електричний кросовер DS N°7 ÉLYSÉE. Новинку французький преміальний бренд DS Automobiles уперше продемонстрував під час військового параду 14 лип... [3185 chars]",
-    "url": "https://glavcom.ua/techno/auto/frantsuzki-inzheneri-stvorili-dlja-makrona-unikalnij-bronovik-jak-vin-vihljadaje-1131203.html",
-    "image": "https://glavcom.ua/img/article/11312/3_main-v1784073185.webp",
-    "publishedAt": "2026-07-14T23:53:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "170951208432adcfd96b2d9def1a0127",
-      "name": "Главком",
-      "url": "https://glavcom.ua"
-    }
-  },
-  {
-    "id": "8958e68e188ec02432b9257c9647e70f",
-    "title": "Renault презентував оновлений Megane для 2027 року",
-    "description": "Французький виробник Renault презентував рестайлінг для електричної моделі Megane E-Tech Electric 2027 року.",
-    "content": "Французький виробник Renault презентував рестайлінг для електричної моделі Megane E-Tech Electric 2027 року.\nRenault Megane отримав більший акумулятор.\nКількість варіантів силового агрегату зменшено.\nМінімальний запас ходу зріс до 500 км.\nУ модельном... [1084 chars]",
-    "url": "https://motorcar.com.ua/news/renault-megane-restajling-foto-2026/",
-    "image": "https://motorcar.com.ua/wp-content/uploads/2026/06/renault-megane-e-tech-2026-3.jpg",
-    "publishedAt": "2026-07-14T20:31:51Z",
-    "lang": "uk",
-    "source": {
-      "id": "ccf5b23cf2f813320e7baafea8cf4ea7",
-      "name": "motorcar.com.ua",
-      "url": "https://motorcar.com.ua"
-    }
-  },
-  {
-    "id": "687fe42ada4fcf03e31bfa7ac4815be8",
-    "title": "В ЄС ChatGPT знову почав працювати у WhatsApp • Межа",
-    "description": "У Європейському союзі знову можна користуватися ChatGPT безпосередньо у WhatsApp. OpenAI відновила доступ 13 липня 2026 року після майже піврічної перерви. Це стало можливим завдяки рішенню Європейської комісії.",
-    "content": "У Європейському економічному просторі знову можна користуватися ChatGPT безпосередньо у WhatsApp. OpenAI відновила доступ 13 липня 2026 року після майже піврічної перерви. Це стало можливим завдяки рішенню Європейської комісії, яка зобов'язала компан... [1987 chars]",
-    "url": "https://mezha.ua/news/v-yes-chatgpt-znovu-pochav-pracyuvati-u-whatsapp-313244/",
-    "image": "https://img.mezha.ua/mezha/images/doc/2/2/317569/2281655aaf001696fdda0f4a3dea85c0.jpeg?w=1200&q=85&stamp=1784060116",
-    "publishedAt": "2026-07-14T20:19:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "6b0257d31504a630dde7752eed4e1e39",
-      "name": "Mezha",
-      "url": "https://mezha.ua"
-    }
-  },
-  {
-    "id": "83f86363dab006a92a78dc565d14e8ff",
-    "title": "Названо найпопулярніші гібридні авто в Україні",
-    "description": "За перше півріччя український автопарк поповнили понад 19 тисяч гібридів, а найпопулярнішою новою моделлю стала Toyota RAV4.",
-    "content": "За перше півріччя український автопарк поповнили понад 19 тисяч гібридів, а найпопулярнішою новою моделлю стала Toyota RAV4.\nУ першому півріччі 2026 року в Україні було зареєстровано 19,1 тис. легкових автомобілів із гібридною силовою установкою, пов... [1007 chars]",
-    "url": "https://ua.korrespondent.net/business/auto/4894267-nazvano-naipopuliarnishi-hibrydni-avto-v-ukraini",
-    "image": "https://kor.ill.in.ua/m/1260x900/4493011.jpg",
-    "publishedAt": "2026-07-14T18:34:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "5f3893b2bdd83721567eef82ac0a6d2e",
-      "name": "Korrespondent.net",
-      "url": "https://ua.korrespondent.net"
     }
   }
 ]
