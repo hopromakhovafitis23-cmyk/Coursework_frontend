@@ -1,5 +1,65 @@
 [
   {
+    "id": "4f5f3254afac168d8860153187c0839e",
+    "title": "Новий парвовірус свиней уже зафіксували в двох країнах",
+    "description": "Дослідники Університету Копенгагена повідомили про появу на свинофермі в Данії нового парвовірусу свиней (nPPV), який уперше був описаний у Нідерландах у 2024 р",
+    "content": "Дослідники Університету Копенгагена повідомили про появу на свинофермі в Данії нового парвовірусу свиней (nPPV), який уперше був описаний у Нідерландах у 2024 році.\nПро це пише PigUA.\nСеред основних симптомів захворювання ‒ випинання очних яблук, ура... [1846 chars]",
+    "url": "https://agrotimes.ua/tvarinnitstvo/novyj-parvovirus-svynej-uzhe-zafiksuvaly-v-dvoh-krayinah/",
+    "image": "https://agrotimes.ua/wp-content/uploads/2021/12/porosyatko3.jpg",
+    "publishedAt": "2026-07-16T16:44:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "57f94d2996bc360a2be49f072d33ab3d",
+      "name": "AgroTimes",
+      "url": "https://agrotimes.ua"
+    }
+  },
+  {
+    "id": "bb1d506269a0dc91a796b16f55d0ab33",
+    "title": "Дослідження розкрило вплив генів неандертальців на імунітет",
+    "description": "Науковці виявили зв’язок між неандертальською ДНК та вищим вірусним навантаженням для кількох поширених ДНК-вірусів",
+    "content": "Джерело: IFLScience\nУсі сучасні люди неафриканського походження успадкували від 2 до 4% ДНК неандертальців. Нова наукова робота свідчить, що частина цих генетичних варіантів може впливати на здатність імунної системи боротися з деякими вірусами.\nРезу... [3456 chars]",
+    "url": "https://bukvy.org/uspadkovani-vid-neandertaltsiv-geny-mozhut-poslablyuvaty-imunitet-doslidzhennya/",
+    "image": "https://bukvy.org/wp-content/uploads/devitem_opengraph_images/321823.jpg",
+    "publishedAt": "2026-07-16T16:36:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "8bbee1c72678a4ab4a072b208e0690f3",
+      "name": "Букви",
+      "url": "https://bukvy.org"
+    }
+  },
+  {
+    "id": "6bb398e954b6b438df6f1937af85c2e4",
+    "title": "Імплант вимкнули, а рука паралізованого зберегла чутливість",
+    "description": "42-річний чоловік із паралічем усіх чотирьох кінцівок потиснув руку науковцям, самостійно поїв і пересунув яйце, не розчавивши його. Як імплант повернув йому дотик?",
+    "content": "Мозковий імплант допоміг 42-річному чоловіку з паралічем усіх чотирьох кінцівок самостійно рухати рукою та знову відчувати дотик. Завдяки цьому пацієнт зміг потиснути руку науковцям, самостійно пити та їсти й навіть пересувати крихкі об’єкти, такі як... [1831 chars]",
+    "url": "https://nauka.ua/news/mozkovij-implant-dopomig-choloviku-z-paralichem-potrimati-yajce-ta-potisnuti-ruku",
+    "image": "https://nauka.ua/storage/uploads/public/6a5/8f5/ba7/6a58f5ba74b94649133814.jpg",
+    "publishedAt": "2026-07-16T15:25:11Z",
+    "lang": "uk",
+    "source": {
+      "id": "780644dab43a156799ba55a022663644",
+      "name": "nauka.ua",
+      "url": "https://nauka.ua"
+    }
+  },
+  {
+    "id": "015783d514565cf34f9f9637ea516749",
+    "title": "Кортизол і здоров'я після 40 років: директор Бердичівської міської лікарні розповів, які ризики допоможе виявити скринінг - Новини Бердичева",
+    "description": "Директор Бердичівської міської лікарні Костянтин Гінгуляк пояснив, як кортизол впливає на організм та чому після 40 років варто проходити Скринінг здоров'я 40+. Які захворювання можна виявити на ранній стадії.",
+    "content": "Кортизол під контролем: директор Бердичівської міської лікарні розповів, чому після 40 років важливо пройти Скринінг здоров’я\nПостійний стрес, недосипання, високий темп життя та емоційне виснаження стали звичними супутниками багатьох українців. Одним... [2924 chars]",
+    "url": "https://www.berdichev.biz/kortyzol-i-zdorovya-pislya-40-rokiv-dyrektor-berdychivskoi/",
+    "image": "https://www.berdichev.biz/wp-content/uploads/2024/10/hinhulyak.jpg",
+    "publishedAt": "2026-07-16T13:08:07Z",
+    "lang": "uk",
+    "source": {
+      "id": "1e462a313e341a9c8bc0cd53b0d80841",
+      "name": "Бердичів.biz",
+      "url": "https://www.berdichev.biz"
+    }
+  },
+  {
     "id": "9af50f6bde16a0d0eb6831b47add1e98",
     "title": "Антиаритмічні препарати класу 1С у менеджменті вагус-індукованих порушень ритму серця",
     "description": "У статті узагальнено сучасні уявлення про механізми розвитку вагус-індукованих порушень ритму серця, зокрема передсердних і шлуночкових аритмій, що виникають на",
@@ -87,66 +147,6 @@
       "id": "d4361862486677369ff2ae7719b8d313",
       "name": "УНІАН",
       "url": "https://www.unian.ua"
-    }
-  },
-  {
-    "id": "8a4245a4f5fe956fe22f97e238e52cad",
-    "title": "простий рецепт освіжаючого літнього напою",
-    "description": "Як приготувати матча-апельсин удома. Простий рецепт популярного літнього напою із зеленим чаєм матча, апельсиновим соком та льодом.",
-    "content": "У спекотні літні дні холодні напої з натуральних інгредієнтів стають чудовою альтернативою солодким газованим напоям. Один із найпопулярніших трендів цього сезону - матча-апельсин, який поєднує насичений смак японського зеленого чаю та свіжість цитру... [1200 chars]",
-    "url": "https://life.kyiv.ua/news/litnij-khit-u-kyievi-osvizhaiucha-matcha-z-apelsynom-iaku-zakhochetsia-hotuvaty-",
-    "image": "https://life.kyiv.ua/storage/croped/1200_630/news/2026/07/15/510687/big.jpg?nocache=6a57d1a7869ac",
-    "publishedAt": "2026-07-15T18:10:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "cc7300a1052d2cbce662d94f32b5d416",
-      "name": "Life.Kyiv.ua",
-      "url": "https://life.kyiv.ua"
-    }
-  },
-  {
-    "id": "c39eaf276fc42f73c7f9a01c356263c6",
-    "title": "Як підтримувати ясність мислення і гострий розум протягом усього життя",
-    "description": "Поради експертів, як підтримувати ясний розум і гостре мислення. Вправи проти деменції. Як зберігати ясне мислення. Вправи для покращення пам'яті. Вправи для концентрації. Профілактика деменції. Як розвивати мозок. Чому важливо добре спати",
-    "content": "Покроковий план, який допоможе підтримувати здоров’я мозку протягом життя\nРеклама\nМайже кожна людина хоча б раз опинялася в такій ситуації: ім’я знаменитості буквально крутиться на язиці, але згадати його ніяк не виходить або ж найпростіша підказка у... [12046 chars]",
-    "url": "https://www.cosmo.com.ua/beauty/health-sport/vid-zapasu-snu-do-nichnoho-ochyshchennya-mozku-nespodivani-sposoby-zberehty-hostryy-rozum-u-bud-yakomu-vitsi/",
-    "image": "https://i.cosmo.com.ua/images/publications/16941/copyfile/1920x1080/vid-zapasu-snu-do-nichnoho-ochyshchennya-mozku-nespodivani-sposoby-zberehty-hostryy-rozum-u-bud-yakomu-vitsi-652249.webp",
-    "publishedAt": "2026-07-15T15:34:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "67ec1a8dcade0b69d3eff634fe6be5f0",
-      "name": "Cosmopolitan Україна",
-      "url": "https://www.cosmo.com.ua"
-    }
-  },
-  {
-    "id": "ecca026093afa7b949535f14f2452e33",
-    "title": "Замінники цукру можуть погіршувати контроль глюкози - дослідження",
-    "description": "Регулярне вживання підсолоджувачів пов’язали з підвищенням рівня інсуліну",
-    "content": "Фото: pexels\nДеякі штучні підсолоджувачі можуть негативно впливати на обмін речовин і здатність організму контролювати рівень глюкози в крові. Про це пише Earth.com із посиланням на аналіз, опублікований у журналі Current Atherosclerosis Reports.\nВод... [2361 chars]",
-    "url": "https://pravdatutnews.com/health/2026/07/15/82394-zaminnyky-cukru-mozhut-pogirshuvaty-kontrol-glyukozy",
-    "image": "https://pravdatutnews.com/sites/default/files/news/2026/07/15/pexels-neli-pereira-1766468-36927138.jpg",
-    "publishedAt": "2026-07-15T14:45:43Z",
-    "lang": "uk",
-    "source": {
-      "id": "716e7cb92f5f203aa3506c9ba057538c",
-      "name": "ПравдаТУТ NEWS",
-      "url": "https://pravdatutnews.com"
-    }
-  },
-  {
-    "id": "50d8fd2ce29836c410771d414df7d449",
-    "title": "Лікар назвав продукти, які допомагають запобігти остеопорозу",
-    "description": "Після 30 років щільність кісток поступово знижується, що підвищує ризик виникнення проблем зі здоров’ям. Лікар назвав продукти та добавки, які допомагають підтримувати здоров’я кісток.",
-    "content": "Про це повідомляє УНІАН з посиланням на Today.com.\nЗа словами лікаря Іена Сміта, щільність кісткової тканини вказує на те, наскільки пористими є наші кістки, і вимірюється кількістю кальцію та інших мінералів. Якщо уявити кістки у вигляді губки, то, ... [2147 chars]",
-    "url": "https://socportal.info/ua/news/kistki-pochinaiut-vtrachati-shchilnist-pislya-30-rokiv-yaki-produkti-dopomagaiut-ikh-zmitcniti/",
-    "image": "https://socportal.info/site/assets/files/0/06/98/029/pexels-gustavo-fring-7446986.jpg?3eve7e",
-    "publishedAt": "2026-07-15T14:44:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "6a351bc824aa09e9d8177e4fb2f09c73",
-      "name": "socportal.info",
-      "url": "https://socportal.info"
     }
   }
 ]
