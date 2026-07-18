@@ -1,12 +1,42 @@
 [
   {
-    "id": "c902d3d6800494aa61824fe4e966d88b",
-    "title": "У Керчі горить залізнична станція",
-    "description": "У Керчі після атаки дронів спалахнула масштабна пожежа на залізничній станції - відео ᐅТSN.ua (новини 1+1)",
-    "content": "У ніч проти п’ятниці, 17 липня, у районі залізничної станції «Керч» після атаки БпЛА зафіксували кілька осередків пожеж.\nПро це повідомляє Telegram-канал Крымский ветер.\nЗа даними моніторингової групи Telegram-каналу, внаслідок атаки могли горіти скл... [673 chars]",
-    "url": "https://tsn.ua/ukrayina/kerch-rozirvaly-potuzni-vybukhy-na-zaliznytsi-i-naftobazi-vyruiut-pozezi-video-3129449.html",
-    "image": "https://img.tsn.ua/cached/288/tsn-51cb131e/thumbs/1200x630/e0/d1/4e4e79d5c161157df7871916d309d1e0.jpg",
-    "publishedAt": "2026-07-17T07:03:46Z",
+    "id": "5bfaa022eb03171cc74e4e50b786ce4a",
+    "title": "Україна відповіла на постанову Польщі про Волинську трагедію",
+    "description": "Сейм Польщі ухвалив постанову до 83-х роковин Волинської трагедії. У відповідь МЗС України закликало Варшаву зберігати рівноправний діалог, спільно працювати над вивченням історії та не допустити, щоб",
+    "content": "Сейм Польщі ухвалив постанову до 83-х роковин Волинської трагедії. У відповідь МЗС України закликало Варшаву зберігати рівноправний діалог, спільно працювати над вивченням історії та не допустити, щоб минуле завадило партнерству.\nСейм Польщі 17 липня... [1606 chars]",
+    "url": "https://ua.korrespondent.net/ukraine/4895088-ukraina-vidpovila-na-postanovu-polschi-pro-volynsku-trahediui",
+    "image": "https://kor.ill.in.ua/m/1260x900/4497733.jpg",
+    "publishedAt": "2026-07-17T14:20:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "5f3893b2bdd83721567eef82ac0a6d2e",
+      "name": "Korrespondent.net",
+      "url": "https://ua.korrespondent.net"
+    }
+  },
+  {
+    "id": "fd86ae0350f7b93036da6072775bd6b8",
+    "title": "Google відклав запуск Gemini 3.5 Pro через проблеми з розвитком моделі",
+    "description": "Технологічний гігант Google відкликав запуск своєї найпотужнішої моделі штучного інтелекту Gemini 3.5 Pro на кілька місяців. Компанія Alphabet працює над покращенням можливостей моделі, зокрема у сфері програмування.",
+    "content": "Технологічний гігант Google відкликав запуск своєї найпотужнішої моделі штучного інтелекту Gemini 3.5 Pro на кілька місяців. Компанія Alphabet працює над покращенням можливостей моделі, зокрема у сфері програмування, пише Reuters.\nСпочатку Google пла... [613 chars]",
+    "url": "https://fintechinsider.com.ua/google-vidklav-zapusk-gemini-3-5-pro-cherez-problemy-z-rozvytkom-modeli/",
+    "image": "https://fintechinsider.com.ua/wp-content/uploads/2025/08/ai_5-green-2.jpg",
+    "publishedAt": "2026-07-17T14:00:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "186ca7452ad204aa3914f3cb5f6edbdb",
+      "name": "fintechinsider.com.ua",
+      "url": "https://fintechinsider.com.ua"
+    }
+  },
+  {
+    "id": "8b0b6c092c47c5b11cc1d90e2ac4a0ae",
+    "title": "Померла зірка Сам удома 2 та лауреатка Оскара Бренда Фрікер",
+    "description": "Померла акторка Бренда Фрікер, відома за роллю у фільмі Сам удома 2 - володарці премії Оскар та першій ірландській лауреатці був 81 рік ᐅTSN.ua(новини 1+1)",
+    "content": "Світ кіно сколихнула звістка про смерть акторки Бренди Фрікер, відомої за роллю у фільмі «Сам удома 2» та лауреатки премії «Оскар».\nБренди Фрікер не стало у віці 81 року. За свою кар’єру вона зіграла десятки яскравих ролей у кіно й на телебаченні. Во... [578 chars]",
+    "url": "https://tsn.ua/glamur/pomerla-zirka-sam-udoma-2-ta-volodarka-oskara-brenda-friker-3129917.html",
+    "image": "https://img.tsn.ua/cached/092/tsn-51cb131e/thumbs/1200x630/01/fc/6ccd0b43c5cde2459b1f9a02c432fc01.jpg",
+    "publishedAt": "2026-07-17T13:55:54Z",
     "lang": "uk",
     "source": {
       "id": "ae8b9c98d707754fca5e1ea622855c50",
@@ -15,138 +45,108 @@
     }
   },
   {
-    "id": "b15832a456c2c8f42a441c33ed57355e",
-    "title": "Microsoft терміново заблокувала липневе оновлення Windows 11 для ПК Dell: що сталося",
-    "description": "Microsoft тимчасово заблокувала розповсюдження оновлення Windows 11 KB5101650 для частини комп'ютерів Dell через конфлікт із драйвером Intel, який може спричиняти перегрів, раптові вимкнення, падіння продуктивності та швидкий розряд батареї.",
-    "content": "Деякі ПК Dell поки що не отримають липневе оновлення Windows 11 через проблеми сумісності, які можуть спричиняти збої, падіння продуктивності, перегрівання та надмірне розрядження батареї. За даними Microsoft, причина полягає в конфлікті між оновленн... [4843 chars]",
-    "url": "https://itc.ua/ua/novini/microsoft-terminovo-zablokuvala-lypneve-onovlennya-windows-11-dlya-pk-dell-shho-stalosya/",
-    "image": "https://itcua-media-prod.fra1.cdn.digitaloceanspaces.com/uploads/2026/07/Apdejt-Depositphotos_588808832_L.jpg",
-    "publishedAt": "2026-07-17T07:00:27Z",
+    "id": "3af54176b7070edcc591dc5a3e45d630",
+    "title": "Уражено НПЗ \"Славнефть-Янос\", корабель \"Светляк\", танкери та паливні об’єкти - Генштаб ЗСУ",
+    "description": "16 липня та в ніч на 17 липня 2026 року підрозділи Сил оборони України завдали ураження низці важливих воєнних і воєнно-економічних цілей противника.",
+    "content": "16 липня та в ніч на 17 липня 2026 року підрозділи Сил оборони України завдали ураження низці важливих воєнних і воєнно-економічних цілей противника.\nПро це повідомив 17 липня Генеральний штаб ЗСУ\nТакож уражено два танкери (один з них — газовоз) та о... [1980 chars]",
+    "url": "https://armyinform.com.ua/2026/07/17/urazheno-npz-slavneft-yanos-korabel-svetlyak-tankery-ta-palyvni-obyekty-genshtab-zsu/",
+    "image": "https://armyinform.com.ua/wp-content/uploads/2026/07/gsh-4-960x540.jpg",
+    "publishedAt": "2026-07-17T13:47:00Z",
     "lang": "uk",
     "source": {
-      "id": "391d17d071b755a4bda37c1b43f47c2c",
-      "name": "ITC.ua",
-      "url": "https://itc.ua"
+      "id": "2e38197e59eebab4d9f99f889a185c5d",
+      "name": "armyinform.com.ua",
+      "url": "https://armyinform.com.ua"
     }
   },
   {
-    "id": "7fd23b1f5288fa539af1b4415121af26",
-    "title": "Прорив у космосі: вчені вперше виявили атмосферу на \"живій\" планеті",
-    "description": "Астрономи вперше підтвердили існування атмосфери навколо кам'янистої екзопланети LHS 1140 b, яка розташована в зоні, де можуть існувати умови для життя.",
-    "content": "Міжнародна група астрономів уперше виявила атмосферу навколо кам'янистої екзопланети, яка перебуває в так званій \"зоні життя\" своєї зірки. Йдеться про планету LHS 1140 b, яку вважають одним із найперспективніших кандидатів для пошуку позаземного житт... [1289 chars]",
-    "url": "https://www.unian.ua/science/vcheni-vpershe-viyavili-atmosferu-na-potenciyno-pridatniy-dlya-zhittya-planeti-13443345.html",
-    "image": "https://images.unian.net/photos/2025_06/thumb_files/620_324_1749119964-8820.jpg?1",
-    "publishedAt": "2026-07-17T06:53:00Z",
+    "id": "e8b41bc2ca20ce4d8c02b3141ac2f1d1",
+    "title": "Google затримує Gemini 3.5 Pro через проблеми з AI для кодування",
+    "description": "Google на місяці відкладає запуск Gemini 3.5 Pro, намагаючись покращити модель у кодуванні. Усередині компанії побоюються, що Anthropic і OpenAI збільшують відрив.",
+    "content": "Що сталося\nGoogle затримує реліз Gemini 3.5 Pro — своєї флагманської моделі ШІ. За словами людей, знайомих із ситуацією, компанія витрачає додатковий час на покращення якості, насамперед у задачах для розробників. Модель очікували ще на травневій кон... [1206 chars]",
+    "url": "https://vctr.media/ua/reliz-gemini-3-5-pro-zsunuvsya-na-misyaczi-cherez-slabki-rezultaty-v-koduvanni-339221/",
+    "image": "https://vctr.media/wp-content/uploads/2026/07/vctr.media-1784294569.jpg",
+    "publishedAt": "2026-07-17T13:46:00Z",
     "lang": "uk",
     "source": {
-      "id": "d4361862486677369ff2ae7719b8d313",
-      "name": "УНІАН",
-      "url": "https://www.unian.ua"
+      "id": "6138aa796451365d274ea9267380090a",
+      "name": "vctr.media",
+      "url": "https://vctr.media"
     }
   },
   {
-    "id": "e4ad5b2410c199b308456237d3b0ecdf",
-    "title": "Кабмін звільнив голову Нацполіції, заступників міністрів і керівника Апарату Прем'єр",
-    "description": "Окрім кадрових рішень, уряд визнав такими, що втратили чинність, два попередні розпорядження про тимчасове виконання обов'язків міністрів. | Новини, В Україні - Судово-юридична газета",
-    "content": "Кабінет Міністрів на засіданні 16 липня ухвалив низку кадрових рішень, звільнивши голову Національної поліції, двох заступників міністрів, голову Національного агентства із забезпечення якості вищої освіти та керівника Апарату Прем'єр-міністра.\nЗокре... [1444 chars]",
-    "url": "https://sud.ua/uk/news/ukraine/366818-kabmin-zvilnyv-holovu-natspolitsii-zastupnykiv-ministriv-i-kerivnyka-aparatu-premier-ministra",
-    "image": "https://sud.ua/uploads/news/2026/07/17/kabmin-zvilnyv-holovu-natspolitsii-zastupnykiv-ministriv-i-kerivnyka-aparatu-premier-ministra.webp",
-    "publishedAt": "2026-07-17T06:51:00Z",
+    "id": "bf5d6e219545a1ac9f5d17a1471b9d4e",
+    "title": "Командувач СБС ЗСУ спростував чутки про тиск через мітинги проти відставки Федорова",
+    "description": "Роберт Бровді заявив, що у СБС не толерують тиск на військових через участь у мітингах.",
+    "content": "Командувач Сил безпілотних систем ЗСУ Роберт (Мадяр) Бровді відреагував на допис начальниці медслужби \"Ульф\" батальйону \"Вовки Да Вінчі\", депутатки Київради і громадської діячки Аліни Михайлової, яка заявила, що їй телефонували з командування СБС і п... [1665 chars]",
+    "url": "https://www.pravda.com.ua/news/2026/07/17/8044582/",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/9/874554/c97e2e792f0c9a89bd2ead3ecb1e2dcf.jpeg?w=1200&q=85&stamp=1784295402",
+    "publishedAt": "2026-07-17T13:36:00Z",
     "lang": "uk",
     "source": {
-      "id": "b46500d70972c8020239617cebe67243",
-      "name": "Судово-юридична газета",
-      "url": "https://sud.ua"
+      "id": "f22da91c498603eb4d447ae38063cc99",
+      "name": "Українська правда",
+      "url": "https://www.pravda.com.ua"
     }
   },
   {
-    "id": "b4dcd5ee808dd165c6421aec6063fe40",
-    "title": "ChatGPT змушуватиме підлітків робити перерви під час тривалого користування ШІ",
-    "description": "Компанія OpenAI впроваджує оновлення безпеки для користувачів віком до 18 років, ключовим елементом якого стануть регулярні сповіщення про необхідність зробити перерву. Розробники прагнуть запобігти надмірному екранному часу та допомогти молоді сформувати здорові звички у роботі зі штучним",
-    "content": "Про запуск нових інструментів контролю часу та безпеки розробники повідомили у своєму офіційному блозі. За даними компанії, майже 9 із 10 підлітків використовують ChatGPT щотижня для навчання чи підвищення продуктивності, тому OpenAI намагається збал... [1047 chars]",
-    "url": "https://dev.ua/news/chatgpt-nahaduvatyme-robyty-perervy-vid-ai-1784269811",
-    "image": "https://dev.ua/storage/images/10/35/76/64/derived/8995ca2356bab68106e559c5bd34bb51.jpg",
-    "publishedAt": "2026-07-17T06:37:00Z",
+    "id": "2f3a81c9b4a7136ae98b46a2e7601d95",
+    "title": "Таню Муіньо зняла новий кліп для BTS на пісню Normal з альбому Arirang",
+    "description": "Українська режисерка Таню Муіньо зняла кліп для BTS на пісню Normal. Це вже друга її співпраця з гуртом.",
+    "content": "Українська режисерка Таню Муіньо зняла новий кліп для південнокорейського гурту BTS на пісню Normal. Це вже друга поспіль співпраця з кейпоп-гуртом.\nПро це повідомляє Billboard.\nПісня Normal є другим синглом в альбомі Arirang, який гурт випустив 20 б... [2751 chars]",
+    "url": "https://life.pravda.com.ua/culture/tanyu-muino-znyala-noviy-klip-dlya-bts-na-pisnyu-normal-z-albomu-arirang-316310/",
+    "image": "https://imglife.pravda.com.ua/life/images/doc/9/7/136295/976d0e6aa37c6188d64c7183e5a9a0ab.jpeg?w=1920&q=90",
+    "publishedAt": "2026-07-17T13:14:00Z",
     "lang": "uk",
     "source": {
-      "id": "d597d08d30da5c6ae044461783e5194d",
-      "name": "dev.ua",
-      "url": "https://dev.ua"
+      "id": "6e5e5f69374a5faa2d5844542c3ef5ce",
+      "name": "УП. Життя",
+      "url": "https://life.pravda.com.ua"
     }
   },
   {
-    "id": "d46a91bca7420a8aade56e9022891173",
-    "title": "Раян Герст залишає роль Кратоса у серіалі God Of War через важку травму",
-    "description": "Актор Раян Герст залишив головну роль Кратоса у майбутньому серіалі God Of War від Amazon та Sony через важку травму біцепса. Подробиці рекасту, стан здоров'я актора та плани на перезйомки.",
-    "content": "Високобюджетне фентезі-шоу God Of War від стримінгового сервісу Prime Video змушене змінити виконавця головної ролі. Як стало відомо виданню Deadline, актор Раян Герст, якого раніше затвердили на роль могутнього спартанського воїна Кратоса, більше не... [2127 chars]",
-    "url": "https://itc.ua/ua/novini/rayan-gerst-zalyshaye-rol-kratosa-u-seriali-god-of-war-cherez-vazhku-travmu/",
-    "image": "https://itcua-media-prod.fra1.cdn.digitaloceanspaces.com/uploads/2026/07/w1500_56766775.jpg",
-    "publishedAt": "2026-07-17T06:31:41Z",
+    "id": "1083a3d7eea179bd297172910ca2177d",
+    "title": "Тарас Цимбалюк та Олена Світлицька злились в романтичному танці",
+    "description": "Актори Тарас Цимбалюк та Олена Світлицька поділилися відео зі спільним танцем. Як зірки реагують на чутки про стосунки - дивіться відео на Show 24",
+    "content": "Ролик з'явився на інстаграм-сторінці Тараса Цимбалюка. На кадрах актори танцюють впритул одне до одного. Відео швидко поширилося мережею, викликавши нову хвилю припущень серед прихильників щодо можливих романтичних стосунків між знаменитостями. Самі ... [1197 chars]",
+    "url": "https://24tv.ua/show24/taras-tsimbalyuk-olena-svitlitska-zlilis-romantichnomu-tantsi_n3107585",
+    "image": "https://24tv.ua/resources/photos/news/202607/3107585.jpg?v=1784289369000&w=1200&h=675",
+    "publishedAt": "2026-07-17T13:03:00Z",
     "lang": "uk",
     "source": {
-      "id": "391d17d071b755a4bda37c1b43f47c2c",
-      "name": "ITC.ua",
-      "url": "https://itc.ua"
+      "id": "e737a8e76b161ef4526698e2ec5f60c9",
+      "name": "24 Канал",
+      "url": "https://24tv.ua"
     }
   },
   {
-    "id": "951f21dcfb595218b579d28e0e5e78c1",
-    "title": "Росіяни вночі атакували Україну вісьмома ракетами та 130 дронами",
-    "description": "Російська армія у ніч проти 17 липня била по Україні протирадіолокаційною ракетою Х-31П, сімома керованими авіаракетами Х-59/69 та 130 БпЛА.",
-    "content": "Російська армія в ніч проти 17 липня била по Україні протирадіолокаційною ракетою Х-31П, сімома керованими авіаракетами Х-59/69 та 130 БпЛА типу Shahed, «Гербера», «Італмас» та дронами-імітаторами типу «Пародія».\nПро це звітують Повітряні сили ЗСУ.\nР... [458 chars]",
-    "url": "https://babel.ua/news/128626-rosiyani-vnochi-atakuvali-ukrajinu-vismoma-raketami-ta-130-dronami-skilki-zneshkodila-ppo",
-    "image": "https://babel.ua/static/content/frtlki9g/thumbs/1200x630/3/57/ec939f8cb444d238a1365b9d2cef2573.jpg?v=9573",
-    "publishedAt": "2026-07-17T06:26:17Z",
+    "id": "0dd4ebcf7ef3c71e91c7f1d54d0f0a64",
+    "title": "ЄС вперше запровадив обмеження через удари Росії по цивільній інфраструктурі / NV",
+    "description": "ЄС запровадив санкції проти п’яти компаній, що входять до складу російського ВПК. В обґрунтуванні вперше згадані удари РФ по Києву",
+    "content": "Про це йдеться у повідомленні на сайті Ради ЄС у п’ятницю, 17 липня.\nЗокрема у ЄС зазначили, що санкції вперше було запроваджено через масовані атаки РФ по Києву у ніч проти 1 та 5 липня і цілеспрямовані удари по цивільній інфраструктурі.\nРеклама\nВсі... [1111 chars]",
+    "url": "https://nv.ua/ukr/world/geopolitics/sankciji-proti-rf-yes-vpershe-zaprovadiv-obmezhennya-cherez-udari-rosiji-po-civilniy-infrastrukturi-50625206.html",
+    "image": "https://static.nv.ua/shared/system/Article/posters/003/328/230/original/4dac6250ba8b07d86eb28c71cbe319a2.jpg?q=85&stamp=20260717154936&f=webp",
+    "publishedAt": "2026-07-17T12:55:00Z",
     "lang": "uk",
     "source": {
-      "id": "d5c141466738ababa5e945e8f8127bbf",
-      "name": "Бабель",
-      "url": "https://babel.ua"
+      "id": "f194bf27373973fc9320a73bf1f13909",
+      "name": "nv.ua",
+      "url": "https://nv.ua"
     }
   },
   {
-    "id": "a31b67ffff5b2e1f1522c77425f59c9e",
-    "title": "Розслідування про \"143 квартири брата директора ДБР\" одночасно опублікували 8 медіа, на які не поширюється заборона суду",
-    "description": "Редакторка-засновниця «Слідство.Інфо» Анна Бабінець назвала заборонне рішення суду придушенням свободи слова, а дії колег – безпрецедентною цеховою підтримкою",
-    "content": "Низка українських редакцій оприлюднила розслідування «Квартири за ціною смартфона» авторства колег зі «Слідство.Інфо» та ГО «Центр протидії корупції» (ЦПК) про обставини набуття братом директора Державного бюро розслідувань Олексія Сухачова 143 об’єк... [4731 chars]",
-    "url": "https://www.radiosvoboda.org/a/news-media-na-yaki-ne-poshyryuyet%CA%B9sya-zaborona-sudu-opublikuvaly-rozsliduvannya-pro-kvartyry-brata-dyrektora-dbr/33805260.html",
-    "image": "https://gdb.rferl.org/2bbec338-5742-41fd-30d5-08decd1f5434_cx10_cy1_cw87_w1200_h630.jpg",
-    "publishedAt": "2026-07-17T06:15:00Z",
+    "id": "7dc612d4a2af7cfa2cdca5ead3b1b8f4",
+    "title": "Українську легкоатлетку виключили з етапу Діамантової ліги. Відомо, чи виступить Магучіх",
+    "description": "Відома українська легкоатлетка Ірина Геращенко не виступить на етапі Діамантової ліги в Лондоні, який відбудеться 18 липня. Нашу співвітчизницю було виключено зі списку учасниць у секторі стрибків у висоту на змаганнях у столиці Великої Британії.",
+    "content": "Відома українська легкоатлетка Ірина Геращенко не виступить на етапі Діамантової ліги в Лондоні, який відбудеться 18 липня. Нашу співвітчизницю було виключено зі списку учасниць у секторі стрибків у висоту на змаганнях у столиці Великої Британії.\nПро... [955 chars]",
+    "url": "https://www.obozrevatel.com/ukr/sport-oboz/ukrainsku-legkoatletku-viklyuchili-z-etapu-diamantovoi-ligi-vidomo-chi-vistupit-maguchih.htm",
+    "image": "https://i.obozrevatel.com/news/2024/8/3/filestoragetemp-2024-08-03t014444-762.jpg?size=1200x630",
+    "publishedAt": "2026-07-17T12:37:00Z",
     "lang": "uk",
     "source": {
-      "id": "5c9ced304d672fe93c822292939bf821",
-      "name": "Радіо Свобода",
-      "url": "https://www.radiosvoboda.org"
-    }
-  },
-  {
-    "id": "b1ebede22f0b9119f4ccb495c807ca94",
-    "title": "Серед загиблих в Одесі - жінка, яка в цей час гуляла в парку з дітьми. Самі вони вижили",
-    "description": "Зросла кількість постраждалих унаслідок нічної атаки на Одесу. Тим часом уранці 17 липня окупанти повторно вдарили по регіону.",
-    "content": "Зросла кількість постраждалих унаслідок нічної атаки на Одесу. Тим часом уранці 17 липня окупанти повторно вдарили по регіону.\nПро це повідомив очільник ОВА Олег Кіпер.\nЗа його словами, кількість постраждалих через атаку на Одесу зросла до 10, серед ... [508 chars]",
-    "url": "https://hromadske.ua/viyna/267783-sered-zahyblykh-v-odesi-zinka-iaka-v-tsey-chas-huliala-u-parku-z-ditmy-sami-vony-vyzyly",
-    "image": "https://hromadske.ua/static/content/thumbs/1200x630/0/4a/fhu2ro---c1200x630x50px50p--4efd1b7a96f1610145495b5b3cb904a0.jpeg",
-    "publishedAt": "2026-07-17T06:09:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "e5c9eb01018c5028b5e73134cb311034",
-      "name": "Hromadske",
-      "url": "https://hromadske.ua"
-    }
-  },
-  {
-    "id": "5f184dbfae445286c8b55996d6ce6174",
-    "title": "Дмитро Коляденко розповів про таємне весілля сина і якою є його невістка",
-    "description": "Шоумен Дмитро Коляденко розповів про шлюб сина Пилипа і яким було його весілля з перукаркою Нодірою Тураджановою - чи готовий зірка до онуків ᐅTSN.ua(новини 1+1)",
-    "content": "Український шоумен Дмитро Коляденко вперше відверто розповів, як минуло весілля його сина Пилипа Коляденка зі стилісткою-перукаркою Нодірою Тураджановою.\nЗа словами артиста, молодята свідомо відмовилися від гучного традиційного святкування на користь... [2066 chars]",
-    "url": "https://tsn.ua/glamur/dmytro-koliadenko-vpershe-rozkryv-pravdu-pro-tayemne-vesillia-syna-ta-iak-stavytsia-do-nevistky-3129491.html",
-    "image": "https://img.tsn.ua/cached/678/tsn-dc382829a98d0f40b34d312a72bcb9b7/thumbs/1200x630/04/b3/e25e9ed4cad1f4ea376c907b0dd5b304.jpeg",
-    "publishedAt": "2026-07-17T06:05:02Z",
-    "lang": "uk",
-    "source": {
-      "id": "ae8b9c98d707754fca5e1ea622855c50",
-      "name": "ТСН",
-      "url": "https://tsn.ua"
+      "id": "ca149ffefb31c86f82d7f299d744af59",
+      "name": "Obozrevatel",
+      "url": "https://www.obozrevatel.com"
     }
   }
 ]
