@@ -1,5 +1,80 @@
 [
   {
+    "id": "4736fd7cabb29aaae126aa05a061344f",
+    "title": "Інвестиція, що принесла мільйони",
+    "description": "Дізнайтеся, як акції Monster Energy за 30 років зросли приблизно на 200 000 відсотків. Чому компанія досягла такого успіху та яку роль у цьому відіграла Coca-Cola - Інвестиції.",
+    "content": "Чому акції Monster Energy стали феноменом фондового ринку\nЯкби інвестор вклав лише 1 000 доларів у акції Monster Energy у 1994 році та утримував їх до сьогодні, вартість інвестиції сягнула б приблизно 2 мільйонів доларів, розповідає Startitup. За цей... [1991 chars]",
+    "url": "https://financy.24tv.ua/investment24/investitsiya-shho-prinesla-milyoni-fenomenalne-zrostannya-monster_n3107682",
+    "image": "https://24tv.ua/resources/photos/news/202607/3107682.jpg?v=1784295845000&w=1200&h=675",
+    "publishedAt": "2026-07-19T13:02:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "e13bcd14a7bd08edb7ba7e9f6c802b40",
+      "name": "Фінанси 24",
+      "url": "https://financy.24tv.ua"
+    }
+  },
+  {
+    "id": "65fa5077220136dabeef72fd4fd2fc78",
+    "title": "Чи є щось важливе для України у тому, що Saab та канадська CAE уклали меморандум по винищувачах Gripen",
+    "description": "Про що саме попередньо домовилися шведська Saab та канадська CAE і що саме там може стосуватися (чи ні) України",
+    "content": "Шведська оборонна компанія Saab та канадська технологічна компанія CAE, яка, зокрема, займається підготовкою авіаційних фахівців, 17 липня підписали меморандум про взаєморозуміння щодо забезпечення вдосконаленої підготовки пілотів винищувачів, забезп... [2710 chars]",
+    "url": "https://defence-ua.com/people_and_company/chi_je_schos_vazhlive_dlja_ukrajini_u_tomu_scho_saab_ta_kanadska_cae_uklali_memorandum_po_vinischuvachah_gripen-23678.html",
+    "image": "https://defence-ua.com/media/illustration/articles/faf6a5ba85242888.jpg",
+    "publishedAt": "2026-07-19T12:24:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "f488af954cb509cbacccbd34e7f47985",
+      "name": "Defense Express",
+      "url": "https://defence-ua.com"
+    }
+  },
+  {
+    "id": "d5101110ec25ceaecb31be6bcf1e4a9a",
+    "title": "Ці вживані авто майже не ламаються: топ 10",
+    "description": "Купівля вживаного автомобіля завжди пов’язана з певним ризиком. Саме тому багато водіїв шукають моделі, які вже встигли зарекомендувати себе як довговічні та надійні.",
+    "content": "Купівля вживаного автомобіля завжди пов’язана з певним ризиком. Саме тому багато водіїв шукають моделі, які вже встигли зарекомендувати себе як довговічні та надійні.\nНове дослідження, підготовлене на основі відгуків власників, показало, які автомобі... [2994 chars]",
+    "url": "https://www.obozrevatel.com/ukr/avto-oboz/tsi-vzhivani-avto-majzhe-ne-lamayutsya-top-10.htm",
+    "image": "https://i.obozrevatel.com/news/2026/7/14/a7df4fea-fbda-4404-a56f-ebecfc39463c.png?size=1200x630",
+    "publishedAt": "2026-07-19T12:00:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "ca149ffefb31c86f82d7f299d744af59",
+      "name": "Obozrevatel",
+      "url": "https://www.obozrevatel.com"
+    }
+  },
+  {
+    "id": "849e382efc9c921aaf23ca10a5d3d885",
+    "title": "Samsung скорочує робочі місця в США",
+    "description": "Детальніше про це читайте у новині ЕП",
+    "content": "Компанія Samsung Electronics скоротила робочі місця на своїх підприємствах у США, що займаються виробництвом дисплеїв, мобільних телефонів та іншої побутової електроніки.\nПро це повідомляє Reuters.\nЗгідно з документами та інформацією двох джерел Reut... [1027 chars]",
+    "url": "https://epravda.com.ua/svit/samsung-skorochuye-robochi-miscya-v-ssha-823783/",
+    "image": "https://img.epravda.com.ua/epravda/images/doc/b/f/164919/bf32591da9548fdaa5f911e54e9a57ac.jpeg?w=1920&q=85",
+    "publishedAt": "2026-07-19T10:57:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "9b9cf9e76aeefea346957bfe5f6dafc5",
+      "name": "Економічна правда",
+      "url": "https://epravda.com.ua"
+    }
+  },
+  {
+    "id": "7b6ca2c0b4fa9ee710dd1ce8722971a4",
+    "title": "$1700 збитків замість електробайка: повсюдні ШІ-боти залишили журналіста у США без замовлення і без компенсації",
+    "description": "Чоловік втратив $1700 через зниклий електровелосипед: FedEx, банк і навіть поліція відправляли його до чат-ботів. Розбираємо детально, як це сталося.",
+    "content": "Журналіст видання WIRED замовив електровелосипед за майже $2000, а коли служба доставки FedEx повідомила про успішну видачу посилки, велосипеда на порозі не виявилося. Натомість у системі значилося, що посилку отримала якась людина з ініціалами “M.M.... [3396 chars]",
+    "url": "https://itc.ua/ua/novini/1700-zbytkiv-zamist-elektrobajka-povsyudni-shi-boty-zalyshyly-zhurnalista-u-ssha-bez-zamovlennya-i-bez-kompensatsiyi/",
+    "image": "https://itcua-media-prod.fra1.cdn.digitaloceanspaces.com/uploads/2026/07/Vylsons-my-ebike-delivery-went-missing-when-i-tried-to-recover-it-i-ended-up-in-chatbot-hell.jpg",
+    "publishedAt": "2026-07-19T09:20:01Z",
+    "lang": "uk",
+    "source": {
+      "id": "391d17d071b755a4bda37c1b43f47c2c",
+      "name": "ITC.ua",
+      "url": "https://itc.ua"
+    }
+  },
+  {
     "id": "03b456f3bf2b1d6817602452f7420883",
     "title": "Apple обійшла NVIDIA і повернула титул найдорожчої компанії світу: інвестори втрачають віру в ШІ",
     "description": "Apple обігнала NVIDIA і повернула титул найдорожчої компанії світу — $4,88 трлн капіталізації. Дізнайтеся, що змінило настрої інвесторів",
@@ -72,81 +147,6 @@
       "id": "d4361862486677369ff2ae7719b8d313",
       "name": "УНІАН",
       "url": "https://www.unian.ua"
-    }
-  },
-  {
-    "id": "8d472a3504566969617598d7c78afc3d",
-    "title": "The Fourth Law та TAF Industries кодифікували автономний FPV з дальністю 40 км",
-    "description": "Українські оборонні компанії The Fourth Law та TAF Industries кодифікували FPV дрон «Колібрі 10″ Advance» із першим рівнем автономності.Про це «Мілітарному» розповіли в компанії The Fourth Law.Заявлено, що головна перевага […]",
-    "content": "Українські оборонні компанії The Fourth Law та TAF Industries кодифікували FPV дрон «Колібрі 10″ Advance» із першим рівнем автономності.\nПро це «Мілітарному» розповіли в компанії The Fourth Law.\nЗаявлено, що головна перевага комплексу — здатність ура... [1896 chars]",
-    "url": "https://militarnyi.com/uk/news/the-fourth-law-ta-taf-industries-kodyfikuvaly-avtonomnyj-fpv-z-dalnistyu-40-km/",
-    "image": "https://militarnyi.com/wp-content/uploads/2026/07/Dron-Kolibri-10-Advance-.Zobrazhennya-The-Fourth-Law-1024x576.png",
-    "publishedAt": "2026-07-18T13:50:12Z",
-    "lang": "uk",
-    "source": {
-      "id": "c98ff05728e3eec892018e49e689f83e",
-      "name": "Мілітарний",
-      "url": "https://militarnyi.com"
-    }
-  },
-  {
-    "id": "96e5e54cc72814758a958420f73f180b",
-    "title": "Японська компанія хоче купити частку в польській мережі Żabka",
-    "description": "Японська компанія Seven & i Holdings, яка є власницею мережі магазинів 7-Eleven, перебуває на фінальній стадії переговорів про інвестиції в польського оператора магазинів біля дому – Żabka Group. 18 липня 2026",
-    "content": "Японська компанія Seven & i Holdings, яка є власницею мережі магазинів 7-Eleven, перебуває на фінальній стадії переговорів про інвестиції в найбільшого оператора магазинів біля дому в Польщі – Żabka Group.\nЯк пише Nikkei, Seven & i Holdings збираєтьс... [2183 chars]",
-    "url": "https://censor.net/biz/news/4014136/yaponska-kompaniya-hoche-kupyty-chastku-v-polskiyi-mereji-abka",
-    "image": "https://images.cnscdn.com/2/d/0/1/2d0105c9e78889e215e7c98634aeb93d/1200x630.jpg",
-    "publishedAt": "2026-07-18T13:15:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "cd711531be9ce5868b049d12c8e6dbe4",
-      "name": "Цензор.НЕТ",
-      "url": "https://censor.net"
-    }
-  },
-  {
-    "id": "1cda84d1765ea950ba19ee03922c0fcb",
-    "title": "Amazon, Meta, Microsoft та інші техгіганти скоротили десятки тисяч працівників у 2026 році",
-    "description": "Світові технологічні компанії продовжують масштабні скорочення персоналу у 2026 році. Під хвилю звільнень потрапили співробітники Amazon, Meta,",
-    "content": "Світові технологічні компанії продовжують масштабні скорочення персоналу у 2026 році. Під хвилю звільнень потрапили співробітники Amazon, Meta, Microsoft, Cisco, Autodesk, Intel та інших корпорацій. За даними Reuters, причиною кадрових змін компанії ... [1202 chars]",
-    "url": "https://donpatriot.news/amazon-meta-microsoft-ta-inshi-tehgiganty-skorotyly-desyatky-tysyach-praczivnykiv-u-2026-roczi",
-    "image": "https://donpatriot.news/wp-content/uploads/2026/07/tehno.jpg",
-    "publishedAt": "2026-07-18T10:40:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "556066753a7a30eb0619823360acdde4",
-      "name": "Патріот Донбасу",
-      "url": "https://donpatriot.news"
-    }
-  },
-  {
-    "id": "fe6877cbfdb4a38b9354f4956fa56b81",
-    "title": "Телевізори LG записують розмови, а монітори встановлюють ПЗ без дозволу, - звіт",
-    "description": "\"Розумні\" телевізори LG записують голос користувачів у рамках роботи функцій штучного інтелекту, а монітори автоматично встановлюють на ПК рекламне програмне забезпечення без згоди власника.",
-    "content": "Фахівці технічного видання Gamers Nexus опублікували результати розслідування, згідно з якими смарт-телевізори LG записують голос користувачів у рамках роботи функцій штучного інтелекту, а низка сучасних моніторів автоматично встановлює на ПК рекламн... [1681 chars]",
-    "url": "https://www.unian.ua/techno/gadgets/televizori-lg-zapisuyut-rozmovi-a-monitori-vstanovlyuyut-pz-bez-dozvolu-zvit-13444458.html",
-    "image": "https://images.unian.net/photos/2026_07/thumb_files/1000_545_1784367906-1874.jpg?1",
-    "publishedAt": "2026-07-18T10:30:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "d4361862486677369ff2ae7719b8d313",
-      "name": "УНІАН",
-      "url": "https://www.unian.ua"
-    }
-  },
-  {
-    "id": "7c266d7583bad88c2378876e4c007ac3",
-    "title": "Чорний список вживаних авто: які марки найчастіше не проходять техогляд",
-    "description": "Tesla і Dacia опинилися серед брендів із найбільшою кількістю несправностей під час техоглядів у Швеції. Читайте подробиці. ᐅTSN.ua (новини 1+1).",
-    "content": "У Швеції оприлюднили результати технічних оглядів уживаних автомобілів за 2025 рік. Дані показали, що найменше зауважень отримали автомобілі Lynk & Co, тоді як серед найгірших результатів опинилися Dacia та Tesla.\nПро це повідомило видання Vezess.\nШв... [2292 chars]",
-    "url": "https://tsn.ua/auto/news/do-chornoho-spysku-vzyvanykh-avto-potrapyla-nespodivana-marka-iaki-mashyny-ne-prokhodiat-tekhohliad-3130400.html",
-    "image": "https://img.tsn.ua/cached/051/tsn-71c6e1c5a35efa308f11e0ccf1aae45e/thumbs/1200x630/97/2e/765ff7f2f0d9466b2926171d654a2e97.jpeg",
-    "publishedAt": "2026-07-18T10:08:12Z",
-    "lang": "uk",
-    "source": {
-      "id": "ae8b9c98d707754fca5e1ea622855c50",
-      "name": "ТСН",
-      "url": "https://tsn.ua"
     }
   }
 ]
