@@ -1,42 +1,12 @@
 [
   {
-    "id": "233b57301fd4d8a9fc382866768b2fea",
-    "title": "OTA-оновлення роблять автомобілі вразливішими до кібератак • Межа",
-    "description": "Експерти з кібербезпеки попереджають, що поширення технології бездротових оновлень в автомобілях підвищує ризик кібератак і може становити загрозу для національної безпеки.",
-    "content": "Зростання популярності технології бездротових оновлень (over-the-air, OTA) в автомобілях підвищує ризик кібератак і може становити загрозу для національної безпеки. Про це повідомляє CNBC з посиланням на експертів із кібербезпеки.\nOTA-технологія дозв... [2339 chars]",
-    "url": "https://mezha.ua/news/analitiki-ota-onovlennya-roblyat-avtomobili-vrazlivishimi-do-kiberatak-313391/",
-    "image": "https://img.mezha.ua/mezha/images/doc/f/f/318235/ffd153b2146ebdf19be2db2896522c7c.jpeg?w=1200&q=85&stamp=1784525477",
-    "publishedAt": "2026-07-20T06:10:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "6b0257d31504a630dde7752eed4e1e39",
-      "name": "Mezha",
-      "url": "https://mezha.ua"
-    }
-  },
-  {
-    "id": "e807487e2ec6aab636c4b1e44acb92d9",
-    "title": "Новий Volkswagen ID. Cross уже продається: скільки електрокросовер коштує у Європі",
-    "description": "Volkswagen відкрив продажі нового електрокросовера ID. Cross в Іспанії. Модель отримала 211 к.с., запас ходу 426 км за WLTP і стартову ціну від 36 628 євро. - AMPERCAR.com",
-    "content": "Volkswagen розпочав продажі нового електричного кросовера ID. Cross. Новинка вже доступна для замовлення у двох комплектаціях — Life і Style. Автомобіль отримав електромотор потужністю 211 к.с., а його запас ходу за циклом WLTP сягає 426 км, повідомл... [978 chars]",
-    "url": "https://ampercar.com/novyi-volkswagen-id-cross-uzhe-prodaietsia-skilky-elektrokrosover-koshtuie-u-yevropi",
-    "image": "https://ampercar.com/catalog/uploads/2026/07/screenshot_2-10.jpg",
-    "publishedAt": "2026-07-20T06:07:35Z",
-    "lang": "uk",
-    "source": {
-      "id": "b75bb85c10a8cdb6ce86551e76456635",
-      "name": "AMPERCAR.com",
-      "url": "https://ampercar.com"
-    }
-  },
-  {
-    "id": "2ed2349f943acd8b6d4b47eff1703700",
-    "title": "Ціни \"обвалились\": скільки українці можуть отримати грошей за старі золоті сережки та хрестики",
-    "description": "Вартість грама золотого брухту (в т.ч. зламаних прикрас, старих сережок, ланцюжків, хрестиків тощо) залежить від проби металу. Найдорожча – проба 999,9, грам виробу з якої, за даними НБУ станом на 17 липня, коштував 5678,71 грн.",
-    "content": "Вартість грама золотого брухту (в т.ч. зламаних прикрас, старих сережок, ланцюжків, хрестиків тощо) залежить від проби металу. Найдорожча – проба 999,9, грам виробу з якої, за даними НБУ станом на 17 липня, коштував 5678,71 грн. Найдешевша – проба 33... [2360 chars]",
-    "url": "https://www.obozrevatel.com/ukr/ekonomika-glavnaya/fea/tsini-obvalilis-skilki-ukraintsi-mozhut-otrimati-groshej-za-stari-zoloti-serezhki-ta-hrestiki.htm",
-    "image": "https://i.obozrevatel.com/news/2026/4/6/pexels-stephen-leonardi-587681991-32610505.jpg?size=1200x630",
-    "publishedAt": "2026-07-20T00:20:00Z",
+    "id": "a56ab955742dd4c04f257738c2f41a8c",
+    "title": "Названі найкращі гібридні авто: топ вживаних моделей",
+    "description": "Ринок вживаних гібридів пропонує чудові варіанти для економних водіїв, які шукають низькі витрати на пальне та надійність. Цей рейтинг зібрав моделі, що поєднують ефективність, комфорт і доступну ціну на вторинному ринку.",
+    "content": "Ринок вживаних гібридів пропонує чудові варіанти для економних водіїв, які шукають низькі витрати на пальне та надійність. Цей рейтинг зібрав моделі, що поєднують ефективність, комфорт і доступну ціну на вторинному ринку.\nВід компактних хетчбеків до ... [4788 chars]",
+    "url": "https://www.obozrevatel.com/ukr/avto-oboz/nazvani-najkraschi-gibridni-avto-top-vzhivanih-modelej.htm",
+    "image": "https://i.obozrevatel.com/news/2026/7/20/hondainsightzaa-rm7front.jpg?size=1200x630",
+    "publishedAt": "2026-07-20T14:03:00Z",
     "lang": "uk",
     "source": {
       "id": "ca149ffefb31c86f82d7f299d744af59",
@@ -45,43 +15,43 @@
     }
   },
   {
-    "id": "977db810018f7eeda3d0d0b5bf5d1362",
-    "title": "Найбільша ракета світу - \"марсовоз\" Маска - завмерла на старті: що пішло не так",
-    "description": "Запуск найбільшої ракети у світі Starship V3 від SpaceX зірвався в останню секунду — система безпеки автоматично зупинила двигуни, коли вже завершувався відлік.",
-    "content": "Фото: SpaceX\nЦе сталося на космодромі в Техасі, де компанія Ілона Маска готувала 13‑й тестовий політ своєї гігантської ракети, пише Space.\nЦя подія стала черговим нагадуванням, що навіть найсучасніші технології залишаються вразливими. Для SpaceX це н... [1635 chars]",
-    "url": "https://pravdatutnews.com/tehnologiyi/2026/07/20/82609-naybilsha-raketa-svitu-marsovoz-maska-zavmerla-na-starti-shcho",
-    "image": "https://pravdatutnews.com/sites/default/files/news/2026/07/20/starship_spacex.jpg",
-    "publishedAt": "2026-07-19T21:25:09Z",
+    "id": "498e32fd5996590c9e17167df23eacb5",
+    "title": "як змінюється формат автозаправок",
+    "description": "Коворкінги, відкрита кухня, зарядні станції для електромобілів, сонячні панелі, food-сервіс, цифрові сервіси та безбар’єрний простір для водіїв.",
+    "content": "Від ПРК до мультисервісного хабу\nВодії зі стажем ще пам’ятають час, коли на заправках не пропонували нічого, окрім пального. Але відтоді АЗС пройшли через величезну еволюцію.\nІ першими, хто в Україні почав розвивати автозаправки як мультифункціональн... [4787 chars]",
+    "url": "https://www.pravda.com.ua/projects/2026/07/20/8044896/",
+    "image": "https://cdn.prod.website-files.com/6a4e1e7f0a93e624b49a3243/6a58a81ea0f14356f2f7dc49_sm_okko.png",
+    "publishedAt": "2026-07-20T13:57:37Z",
     "lang": "uk",
     "source": {
-      "id": "716e7cb92f5f203aa3506c9ba057538c",
-      "name": "ПравдаТУТ NEWS",
-      "url": "https://pravdatutnews.com"
+      "id": "f22da91c498603eb4d447ae38063cc99",
+      "name": "Українська правда",
+      "url": "https://www.pravda.com.ua"
     }
   },
   {
-    "id": "39f2084c5563476cd2da5145bd36393e",
-    "title": "ШІ замінить програмістів: Маск дав новий прогноз",
-    "description": "ШІ замінить програмістів, припустив Ілон Маск через розвиток AI-коду. ШІ замінить програмістів не одразу, читайте на Фактах ICTV",
-    "content": "Засновник Tesla та xAI Ілон Маск, який неодноразово робив прогнози щодо розвитку штучного інтелекту, припустив, що традиційне програмування може втратити актуальність уже до кінця цього року.\nІлон Маск прогнозує кінець професії програміста через ШІ\nУ... [1993 chars]",
-    "url": "https://fakty.com.ua/ua/styl-zhyttia/nauka-tekhnolohii/20260719-profesiya-programista-mozhe-zniknuti-do-kintsya-tsogo-roku-cherez-shi-ilon-mask/",
-    "image": "https://fakty.com.ua/wp-content/uploads/2026/06/17/ilon-mask-768x432.jpg",
-    "publishedAt": "2026-07-19T17:07:00Z",
+    "id": "558fd3abc2cc87790b2e56e9d3ed445b",
+    "title": "Маск втратив близько $500 млрд за місяць",
+    "description": "Падіння акцій SpaceX майже на 45% за місяць стало головною причиною скорочення статків найзаможнішої людини світу.",
+    "content": "Падіння акцій SpaceX майже на 45% за місяць стало головною причиною скорочення статків найзаможнішої людини світу.\nСтатки засновника SpaceX і Tesla Ілона Маска скоротилися майже на $500 млрд за один місяць. Основною причиною стало різке падіння варто... [1219 chars]",
+    "url": "https://ua.korrespondent.net/business/4895735-mask-vtratyv-blyzko-500-mlrd-za-misiats",
+    "image": "https://kor.ill.in.ua/m/1260x900/4502499.jpg",
+    "publishedAt": "2026-07-20T13:54:00Z",
     "lang": "uk",
     "source": {
-      "id": "10828aeaae724c71000c1326d888e604",
-      "name": "Факти ICTV",
-      "url": "https://fakty.com.ua"
+      "id": "5f3893b2bdd83721567eef82ac0a6d2e",
+      "name": "Korrespondent.net",
+      "url": "https://ua.korrespondent.net"
     }
   },
   {
-    "id": "c2b2026625d7b34ad1797a5ef3cebdc5",
-    "title": "Китайці показали оновлену електричну версію клона VW Beetle",
-    "description": "Електрокар GWM Ora Ballet Cat отримав новий двигун на 201 к.с. та зберіг специфічний жіночий функціонал, включаючи вбудовану селфі-камеру та режим спеціального обігріву на випадок менструацій - Авто24",
-    "content": "Попри очевидну подібність до класичного \"Жука\" епохи 1960-х років, Ballet Cat орієнтований на сучасну аудиторію. Оновлення 2026 року повністю зберегло суперечливий ретро-дизайн, проте принесло суттєві технічні покращення під кузовом та зберегло уніка... [1950 chars]",
-    "url": "https://24tv.ua/auto/kytaitsi_pokazaly_onovlenyi_elektrychnyi_klon_vw_beetle_n74054",
-    "image": "https://24tv.ua/auto/resources/photos/news/202607/740540526ceba-17b0-4eac-90c4-1de730efa7a3.jpg",
-    "publishedAt": "2026-07-19T15:18:00Z",
+    "id": "ac63954fb4e77689c265be9798635131",
+    "title": "офіційне пояснення компанії",
+    "description": "У Китаї зафільмували електромобіль BYD Tang, який їхав із відірваним заднім двигуном. Пояснення від автовиробника, реальні причини поломки та наслідки - Авто24",
+    "content": "Як пише Carscoops, минулого тижня китайські соціальні мережі сколихнули кадри та фотографії електромобіля BYD Tang, який рухався дорогою в місті Шеньян під час сильної зливи. Найбільшу увагу привернув електродвигун, що буквально звисав із задньої час... [1417 chars]",
+    "url": "https://24tv.ua/auto/elektromotor_kytaiskoho_byd_tang_vidpav_prosto_pid_chas_rukhu_yak_tse_poiasnyv_avtovyrobnyk_n74157",
+    "image": "https://24tv.ua/auto/resources/photos/news/202607/74157c625f086-42df-49dd-a81c-9f1352b536ef.jpg",
+    "publishedAt": "2026-07-20T13:50:00Z",
     "lang": "uk",
     "source": {
       "id": "e737a8e76b161ef4526698e2ec5f60c9",
@@ -90,63 +60,93 @@
     }
   },
   {
-    "id": "1482862315a1b8c22782f1380c1ffd2c",
-    "title": "Телевізори LG записують розмови, а монітори встановлюють ПЗ без дозволу - звіт",
-    "description": "У пристроях LG виявили низку суперечливих функцій, які порушують конфіденційність користувачів. Деякі монітори компанії без окремої згоди встановлюють програмне забезпечення на комп’ютер.",
-    "content": "У пристроях LG виявили низку суперечливих функцій, які порушують конфіденційність користувачів. Деякі монітори компанії без окремої згоди встановлюють програмне забезпечення на комп’ютер.\nТоді як смарттелевізори можуть записувати голос під час роботи... [2371 chars]",
-    "url": "https://www.obozrevatel.com/ukr/tehno-oboz/televizori-lg-zapisuyut-rozmovi-a-monitori-vstanovlyuyut-pz-bez-dozvolu-zhurnalisti.htm",
-    "image": "https://i.obozrevatel.com/news/2026/7/19/img9447.jpeg?size=1200x630",
-    "publishedAt": "2026-07-19T13:41:00Z",
+    "id": "8b2f6df730bfc434a0593076b391ef14",
+    "title": "у додатках для знайомств набирає популярність \"чатфішинг\"",
+    "description": "Все більше користувачів додатків для знайомств довіряють ChatGPT та іншим чатботам не лише складання анкети, а й листування з потенційними партнерами.",
+    "content": "Штучний інтелект починає змінювати правила знайомств в інтернеті. Все більше користувачів додатків для знайомств довіряють ChatGPT, Gemini та іншим чат-ботам на базі ШІ не тільки складання анкети, а й листування з потенційними партнерами. Це нове яви... [4260 chars]",
+    "url": "https://www.unian.ua/techno/neiroseti/novini-shi-u-dodatkah-dlya-znayomstv-nabiraye-populyarnist-chatfishing-13446123.html",
+    "image": "https://images.unian.net/photos/2026_07/thumb_files/1000_545_1784545133-8719.jpg?1",
+    "publishedAt": "2026-07-20T11:30:00Z",
     "lang": "uk",
     "source": {
-      "id": "ca149ffefb31c86f82d7f299d744af59",
-      "name": "Obozrevatel",
-      "url": "https://www.obozrevatel.com"
+      "id": "d4361862486677369ff2ae7719b8d313",
+      "name": "УНІАН",
+      "url": "https://www.unian.ua"
     }
   },
   {
-    "id": "4736fd7cabb29aaae126aa05a061344f",
-    "title": "Інвестиція, що принесла мільйони",
-    "description": "Дізнайтеся, як акції Monster Energy за 30 років зросли приблизно на 200 000 відсотків. Чому компанія досягла такого успіху та яку роль у цьому відіграла Coca-Cola - Інвестиції.",
-    "content": "Чому акції Monster Energy стали феноменом фондового ринку\nЯкби інвестор вклав лише 1 000 доларів у акції Monster Energy у 1994 році та утримував їх до сьогодні, вартість інвестиції сягнула б приблизно 2 мільйонів доларів, розповідає Startitup. За цей... [1991 chars]",
-    "url": "https://financy.24tv.ua/investment24/investitsiya-shho-prinesla-milyoni-fenomenalne-zrostannya-monster_n3107682",
-    "image": "https://24tv.ua/resources/photos/news/202607/3107682.jpg?v=1784295845000&w=1200&h=675",
-    "publishedAt": "2026-07-19T13:02:00Z",
+    "id": "ba1c7076b0662110139b3a1a7fed1acb",
+    "title": "TSMC забирає 9% світла всієї країни: компанію хочуть зобов'язати будувати власні електростанції",
+    "description": "Тайвань планує зобов'язати великі підприємства з навантаженням від 5 МВт будувати власні системи генерації та зберігання енергії. Найбільше нові правила можуть вплинути на TSMC, яка у 2024 році спожила 25,55 мільярда кВт·год або близько 9% усієї електроенергії країни.",
+    "content": "Уряд Тайваню готує зміни до законодавства, які можуть суттєво вплинути на найбільшого у світі контрактного виробника чипів TSMC. Міністерство економіки країни запропонувало внести поправки до Закону про управління енергетикою. Якщо їх ухвалять, велик... [2547 chars]",
+    "url": "https://itc.ua/ua/novini/tsmc-zabyraye-9-svitla-vsiyeyi-krayiny/",
+    "image": "https://itcua-media-prod.fra1.cdn.digitaloceanspaces.com/uploads/2026/07/TSMC-1.jpg",
+    "publishedAt": "2026-07-20T11:22:30Z",
     "lang": "uk",
     "source": {
-      "id": "e13bcd14a7bd08edb7ba7e9f6c802b40",
-      "name": "Фінанси 24",
-      "url": "https://financy.24tv.ua"
+      "id": "391d17d071b755a4bda37c1b43f47c2c",
+      "name": "ITC.ua",
+      "url": "https://itc.ua"
     }
   },
   {
-    "id": "65fa5077220136dabeef72fd4fd2fc78",
-    "title": "Чи є щось важливе для України у тому, що Saab та канадська CAE уклали меморандум по винищувачах Gripen",
-    "description": "Про що саме попередньо домовилися шведська Saab та канадська CAE і що саме там може стосуватися (чи ні) України",
-    "content": "Шведська оборонна компанія Saab та канадська технологічна компанія CAE, яка, зокрема, займається підготовкою авіаційних фахівців, 17 липня підписали меморандум про взаєморозуміння щодо забезпечення вдосконаленої підготовки пілотів винищувачів, забезп... [2710 chars]",
-    "url": "https://defence-ua.com/people_and_company/chi_je_schos_vazhlive_dlja_ukrajini_u_tomu_scho_saab_ta_kanadska_cae_uklali_memorandum_po_vinischuvachah_gripen-23678.html",
-    "image": "https://defence-ua.com/media/illustration/articles/faf6a5ba85242888.jpg",
-    "publishedAt": "2026-07-19T12:24:00Z",
+    "id": "48a5645911ac2b429f991eef294d789b",
+    "title": "У Mercedes жорстко розкритикували власний електрокар: топменеджер назвав його помилкою",
+    "description": "У Mercedes розкритикували власний електричний AMG GT. За даними ЗМІ, топменеджер назвав модель помилкою, а компанія ще у 2023 році знала про слабкі продажі EQS та EQE. - AMPERCAR.com",
+    "content": "У Mercedes виникли нові питання щодо стратегії розвитку електромобілів. За інформацією Motor.es, один із високопосадовців компанії на умовах анонімності заявив, що електричний AMG GT із чотирма дверима «не мав би з’явитися», хоча його вже виводять на... [957 chars]",
+    "url": "https://ampercar.com/u-mercedes-zhorstko-rozkrytykuvaly-vlasnyi-elektrokar-topmenedzher-nazvav-ioho-pomylkoiu",
+    "image": "https://ampercar.com/catalog/uploads/2026/07/byd-2026115332-1784305264_1.webp",
+    "publishedAt": "2026-07-20T11:05:18Z",
     "lang": "uk",
     "source": {
-      "id": "f488af954cb509cbacccbd34e7f47985",
-      "name": "Defense Express",
-      "url": "https://defence-ua.com"
+      "id": "b75bb85c10a8cdb6ce86551e76456635",
+      "name": "AMPERCAR.com",
+      "url": "https://ampercar.com"
     }
   },
   {
-    "id": "d5101110ec25ceaecb31be6bcf1e4a9a",
-    "title": "Ці вживані авто майже не ламаються: топ 10",
-    "description": "Купівля вживаного автомобіля завжди пов’язана з певним ризиком. Саме тому багато водіїв шукають моделі, які вже встигли зарекомендувати себе як довговічні та надійні.",
-    "content": "Купівля вживаного автомобіля завжди пов’язана з певним ризиком. Саме тому багато водіїв шукають моделі, які вже встигли зарекомендувати себе як довговічні та надійні.\nНове дослідження, підготовлене на основі відгуків власників, показало, які автомобі... [2994 chars]",
-    "url": "https://www.obozrevatel.com/ukr/avto-oboz/tsi-vzhivani-avto-majzhe-ne-lamayutsya-top-10.htm",
-    "image": "https://i.obozrevatel.com/news/2026/7/14/a7df4fea-fbda-4404-a56f-ebecfc39463c.png?size=1200x630",
-    "publishedAt": "2026-07-19T12:00:00Z",
+    "id": "c81c523bc7befeb06dd93f9f32728790",
+    "title": "ЄЦБ готується до складного рішення через війну на Близькому Сході та новий стрибок цін на нафту",
+    "description": "Європейський центральний банк цього тижня може залишити ключові процентні ставки без змін, однак війна на Близькому Сході та нове зростання цін на нафту",
+    "content": "Європейський центральний банк цього тижня може залишити ключові процентні ставки без змін, однак війна на Близькому Сході та нове зростання цін на нафту змушують регулятора переглядати свої прогнози. Про це повідомляє Reuters напередодні засідання ЄЦ... [960 chars]",
+    "url": "https://donpatriot.news/yeczb-gotuyetsya-do-skladnogo-rishennya-cherez-vijnu-na-blyzkomu-shodi-ta-novyj-strybok-czin-na-naftu",
+    "image": "https://donpatriot.news/wp-content/uploads/2026/07/yevropejskyj-czentralnyj-bank.jpeg",
+    "publishedAt": "2026-07-20T11:00:00Z",
     "lang": "uk",
     "source": {
-      "id": "ca149ffefb31c86f82d7f299d744af59",
-      "name": "Obozrevatel",
-      "url": "https://www.obozrevatel.com"
+      "id": "556066753a7a30eb0619823360acdde4",
+      "name": "Патріот Донбасу",
+      "url": "https://donpatriot.news"
+    }
+  },
+  {
+    "id": "da66a9ee6940cb46f404d46155344102",
+    "title": "Маск заявив, що професія програміста може \"померти\" вже до кінця року",
+    "description": "Американський підприємець Ілон Маск заявив, що стрімкий розвиток штучного інтелекту може зробити традиційне програмування непотрібним уже до кінця",
+    "content": "Американський підприємець Ілон Маск заявив, що стрімкий розвиток штучного інтелекту може зробити традиційне програмування непотрібним уже до кінця року. За його словами, користувачам більше не доведеться самостійно писати код — системи ШІ зможуть без... [718 chars]",
+    "url": "https://donpatriot.news/mask-zayavyv-shho-profesiya-programista-mozhe-pomerty-vzhe-do-kinczya-roku",
+    "image": "https://donpatriot.news/wp-content/uploads/2023/11/55842.jpg",
+    "publishedAt": "2026-07-20T10:00:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "556066753a7a30eb0619823360acdde4",
+      "name": "Патріот Донбасу",
+      "url": "https://donpatriot.news"
+    }
+  },
+  {
+    "id": "1d9ae330e7456a3d3324bc02193b85ed",
+    "title": "Ryanair втратив третину прибутку через подорожчання авіапального",
+    "description": "Ірландський бюджетний авіаперевізник Ryanair повідомив про суттєве зниження прибутку – на нього вплинуло подорожчання авіапалива.",
+    "content": "Ірландський бюджетний авіаперевізник Ryanair повідомив про суттєве зниження прибутку – на нього вплинуло подорожчання авіапалива.\nПро це йдеться в офіційному звіті Ryanair.\nЧистий прибуток за квітень-червень зменшився на 34% і склав €538 млн порівнян... [1516 chars]",
+    "url": "https://epravda.com.ua/biznes/ryanair-vtrativ-tretinu-pributku-cherez-podorozhchannya-aviapalnogo-823799/",
+    "image": "https://img.epravda.com.ua/epravda/images/doc/a/e/165524/aee9984fbcadf151a9b8c3952aa0234a.jpeg?w=1920&q=85",
+    "publishedAt": "2026-07-20T09:25:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "9b9cf9e76aeefea346957bfe5f6dafc5",
+      "name": "Економічна правда",
+      "url": "https://epravda.com.ua"
     }
   }
 ]
