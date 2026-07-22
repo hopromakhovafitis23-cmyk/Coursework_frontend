@@ -1,5 +1,35 @@
 [
   {
+    "id": "028407ca313d44fe9f1f35a76c96ade8",
+    "title": "Дозволити собі iPhone та Mac зможе кожен: Apple здаватиме в оренду власні гаджети",
+    "description": "Повідомляється, що Apple готує послугу зі здачі в оренду більшості моделей Mac та iPhone.",
+    "content": "Повідомляється, що Apple готує послугу зі здачі в оренду більшості моделей Mac та iPhone.\nЗа інформацією Bloomberg, сервіс Apple Upgrade має запрацювати в США вже з 28 липня. Фінансову підтримку забезпечуватиме компанія Klarna. Перед вибором необхідн... [1197 chars]",
+    "url": "https://itc.ua/ua/novini/dozvolyty-sobi-iphone-ta-mac-zmozhe-kozhen-apple-sdavatyme-v-orendu-vlasni-gadzhety/",
+    "image": "https://cdn.itc.ua/uploads/2026/07/Depositphotos_745829872_L.jpg",
+    "publishedAt": "2026-07-22T05:50:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "391d17d071b755a4bda37c1b43f47c2c",
+      "name": "ITC.ua",
+      "url": "https://itc.ua"
+    }
+  },
+  {
+    "id": "7445ee79ad6cfe2e34a8ed6cf4d7563d",
+    "title": "Samsung S26 дешевшає на 30% за пів року, iPhone 17",
+    "description": "Флагмани Samsung стрімко втрачають у ціні на вторинному ринку, тоді як iPhone демонструють рекордну стійкість. Розрив виявився настільки значним, що вживаний Galaxy S26 тепер може коштувати дешевше за новий бюджетний смартфон.",
+    "content": "Купівля нового флагманського смартфона — це завжди інвестиція, яка має свій термін окупності. І якщо ви з тих, хто оновлює телефон щороку-два, показник залишкової вартості стає чи не головним критерієм вибору. Свіжий аналіз вторинного ринку показує: ... [2426 chars]",
+    "url": "https://techno.znaj.ua/554807-samsung-galaxy-s26-vtrachaye-ponad-30-vartosti-za-piv-roku-iphone-17-deshevshaye-vtrichi-povilnishe",
+    "image": "https://znaj.ua/images/2026/07/12/ktwUUwhg101vf5tJ.webp",
+    "publishedAt": "2026-07-22T04:30:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "1aa0e680f4add2f45b73aa15fa428251",
+      "name": "znaj.ua",
+      "url": "https://techno.znaj.ua"
+    }
+  },
+  {
     "id": "9f43c084480fba3aba63898b5fc6fbbb",
     "title": "Apple запускає оренду iPhone, iPad та Mac із правом викупу – Bloomberg",
     "description": "З 28 липня Apple планує запустити програму лізингу Apple Upgrade для iPhone, Apple Watch, iPad та Mac, яка дозволить користувачам взяти пристрої в оренду із правом подальшого викупу. Як зазначає Bloomberg, початково сервіс реалізують у США, де компанія об'єдналась із Klarna, що пропонує послуги відкладених платежів.",
@@ -117,36 +147,6 @@
       "id": "e737a8e76b161ef4526698e2ec5f60c9",
       "name": "24 Канал",
       "url": "https://24tv.ua"
-    }
-  },
-  {
-    "id": "46a931a6f5f16dded8e545e84c4ca2fe",
-    "title": "Чому українські сервісні компанії мають змінитися - або померти",
-    "description": "В’ячеслав Колдовський наводить дані зі свіжого звіту Google: 85% професійних розробників уже регулярно користуються AI-агентами, а 41% нового коду згенеровано AI. Імплементація більше не найдорожчий етап розробки — тепер це специфікації та верифікація. Дл",
-    "content": "💡 Усі статті, обговорення, новини про AI — в одному місці. Приєднуйтесь до AI спільноти!\nУ травні цього року Google випустила звіт The New SDLC With Vibe Coding — 51 сторінка, серед авторів, зокрема, добре відомий спільноті Адді Османі.\nУ новинах про... [12484 chars]",
-    "url": "https://dou.ua/forums/topic/60832/",
-    "image": "https://s.dou.ua/img/announces/55445.jpg",
-    "publishedAt": "2026-07-21T14:04:56Z",
-    "lang": "uk",
-    "source": {
-      "id": "d1ef16b5a7558a99f3c289a3b0f93527",
-      "name": "Спільнота програмістів",
-      "url": "https://dou.ua"
-    }
-  },
-  {
-    "id": "3bd31fe30e472fbae7db2edd8e116d4e",
-    "title": "Найкращі компактні авто - названі моделі із високим рейтингом",
-    "description": "Надпопулярну компактну модель Corolla японський автоконцерн Toyota виробляє ще з 1960-х років. І стільки десятиліть і понад 50 мільйонів проданих одиниць по тому вона все ще користується шаленим попитом.",
-    "content": "Надпопулярну компактну модель Corolla японський автоконцерн Toyota виробляє ще з 1960-х років. І стільки десятиліть і понад 50 мільйонів проданих одиниць по тому вона все ще користується шаленим попитом. Навіть у США, де цілковито домінують кросовери... [4757 chars]",
-    "url": "https://www.obozrevatel.com/ukr/avto-oboz/kraschi-za-toyota-corolla-nazvani-4-kompaktnih-avto-iz-visokim-rejtingom.htm",
-    "image": "https://i.obozrevatel.com/news/2025/5/9/toyota-corolla.jpg?size=1200x630",
-    "publishedAt": "2026-07-21T14:00:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "ca149ffefb31c86f82d7f299d744af59",
-      "name": "Obozrevatel",
-      "url": "https://www.obozrevatel.com"
     }
   }
 ]
