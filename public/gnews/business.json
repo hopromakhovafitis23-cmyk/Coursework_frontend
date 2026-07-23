@@ -1,5 +1,50 @@
 [
   {
+    "id": "979610f7ad83685f39ff9313cd1b79cb",
+    "title": "Google Gemini наблизився до 1 млрд щомісячних користувачів",
+    "description": "Аудиторія Gemini зросла на 200 млн з лютого 2026 року. Alphabet також відзвітувала про $119,8 млрд квартального доходу та зростання на 24%.",
+    "content": "Аудиторія застосунку Gemini досягла 950 млн активних користувачів на місяць – на 200 млн, або майже 27%, більше за показник, оприлюднений Google у лютому.\nПро це йдеться у фінансовому звіті Alphabet за другий квартал 2026 року. Компанія не уточнила, ... [643 chars]",
+    "url": "https://mezha.ua/news/google-gemini-950m-mau-313514/",
+    "image": "https://img.mezha.ua/mezha/images/doc/a/4/318735/a494543c33e52a3c95c83ac45ec122f4.jpeg?w=1200&q=85&stamp=1784784998",
+    "publishedAt": "2026-07-23T06:40:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "6b0257d31504a630dde7752eed4e1e39",
+      "name": "Mezha",
+      "url": "https://mezha.ua"
+    }
+  },
+  {
+    "id": "cd1f0b033ee8a1d7377bf06ae19c0458",
+    "title": "Китайська модель ШІ Kimi K3 виявилась копією Claude Fable від Anthropic",
+    "description": "Близько тижня тому китайська компанія Moonshot представила потужну модель ШІ Kimi K3, яка викликала фурор. Однак згодом виявилось, що вірусна модель була створена на базі Claude Fable від Anthropic.",
+    "content": "Близько тижня тому китайська компанія Moonshot представила потужну модель ШІ Kimi K3, яка викликала фурор. Однак згодом виявилось, що вірусна модель була створена на базі Claude Fable від Anthropic.\nТе, що китайські лабораторії з розробки ШІ часто ко... [1877 chars]",
+    "url": "https://itc.ua/ua/novini/kytajska-model-shi-kimi-k3-vyyavylas-kopiyeyu-claude-fable-vid-anthropic/",
+    "image": "https://cdn.itc.ua/uploads/2026/07/Depositphotos_889593020_L.jpg",
+    "publishedAt": "2026-07-23T06:17:14Z",
+    "lang": "uk",
+    "source": {
+      "id": "391d17d071b755a4bda37c1b43f47c2c",
+      "name": "ITC.ua",
+      "url": "https://itc.ua"
+    }
+  },
+  {
+    "id": "fd697bb756300b117240e8928a45c6c6",
+    "title": "Рейтинг найпопулярніших машин в Україні у 2026 році",
+    "description": "Попит на автомобілі з дизельними двигунами в Україні почав стрімко падати. За перші шість місяців 2026 року автопарк країни поповнився лише 30 тисячам...",
+    "content": "Загальна кількість реєстрацій дизельних авто скоротилася на 5 відсотків порівняно з аналогічним періодом минулого року. Ринок демонструє неоднозначну динаміку: продажі нових машин зростають, а ось вживаний дизельний сегмент просідає.\nДилери змогли ре... [1613 chars]",
+    "url": "https://www.rbc.ua/rus/news/dizel-vtrachae-populyarnist-ukrayini-ki-avto-1784762913.html",
+    "image": "https://www.rbc.ua/static/img/f/r/freepik_avtosalon_3dfc77c64c01ac97c553239cb94edc2b_1300x820.jpg",
+    "publishedAt": "2026-07-23T05:20:31Z",
+    "lang": "uk",
+    "source": {
+      "id": "6f1ead09126f1f4738a48957e22f789c",
+      "name": "РБК-Україна",
+      "url": "https://www.rbc.ua"
+    }
+  },
+  {
     "id": "7aac7e198389661dbb2bac440099c44c",
     "title": "Авто з Китаю буде важче імпортувати до США",
     "description": "Комітет Сенату США з питань торгівлі схвалив законопроєкт, який фактично закриває американський ринок для китайських автовиробників. Нові правила можу...",
@@ -102,51 +147,6 @@
       "id": "e737a8e76b161ef4526698e2ec5f60c9",
       "name": "24 Канал",
       "url": "https://24tv.ua"
-    }
-  },
-  {
-    "id": "6d3ec81a14548b7e195506265da3462c",
-    "title": "Рік розробки власного VPN: стек, захисти та перші граблі після релізу",
-    "description": "Розробник Артем майже рік будує VPN для iOS та Chrome - від клієнта та API до серверів, білінгу та моніторингу. У технічному розборі він показує архітектуру свого сервісу, пояснює, чому connected ще не означає, що інтернет працює, та розповідає про помилк",
-    "content": "💡 Усі статті, обговорення, новини про DevOps — в одному місці. Приєднуйтесь до DevOps спільноти!\nВсім привіт.\nЯ Артем, Full-Stack Software Engineer. Майже рік соло роблю FollowNet VPN для iOS і розширення для Chrome: клієнт, бекенд, VPN-сервери, білі... [11496 chars]",
-    "url": "https://dou.ua/forums/topic/60865/",
-    "image": "https://s.dou.ua/img/announces/photo_2026-07-22_18.35.57.jpeg",
-    "publishedAt": "2026-07-22T16:00:29Z",
-    "lang": "uk",
-    "source": {
-      "id": "d1ef16b5a7558a99f3c289a3b0f93527",
-      "name": "Спільнота програмістів",
-      "url": "https://dou.ua"
-    }
-  },
-  {
-    "id": "ed6bd87f4fcd531d1ff636856159cab0",
-    "title": "У Чехії відомий рибалка витягнув із водойми \"монстра\" (фото)",
-    "description": "Після рідкісного золотого сома Якуб Вагнер впіймав ще одного масивного трофея",
-    "content": "Відомий чеський рибалка та телеведучий Якуб Вагнер поділився новим незвичайним уловом, спіймавши величезного сома в одній з водойм Чехії. Про це повідомляє «Главком» з посиланням на допис самого рибалки у Facebook, де він оприлюднив світлину з уловом... [2509 chars]",
-    "url": "https://glavcom.ua/scotch/kuriyozy/u-chekhiji-vidomij-ribalka-vitjahnuv-iz-vodojmi-monstra-foto-1132493.html",
-    "image": "https://glavcom.ua/img/article/11324/93_main-v1784725780.webp",
-    "publishedAt": "2026-07-22T13:09:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "170951208432adcfd96b2d9def1a0127",
-      "name": "Главком",
-      "url": "https://glavcom.ua"
-    }
-  },
-  {
-    "id": "ead36c7dc85b61ebef73be9a03da8b86",
-    "title": "Tesla Model Y очолила рейтинг продажів в Європі",
-    "description": "Зростання попиту на електромобілі та зниження цін Tesla допомогли Model Y стати найпопулярнішим авто в Європі.",
-    "content": "Зростання попиту на електромобілі та зниження цін Tesla допомогли Model Y стати найпопулярнішим авто в Європі.\nЕлектрокросовер Tesla Model Y очолив рейтинг продажів нових автомобілів у Європі за результатами червня 2026 року. За місяць на європейсько... [1000 chars]",
-    "url": "https://ua.korrespondent.net/business/auto/4896335-Tesla-Model-Y-ocholyla-reitynh-prodazhiv-v-yevropi",
-    "image": "https://kor.ill.in.ua/m/1260x900/4505554.jpg",
-    "publishedAt": "2026-07-22T12:43:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "5f3893b2bdd83721567eef82ac0a6d2e",
-      "name": "Korrespondent.net",
-      "url": "https://ua.korrespondent.net"
     }
   }
 ]
