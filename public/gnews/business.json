@@ -1,5 +1,65 @@
 [
   {
+    "id": "d8c13dd86bf57f91d075e15b2cada99a",
+    "title": "Китайські авто почали обходити на краш-тестах навіть BMW, - ЗМІ",
+    "description": "Китайські електромобілі вже демонструють кращі результати на краш-тестах, ніж найбільші європейські бренди - читайте докладно в матеріалі УНІАН",
+    "content": "Китайський електромобіль Zeekr 7GT виявився безпечнішим за свого європейського конкурента BMW iX3. Про це пише видання Denik із посиланням на краш-тести незалежної організації Euro NCAP.\nПовідомляється, що цього року Euro NCAP запровадила нову методи... [3281 chars]",
+    "url": "https://www.unian.ua/economics/auto/kitayskiy-elektromobil-zeekr-7gt-viyavivsya-bezpechnishim-za-bmw-ix3-13450608.html",
+    "image": "https://images.unian.net/photos/2026_07/thumb_files/620_324_1784901308-1968.jpg?1",
+    "publishedAt": "2026-07-24T14:09:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "d4361862486677369ff2ae7719b8d313",
+      "name": "УНІАН",
+      "url": "https://www.unian.ua"
+    }
+  },
+  {
+    "id": "b5f9a96f63240049b8f52729a0ab2372",
+    "title": "Японець замовив процесор на Amazon, але випадково отримав дещо значно краще",
+    "description": "Покупець у Японії знайшов у посилці Amazon п'ять процесорів Intel Core i5-14400 замість одного замовленого. Попри спокусу залишити техніку на 1 100 доларів, він повернув зайве компанії.",
+    "content": "Лотерея вартістю понад тисячу доларів\nКористувач соцмережі X під псевдонімом @masamine_s поділився фотографією своєї несподіваної знахідки. Він розраховував отримати один Intel Core i5-14400, але в пакунку знайшов п'ять ідентичних пристроїв. Враховую... [1335 chars]",
+    "url": "https://24tv.ua/tech/yaponskiy-pokupets-amazon-otrimav-pyat-protsesoriv-intel-core_n3111230",
+    "image": "https://24tv.ua/resources/photos/news/202607/3111230.jpg?v=1784885374000&w=1200&h=675",
+    "publishedAt": "2026-07-24T13:01:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "e737a8e76b161ef4526698e2ec5f60c9",
+      "name": "24 Канал",
+      "url": "https://24tv.ua"
+    }
+  },
+  {
+    "id": "7535d0c19b38ed7c443b14cc6ec6d02f",
+    "title": "ENVO створила універсальний електромобіль-конструктор 18-в-1 за ціною від $8000",
+    "description": "ENVO представила модульну платформу UPT, яку можна зібрати у 18 різних транспортних засобів. Ціна становитиме від 8000 до 12000 доларів, поставки стартують у 2027 році.",
+    "content": "Канадська компанія ENVO Drive Systems представила нову модульну електричну платформу Utility Personal Transporter (UPT). Виробник пропонує незвичний підхід: замість купівлі різних транспортних засобів для окремих завдань користувач отримує єдину плат... [2811 chars]",
+    "url": "https://itc.ua/ua/novini/envo-universalnyj-elektromobil-konstruktor-18-1/",
+    "image": "https://cdn.itc.ua/uploads/2026/07/image-60.jpg",
+    "publishedAt": "2026-07-24T11:12:01Z",
+    "lang": "uk",
+    "source": {
+      "id": "391d17d071b755a4bda37c1b43f47c2c",
+      "name": "ITC.ua",
+      "url": "https://itc.ua"
+    }
+  },
+  {
+    "id": "10d9d550545a1f45084f9503891f6302",
+    "title": "Reckitt продасть російський бізнес із виробництва гігієнічних товарів місцевій групі \"Арнест\"",
+    "description": "Британська компанія Reckitt Benckiser домовилася про продаж свого російського підрозділу місцевому виробнику споживчих товарів — групі «Арнест». Угода є",
+    "content": "Британська компанія Reckitt Benckiser домовилася про продаж свого російського підрозділу місцевому виробнику споживчих товарів — групі «Арнест». Угода є частиною подальшого скорочення присутності компанії на російському ринку.\nДо складу активів, які ... [667 chars]",
+    "url": "https://donpatriot.news/reckitt-prodast-rosijskyj-biznes-iz-vyrobnycztva-gigiyenichnyh-tovariv-misczevij-grupi-arnest",
+    "image": "https://donpatriot.news/wp-content/uploads/2026/07/znimok-ekrana-2026-07-24-o-11.27.46.jpg",
+    "publishedAt": "2026-07-24T10:25:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "556066753a7a30eb0619823360acdde4",
+      "name": "Патріот Донбасу",
+      "url": "https://donpatriot.news"
+    }
+  },
+  {
     "id": "36690df53bf8f92dba6c5554f5ba4b08",
     "title": "Front-end просідає, а DefTech росте",
     "description": "C++ зростає, фронтенд просідає, а конкуренція за нові офери б’є рекорди. У новому випуску «Що по ІТ-ринку» дивимось на підсумки другого кварталу та першого півріччя: аналізуємо реальну активність рекрутерів, зарплатні очікування кандидатів і напрямки, які зараз випереджають класичну розробку.",
@@ -87,66 +147,6 @@
       "id": "c5aed81ccfa2363a13757e53d9211b2a",
       "name": "detector.media",
       "url": "https://detector.media"
-    }
-  },
-  {
-    "id": "6deb4348a5e57aeb6e8e70c7510e6aaa",
-    "title": "Акції Tesla та Google різко впали через зростання витрат на розвиток ШІ",
-    "description": "Інвесторів занепокоїли масштабні плани компаній щодо збільшення капітальних вкладень в інфраструктуру ШІ, попри сильні фінансові показники окремих напрямків бізнесу.",
-    "content": "Інвесторів занепокоїли масштабні плани компаній щодо збільшення капітальних вкладень в інфраструктуру ШІ, попри сильні фінансові показники окремих напрямків бізнесу.\nАкції Tesla та Alphabet, материнської компанії Google, різко подешевшали після того,... [1594 chars]",
-    "url": "https://ua.korrespondent.net/business/companies/4896740-aktsii-Tesla-ta-Google-rizko-vpaly-cherez-zrostannia-vytrat-na-rozvytok-shi",
-    "image": "https://kor.ill.in.ua/m/1260x900/4506566.jpg",
-    "publishedAt": "2026-07-23T18:33:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "5f3893b2bdd83721567eef82ac0a6d2e",
-      "name": "Korrespondent.net",
-      "url": "https://ua.korrespondent.net"
-    }
-  },
-  {
-    "id": "7e261e2762728bb9acdbdd18d7bb0944",
-    "title": "Китайська Geely домовилася про використання заводу Ford в Іспанії",
-    "description": "Китайський автовиробник випускатиме електромобілі на заводі Ford у Валенсії. Локальне складання дозволить компанії уникнути європейських мит на китайські електромобілі.",
-    "content": "Китайський автовиробник випускатиме електромобілі на заводі Ford у Валенсії. Локальне складання дозволить компанії уникнути європейських мит на китайські електромобілі.\nGeely досягла угоди з Ford про виробництво автомобілів на одній зі складальних лі... [1786 chars]",
-    "url": "https://ua.korrespondent.net/business/auto/4896737-kytaiska-Geely-domovylasia-pro-vykorystannia-zavodu-Ford-v-ispanii",
-    "image": "https://kor.ill.in.ua/m/1260x900/4506548.jpg",
-    "publishedAt": "2026-07-23T18:19:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "5f3893b2bdd83721567eef82ac0a6d2e",
-      "name": "Korrespondent.net",
-      "url": "https://ua.korrespondent.net"
-    }
-  },
-  {
-    "id": "0d99f6a81061d5a5860761a95826ea76",
-    "title": "В Україні освоїли відновлювальний ремонт двигунів Detroit Diesel самохідних гаубиць M109, контроль здійснюється унікальним динамометричним стендом",
-    "description": "Виробничо-інжинірингова група GROUND FORCE освоїла технологію відновлювального ремонту силових установок Detroit Diesel 8V71T 155-мм самохідних артилерійських установок M109, кожен двигун проходить повний цикл стендових випробувань на власному динамометричному стенді відповідно до методик і вимог виробника",
-    "content": "Українська група компаній GROUND FORCE, на потребу Сил оборони, опанувала та здійснює відновлювальний ремонт американських дизельних двигунів Detroit Diesel 8V71T, що використовуються на окремих модифікаціях 155-мм самохідних артилерійських установок... [5281 chars]",
-    "url": "https://defence-ua.com/news/v_ukrajini_osvojili_vidnovljuvalnij_remont_dviguniv_detroit_diesel_samohidnih_gaubits_m109_kontrol_zdijsnjujetsja_unikalnim_dinamometrichnim_stendom-23740.html",
-    "image": "https://defence-ua.com/media/illustration/articles/fb46a621b4c4f5ce.jpg",
-    "publishedAt": "2026-07-23T17:34:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "f488af954cb509cbacccbd34e7f47985",
-      "name": "Defense Express",
-      "url": "https://defence-ua.com"
-    }
-  },
-  {
-    "id": "5a1b5070ef6e6d4dcbf0d2bde368a73a",
-    "title": "Випускниця з Китаю отримала найвищий бал на одному з найскладніших іспитів у світі - гаокао - фото",
-    "description": "18-річна випускниця з села провінції Хенань (Китай) Хань Япін отримала 699 балів із 750 на одному з найскладніших іспитів у світі – гаокао. Це найвищий результат на вступному екзамені до коледжу цього року.",
-    "content": "18-річна випускниця з села провінції Хенань (Китай) Хань Япін отримала 699 балів із 750 на одному з найскладніших іспитів у світі – гаокао. Це найвищий результат на вступному екзамені до коледжу цього року.\nЗавдяки цьому досягненню два провідних закл... [3957 chars]",
-    "url": "https://shkola.obozrevatel.com/ukr/news/zhive-v-seli-j-ne-mae-smartfona-vipusknitsya-z-kitayu-otrimala-najvischij-bal-na-odnomu-z-najskladnishih-ispitiv-u-sviti-foto.htm",
-    "image": "https://i.obozrevatel.com/news/2026/7/23/filestoragetemp6.jpeg?size=1200x630",
-    "publishedAt": "2026-07-23T16:30:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "f946202799e608090613c6fab7c92aa5",
-      "name": "Obozrevatel",
-      "url": "https://shkola.obozrevatel.com"
     }
   }
 ]
