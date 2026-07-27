@@ -1,5 +1,20 @@
 [
   {
+    "id": "d8abbb8118d9bad1a2b240ad7291e2ed",
+    "title": "Tesla Cybertruck, ймовірно, стане найбільшим провалом в історії автопрому США, - ЗМІ",
+    "description": "Пікап Tesla Cybertruck, на який Ілон Маск покладав великі надії, може стати найганебнішим провалом в автоіндустрії США - читайте докладно в матеріалі УНІАН",
+    "content": "Електричний пікап Tesla Cybertruck, який глава компанії Ілон Маск позиціонував як революційний автомобіль, може виявитися одним із найбільших комерційних провалів в історії автомобільної індустрії. Про це пише видання Futurism.\nЯк зазначає видання, п... [2689 chars]",
+    "url": "https://www.unian.ua/economics/auto/tesla-cybertruck-ymovirno-stane-naybilshim-provalom-v-istoriji-avtopromu-ssha-zmi-13452156.html",
+    "image": "https://images.unian.net/photos/2020_08/thumb_files/620_324_1596608383-5675.jpg?1",
+    "publishedAt": "2026-07-26T23:33:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "d4361862486677369ff2ae7719b8d313",
+      "name": "УНІАН",
+      "url": "https://www.unian.ua"
+    }
+  },
+  {
     "id": "5ce5ea7b9c49cec0d05675dbc8524bb6",
     "title": "огляд та проблеми",
     "description": "Детальний огляд усіх чотирьох поколінь Hyundai Tucson на вторинному ринку. Переваги, недоліки, надійність моторів, поради щодо вибору найкращої версії - Авто24",
@@ -132,21 +147,6 @@
       "id": "391d17d071b755a4bda37c1b43f47c2c",
       "name": "ITC.ua",
       "url": "https://itc.ua"
-    }
-  },
-  {
-    "id": "8e3d70ecbeefbc16e97cc7d3963ac21c",
-    "title": "Starship успішно виконав 13-й політ: перші супутники Starlink V3 на орбіті та найм'якіше приводнення в історії",
-    "description": "SpaceX провела тринадцятий випробувальний політ ракетної системи Starship — старт відбувся 24 липня о 17:45 за центральним часом США з майданчика Pad 2 на майданчику Starbase у Техасі (близько 01:45 25 липня за київським часом). Уся місія тривала приблизно 65 хвилин.",
-    "content": "SpaceX провела тринадцятий випробувальний політ ракетної системи Starship — старт відбувся 24 липня о 17:45 за центральним часом США з майданчика Pad 2 на майданчику Starbase у Техасі (близько 01:45 25 липня за київським часом). Уся місія тривала при... [2981 chars]",
-    "url": "https://mezha.ua/news/starship-uspishno-vikonav-13-y-polit-pershi-suputniki-starlink-v3-na-orbiti-ta-naym-yakishe-privodnennya-v-istoriji-313582/",
-    "image": "https://img.mezha.ua/mezha/images/doc/6/9/319111/69f5d832f3243f49bd6deeb3c170d639.jpeg?w=1200&q=85&stamp=1784969658",
-    "publishedAt": "2026-07-25T09:00:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "6b0257d31504a630dde7752eed4e1e39",
-      "name": "Mezha",
-      "url": "https://mezha.ua"
     }
   }
 ]
