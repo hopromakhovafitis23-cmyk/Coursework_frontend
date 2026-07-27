@@ -1,5 +1,20 @@
 [
   {
+    "id": "5ce5ea7b9c49cec0d05675dbc8524bb6",
+    "title": "огляд та проблеми",
+    "description": "Детальний огляд усіх чотирьох поколінь Hyundai Tucson на вторинному ринку. Переваги, недоліки, надійність моторів, поради щодо вибору найкращої версії - Авто24",
+    "content": "Однак, за широким вибором на вторинному ринку ховаються суттєві підводні камені – від специфічних проблем із бензиновими двигунами до нюансів складних роботизованих трансмісій та корозійної стійкості. Детально розберемо особливості кожної генерації H... [8940 chars]",
+    "url": "https://24tv.ua/auto/yake_pokolinnia_hyundai_tucson_ye_naikrashchym_vyborom_na_vtorynnomu_rynku_detalnyi_ohliad_perevahy_ta_problemy_n74231",
+    "image": "https://24tv.ua/auto/resources/photos/news/202607/74231183d9dfa-6c9c-4ae7-a628-bcc935320848.jpg",
+    "publishedAt": "2026-07-26T15:30:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "e737a8e76b161ef4526698e2ec5f60c9",
+      "name": "24 Канал",
+      "url": "https://24tv.ua"
+    }
+  },
+  {
     "id": "1474a8b61c4410bf316863aecacf7d10",
     "title": "Meta витратить $145 мільярдів на ШІ. Що чекає на компанію?",
     "description": "Meta Platforms ризикує зафіксувати дефіцит грошового потоку через рекордні витрати на ШІ-інфраструктуру у $145 млрд. Аналітики побоюються повторення сценарію Alphabet. 26 липня 2026",
@@ -132,21 +147,6 @@
       "id": "6b0257d31504a630dde7752eed4e1e39",
       "name": "Mezha",
       "url": "https://mezha.ua"
-    }
-  },
-  {
-    "id": "154bb3ee7aff3d911e51378a29de065b",
-    "title": "чому угода з Dexter Shoe стала провалом",
-    "description": "Уоррен Баффет назвав купівлю Dexter Shoe своєю найгіршою інвестицією. Пояснюємо, чому ця угода коштувала Berkshire Hathaway близько 3,5 мільярда доларів - Інвестиції.",
-    "content": "Чому Баффет купив Dexter Shoe\nУ 1993 році холдинг Berkshire Hathaway придбав американського виробника взуття Dexter Shoe, розповідає Investing.com. На той момент компанія вважалася успішним бізнесом із сильною репутацією, стабільними прибутками та ко... [1539 chars]",
-    "url": "https://financy.24tv.ua/investment24/naydorozhcha-pomilka-baffeta-chomu-ugoda-dexter-shoe-stala-provalom_n3111550",
-    "image": "https://24tv.ua/resources/photos/news/202607/3111550.jpg?v=1784903708000&w=1200&h=675",
-    "publishedAt": "2026-07-25T04:00:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "e13bcd14a7bd08edb7ba7e9f6c802b40",
-      "name": "Фінанси 24",
-      "url": "https://financy.24tv.ua"
     }
   }
 ]
