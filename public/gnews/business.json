@@ -1,5 +1,20 @@
 [
   {
+    "id": "a37e36aa6f9c8820c7362172c0fcbd89",
+    "title": "Samsung Galaxy S25 Ultra та S24 Ultra почали швидко розряджатися та грітися після липневого оновлення",
+    "description": "Власники Samsung Galaxy S25 Ultra та Galaxy S24 Ultra повідомляють про швидкий розряд батареї, перегрів і повільніше заряджання після встановлення липневого оновлення безпеки.",
+    "content": "Власники смартфонів Samsung Galaxy S25 Ultra та Galaxy S24 Ultra почали масово скаржитися на проблеми з автономністю після встановлення липневого оновлення безпеки. Замість покращення роботи пристроїв, як очікувалося, частина користувачів зіткнулася ... [2087 chars]",
+    "url": "https://itc.ua/ua/novini/samsung-galaxy-s25-ultra-ta-s24-ultra-onovlennya/",
+    "image": "https://cdn.itc.ua/uploads/2026/07/Depositphotos_710142038_L.jpg",
+    "publishedAt": "2026-07-29T06:52:47Z",
+    "lang": "uk",
+    "source": {
+      "id": "391d17d071b755a4bda37c1b43f47c2c",
+      "name": "ITC.ua",
+      "url": "https://itc.ua"
+    }
+  },
+  {
     "id": "956b986b7b1e4e03e84c58aec3af2a9e",
     "title": "Платформа X запустила власний фінансовий сервіс",
     "description": "Сервіс X Money дозволяє зберігати кошти на депозитних рахунках, відправляти p2p-платежі, сплачувати рахунки, переказувати гроші банківським переказом та відправляти чеки поштою.",
@@ -132,21 +147,6 @@
       "id": "6028444ee1303e4577f50406a4c7988e",
       "name": "Minfin.com.ua",
       "url": "https://minfin.com.ua"
-    }
-  },
-  {
-    "id": "d1ac8e281a40f7dbd3f3b1d8cbbe9998",
-    "title": "ASML, посунься: Китай розпочав власне виробництво установок DUV-літографії",
-    "description": "Як повідомляє The Information, китайська держкомпанія з Шанхаю почала масове виробництво установок DUV-літографії з імерсійним випроміненням.",
-    "content": "Як повідомляє The Information, китайська держкомпанія з Шанхаю почала масове виробництво установок DUV-літографії з імерсійним випроміненням.\nОчікується, що перші установки отримають вже в цьому році компанії SMIC, Hua Hong Semiconductor та виробник ... [2829 chars]",
-    "url": "https://itc.ua/ua/novini/asml-posunsya-kytaj-rozpochav-vlasne-vyrobnytstvo-ustanovok-duv-litografiyi/",
-    "image": "https://cdn.itc.ua/uploads/2026/07/asm6-1.jpg",
-    "publishedAt": "2026-07-28T11:21:10Z",
-    "lang": "uk",
-    "source": {
-      "id": "391d17d071b755a4bda37c1b43f47c2c",
-      "name": "ITC.ua",
-      "url": "https://itc.ua"
     }
   }
 ]
