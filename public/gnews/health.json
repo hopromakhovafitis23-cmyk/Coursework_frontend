@@ -1,5 +1,20 @@
 [
   {
+    "id": "79d765572a4acb3dc8432ed2bd25e02b",
+    "title": "Якою олією краще заправляти салати",
+    "description": "Різні олії містять різну кількість ненасичених жирів, антиоксидантів та інших сполук, більш чи менш корисних для здоров'я. Дієтологиня назвала 5 найкорисніших.",
+    "content": "Приготувати домашню заправку для салату - один із найпростіших способів зробити страву смічнішою і кориснішою. Але при цьому важливо знати, яку олію найкраще використовувати. Про це на шпальтах Verywell Health пише магістерка наук, зареєстрована дієт... [4383 chars]",
+    "url": "https://www.unian.ua/health/yakoyu-oliyeyu-krashche-zapravlyati-salati-diyetologinya-sklala-spisok-5-naykorisnishih-13453971.html",
+    "image": "https://images.unian.net/photos/2025_05/thumb_files/620_324_1746769664-4556.jpg?1",
+    "publishedAt": "2026-07-28T21:41:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "d4361862486677369ff2ae7719b8d313",
+      "name": "УНІАН",
+      "url": "https://www.unian.ua"
+    }
+  },
+  {
     "id": "8662434405a566f1eda42f3d8d54e224",
     "title": "Які звички після 60 років прискорюють старіння",
     "description": "Експерти пояснили, які щоденні звички після 60 років шкодять здоров'ю, прискорюють старіння та підвищують ризик серйозних хвороб.",
@@ -120,33 +135,18 @@
     }
   },
   {
-    "id": "b2e05e0f651e14facc307b2bc3c07d73",
-    "title": "Вірусні гепатити на Черкащині",
-    "description": "Маєте печінку – ви групі ризику. На Черкащині фіксують вірусні гепатити. Останні новини Черкащини на сайті cherkasy.info.",
-    "content": "Станом на 1 липня у Черкаській області зареєстровано 4 випадки захворювання на гострий вірусний гепатит В та 6 випадків захворювання на гострий гепатит С. Вірусний гепатит А у І півріччі 2026 року не реєструвався.\nПро це повідомили 28 липня в Черкась... [4324 chars]",
-    "url": "https://cherkasy.info/article/mayete-pechinku-vy-hrupi-ryzyku-na-cherkashchyni-fiksuyut-virusni-hepatyty",
-    "image": "https://ukrinfo-data.s3.amazonaws.com/media/501766/Screenshot_26.jpg",
-    "publishedAt": "2026-07-28T07:44:00Z",
+    "id": "80b3205b4b46ef24d1731f5dee12221d",
+    "title": "Безплатна вакцинація проти ВПЛ на Житомирщині: щеплення отримали не всі дівчата",
+    "description": "На Житомирщині безплатну вакцинацію проти ВПЛ отримали лише 18,2% 12-річних та 31,5% 13-річних дівчат.",
+    "content": "Від початку 2026 року в Житомирській області безплатне щеплення проти вірусу папіломи людини (ВПЛ) отримали 1168 дівчат віком 12 років та 2013 дівчат віком 13 років. Показники охоплення поки що залишаються значно нижчими за заплановані. Про це у відп... [1718 chars]",
+    "url": "https://subota.online/bezplatna-vaktsynatsiia-proty-vpl-na-zhytomyrshchyni-shcheplennia-otrymaly-ne-vsi-divchata/",
+    "image": "https://subota.online/wp-content/uploads/2026/07/Bezplatna-vaktsynatsiia-proty-VPL-na-Zhytomyrshchyni-optimized.png",
+    "publishedAt": "2026-07-28T09:00:49Z",
     "lang": "uk",
     "source": {
-      "id": "5e75afcb8936fba21a618477e2b56083",
-      "name": "cherkasy.info",
-      "url": "https://cherkasy.info"
-    }
-  },
-  {
-    "id": "e1b12d75a6bb14c7d8a33fbd117cfa38",
-    "title": "Майже 2 тисячі доз вакцин доставили до медзакладів Кіровоградщини",
-    "description": "Медзаклади Голованівського та Новоукраїнського районів отримали майже 2 тисячі доз вакцин проти інфекційних хвороб | Новини Кропивницького та Кіровоградщини",
-    "content": "До закладів охорони здоров’я Голованівського та Новоукраїнського районів доставили майже 2 тисячі доз вакцин для профілактики низки інфекційних захворювань.\nПро це інформує Перша електронна газета з посиланням на Кіровоградський обласний центр контро... [835 chars]",
-    "url": "https://persha.kr.ua/news/life/284384-majzhe-2-tysyachi-doz-vakczyn-dostavyly-do-medzakladiv-kirovogradshhyny/",
-    "image": "https://persha.kr.ua/wp-content/uploads/2022/02/vaktsyna5-scaled.jpg",
-    "publishedAt": "2026-07-28T07:08:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "d5a13588e622894fc83e601e7b8f4104",
-      "name": "Перша електронна газета",
-      "url": "https://persha.kr.ua"
+      "id": "eb8ffa23bb071a1e9fafd6204bb6f68b",
+      "name": "Субота Онлайн",
+      "url": "https://subota.online"
     }
   }
 ]
