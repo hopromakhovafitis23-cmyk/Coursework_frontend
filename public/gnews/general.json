@@ -1,27 +1,117 @@
 [
   {
-    "id": "2ea903c6191a5e3628e519fd4bd9e56c",
-    "title": "Супутник Link для порятунку телескопа Swift вийшов з ладу на орбіті",
-    "description": "NASA та компанія Katalyst намагаються стабілізувати супутник Link через поломку реакційних коліс. Рятувальна місія за 30 мільйонів доларів під загрозою зриву.",
-    "content": "Космічний дрейф замість стикування\nПерші проблеми з орієнтуванням апарата Link, який розробила компанія Katalyst Space Technologies, з'явилися минулими вихідними. Через збій у системі керування зв'язок із супутником став спорадичним, а сам він почав ... [2378 chars]",
-    "url": "https://24tv.ua/tech/suputnik-link-dlya-poryatunku-teleskopa-swift-viyshov-ladu-orbiti_n3113742",
-    "image": "https://24tv.ua/resources/photos/news/202607/3113742.jpg?v=1785306922000&w=1200&h=675",
-    "publishedAt": "2026-07-29T06:49:00Z",
+    "id": "1b3152bf43ce0a6de004465a39e238ad",
+    "title": "Розвідка оцінила ризик наземної операції США в Ірані",
+    "description": "Можлива операція США може постати перед повітряними ударами та складними географічними умовами, попереджають аналітики.",
+    "content": "Можлива операція США може постати перед повітряними ударами та складними географічними умовами, попереджають аналітики.\nПакистанські спецслужби оцінюють як дедалі більш імовірний сценарій обмеженої наземної операції США в Ірані. Про це пише Bild.\nОці... [1447 chars]",
+    "url": "https://ua.korrespondent.net/world/4898313-rozvidka-otsinyla-ryzyk-nazemnoi-operatsii-ssha-v-irani",
+    "image": "https://kor.ill.in.ua/m/1260x900/4512472.jpg",
+    "publishedAt": "2026-07-29T14:03:00Z",
     "lang": "uk",
     "source": {
-      "id": "e737a8e76b161ef4526698e2ec5f60c9",
-      "name": "24 Канал",
-      "url": "https://24tv.ua"
+      "id": "5f3893b2bdd83721567eef82ac0a6d2e",
+      "name": "Korrespondent.net",
+      "url": "https://ua.korrespondent.net"
     }
   },
   {
-    "id": "f6d5ac193e7ad2f1b626e5fcc4794e39",
-    "title": "Удари по РФ 29 липня",
-    "description": "Українські дрони завдали удару по російській Рязані: після вибухів горять НПЗ і склад Wildberries - усі деталі, фото відео ᐅTSN.ua(новини 1+1)",
-    "content": "Доповнено додатковими матеріалами\nВночі і зранку 29 липня українські БпЛА атакували в Росії місто Рязань. За повідомленнями місцевих пабліків, атаковано потрапили нафтопереробний завод і склад маркетплейса Wildberries. Водночас Москва та Московська о... [1363 chars]",
-    "url": "https://tsn.ua/svit/riazan-rozryvaiut-vybukhy-nad-skladom-wildberries-ta-npz-stovpy-dymu-zachepylo-i-moskvu-video-3137777.html",
-    "image": "https://img.tsn.ua/cached/111/tsn-51cb131e/thumbs/1200x630/6a/da/fd3019825dadc1a832a7f8743c4cda6a.jpg",
-    "publishedAt": "2026-07-29T06:37:05Z",
+    "id": "83e2f25b406598c586a18b572ce5a1e4",
+    "title": "Зеленський прибув до Польщі вперше після скандалу з орденом",
+    "description": "Український президент Володимир Зеленський 29 липня прибув до Польщі, де проведе переговори із прем'єр-міністром країни Дональдом Туском. Подробиці - на УНІАН.",
+    "content": "Президент України Володимир Зеленський перебув до Польщі. У середу, 29 липня, в Любліні він проведе зустріч із прем'єр-міністром Дональдом Туском. Про це повідомляє TVP Info.\nКанцелярія Туска у мережі Х анонсувала його переговори з українським презид... [2320 chars]",
+    "url": "https://www.unian.ua/politics/zelenskiy-pribuv-do-polshchi-vpershe-pislya-skandalu-z-ordenom-13455225.html",
+    "image": "https://images.unian.net/photos/2025_12/thumb_files/620_324_1766934628-9874.jpg?1",
+    "publishedAt": "2026-07-29T13:57:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "d4361862486677369ff2ae7719b8d313",
+      "name": "УНІАН",
+      "url": "https://www.unian.ua"
+    }
+  },
+  {
+    "id": "d12d0edcc3684033b4ee132668fc1ef4",
+    "title": "\"Виб'ємо з них усе лайно\": Трамп жорстко пригрозив Ірану після атаки",
+    "description": "Американський лідер різко прокоментував обстріл військових з боку Тегерана. Трейдери побоюються ескалації на Близькому Сході, через що Brent коштує понад 90$.",
+    "content": "Президент США Дональд Трамп гостро прокоментував ракетний удар Ірану по американських військових і пообіцяв Тегерану сувору відплату. Це сталось на ефір Fox News, кадри якого оприлюднив журналіст Ерік Догерті у соцмережі X.\nТак, у ніч на середу, 29 л... [1690 chars]",
+    "url": "https://www.unian.ua/world/tramp-osobisto-pobachiv-kadr-ataki-iranu-ta-gostro-prigroziv-tegeranu-potuzhnim-udarom-13455210.html",
+    "image": "https://images.unian.net/photos/2026_07/thumb_files/620_324_1783680121-6591.jpg?1",
+    "publishedAt": "2026-07-29T13:51:43Z",
+    "lang": "uk",
+    "source": {
+      "id": "d4361862486677369ff2ae7719b8d313",
+      "name": "УНІАН",
+      "url": "https://www.unian.ua"
+    }
+  },
+  {
+    "id": "7d0f5ca4ae9c71d93243d6b38e06a5cb",
+    "title": "Україну накриває антициклон: чого чекати від погоди завтра і коли вдарить спека до +37",
+    "description": "На погоду в Україні найближчим часом впливатиме антициклон. Вже завтра повітря місцями відчутно прогріється, тоді як пізніше стовпчики термометрів в о...",
+    "content": "16:42 29.07.2026 Ср\n3 хв\nДощі відступають, але без небезпечних \"сюрпризів\" у деяких областях не обійдеться\nВ Україну повертається літня спека (фото ілюстративне: Getty Images)\nНа погоду в Україні найближчим часом впливатиме антициклон. Вже завтра пов... [3865 chars]",
+    "url": "https://www.rbc.ua/rus/news/ukrayinu-nakrivae-antitsiklon-chogo-chekati-1785332002.html",
+    "image": "https://www.rbc.ua/static/img/_/s/_speka_lyudi_oholodzhuyutsya_para_ide_skverom_lavki_dereva_trava_speka_pogoda_kiyiv_lito_2024_gettyimages_2161238741_067b9bcee4d7380e17067c05ee22af52_1300x820.jpg",
+    "publishedAt": "2026-07-29T13:42:04Z",
+    "lang": "uk",
+    "source": {
+      "id": "6f1ead09126f1f4738a48957e22f789c",
+      "name": "РБК-Україна",
+      "url": "https://www.rbc.ua"
+    }
+  },
+  {
+    "id": "8490b9ae517e65a0f0eab50f3896bab8",
+    "title": "представлено найбільший кросовер в історії бренду",
+    "description": "Audi представила новий флагманський кросовер Q9. За офіційною інформацією виробника, він став найбільшим автомобілем такого типу в історії бренду.",
+    "content": "Компанія Audi представила новий флагманський кросовер Q9, який став найбільшим автомобілем такого типу в історії німецького бренду. Про це виробник повідомив на своєму сайті.\nДовжина кросовера становить 5310 мм, ширина – 2210 мм, а висота – 1810 мм.\n... [3573 chars]",
+    "url": "https://www.unian.ua/economics/auto/audi-q9-predstavleno-naybilshiy-krosover-v-istoriji-brendu-13455180.html",
+    "image": "https://images.unian.net/photos/2026_07/thumb_files/620_324_1785330959-3886.jpg?1",
+    "publishedAt": "2026-07-29T13:31:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "d4361862486677369ff2ae7719b8d313",
+      "name": "УНІАН",
+      "url": "https://www.unian.ua"
+    }
+  },
+  {
+    "id": "44a3314a42c51f37cd866190a1a958e4",
+    "title": "Перший візит після загострення відносин: Зеленський прибув до Польщі",
+    "description": "У середу, 29 липня, Володимир Зеленський прибув із візитом до Польщі. Подробиці візиту президента України Володимира Зеленського до Польщі – читайте на сайті Факти ICTV",
+    "content": "Президент України Володимир Зеленський дорогою зі Сполучених Штатів прибув до польського Любліна.\nДорогою зі США Зеленський прибув до Польщі\nЛітак президента України прилетів до польського Любліна.\nПрибуття Зеленського польські медіа показували у пря... [1414 chars]",
+    "url": "https://fakty.com.ua/ua/svit/20260729-pershij-vizit-pislya-zagostrennya-vidnosin-zelenskij-pribuv-do-polshhi/",
+    "image": "https://fakty.com.ua/wp-content/uploads/2024/10/28/zelenskyj-shodyt-z-litaka-768x432.jpg",
+    "publishedAt": "2026-07-29T13:27:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "10828aeaae724c71000c1326d888e604",
+      "name": "Факти ICTV",
+      "url": "https://fakty.com.ua"
+    }
+  },
+  {
+    "id": "1ae0cfb6d91982b59df3d19d69887537",
+    "title": "Війна в Україні стала ближчою до завершення через удари по Wildberries",
+    "description": "Українські удари по маркетплейсу Wildberries в Росії завдають прямої шкоди не лише економіці агресора, але і його армії - читайте докладно в матеріалі УНІАН",
+    "content": "Україна завдала серії ударів по логістичних центрах найбільшого російського маркетплейса Wildberries, який відіграє значно важливішу роль у забезпеченні російської армії, ніж може здатися на перший погляд. Про це в статті для Foreign Policy пише росі... [2845 chars]",
+    "url": "https://www.unian.ua/war/udari-po-wildberries-prokladut-shlyah-do-porazki-rosiji-foreign-policy-13455123.html",
+    "image": "https://images.unian.net/photos/2026_07/thumb_files/620_324_1785330462-4714.jpg?1",
+    "publishedAt": "2026-07-29T13:12:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "d4361862486677369ff2ae7719b8d313",
+      "name": "УНІАН",
+      "url": "https://www.unian.ua"
+    }
+  },
+  {
+    "id": "095606ad223796ec57963aa85a0902db",
+    "title": "Чому загинули динозаври: нові висновки науковців",
+    "description": "Вчені з'ясували, що після падіння астероїда динозаврів могла знищити смертельна спека, а не похолодання. Дізнайтеся більше ᐅТSN.ua (новини 1+1)",
+    "content": "Динозаври загинули в пекельній «печі», створеній гарячою хмарою пилу після удару астероїда об Землю 66 мільйонів років тому. До такого висновку дійшли науковці з Університету Пердью, коли закінчили досліджувати глобальні наслідки тієї катастрофи. Так... [3143 chars]",
+    "url": "https://tsn.ua/nauka_it/vse-shcho-ne-skhovalosia-zapeklosia-vcheni-poiasnyly-iak-naspravdi-zahynuly-dynozavry-3138176.html",
+    "image": "https://img.tsn.ua/cached/471/tsn-1284f5ef/thumbs/1200x630/7b/38/920a172bf51a15acfab501ee711a387b.jpg",
+    "publishedAt": "2026-07-29T13:08:52Z",
     "lang": "uk",
     "source": {
       "id": "ae8b9c98d707754fca5e1ea622855c50",
@@ -30,123 +120,33 @@
     }
   },
   {
-    "id": "769bb6112fc8e67af296385300875d13",
-    "title": "Оля Полякова не витримала хейту через виступ у Юрмалі та огризнулася на українців",
-    "description": "Українська співачка Оля Полякова, яка після виступу на фестивалі Лайми Вайкуле в Юрмалі опинилася під шквалом критики через спільний ролик із російським співаком Сергієм Григор'євим-Апполоновим (Grey Wiese) та після спілкування там російською ...",
-    "content": "Українська співачка Оля Полякова, яка після виступу на фестивалі Лайми Вайкуле в Юрмалі опинилася під шквалом критики через спільний ролик із російським співаком Сергієм Григор'євим-Апполоновим (Grey Wiese) та після спілкування там російською мовою, ... [1790 chars]",
-    "url": "https://www.obozrevatel.com/ukr/shou-oboz/polyakova-ne-vitrimala-masovogo-hejtu-cherez-vistup-u-yurmali-ta-ogriznulasya-na-ukraintsiv.htm",
-    "image": "https://i.obozrevatel.com/news/2026/5/26/dorogenki-divilis-vchora-yuvilejnij-sezon-ligi-smihu-na-tettvyak-vam-m.jpg?size=1200x630",
-    "publishedAt": "2026-07-29T06:29:00Z",
+    "id": "4e739d352751b6380b438242933691da",
+    "title": "Kavinsky помер: що відомо про смерть французького діджея",
+    "description": "Помер французький діджей Kavinsky у віці 50 років. Подробиці смерті Kavinsky – французького діджея – на фактах ICTV",
+    "content": "У середу, 29 липня, у Парижі знайшли мертвим відомого французького електронного музиканта та діджея Kavinsky (Кавінскі). Справжнє ім’я артиста — Венсан Белорже. Йому було 50 років.\nДіджей Kavinsky помер: що відомо\nТіло Венсана Белорже виявили у його ... [868 chars]",
+    "url": "https://fakty.com.ua/ua/styl-zhyttia/show/20260729-didzheya-kavinsky-avtora-hita-nightcall-iz-filmu-drajv-znajshly-mertvym-u-paryzhi/",
+    "image": "https://fakty.com.ua/wp-content/uploads/2026/07/29/didzhej-Kavinski-649x432.jpg",
+    "publishedAt": "2026-07-29T13:03:00Z",
     "lang": "uk",
     "source": {
-      "id": "ca149ffefb31c86f82d7f299d744af59",
-      "name": "Obozrevatel",
-      "url": "https://www.obozrevatel.com"
+      "id": "10828aeaae724c71000c1326d888e604",
+      "name": "Факти ICTV",
+      "url": "https://fakty.com.ua"
     }
   },
   {
-    "id": "54d7c7e7fa54d9ea3934769e927046f8",
-    "title": "Іран міг вдарити по Україні",
-    "description": "Іран готував атаку по Україні, але західні посадовці попередили Тегеран, що передбачити реакцію України буде важко - NYT розкрила деталі ᐅTSN.ua(новини 1+1)",
-    "content": "Доповнено додатковими матеріалами\nІран розглядав можливість завдання удару по морському порту в Україні. Вона мала мати невелику бойову частину, щоб не завдати суттєвої шкоди.\nПро це повідомляє The New York Times з посиланням на іранських та західних... [2295 chars]",
-    "url": "https://tsn.ua/ukrayina/iran-hotuvav-balistychnyy-udar-po-ukrayini-shokuvalni-detali-3137807.html",
-    "image": "https://img.tsn.ua/cached/200/tsn-1284f5ef/thumbs/1200x630/d9/ae/d25b3d0571834a47ff7bf4cda613aed9.jpg",
-    "publishedAt": "2026-07-29T06:17:12Z",
+    "id": "d12d650c89f78615bb6204f3f644d839",
+    "title": "У ЗСУ розпочалися глобальні перевірки всіх військових частин",
+    "description": "У ЗСУ розпочато перевірку комплектування частин та справедливості розподілу особового складу. Деталі про мету аудиту та рішення Генштабу.",
+    "content": "У Збройних Силах України стартувала комплексна перевірка укомплектованості військових частин та принципів розподілу особового складу.\nПро це повідомляє Генштаб ЗСУ.\nПеревірка охоплює бригади, полки та корпуси, а її головна мета — оцінити реальну ситу... [1004 chars]",
+    "url": "https://texty.org.ua/fragments/117974/u-zsu-rozpochalysya-hlobalni-perevirky-vsix-vijskovyx-chastyn/",
+    "image": "https://texty.org.ua/media/images/750977425_903070639524705_3219603.2e16d0ba.fill-1200x630.jpg",
+    "publishedAt": "2026-07-29T12:44:08Z",
     "lang": "uk",
     "source": {
-      "id": "ae8b9c98d707754fca5e1ea622855c50",
-      "name": "ТСН",
-      "url": "https://tsn.ua"
-    }
-  },
-  {
-    "id": "6a737f62377fd60d91513c1bdd2462ec",
-    "title": "УЄФА може бойкотувати турніри ФІФА",
-    "description": "УЄФА розглядає бойкот чемпіонату світу та клубного чемпіонату світу ФІФА через залучення приватного капіталу та нову структуру FIFA Forward Enterprise",
-    "content": "У відповідь на цю ідею УЄФА розглядає можливість бойкоту турнірів ФІФА, зокрема чемпіонату світу та клубного чемпіонату світу. Про це повідомляє Bloomberg із посиланням на джерело, обізнане з перебігом внутрішніх обговорень в європейській федерації.\n... [1350 chars]",
-    "url": "https://sport.nv.ua/ukr/football/uyefa-mozhe-boykotuvati-turniri-fifa-reakciya-na-plani-shchodo-privatnih-investoriv-50628057.html",
-    "image": "https://static.nv.ua/shared/system/Article/posters/003/334/452/original/5966d59340f77dd399337c5ae2963a1f.jpg?q=85&stamp=20260729090551&f=webp",
-    "publishedAt": "2026-07-29T06:13:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "73c2041a51f44d375d692fa008e6b052",
-      "name": "Sport.nv.ua.",
-      "url": "https://sport.nv.ua"
-    }
-  },
-  {
-    "id": "19fbbe52f7a72083d3a890dde246b556",
-    "title": "Іран уперше після паузи запустив ракети по обʼєктах США на Близькому Сході",
-    "description": "Уночі 29 липня Іран запустив балістичні ракети по американських обʼєктах на Близькому Сході. У відповідь США та Саудівська Аравія атакували цілі в Іраку, пов’язані з Іраном.",
-    "content": "Уночі 29 липня Іран запустив балістичні ракети по американських обʼєктах на Близькому Сході. У відповідь США та Саудівська Аравія атакували цілі в Іраку, повʼязані з Іраном.\nПро це повідомило Центральне командування США (CENTCOM) у Х.\nТам кажуть, що ... [2132 chars]",
-    "url": "https://babel.ua/news/128935-iran-upershe-pislya-pauzi-zapustiv-raketi-po-ob-yektah-ssha-na-blizkomu-shodi-amerikanci-vdarili-u-vidpovid",
-    "image": "https://babel.ua/static/content/frtlki9g/thumbs/1200x630/b/93/2c1e71c74beab252aee57342d169293b.jpeg?v=1635",
-    "publishedAt": "2026-07-29T06:11:12Z",
-    "lang": "uk",
-    "source": {
-      "id": "d5c141466738ababa5e945e8f8127bbf",
-      "name": "Бабель",
-      "url": "https://babel.ua"
-    }
-  },
-  {
-    "id": "be48b53de913d6187909da7327249ea4",
-    "title": "Apple нарешті створює розумний дім із ШІ: три нові пристрої вийдуть восени, - Марк Гурман",
-    "description": "Apple готує масштабний запуск у сфері розумного дому: новий HomePad із ШІ Siri, оновлені Apple TV та HomePod mini можуть стати основою майбутньої ШІ-екосистеми компанії, яка кине виклик Amazon і Google.",
-    "content": "Амбіції Apple у сфері розумного дому, про які давно ходять чутки, нарешті можуть бути готові до масштабного запуску. За словами Марка Гурмана з Bloomberg, Apple готується представити три нові домашні пристрої протягом найближчих місяців, зокрема розу... [4978 chars]",
-    "url": "https://itc.ua/ua/novini/apple-nareshti-stvoryuye-rozumnyj-dim-iz-shi-try-novi-prystroyi-vyjdut-voseny-mark-gurman/",
-    "image": "https://cdn.itc.ua/uploads/2026/07/Apple-9-5.png",
-    "publishedAt": "2026-07-29T06:00:14Z",
-    "lang": "uk",
-    "source": {
-      "id": "391d17d071b755a4bda37c1b43f47c2c",
-      "name": "ITC.ua",
-      "url": "https://itc.ua"
-    }
-  },
-  {
-    "id": "3810a2ebff478d29ddfd7cd3b4a13423",
-    "title": "Samsung додала \"Мону Лізу\" та інші шедеври Лувру до своїх телевізорів",
-    "description": "Samsung розширила співпрацю з одним із найвідоміших музеїв світу — Лувром. Відтепер власники сумісних телевізорів і дисплеїв компанії можуть переглядати десятки нових творів мистецтва в сервісі ...",
-    "content": "Samsung розширила співпрацю з одним із найвідоміших музеїв світу — Лувром. Відтепер власники сумісних телевізорів і дисплеїв компанії можуть переглядати десятки нових творів мистецтва в сервісі Samsung Art Store, серед яких і легендарна «Мона Ліза» Л... [3511 chars]",
-    "url": "https://vinbazar.com/journal/hi-tech/samsung-dodala-monu-lizu-ta-inshi-shedevri-luvru-do-svoh-televizoriv",
-    "image": "https://vinbazar.com/sites/default/files/imagecache/690x/newfiles/2026-07/samsung_art_store_mona_lisa.jpg",
-    "publishedAt": "2026-07-29T05:41:09Z",
-    "lang": "uk",
-    "source": {
-      "id": "57f875ffd01039f93c3f5898719deb06",
-      "name": "Vinbazar.com",
-      "url": "https://vinbazar.com"
-    }
-  },
-  {
-    "id": "e09f27ccae2c1ff0676eeaabf6b964ef",
-    "title": "Росіяни вночі запустили по Україні 80 дронів",
-    "description": "У ніч проти 29 липня сили ППО знешкодили 65 із 80 російських безпілотників. Зранку Шахеди знову атакували Херсон. Які наслідки.",
-    "content": "У ніч проти 29 липня російські війська запустили по Україні 80 безпілотників різних типів. Сили ППО знешкодили 65 з них.\nПро це повідомляють Повітряні сили ЗСУ.\nЩе 14 ударних БпЛА влучили в десяти місцях, на двох локаціях впали уламки. Зокрема, від н... [563 chars]",
-    "url": "https://babel.ua/news/128934-rosiyani-vnochi-zapustili-po-ukrajini-80-droniv-skilki-z-nih-zbila-ppo-i-de-fiksuyut-naslidki",
-    "image": "https://babel.ua/static/content/frtlki9g/thumbs/1200x630/a/ab/406389571bf56b0f3762ff23f74dfaba.jpg?v=3245",
-    "publishedAt": "2026-07-29T05:34:04Z",
-    "lang": "uk",
-    "source": {
-      "id": "d5c141466738ababa5e945e8f8127bbf",
-      "name": "Бабель",
-      "url": "https://babel.ua"
-    }
-  },
-  {
-    "id": "d9b5f56c48a6fd399715d4c19df6009f",
-    "title": "2026. Чоловіки: розклад матчів фінального етапу",
-    "description": "Сьогодні у китайському Нінбо розпочинається фінальний етап чоловічої Ліги націй-2026 з волейболу. Вісім найкращих збірних сезону розпочинають боротьбу за",
-    "content": "Сьогодні у китайському Нінбо розпочинається фінальний етап чоловічої Ліги націй-2026 з волейболу. Вісім найкращих збірних сезону розпочинають боротьбу за головний трофей турніру зі стадії чвертьфіналів.\nПро це повідомляє «Патріот Донбасу».\nЧвертьфіна... [283 chars]",
-    "url": "https://donpatriot.news/volejbolna-liga-naczij-2026-choloviky-rozklad-matchiv-finalnogo-etapu",
-    "image": "https://donpatriot.news/wp-content/uploads/2026/07/img_0361.jpeg",
-    "publishedAt": "2026-07-29T05:25:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "556066753a7a30eb0619823360acdde4",
-      "name": "Патріот Донбасу",
-      "url": "https://donpatriot.news"
+      "id": "a3169217b1ad89d7ea4f4e303bd546d4",
+      "name": "Texty.org.ua",
+      "url": "https://texty.org.ua"
     }
   }
 ]
