@@ -1,102 +1,12 @@
 [
   {
-    "id": "dd77c4cf67ea70687cce8fd4d6cc6c28",
-    "title": "Мобільний бізнес Samsung уперше в історії став збитковим",
-    "description": "Другий квартал 2026 року приніс рекордний прибуток для Samsung Electronics, забезпечений зростанням цін на чипи пам'яті, проте підрозділ смартфонів завершив період із першим в історії збитком.",
-    "content": "Другий квартал 2026 року приніс рекордний прибуток для Samsung Electronics, забезпечений зростанням цін на чипи пам'яті, проте підрозділ смартфонів завершив період із першим в історії збитком. Про це повідомляє SamMobile з посиланням на фінансовий зв... [1410 chars]",
-    "url": "https://mezha.ua/news/samsung-mobile-posts-first-ever-loss-313711/",
-    "image": "https://img.mezha.ua/mezha/images/doc/2/4/319624/24b6ee555b32f672d5117a3f09918fa6.jpeg?w=1200&q=85&stamp=1785394364",
-    "publishedAt": "2026-07-30T07:20:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "6b0257d31504a630dde7752eed4e1e39",
-      "name": "Mezha",
-      "url": "https://mezha.ua"
-    }
-  },
-  {
-    "id": "ac404a3da6a7547846c8b902ecccdd45",
-    "title": "графік видалення даних та терміни міграції",
-    "description": "Microsoft припиняє підтримку Whiteboard і переносить контент у OneDrive. Усі неперенесені файли назавжди видалять 5 вересня без можливості відновлення.",
-    "content": "Прощавай, автономний додаток\nКорпорація Microsoft офіційно розкрила графік відмови від поточної версії сервісу Whiteboard. Про це пише видання Neowin. Процес відбуватиметься у кілька етапів, і перший критичний дедлайн настане вже 22 серпня. З цього д... [1014 chars]",
-    "url": "https://24tv.ua/tech/microsoft-whiteboard-zakrivayetsya-grafik-vidalennya-danih-termini_n3114451",
-    "image": "https://24tv.ua/resources/photos/news/202607/3114451.jpg?v=1785393766000&w=1200&h=675",
-    "publishedAt": "2026-07-30T06:54:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "e737a8e76b161ef4526698e2ec5f60c9",
-      "name": "24 Канал",
-      "url": "https://24tv.ua"
-    }
-  },
-  {
-    "id": "db831c8155526a5060efae3a4a2478c5",
-    "title": "ціна та характеристики • Межа",
-    "description": "Mercedes-Benz презентував новий GLA. Кросовер відіграватиме помітну роль у переході бренду на електротягу. Модель створена на модульній архітектурі MMA, яка передбачає як повністю електричні, так і гібридні силові установки.",
-    "content": "Mercedes-Benz представив нове покоління компактного кросовера GLA, яке стане важливою частиною електричної стратегії марки. Модель побудована на модульній платформі MMA та пропонуватиметься як у повністю електричних, так і в гібридних версіях. Автомо... [2041 chars]",
-    "url": "https://mezha.ua/news/predstavleno-noviy-elektrichniy-mercedes-benz-gla-313707/",
-    "image": "https://img.mezha.ua/mezha/images/doc/1/8/319606/18fe35b2bb481b8b4ce7809af06c2308.jpeg?w=1200&q=85&stamp=1785391406",
-    "publishedAt": "2026-07-30T06:51:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "6b0257d31504a630dde7752eed4e1e39",
-      "name": "Mezha",
-      "url": "https://mezha.ua"
-    }
-  },
-  {
-    "id": "61c95d1733b15f72a1f7d72fb4d0ccc7",
-    "title": "Сервіс з ремонту відеокарт в ОАЕ пропонує збільшення відеопам'яті RTX 2080 Ti до 22 ГБ",
-    "description": "Сервіс з ремонту відеокарт GPU Solutions з ОАЕ пропонує збільшення обсягу відеопам'яті R",
-    "content": "Сервіс з ремонту відеокарт GPU Solutions з ОАЕ пропонує збільшення обсягу відеопам’яті RTX 2080 Ti з 11 до 22 ТБ й одразу ж підтримку BIOS для цього.\nХоча фізично сервіс знаходиться в ОАЕ, він заявляє, що обслуговує клієнтів по всьому світу. На його ... [2797 chars]",
-    "url": "https://itc.ua/ua/novini/servis-z-remontu-videokart-v-oae-proponuye-zbilshennya-videopam-yati-rtx-2080-ti-do-22-gb/",
-    "image": "https://cdn.itc.ua/uploads/2026/07/nvidia-rtx-2080ti_vQwlUlU-835x469.webp",
-    "publishedAt": "2026-07-30T06:43:28Z",
-    "lang": "uk",
-    "source": {
-      "id": "391d17d071b755a4bda37c1b43f47c2c",
-      "name": "ITC.ua",
-      "url": "https://itc.ua"
-    }
-  },
-  {
-    "id": "102a33723080e2662d744ce13d3873fb",
-    "title": "Світові запаси урану скорочуються, а новий видобуток не встигає за попитом",
-    "description": "Світовий ринок урану стикається зі зростаючим дефіцитом після багатьох років використання накопичених запасів. Історичні резерви, сформовані після завершення",
-    "content": "Світовий ринок урану стикається зі зростаючим дефіцитом після багатьох років використання накопичених запасів. Історичні резерви, сформовані після завершення програми «Мегатонни в мегавати» та накопичені після аварії на японській АЕС «Фукусіма», знач... [924 chars]",
-    "url": "https://donpatriot.news/svitovi-zapasy-uranu-skorochuyutsya-a-novyj-vydobutok-ne-vstygaye-za-popytom",
-    "image": "https://donpatriot.news/wp-content/uploads/2026/07/uran.webp",
-    "publishedAt": "2026-07-30T00:30:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "556066753a7a30eb0619823360acdde4",
-      "name": "Патріот Донбасу",
-      "url": "https://donpatriot.news"
-    }
-  },
-  {
-    "id": "e0675f499d738c1396ca6b5de0fd5bae",
-    "title": "Флагманський позашляховик Audi Q9 дебютував офіційно",
-    "description": "Німецький бренд Audi презентував флагманський позашляховик Q9, який орієнтований на глобальні ринки.",
-    "content": "Німецький бренд Audi презентував флагманський позашляховик Q9, який орієнтований на глобальні ринки.\nAudi Q9 став найбільшим Audi в історії.\nНовинка отримала двигуни V6 або V8.\nПочаткова ціна Q9 становить 108 400 євро.\nAudi Q9 – це новий повнорозмірн... [9558 chars]",
-    "url": "https://motorcar.com.ua/news/pozashlyahovyk-audi-q9-prezentacziya-2026/",
-    "image": "https://motorcar.com.ua/wp-content/uploads/2026/07/audi-q9-2026-1.jpg",
-    "publishedAt": "2026-07-29T19:12:47Z",
-    "lang": "uk",
-    "source": {
-      "id": "ccf5b23cf2f813320e7baafea8cf4ea7",
-      "name": "motorcar.com.ua",
-      "url": "https://motorcar.com.ua"
-    }
-  },
-  {
-    "id": "3fa7e74ff30d356583a3e546a4b12deb",
-    "title": "ФРС США залишила ставку на рівні 3,5-3,75%",
-    "description": "Федеральна резервна система зберегла ставку. Інфляція в США все ще вище 2%",
-    "content": "Федеральна резервна система (ФРС) США очікувано залишила базову процентну ставку у діапазоні 3,5-3,75% річних.\nПро це пише Reuters.\nРішення збіглося з очікуваннями аналітиків.\nПри цьому таке рішення викликало незгоду 3 із 12 членів Федерального коміт... [787 chars]",
-    "url": "https://epravda.com.ua/finances/frs-ssha-zalishila-stavku-na-rivni-3-5-3-75-inflyaciya-perevishchuye-cil-824131/",
-    "image": "https://img.epravda.com.ua/epravda/images/doc/6/a/170716/6a42a022e5241f7c0bbaa20806336327.jpeg?w=1920&q=85",
-    "publishedAt": "2026-07-29T18:55:00Z",
+    "id": "cfa73a5b50eecf5914ead8fe42da1a25",
+    "title": "Ferrari прокоментувала продажі свого першого електромобіля",
+    "description": "Детальніше про результати компанії читайте у новині ЕП",
+    "content": "Компанія Ferrari задоволена реакцією клієнтів на свій перший повністю електричний автомобіль, заявив у четвер генеральний директор Бенедетто Вінья після низки негативних відгуків, які ця модель отримала під час презентації.\nПро це повідомляє Reuters.... [1262 chars]",
+    "url": "https://epravda.com.ua/biznes/ferrari-prokomentuvala-prodazhi-svogo-pershogo-elektromobilya-824159/",
+    "image": "https://img.epravda.com.ua/epravda/images/doc/6/d/170908/6d2c044cb63fcd91ac8d2a5f53918e7f.jpeg?w=1920&q=85",
+    "publishedAt": "2026-07-30T14:03:00Z",
     "lang": "uk",
     "source": {
       "id": "9b9cf9e76aeefea346957bfe5f6dafc5",
@@ -105,13 +15,58 @@
     }
   },
   {
-    "id": "6b998820094bf4512d387da908f7ee16",
-    "title": "Розробники Star Wars Eclipse заявили, що гру \"неможливо завершити\" через заплановані скорочення в Quantic Dream",
-    "description": "Розробники Star Wars Eclipse заявили, що масштабні скорочення в Quantic Dream можуть поставити під загрозу завершення гри. Працівники оголосили страйк.",
-    "content": "У студії Quantic Dream загострюється ситуація після оголошення про скорочення 115 співробітників. Працівники, яких підтримує профспілка STJV, розпочали страйк і заявили, що за нинішнього плану звільнень Star Wars Eclipse може так і не вийти.\nЗа слова... [1207 chars]",
-    "url": "https://itc.ua/ua/novini/rozrobnyky-star-wars-eclipse-zayavyly-shho-gru-nemozhlyvo-zavershyty-cherez-zaplanovani-skorochennya-v-quantic-dream/",
-    "image": "https://cdn.itc.ua/uploads/2026/07/Star-Wars-Eclipse-image-4.jpg",
-    "publishedAt": "2026-07-29T15:42:49Z",
+    "id": "be9821ac92ceed78a58a48914846577f",
+    "title": "Toyota - які найуспішніші моделі в історії - фото",
+    "description": "Історія компанії Toyota сповнена автомобільними бестселерами, що залишили незабутній слід у світовій культурі та промисловості.",
+    "content": "Історія компанії Toyota сповнена автомобільними бестселерами, що залишили незабутній слід у світовій культурі та промисловості. Визначальними факторами їхнього успіху стали не лише вражальні обсяги продажів, а й історична значущість та вплив на розви... [4424 chars]",
+    "url": "https://www.obozrevatel.com/ukr/avto-oboz/najuspishnishi-modeli-v-istorii-toyota-rejting-i-foto.htm",
+    "image": "https://i.obozrevatel.com/news/2026/7/30/pexels-introspectivedsgn-17519359.jpg?size=1200x630",
+    "publishedAt": "2026-07-30T14:01:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "ca149ffefb31c86f82d7f299d744af59",
+      "name": "Obozrevatel",
+      "url": "https://www.obozrevatel.com"
+    }
+  },
+  {
+    "id": "9ca55013151306a124ca0f10778d1756",
+    "title": "Паливна криза підштовхнула світові продажі електромобілів до рекордного рівня",
+    "description": "Продажі електричних та гібридних авто досягли рекордних показників у понад 50 країнах на фоні паливної кризи, спричиненої конфліктом між США та Іраном.",
+    "content": "Продажі електричних та гібридних автомобілів досягають нових висот по всьому світу на фоні зростання вартості палива. У другому кварталі 2026 року були зафіксовані рекордні показники у понад 50 країнах, передає Engadget.\nЗгідно зі звітом Internationa... [1460 chars]",
+    "url": "https://mezha.ua/news/evs-are-gaining-popularity-worldwide-during-the-oil-crisis-313728/",
+    "image": "https://img.mezha.ua/mezha/images/doc/f/f/319661/ffa589e88f4ebd561684bb314855d76c.jpeg?w=1200&q=85&stamp=1785411830",
+    "publishedAt": "2026-07-30T12:26:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "6b0257d31504a630dde7752eed4e1e39",
+      "name": "Mezha",
+      "url": "https://mezha.ua"
+    }
+  },
+  {
+    "id": "eab6aac1f0836e8335c58ec148dc57e2",
+    "title": "Прибуток Shell зріс удвічі через війну на Близькому Сході",
+    "description": "Чистий прибуток Shell у II кварталі 2026 року перевищив 9,8 млрд доларів через стрибок цін на енергоносії під час війни на Близькому Сході",
+    "content": "Чистий прибуток британсько-нідерландської нафтової компанії Shell у другому кварталі 2026 року зріс у понад два рази порівняно з 2025 роком і становив 9,84 млрд доларів.\nПро це пише Reuters.\nПрибуток перевершив очікування завдяки підвищенню цін на ен... [1696 chars]",
+    "url": "https://epravda.com.ua/svit/pributok-shell-zris-udvichi-cherez-viynu-na-blizkomu-shodi-824153/",
+    "image": "https://img.epravda.com.ua/epravda/images/doc/4/d/170891/4de926f997f4ba5dc6db3b8f31667d4f.jpeg?w=1920&q=85",
+    "publishedAt": "2026-07-30T11:20:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "9b9cf9e76aeefea346957bfe5f6dafc5",
+      "name": "epravda.com.ua",
+      "url": "https://epravda.com.ua"
+    }
+  },
+  {
+    "id": "ef754fd27805ecc6e820a0f1afa81ea0",
+    "title": "Китайці створили батарею електромобіля, яка заряджається до 70% за 3 хвилини 41 секунду",
+    "description": "Hongqi представила прототип акумулятора для електромобілів, який заряджається з 10% до 70% за 3 хвилини 41 секунду та до 97% — трохи більше ніж за 8 хвилин. Новинка використовує зарядку 12C і адаптивне рідинне охолодження.",
+    "content": "Китайський автовиробник Hongqi, преміальний бренд концерну China FAW Group, представив результати випробувань нового прототипу акумулятора для електромобілів із надшвидкою зарядкою. За даними компанії, батарея змогла зарядитися з 10% до 70% лише за 3... [2862 chars]",
+    "url": "https://itc.ua/ua/novini/batareya-elektromobilya-zaryadzhayetsya-za-3-hv/",
+    "image": "https://cdn.itc.ua/uploads/2026/07/Depositphotos_515060102_L.jpg",
+    "publishedAt": "2026-07-30T11:07:47Z",
     "lang": "uk",
     "source": {
       "id": "391d17d071b755a4bda37c1b43f47c2c",
@@ -120,28 +75,73 @@
     }
   },
   {
-    "id": "4775e23b29c7688ff49d02dc70c81ac9",
-    "title": "Який кросовер краще купити у 2026 році",
-    "description": "Для більшості українських водіїв у 2026 році найкращим кросовером залишається Toyota RAV4 Hybrid. Він дає стабільну економію 5–6 л на 100 км, легендарну",
-    "content": "Для більшості українських водіїв у 2026 році найкращим кросовером залишається Toyota RAV4 Hybrid. Він дає стабільну економію 5–6 л на 100 км, легендарну надійність двигуна і коробки, високий кліренс і майже миттєву ліквідність при перепродажі. Саме ц... [8716 chars]",
-    "url": "https://nfront.org.ua/iakyi-krosover-krashche-kupyty-u-2026-rotsi/",
-    "image": "https://nfront.org.ua/wp-content/uploads/2026/07/iakyi-krosover-krashche-kupyty-u-2026-rotsi-a53f.webp",
-    "publishedAt": "2026-07-29T15:29:40Z",
+    "id": "585e8a3c112bc38cf80a9e175ba16ae8",
+    "title": "Ferrari достроково виконала річний план продажів свого першого електросуперкара Luce",
+    "description": "Італійська Ferrari менш ніж за два місяці після офіційної презентації свого першого повністю електричного автомобіля Luce вже виконала",
+    "content": "Італійська Ferrari менш ніж за два місяці після офіційної презентації свого першого повністю електричного автомобіля Luce вже виконала план продажів моделі на 2026 рік. Про це повідомляє Financial Times із посиланням на джерела, знайомі з ситуацією.\n... [806 chars]",
+    "url": "https://donpatriot.news/ferrari-dostrokovo-vykonala-richnyj-plan-prodazhiv-svogo-pershogo-elektrosuperkara-luce",
+    "image": "https://donpatriot.news/wp-content/uploads/2026/07/ferrari.jpeg",
+    "publishedAt": "2026-07-30T10:20:00Z",
     "lang": "uk",
     "source": {
-      "id": "b162fe8e4dac72f433177c6e739ed589",
-      "name": "nfront.org.ua",
-      "url": "https://nfront.org.ua"
+      "id": "556066753a7a30eb0619823360acdde4",
+      "name": "Патріот Донбасу",
+      "url": "https://donpatriot.news"
     }
   },
   {
-    "id": "8490b9ae517e65a0f0eab50f3896bab8",
-    "title": "представлено найбільший кросовер в історії бренду",
-    "description": "Audi представила новий флагманський кросовер Q9. За офіційною інформацією виробника, він став найбільшим автомобілем такого типу в історії бренду.",
-    "content": "Компанія Audi представила новий флагманський кросовер Q9, який став найбільшим автомобілем такого типу в історії німецького бренду. Про це виробник повідомив на своєму сайті.\nДовжина кросовера становить 5310 мм, ширина – 2210 мм, а висота – 1810 мм.\n... [3573 chars]",
-    "url": "https://www.unian.ua/economics/auto/audi-q9-predstavleno-naybilshiy-krosover-v-istoriji-brendu-13455180.html",
-    "image": "https://images.unian.net/photos/2026_07/thumb_files/620_324_1785330959-3886.jpg?1",
-    "publishedAt": "2026-07-29T13:31:00Z",
+    "id": "710334695a5cf2669154fd53f9b09d0f",
+    "title": "Розкрито китайську компанію-виробника установок DUV-літографії",
+    "description": "Стало відомо, що зусилля Китаю з виробництва установок DUV-літографії очолює дочірня компанія Shanghai Electric, Shanghai Aishegna.",
+    "content": "Стало відомо, що зусилля Китаю з виробництва установок DUV-літографії очолює дочірня компанія Shanghai Electric, Shanghai Aishegna.\nОстаннім часом Китай викликав хвилю потрясінь у західному технологічному секторі, спочатку релізом ШІ-моделі Kimi K3, ... [2706 chars]",
+    "url": "https://itc.ua/ua/novini/rozkryto-kytajsku-kompaniyu-vyrobnyka-ustanovok-duv-litografiyi/",
+    "image": "https://cdn.itc.ua/uploads/2026/07/sF5kjc768gySpL2e9YSSqA-1200-80.jpg",
+    "publishedAt": "2026-07-30T10:16:41Z",
+    "lang": "uk",
+    "source": {
+      "id": "391d17d071b755a4bda37c1b43f47c2c",
+      "name": "ITC.ua",
+      "url": "https://itc.ua"
+    }
+  },
+  {
+    "id": "2a119184bebb77a3120b8c309edb218c",
+    "title": "Найпопулярніші нові кросовери",
+    "description": "Популярність кросоверів викликана їх універсальністю та пристосованістю до поганих доріг.",
+    "content": "Кросовери продовжують домінувати на українському авторинку. За підсумками першого півріччя 2026 року на них припало 80% продажів нових легкових автомобілів. Про це повідомляє Укравтопром.\nЗа шість місяців українці придбали 26,6 тис. нових SUV, що на ... [884 chars]",
+    "url": "https://24tv.ua/auto/nazvano_naipopuliarnishi_novi_krosovery_v_ukraini_u_2026_rotsi_n74440",
+    "image": "https://24tv.ua/auto/resources/photos/news/202607/744403fd9cc7a-f6ee-433c-a126-94106b2183e7.jpg",
+    "publishedAt": "2026-07-30T09:30:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "e737a8e76b161ef4526698e2ec5f60c9",
+      "name": "24 Канал",
+      "url": "https://24tv.ua"
+    }
+  },
+  {
+    "id": "85603d198360fdaa526454846f8e0df7",
+    "title": "\"Жахливий\" Ferrari Luce став хітом: електромобіль готові відірвати з руками",
+    "description": "Компанія Ferrari оголосила, що її новий електричний седан Luce, який розкритикували, вже досяг цільового показника продажів на 2026 рік - подробиці на УНІАН.",
+    "content": "Компанія Ferrari виконала план продажів електромобіля Luce на 2026 рік лише за два місяці, повідомляє Financial Times.\nВідомий італійський виробник вже продав усю заплановану партію, яка становила близько 500 машин. Це сталося попри хвилю жорсткої кр... [3286 chars]",
+    "url": "https://www.unian.ua/economics/auto/zhahliviy-ferrari-luce-stav-hitom-elektromobil-gotovi-vidirvati-z-rukami-13455849.html",
+    "image": "https://images.unian.net/photos/2026_07/thumb_files/620_324_1785402430-4212.jpg?1",
+    "publishedAt": "2026-07-30T09:19:35Z",
+    "lang": "uk",
+    "source": {
+      "id": "d4361862486677369ff2ae7719b8d313",
+      "name": "УНІАН",
+      "url": "https://www.unian.ua"
+    }
+  },
+  {
+    "id": "002a1c88d04333003d048920fc0f75f5",
+    "title": "яка найпопулярніша машина в Україні",
+    "description": "У першому півріччі 2026 року кросовери охопили 80% українського ринку нових легковиків. Яку машину краще купувати українцям - читайте на УНІАН.",
+    "content": "За підсумками першого півріччя кросовери домінували на українському ринку нових легковиків, охопивши 80% продажів. Порівняно з першим півріччям минулого року попит на кросовери зріс на 0,3%, досягнувши 26,6 тисячі авто, повідомляє \"УкрАвтопром\".\nНайз... [1559 chars]",
+    "url": "https://www.unian.ua/economics/auto/krosoveri-v-ukrajini-ne-zdayut-poziciji-yaka-naypopulyarnisha-mashina-v-ukrajini-13455711.html",
+    "image": "https://images.unian.net/photos/2026_02/thumb_files/620_324_1770042624-1603.jpg?1",
+    "publishedAt": "2026-07-30T07:42:21Z",
     "lang": "uk",
     "source": {
       "id": "d4361862486677369ff2ae7719b8d313",
