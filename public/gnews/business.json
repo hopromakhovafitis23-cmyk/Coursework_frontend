@@ -1,5 +1,65 @@
 [
   {
+    "id": "6c3437f74da4b6ac0cd01b4e013c9eb8",
+    "title": "Акції Apple впали на 10 відсотків через дефіцит чипів",
+    "description": "Капіталізація Apple може скоротитися на 500 мільярдів доларів через дефіцит компонентів на тлі ШІ-буму. Деталі на Економічній правді",
+    "content": "Акції Apple впали майже на 10% після публікації прогнозу компанії, який показав, що компанія має труднощі з забезпеченням достатньої кількості компонентів.\nПро це пише Reuters.\nДефіцит запчастин пов'язаний із бумом центрів обробки даних для штучного ... [1216 chars]",
+    "url": "https://epravda.com.ua/svit/akciji-apple-vpali-na-10-vidsotkiv-cherez-deficit-chipiv-824216/",
+    "image": "https://img.epravda.com.ua/epravda/images/doc/6/4/171167/649bf18b06ede990312c872d82faf644.jpeg?w=1920&q=85",
+    "publishedAt": "2026-08-01T12:20:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "9b9cf9e76aeefea346957bfe5f6dafc5",
+      "name": "Економічна правда",
+      "url": "https://epravda.com.ua"
+    }
+  },
+  {
+    "id": "16752126021df4eb25fa42d5bc6809a5",
+    "title": "Кросовер Suzuki XL7 отримав рестайлінг 2026 року",
+    "description": "Оновлений трирядний кросовер Suzuki XL7 вміщує сім осіб та коштує лише за 15 200 доларів на індонезійському ринку.",
+    "content": "Оновлений трирядний кросовер Suzuki XL7 вміщує сім осіб та коштує лише за 15 200 доларів на індонезійському ринку.\nОновлений кросовер Suzuki XL7 дебютував у Індонезії.\nРестайлінг дає нову решітку радіатору та 9-дюймовий дисплей.\nПід капотом 1,5-літро... [3059 chars]",
+    "url": "https://motorcar.com.ua/news/krosover-suzuki-xl7-restajling-2026/",
+    "image": "https://motorcar.com.ua/wp-content/uploads/2026/08/2026-suzuki-xl7-hybrid-indonesia-1.jpg",
+    "publishedAt": "2026-08-01T11:56:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "ccf5b23cf2f813320e7baafea8cf4ea7",
+      "name": "motorcar.com.ua",
+      "url": "https://motorcar.com.ua"
+    }
+  },
+  {
+    "id": "514ee52d6e67cc934f89a16ee35a2c84",
+    "title": "Лише 37 тисяч км за 17 років: у Києві продають Toyota Camry XV40 (фото)",
+    "description": "На київському авторинку з’явилася Toyota Camry 2009 року з заявленим пробігом 37 тис. км. Власник оцінює седан у $15 500, або 696 570 грн, та вказує, що",
+    "content": "На київському авторинку з’явилася Toyota Camry 2009 року з заявленим пробігом 37 тис. км. Власник оцінює седан у $15 500, або 696 570 грн, та вказує, що автомобіль зберігався в гаражі. Оголошення опублікували на AUTO.RIA.\nЗа інформацією з оголошення,... [1171 chars]",
+    "url": "https://mmr.net.ua/autonews/244338",
+    "image": "https://mmr.net.ua/catalog/uploads/2026/08/toyota-camry-xv40-3.jpg",
+    "publishedAt": "2026-08-01T08:36:29Z",
+    "lang": "uk",
+    "source": {
+      "id": "7ff09923d78a57fb490f8d4a12e79fae",
+      "name": "MMR.net.ua",
+      "url": "https://mmr.net.ua"
+    }
+  },
+  {
+    "id": "7d5454155135100c0dbe49e15fe044ba",
+    "title": "5 авто до $15 000, які майже не втрачають у ціні у 2026",
+    "description": "На вторинному ринку України в бюджеті до $15 000 високу залишкову вартість мають окремі моделі Toyota, Mazda та Hyundai. У добірці зібрані седани й",
+    "content": "На вторинному ринку України в бюджеті до $15 000 високу залишкову вартість мають окремі моделі Toyota, Mazda та Hyundai. У добірці зібрані седани й кросовери різних років випуску, які зберігають попит під час перепродажу. Про це пише Autoportal.\nАвто... [1378 chars]",
+    "url": "https://mmr.net.ua/autonews/244336",
+    "image": "https://mmr.net.ua/catalog/uploads/2026/08/top-5-avtomobiliv-do-15-000-iz-najnyzhchoyu-vtratoyu-vartosti.jpg",
+    "publishedAt": "2026-08-01T07:37:03Z",
+    "lang": "uk",
+    "source": {
+      "id": "7ff09923d78a57fb490f8d4a12e79fae",
+      "name": "MMR.net.ua",
+      "url": "https://mmr.net.ua"
+    }
+  },
+  {
     "id": "e399420cf48e27e08a716a88f362d6e5",
     "title": "Піраміда ШІ та чипів завалюється. Це передвісник масштабної фінансової кризи",
     "description": "Американський ринок акцій лихоманить на тлі звітів технологічних гігантів. Експерти не виключають глибоку корекцію чи навіть падіння ринків - читай на УНІАН",
@@ -87,66 +147,6 @@
       "id": "391d17d071b755a4bda37c1b43f47c2c",
       "name": "ITC.ua",
       "url": "https://itc.ua"
-    }
-  },
-  {
-    "id": "68aa2587e9aeb866edd3c28930503ac4",
-    "title": "Зроблено всюди: як індустрія ноутбуків розповзлася по всьому світу",
-    "description": "Де насправді виробляють сучасні ноутбуки Lenovo, HP, Dell та Asus? Розповідаємо, чому виробництво виходить за межі Китаю, які країни стали новими центрами складання та як це впливає на ціни й постачання техніки.",
-    "content": "Коли ви відкриваєте коробку з новим ноутбуком, рідко замислюєтесь, скільки кордонів він встиг перетнути, перш ніж опинитися на вашому столі. Десять років тому відповідь на це питання здавалася простою, адже майже все робили в Китаї. Сьогодні ситуація... [8857 chars]",
-    "url": "https://itc.ua/ua/articles/zrobleno-vsyudy-yak-industriya-noutbukiv-rozpovzlasya-po-vsomu-svitu/",
-    "image": "https://cdn.itc.ua/uploads/2026/07/01-lenovo-thinkpad-x1-carbon.jpg",
-    "publishedAt": "2026-07-31T11:00:03Z",
-    "lang": "uk",
-    "source": {
-      "id": "391d17d071b755a4bda37c1b43f47c2c",
-      "name": "itc.ua",
-      "url": "https://itc.ua"
-    }
-  },
-  {
-    "id": "45c53aad2bd5ac79c568d343f0360848",
-    "title": "Gulfstream G700 встановив новий рекорд швидкості",
-    "description": "Літак бізнес-класу Gulfstream G700 американської корпорації Gulfstream Aerospace встановив новий рекорд швидкості - подроьиці читайте на УНІАН.",
-    "content": "Американська корпорація Gulfstream Aerospace оголосила, що її літак бізнес-класу G700 встановив новий рекорд швидкості на маршруті між Лос-Анджелесом (США) та Фарнборо (Англія), подолавши відстань у 8778 км за 8 годин 27 хвилин. Про це повідомив офіц... [1793 chars]",
-    "url": "https://www.unian.ua/economics/transport/gulfstream-g700-vstanoviv-noviy-rekord-shvidkosti-13456941.html",
-    "image": "https://images.unian.net/photos/2026_07/thumb_files/620_324_1785494378-4800.jpg?1",
-    "publishedAt": "2026-07-31T10:44:21Z",
-    "lang": "uk",
-    "source": {
-      "id": "d4361862486677369ff2ae7719b8d313",
-      "name": "УНІАН",
-      "url": "https://www.unian.ua"
-    }
-  },
-  {
-    "id": "5104ae07b1da08c04e25b44452471a7f",
-    "title": "Скільки коштує 100 км пробігу у липні 2026 (дизель, бензин, електро та газ)",
-    "description": "Інститут досліджень авторинку зробив техніко-економічний розрахунок...",
-    "content": "Скільки коштує 100 км пробігу у липні 2026 (дизель, бензин, електро та газ)\nІнститут досліджень авторинку зробив техніко-економічний розрахунок вартості 100 км пробігу.\nЯк йдеться в дослідженні, базою для дослідження слугує хетчбек Volkswagen Golf VI... [2040 chars]",
-    "url": "https://news.finance.ua/ua/skil-ky-koshtuye-100-km-probihu-u-lypni-2026-dyzel-benzyn-elektro-ta-haz",
-    "image": "https://finance-news-media.fra1.cdn.digitaloceanspaces.com/prod/6/4/64b387002105fdd840b86db031028474",
-    "publishedAt": "2026-07-31T10:00:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "1759d0a20c3bd01b1f404fba732c7f96",
-      "name": "Finance.ua",
-      "url": "https://news.finance.ua"
-    }
-  },
-  {
-    "id": "3737fbcbd8a02cb5649d55220812cef4",
-    "title": "Apple прогнозує проблеми з постачанням і не виключає нових підвищень цін",
-    "description": "Apple відзвітувала про рекордний квартал, але попередила, що дефіцит компонентів і стрімке подорожчання пам’яті можуть негативно позначитися на фінансових показниках уже найближчими кварталами.",
-    "content": "Apple повідомила про рекордні фінансові результати за квартал, що завершився у червні, однак попередила інвесторів про майбутні труднощі через дефіцит компонентів і стрімке зростання цін на пам'ять. За словами керівництва компанії, саме ці фактори мо... [1862 chars]",
-    "url": "https://mezha.ua/news/apple-vidzvituvala-pro-rekordniy-kvartal-ale-poperedila-pro-problemi-z-postachannyam-313746/",
-    "image": "https://img.mezha.ua/mezha/images/doc/0/3/319772/031897b07b6be92cdfab3de2ad9ffb3f.jpeg?w=1200&q=85&stamp=1785480751",
-    "publishedAt": "2026-07-31T09:19:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "6b0257d31504a630dde7752eed4e1e39",
-      "name": "Mezha",
-      "url": "https://mezha.ua"
     }
   }
 ]
