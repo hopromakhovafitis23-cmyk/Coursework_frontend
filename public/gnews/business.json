@@ -1,5 +1,80 @@
 [
   {
+    "id": "a595483dc873ad664c49ae9eaea0fd73",
+    "title": "Які моделі Kia мають найкращу ціну перепродажу: топ 4",
+    "description": "Попит на автомобілі Kia продовжує зростати завдяки поєднанню доступної ціни, сучасного дизайну та багатого оснащення. Водночас деякі моделі бренду демонструють особливо високі показники залишкової вартості навіть після кількох років використання.",
+    "content": "Попит на автомобілі Kia продовжує зростати завдяки поєднанню доступної ціни, сучасного дизайну та багатого оснащення. Водночас деякі моделі бренду демонструють особливо високі показники залишкової вартості навіть після кількох років використання.\nЕкс... [2983 chars]",
+    "url": "https://www.obozrevatel.com/ukr/avto-oboz/yaki-modeli-kia-mayut-najkraschu-tsinu-pereprodazhu-top-4.htm",
+    "image": "https://i.obozrevatel.com/news/2026/8/3/pexels-mikebird-7290399.jpg?size=1200x630",
+    "publishedAt": "2026-08-03T14:02:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "ca149ffefb31c86f82d7f299d744af59",
+      "name": "Obozrevatel",
+      "url": "https://www.obozrevatel.com"
+    }
+  },
+  {
+    "id": "e040cb5801423f5adf4510579cd43e9b",
+    "title": "Shell продала \"зелений\" бізнес у Європі компанії TotalEnergies",
+    "description": "Британсько-нідерландська Shell продала свій наземний портфель відновлюваної енергетики в Європі французькій TotalEnergies. Подробиці угоди",
+    "content": "Британсько-нідерландська енергетична компанія Shell уклала з французькою TotalEnergies угоду про продаж всього свого наземного бізнесу у сфері відновлюваної енергетики в Європі.\nПро це йдеться в пресрелізах Shell та TotalEnergies.\nЗагальна потужність... [871 chars]",
+    "url": "https://epravda.com.ua/svit/shell-prodala-zeleniy-biznes-u-yevropi-kompaniji-totalenergies-824258/",
+    "image": "https://img.epravda.com.ua/epravda/images/doc/5/b/172356/5b2777d1e4fac625d92765f949569d63.jpeg?w=1920&q=85",
+    "publishedAt": "2026-08-03T12:45:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "9b9cf9e76aeefea346957bfe5f6dafc5",
+      "name": "Економічна правда",
+      "url": "https://epravda.com.ua"
+    }
+  },
+  {
+    "id": "a3c73d739811fa761b54fda5fb5bc965",
+    "title": "Хакери зламали 4,5 тисячі криптогаманців: викрадено $86 млн у біткойнах",
+    "description": "Хакери здійснили одну з наймасштабніших атак на апаратні криптогаманці Coldcard. Через критичну вразливість вони вже отримали доступ до понад 4,5 тисячі пристроїв і викрали біткойни на суму близько 86",
+    "content": "Хакери здійснили одну з наймасштабніших атак на апаратні криптогаманці Coldcard. Через критичну вразливість вони вже отримали доступ до понад 4,5 тисячі пристроїв і викрали біткойни на суму близько 86 мільйонів доларів.\nХакери зламали понад 4,5 тисяч... [2067 chars]",
+    "url": "https://ua.korrespondent.net/world/4899605-khakery-zlamaly-45-tysiachi-kryptohamantsiv-vykradeno-86-mln-u-bitkoinakh",
+    "image": "https://kor.ill.in.ua/m/1260x900/4517186.jpg",
+    "publishedAt": "2026-08-03T12:08:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "5f3893b2bdd83721567eef82ac0a6d2e",
+      "name": "Korrespondent.net",
+      "url": "https://ua.korrespondent.net"
+    }
+  },
+  {
+    "id": "36437a33e65bdc6c3dc447b4d90c9f9b",
+    "title": "Apple підніме ціни на iPhone - дефіцит MacBook Air лише початок",
+    "description": "Apple оголосила про дефіцит популярних MacBook Air і вже готує чергове підвищення цін на фірмові смартфони....",
+    "content": "Масштабний дефіцит MacBook Air\nПоки Купертіно перебудовує фінансову модель, найпопулярніший ноутбук компанії, MacBook Air, зіштовхнувся із жорстким дефіцитом у магазинах по всьому світу.\nПроблема з поставками чипів оперативної пам'яті, яка раніше зач... [2289 chars]",
+    "url": "https://www.rbc.ua/rus/news/apple-zitknulasya-defitsitom-macbook-air-1785745677.html",
+    "image": "https://www.rbc.ua/static/img/_/3/_3_f51858e55a17b7b7d5775a93c4429124_1300x820.jpg",
+    "publishedAt": "2026-08-03T10:16:31Z",
+    "lang": "uk",
+    "source": {
+      "id": "6f1ead09126f1f4738a48957e22f789c",
+      "name": "РБК-Україна",
+      "url": "https://www.rbc.ua"
+    }
+  },
+  {
+    "id": "e0c8ea9906f77985e6d95c08eaea79d4",
+    "title": "Geely представила гібрид, який може їздити на бензині та метанолі в будь",
+    "description": "Китайська компанія Geely представила нову версію гібридного седана Galaxy Starshine 6 EF, здатну працювати на бензині, метанолі або їхній",
+    "content": "Китайська компанія Geely представила нову версію гібридного седана Galaxy Starshine 6 EF, здатну працювати на бензині, метанолі або їхній суміші в будь-якому співвідношенні.\nАвтомобіль оснащений спеціальним датчиком, який у режимі реального часу визн... [866 chars]",
+    "url": "https://donpatriot.news/geely-predstavyla-gibryd-yakyj-mozhe-yizdyty-na-benzyni-ta-metanoli-v-bud-yakyh-proporcziyah",
+    "image": "https://donpatriot.news/wp-content/uploads/2026/08/zminok.jpg",
+    "publishedAt": "2026-08-03T07:50:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "556066753a7a30eb0619823360acdde4",
+      "name": "Патріот Донбасу",
+      "url": "https://donpatriot.news"
+    }
+  },
+  {
     "id": "6ed78d30c0193b8e3e11dd42f4d21af6",
     "title": "Топ-50 ІТ-компаній України, літо 2026: 11 компаній зменшилися на понад 100 фахівців",
     "description": "Загальна кількість фахівців у компаніях топ-50 майже не змінилася, проте технічних спеціалістів стає менше. Серед тих, хто зростав, - продуктові та гібридні компанії. Але сервісні теж наймають. Ajax Systems є лідером зростання. Представляємо літній рейтинг топ-50 найбільших ІТ-компаній.",
@@ -72,81 +147,6 @@
       "id": "ca149ffefb31c86f82d7f299d744af59",
       "name": "Obozrevatel",
       "url": "https://www.obozrevatel.com"
-    }
-  },
-  {
-    "id": "de8a64b9055ae7b1156026d2817648c9",
-    "title": "Автомеханіки назвали 5 найнадійніших сімейних автомобілів: служитимуть довго без дорогих ремонтів",
-    "description": "Недорогі та надійні сімейні авто: експерти назвали п’ять моделей, які перевершують конкурентів",
-    "content": "Toyota RAV4 очолила і цей рейтинг. Фото: Toyota\nСімейний автомобіль — це завжди компроміс між практичністю, простором і витратами. На ринку є десятки варіантів, але вибір оптимальної моделі часто стає викликом. Саме тому експерти GoBankingRates виокр... [2422 chars]",
-    "url": "https://pravdatutnews.com/avto/2026/08/02/83381-avtomehaniky-nazvaly-5-naynadiynishyh-simeynyh-avtomobiliv",
-    "image": "https://pravdatutnews.com/sites/default/files/news/2026/08/02/toyota_rav4_2026.jpg",
-    "publishedAt": "2026-08-02T19:10:45Z",
-    "lang": "uk",
-    "source": {
-      "id": "716e7cb92f5f203aa3506c9ba057538c",
-      "name": "ПравдаТУТ NEWS",
-      "url": "https://pravdatutnews.com"
-    }
-  },
-  {
-    "id": "9625668a4dc1785995e9394af66f1049",
-    "title": "Дизельні двигуни знову отримали порятунок",
-    "description": "Змінний акумуляторний візок від Revoy перетворює старі дизельні вантажні автомобілі на гібриди, скорочуючи споживання палива та викиди без заміни вантажівки.",
-    "content": "Змінний акумуляторний візок від Revoy перетворює старі дизельні вантажні автомобілі на гібриди, скорочуючи споживання палива та викиди без заміни вантажівки.\nRevoy представила електричний візок для дизельних вантажівок.\nМодуль на 575 кВт-год може ско... [5343 chars]",
-    "url": "https://motorcar.com.ua/news/dyzelni-dvyguny-poryatunok-revoy-vizok-2026/",
-    "image": "https://motorcar.com.ua/wp-content/uploads/2026/08/revoy-truck-1.webp",
-    "publishedAt": "2026-08-02T18:46:59Z",
-    "lang": "uk",
-    "source": {
-      "id": "ccf5b23cf2f813320e7baafea8cf4ea7",
-      "name": "motorcar.com.ua",
-      "url": "https://motorcar.com.ua"
-    }
-  },
-  {
-    "id": "523126f91f46add8f2a1c4e51e723dbc",
-    "title": "Кросовери захопили вторинний авторинок України: преміум-сегмент стає масовим",
-    "description": "Попит на вживані кросовери в Україні у 2026 році досяг рекордних масштабів.",
-    "content": "Volkswagen Tiguan — найпопулярніший у 2026-му вживаний кросовер в Україні. Фото: Volkswagen\nЗа даними асоціації «Укравтопром», із січня по червень зареєстровано 111,5 тис. авто з пробігом, і понад половину з них — 59,1 тис. — становили саме кросовери... [2342 chars]",
-    "url": "https://pravdatutnews.com/avto/2026/08/02/83377-krosovery-zahopyly-vtorynnyy-avtorynok-ukrayiny-premium-segment",
-    "image": "https://pravdatutnews.com/sites/default/files/news/2026/08/02/volkswagen_tiguan3_volkswagen.jpg",
-    "publishedAt": "2026-08-02T16:46:15Z",
-    "lang": "uk",
-    "source": {
-      "id": "716e7cb92f5f203aa3506c9ba057538c",
-      "name": "ПравдаТУТ NEWS",
-      "url": "https://pravdatutnews.com"
-    }
-  },
-  {
-    "id": "c9ebfa53a13c33a7b5f6c371c792fb34",
-    "title": "Новий Hyundai Tucson 2027 отримає кардинальні зміни",
-    "description": "Hyundai Tucson готується до найбільшої зміни за останні роки. 5-те покоління збереже звичні розміри компактного кросовера, але відмовиться від складних поверхонь і прихованих у решітці ходових вогнів, якими вирізняється нинішня модель.",
-    "content": "Hyundai Tucson готується до найбільшої зміни за останні роки. П'яте покоління збереже звичні розміри компактного кросовера, але відмовиться від складних поверхонь і прихованих у решітці ходових вогнів, якими вирізняється нинішня модель. Яким може бут... [1946 chars]",
-    "url": "https://news.infocar.ua/novyy_hyundai_tucson_2027_otrymae_kardynalni_zminy_191254.html",
-    "image": "https://i.infocar.ua/i/7/191254/600x396.jpg",
-    "publishedAt": "2026-08-02T16:36:22Z",
-    "lang": "uk",
-    "source": {
-      "id": "b9c3d8b68faf8a35c49050f7ca29d3cd",
-      "name": "InfoCar.ua",
-      "url": "https://news.infocar.ua"
-    }
-  },
-  {
-    "id": "c9be41dfda4a0ddae98b9a0ff8c8161f",
-    "title": "Tesla Cybertruck виявився жахливо неефективним у буксируванні причепа",
-    "description": "Автоблогер розкритикував Tesla Cybertruck за надзвичайно швидкий темп розрядки батареї під час буксирування причепа - читайте докладно в матеріалі УНІАН",
-    "content": "Власник Tesla Cybertruck із Флориди вирішив відбуксирувати човен до озера. Ця проста дія, яка під силу будь-якому достатньо потужному пікапу, залишила чоловіка розчарованим своєю машиною, пише видання Supercar Blondie.\nУ публікації зазначається, що T... [2292 chars]",
-    "url": "https://www.unian.ua/curiosities/tesla-cybertruck-viyavivsya-zhahlivo-neefektivnim-u-buksiruvanni-prichepa-13458555.html",
-    "image": "https://images.unian.net/photos/2026_08/thumb_files/620_324_1785676296-7041.jpg?1",
-    "publishedAt": "2026-08-02T15:55:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "d4361862486677369ff2ae7719b8d313",
-      "name": "УНІАН",
-      "url": "https://www.unian.ua"
     }
   }
 ]
