@@ -1,5 +1,35 @@
 [
   {
+    "id": "9de0683f3cfcfc98c3e7d3923dd5c097",
+    "title": "Застосунок Telegram зник із магазину App Store в Україні та світі",
+    "description": "Популярний месенджер Telegram став недоступним для завантаження в магазині додатків Apple App Store для пристроїв iPhone та iPad в Україні та багатьох інших країнах.",
+    "content": "Популярний месенджер Telegram став недоступним для завантаження в магазині додатків Apple App Store для пристроїв iPhone та iPad в Україні та багатьох інших країнах.\nДжерело: повідомлення користувачів у соцмережі X, дані магазину застосунків App Stor... [606 chars]",
+    "url": "https://www.pravda.com.ua/news/2026/08/04/8047122/",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/5/885921/55f6f977782e10415fd5fa7b12838acc.jpeg?w=1200&q=85&stamp=1785809682",
+    "publishedAt": "2026-08-04T02:08:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "f22da91c498603eb4d447ae38063cc99",
+      "name": "Українська правда",
+      "url": "https://www.pravda.com.ua"
+    }
+  },
+  {
+    "id": "a9a766a0e90d8d7f4e52673c79d85ceb",
+    "title": "Як звільнити до 6 ГБ пам'яті смартфона без видалення програм",
+    "description": "Користувачі Android мають проблеми із ситуацією, коли пам’ять смартфона заповнюється до межі, а видаляти програми шкода.",
+    "content": "Фото: MakeUseOf\nВихід є — нова функція архівування застосунків, доступна на пристроях із Android 15 і новіших версіях, дозволяє звільнити гігабайти простору, не втрачаючи даних чи налаштувань.\nАрхівування — це своєрідний «режим сну» для програм. Сист... [2265 chars]",
+    "url": "https://pravdatutnews.com/tehnologiyi/2026/08/04/83459-yak-zvilnyty-do-6-gb-pamyati-smartfona-bez-vydalennya-program",
+    "image": "https://pravdatutnews.com/sites/default/files/news/2026/08/04/ochishchennya_smartfona_makeuseof.jpg",
+    "publishedAt": "2026-08-03T21:15:06Z",
+    "lang": "uk",
+    "source": {
+      "id": "716e7cb92f5f203aa3506c9ba057538c",
+      "name": "pravdatutnews.com",
+      "url": "https://pravdatutnews.com"
+    }
+  },
+  {
     "id": "29a02107eb309bfb2282ff102f8a4bbb",
     "title": "Хакери викрали дані понад 100 тисяч британських поліцейських • Межа",
     "description": "У Великій Британії зафіксовано масштабний витік даних із Національної юридичної бази даних поліції. Повідомляється, що зловмисники отримали доступ до контактних даних понад 100 тисяч поліцейських, співробітників та інших фахівців у сфері кримінальної юстиції.",
@@ -117,36 +147,6 @@
       "id": "9b9cf9e76aeefea346957bfe5f6dafc5",
       "name": "Економічна правда",
       "url": "https://epravda.com.ua"
-    }
-  },
-  {
-    "id": "9a3210afec6fbad95f44eff3cac9a3c3",
-    "title": "РФ порушила справу проти Apple - через відмову встановлювати Мах і RuStore",
-    "description": "З 2022 року Apple зупинила офіційний продаж своїх пристроїв у Росії та припинила постачання до країни. Тепер пристрої американської компанії в Росії продають лише через сірий імпорт",
-    "content": "Російська Федеральна антимонопольна служба повідомила про порушення справи щодо американської компанії Apple.\nУ повідомленні регулятора йдеться, що він раніше надіслав Apple попередження «про необхідність усунути дискримінаційні умови для російських ... [589 chars]",
-    "url": "https://www.radiosvoboda.org/a/news-rf-sprava-proty-apple/33821045.html",
-    "image": "https://gdb.rferl.org/7e3ee9ac-c45b-417b-8ebd-08debadc418c_w1200_h630.jpg",
-    "publishedAt": "2026-08-03T16:46:35Z",
-    "lang": "uk",
-    "source": {
-      "id": "5c9ced304d672fe93c822292939bf821",
-      "name": "Радіо Свобода",
-      "url": "https://www.radiosvoboda.org"
-    }
-  },
-  {
-    "id": "66791fc8bbf8e762767ef1cfa98993f1",
-    "title": "які моделі постраждають",
-    "description": "Після липневого оновлення власники таких смартфонів більше не зможуть користуватися додатком YouTube, оскільки він перестав бути сумісним з Android 6.",
-    "content": "Компанія Google поступово припиняє підтримку застарілих пристроїв на базі Android 6.0 Marshmallow. Як наслідок, власники таких пристроїв уже найближчими тижнями почнуть втрачати доступ до офіційного додатка YouTube, як зазначили у SlashGear.\nПричина ... [2394 chars]",
-    "url": "https://www.unian.ua/techno/software/google-vimkne-youtube-na-starih-smartfonah-android-yaki-modeli-postrazhdayut-13459641.html",
-    "image": "https://images.unian.net/photos/2026_08/thumb_files/1000_545_1785770465-5906.jpg?1",
-    "publishedAt": "2026-08-03T16:18:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "d4361862486677369ff2ae7719b8d313",
-      "name": "unian.ua",
-      "url": "https://www.unian.ua"
     }
   }
 ]
