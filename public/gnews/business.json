@@ -1,5 +1,20 @@
 [
   {
+    "id": "86bf00f7c030c1dfb824d72464eae10f",
+    "title": "Audi A2 e-tron стане найдоступнішим і найекономічнішим електрокаром марки: 649 км ходу",
+    "description": "Компанія Audi готує до дебюту нову модель — A2 e-tron, яка має стати найекономічнішим і найдоступнішим електромобілем у лінійці бренду.",
+    "content": "Фото: з відкритих джерел\nЗа попередніми даними, споживання енергії становить лише 12,8 кВт·год на 100 км за циклом WLTP — рекордно низький показник для Audi.\nЕфективність і технології\nТаке споживання заявлено для модифікації потужністю 190 к. с., осн... [2215 chars]",
+    "url": "https://pravdatutnews.com/avto/2026/08/06/83589-audi-a2-e-tron-stane-naydostupnishym-i-nayekonomichnishym",
+    "image": "https://pravdatutnews.com/sites/default/files/news/2026/08/06/audi-a2-e-tron-.jpg",
+    "publishedAt": "2026-08-05T23:24:36Z",
+    "lang": "uk",
+    "source": {
+      "id": "716e7cb92f5f203aa3506c9ba057538c",
+      "name": "ПравдаТУТ NEWS",
+      "url": "https://pravdatutnews.com"
+    }
+  },
+  {
     "id": "e2652920078de9f441388be61430421e",
     "title": "Доступніший і більший за Renault 5 та Volkswagen ID.Polo: електрокар із 500 км ходу від Stellantis",
     "description": "Європейський ринок електромобілів готується до поповнення — концерн Stellantis представив нову модель Leapmotor B03, яка стане доступною альтернативою для міських водіїв.",
@@ -132,21 +147,6 @@
       "id": "19a6aca7ed85577cc8344d65dfbcd756",
       "name": "Zemliak",
       "url": "https://zemliak.com"
-    }
-  },
-  {
-    "id": "03a9ae063771ff1ee70595ccbf8f814a",
-    "title": "Модер перетворив NAS на ПК, збільшивши FPS на 828% й встановивши новий світовий рекорд Time Spy",
-    "description": "Техноблогер TrashBench модифікував NAS ZimaCube 2 в ігровий ПК з відеокартою RTX 5060.",
-    "content": "Техноблогер TrashBench модифікував NAS ZimaCube 2 в ігровий ПК з відеокартою RTX 5060.\nПопри малопотужний процесор Intel Core i5-1235U для ноутбуків, результати продемонстрували шалене зростання ігрової продуктивності на 828% у деяких тестах. Ютуберу... [3050 chars]",
-    "url": "https://itc.ua/ua/novini/moder-peretvoryv-nas-na-pk-zbilshyvshy-fps-na-828-j-vstanovyvshy-novyj-svitovyj-rekord-time-spy/",
-    "image": "https://cdn.itc.ua/uploads/2026/08/imgonline-com-ua-convertGyM7PDKlmTvl.jpg",
-    "publishedAt": "2026-08-05T10:57:47Z",
-    "lang": "uk",
-    "source": {
-      "id": "391d17d071b755a4bda37c1b43f47c2c",
-      "name": "ITC.ua",
-      "url": "https://itc.ua"
     }
   }
 ]
