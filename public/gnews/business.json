@@ -1,5 +1,65 @@
 [
   {
+    "id": "a983094acc4ae2fccca5da7ca8fb77b7",
+    "title": "Розробники ШІ заявляють про нову еру в історії людства",
+    "description": "Керівники Google, OpenAI, Anthropic і DeepMind вважають, що штучний інтелект наближається до сингулярності.",
+    "content": "Провідні розробники штучного інтелекту дедалі частіше говорять про наближення сингулярності — етапу, коли ШІ зможе прискорювати власний розвиток. Про можливість такого сценарію заявляють керівники OpenAI, Google DeepMind та інших провідних лабораторі... [2944 chars]",
+    "url": "https://zn.ua/ukr/TECHNOLOGIES/tekhnolohichna-sinhuljarnist-vzhe-poruch-rozrobniki-shi-zajavljajut-pro-pochatok-novoji-eri.html",
+    "image": "https://zn.ua/img/article/6922/29_main-v1786186402.webp",
+    "publishedAt": "2026-08-08T10:53:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "c5c959cb41bdd64f8b2b81a75752cf74",
+      "name": "Дзеркало тижня",
+      "url": "https://zn.ua"
+    }
+  },
+  {
+    "id": "b61e6ea56136a78f8158e6237c6a378f",
+    "title": "BYD кинула виклик Porsche і Mercedes-Benz: позашляховик Yangwang U8L коштує $216 000 і проїжджає до 1205 км",
+    "description": "BYD представила 4-місний Yangwang U8L за $216 000. Позашляховик отримав 4 електромотори, батарею 56,58 кВт·год і запас ходу до 1205 км.",
+    "content": "Багато хто звик до того, що BYD пропонує автомобілі значно дешевші за європейські та американські аналоги. Та цього разу китайська компанія вирішила показати, що вона також вміє будувати преміальні авто. Вона представила новий флагманський позашляхов... [2216 chars]",
+    "url": "https://itc.ua/ua/novini/byd-yangwang-u8l-216-000-proyizhdzhaye-do-1205-km/",
+    "image": "https://cdn.itc.ua/uploads/2026/08/BYD-Yangwang-U8L-4-seat.jpg",
+    "publishedAt": "2026-08-08T09:54:37Z",
+    "lang": "uk",
+    "source": {
+      "id": "391d17d071b755a4bda37c1b43f47c2c",
+      "name": "ITC.ua",
+      "url": "https://itc.ua"
+    }
+  },
+  {
+    "id": "4e6e1c00ad3f30c929f01581e4f28ac3",
+    "title": "Названо найпопулярнішого автовиробника у світі",
+    "description": "Автомобілі Toyota користуються великою популярністю в усьому світі зокрема в Україні. Детальніше про це читайте на сайті видання УНІАН зараз.",
+    "content": "За підсумками першого півріччя лідером світового авторинку стала Toyota Group, частка якої становила переконливі 12,4% (-3,9%). Про це повідомляє Focus2Move.\nАвтомобілі Toyota користуються великою популярністю в усьому світі. Машини японської марки ц... [1591 chars]",
+    "url": "https://www.unian.ua/economics/auto/nazvano-naypopulyarnishogo-avtovirobnika-u-sviti-13464228.html",
+    "image": "https://images.unian.net/photos/2025_10/thumb_files/620_324_1761043769-6068.jpg?1",
+    "publishedAt": "2026-08-08T09:51:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "d4361862486677369ff2ae7719b8d313",
+      "name": "УНІАН",
+      "url": "https://www.unian.ua"
+    }
+  },
+  {
+    "id": "a408a167b057f79cae37625895d92c87",
+    "title": "чому він уникає вкладень у золото",
+    "description": "Легендарний інвестор Воррен Баффет не вважає золото найкращим активом для довгострокових вкладень. Пояснюємо, чому він віддає перевагу бізнесу та акціям - Інвестиції.",
+    "content": "Чому Воррен Баффет не вважає золото хорошою інвестицією\nАмериканський мільярдер та голова Berkshire Hathaway Воррен Баффет неодноразово пояснював, що не бачить золото привабливим активом для довгострокових інвестицій, розповідає Forbes. На його думку... [1758 chars]",
+    "url": "https://financy.24tv.ua/investment24/investitsiyna-strategiya-baffeta-chomu-vin-unikaye-vkladen-zoloto_n3116985",
+    "image": "https://24tv.ua/resources/photos/news/202608/3116985.jpg?v=1785769280000&w=1200&h=675",
+    "publishedAt": "2026-08-08T09:00:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "e13bcd14a7bd08edb7ba7e9f6c802b40",
+      "name": "Фінанси 24",
+      "url": "https://financy.24tv.ua"
+    }
+  },
+  {
     "id": "eed6d99b3cebd7f7f73480e32edc3f0d",
     "title": "чому компанія перестала бути вигідною інвестицією",
     "description": "Колись Nokia домінувала на ринку мобільних телефонів і приваблювала інвесторів світу. Стратегічні помилки та запізніла реакція на появу смартфонів змінили долю компанії - Інвестиції.",
@@ -82,66 +142,6 @@
     "url": "https://24tv.ua/auto/toyota_land_cruiser_proikhav_999_999_kilometriv_iz_zavodskym_dvyhunom_avto_vystavyly_na_auktsion_n74674",
     "image": "https://24tv.ua/auto/resources/photos/news/202608/746748d25d468-64a7-45c9-8199-6834ea4c914f.jpg",
     "publishedAt": "2026-08-07T10:30:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "e737a8e76b161ef4526698e2ec5f60c9",
-      "name": "24 Канал",
-      "url": "https://24tv.ua"
-    }
-  },
-  {
-    "id": "38d2ac0e7a6836ceb8682a03f71a1b19",
-    "title": "Які позашляховики підходять для тривалих подорожей",
-    "description": "Любителям подорожей, кемпінгу та активного відпочинку важливо мати автомобіль, який поєднує місткий багажник, комфорт і здатність долати різні типи до",
-    "content": "Любителям подорожей, кемпінгу та активного відпочинку важливо мати автомобіль, який поєднує місткий багажник, комфорт і здатність долати різні типи доріг. Експерти проаналізували популярні моделі та склали добірку машин, що найкраще відповідають цим ... [2360 chars]",
-    "url": "https://news.uaportal.com/ukr/section-news/news-idealnyi-dlya-teh-kto-lyubit-puteshestvovat-top-samyih-vyinoslivyih-krossoverov-07-08-2026.html",
-    "image": "https://i.uaportal.com/news/2026/8/3/1920x.jpg?size=2010x1050",
-    "publishedAt": "2026-08-07T10:12:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "05da9c183ba08e168b60570b18b24484",
-      "name": "UAportal",
-      "url": "https://news.uaportal.com"
-    }
-  },
-  {
-    "id": "89272563165ae1ea7aef2699665568d1",
-    "title": "Штучний інтелект може стати загрозою для влади Компартії Китаю",
-    "description": "Китай часто називають одним із головних світових лідерів у сфері штучного інтелекту, однак саме ця технологія може створити серйозні ризики для Комуністичної",
-    "content": "Китай часто називають одним із головних світових лідерів у сфері штучного інтелекту, однак саме ця технологія може створити серйозні ризики для Комуністичної партії Китаю. Такого висновку дійшов The Economist у своїй новій редакційній статті.\nНа думк... [669 chars]",
-    "url": "https://donpatriot.news/shtuchnyj-intelekt-mozhe-staty-zagrozoyu-dlya-vlady-kompartiyi-kytayu",
-    "image": "https://donpatriot.news/wp-content/uploads/2026/04/navchannya-shi.jpg",
-    "publishedAt": "2026-08-07T10:00:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "556066753a7a30eb0619823360acdde4",
-      "name": "Патріот Донбасу",
-      "url": "https://donpatriot.news"
-    }
-  },
-  {
-    "id": "247560888aabdace0517ddad777b6cdb",
-    "title": "скільки коштує мідь за 1 тонну",
-    "description": "Ціна на мідь наблизилася до рекорду через скорочення короткострокової пропозиції на світовому ринку. Скільки коштує 1 кг міді в Україні – читайте на УНІАН",
-    "content": "Мідь наближається до рекорду. Ціни злетіли через ознаки скорочення короткострокової пропозиції на світовому ринку.\nВидання Bloomberg повідомляє, що на Лондонській біржі металів (LME) ціна на мідь зросла на 0,9%, перевищивши рекордний рівень, встановл... [1232 chars]",
-    "url": "https://www.unian.ua/economics/other/mid-na-shlyahu-do-novogo-rekordu-skilki-koshtuye-mid-za-1-tonnu-13463379.html",
-    "image": "https://images.unian.net/photos/2025_12/thumb_files/1000_545_1765179106-9643.jpg?1",
-    "publishedAt": "2026-08-07T09:44:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "d4361862486677369ff2ae7719b8d313",
-      "name": "УНІАН",
-      "url": "https://www.unian.ua"
-    }
-  },
-  {
-    "id": "cdcc48c90827cde4c3f8af2a630762d1",
-    "title": "Скільки коштує ВАЗ-2105 у стані нового авто",
-    "description": "У Києві продають 40-річний ВАЗ-2105 із пробігом лише 3700 км. Це один із найбільш збережених екземплярів.",
-    "content": "На українському ринку з'явився незвичайний екземпляр ВАЗ-2105. У Києві на продаж виставили седан 1986 року випуску із заявленим пробігом лише 3700 км. За автомобіль просять 12 000 доларів, що за поточним курсом становить близько 537 тис. грн.\nЯк пише... [1133 chars]",
-    "url": "https://24tv.ua/auto/skilky_koshtuie_vaz_2105_u_stani_novoho_avto_n74671",
-    "image": "https://24tv.ua/auto/resources/photos/news/202608/7467123183730-295c-4d45-9c4c-d658ddeea0b4.jpg",
-    "publishedAt": "2026-08-07T09:42:00Z",
     "lang": "uk",
     "source": {
       "id": "e737a8e76b161ef4526698e2ec5f60c9",
