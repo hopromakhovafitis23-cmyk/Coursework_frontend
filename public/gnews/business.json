@@ -1,5 +1,35 @@
 [
   {
+    "id": "41b04f6708485ba76cebabd00f646f85",
+    "title": "Samsung розробляє власних людиноподібних роботів • Межа",
+    "description": "Компанія Samsung протягом кількох років веде роботу над створенням власних людиноподібних роботів. За даними джерел, розробка здійснюється повністю власними силами та перебуває на досить просунутому етапі.",
+    "content": "Компанія Samsung протягом кількох років веде роботу над створенням власних людиноподібних роботів. За даними TrendForce (через SamMobile), розробка здійснюється повністю власними силами та перебуває на досить просунутому етапі.\nУ липні компанія підтв... [1976 chars]",
+    "url": "https://mezha.ua/news/samsung-rozroblyaye-vlasnih-lyudinopodibnih-robotiv-314094/",
+    "image": "https://img.mezha.ua/mezha/images/doc/0/c/321283/0c1ec4954680f6051ed1d74f20a8c357.jpeg?w=1200&q=85&stamp=1786478050",
+    "publishedAt": "2026-08-11T20:56:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "6b0257d31504a630dde7752eed4e1e39",
+      "name": "Mezha",
+      "url": "https://mezha.ua"
+    }
+  },
+  {
+    "id": "ef764233c1fc8fcac4e0a5ed1aa6150f",
+    "title": "він був здивований тим, що отримав",
+    "description": "Купівля автомобіля \"наосліп\" може нести певні ризики. Однак це не зупинило мешканця Оклахоми, який придбав електромобіль Tesla Model X за 9 500 доларів.",
+    "content": "Купівля автомобіля \"наосліп\" може таїти в собі величезні ризики. Однак це не зупинило мешканця Оклахоми, який вирішив придбати електрокросовер Tesla Model X 90D 2016 року випуску за 9 500 доларів, пише Supercar Blondie.\nАвтор YouTube-каналу The Car A... [1813 chars]",
+    "url": "https://www.unian.ua/curiosities/cholovik-iz-ssha-kupiv-nedorogiy-elektromobil-tesla-vin-buv-zdivovaniy-tim-shcho-otrimav-13466988.html",
+    "image": "https://images.unian.net/photos/2026_08/thumb_files/1000_545_1786453618-3428.jpg?1",
+    "publishedAt": "2026-08-11T20:39:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "d4361862486677369ff2ae7719b8d313",
+      "name": "УНІАН",
+      "url": "https://www.unian.ua"
+    }
+  },
+  {
     "id": "a97e7e56ba0f405bab5f9310962c30ec",
     "title": "Названо найпопулярніші іноземні вживані авто в Україні",
     "description": "Найбільшим попитом користувалися бензинові моделі, а лідером серед окремих моделей уперше став Volkswagen Tiguan.",
@@ -117,36 +147,6 @@
       "id": "e737a8e76b161ef4526698e2ec5f60c9",
       "name": "24 Канал",
       "url": "https://24tv.ua"
-    }
-  },
-  {
-    "id": "49bf093fdb93bf506291ed6fd5ccb06f",
-    "title": "продажі електромобілів впали на 44%",
-    "description": "Значне збільшення податків ризвело до перерозподілу ринку. Продажі електричок зменшились.",
-    "content": "У липні 2026 року український автопарк поповнили понад 3,9 тис. електромобілів (BEV). Порівняно з аналогічним місяцем минулого року попит на електромобілі скоротився на 44%, повідомляє Укравтопром.\nОсновну частину липневих реєстрацій становили легков... [1112 chars]",
-    "url": "https://24tv.ua/auto/prodazhi_elektromobiliv_v_ukraini_vpaly_na_44_nazvano_naipopuliarnishi_modeli_lypnia_n74747",
-    "image": "https://24tv.ua/auto/resources/photos/news/202608/74747aa2d60fa-29b0-43fa-b2ff-e887e2f7c17a.jpg",
-    "publishedAt": "2026-08-11T08:40:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "e737a8e76b161ef4526698e2ec5f60c9",
-      "name": "24 Канал",
-      "url": "https://24tv.ua"
-    }
-  },
-  {
-    "id": "1b1bc35d19525b8e4554d457bfa75d1a",
-    "title": "YouTube розширює передплату Premium Lite на всі регіони із Premium • Межа",
-    "description": "YouTube оголосив, що YouTube Premium Lite – дешевша підписка без реклами, але з меншою кількістю функцій – незабаром запрацює в усіх регіонах, де доступний Premium.",
-    "content": "YouTube оголосив, що YouTube Premium Lite – дешевша підписка без реклами, але з меншою кількістю функцій – незабаром запрацює в усіх регіонах, де доступний Premium.\nYouTube Premium – це платна підписка на YouTube, яка пропонує перегляд без реклами, ф... [1254 chars]",
-    "url": "https://mezha.ua/news/youtube-premium-lite-expands-to-all-premium-region-314062/",
-    "image": "https://img.mezha.ua/mezha/images/doc/b/3/321186/b3d113a54eadb0fa2208ab03de2dc487.jpeg?w=1200&q=85&stamp=1786428558",
-    "publishedAt": "2026-08-11T06:46:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "6b0257d31504a630dde7752eed4e1e39",
-      "name": "Mezha",
-      "url": "https://mezha.ua"
     }
   }
 ]
