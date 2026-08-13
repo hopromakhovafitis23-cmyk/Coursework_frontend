@@ -1,5 +1,20 @@
 [
   {
+    "id": "bf38ef0b711614403ce5ce58b04329dd",
+    "title": "Американський Ford повертає з Китаю додому виробництво позашляховиків Lincoln",
+    "description": "Компанія Ford Motor Co. припинить імпорт єдиної моделі, яку вона постачає до США з Китаю, перенісши виробництво позашляховиків Lincoln на свій домашній ринок.",
+    "content": "Компанія Ford Motor Co. припинить імпорт єдиної моделі, яку вона постачає до США з Китаю, перенісши виробництво позашляховиків Lincoln на свій домашній ринок.\nПро це пише Bloomberg.\n\"Автовиробник зі штату Мічиган заявив, що розширить виробництво Linc... [963 chars]",
+    "url": "https://epravda.com.ua/biznes/amerikanskiy-ford-povertaye-z-kitayu-dodomu-virobnictvo-pozashlyahovikiv-lincoln-824589/",
+    "image": "https://img.epravda.com.ua/epravda/images/doc/3/0/175725/3026c46c3236a496e9334e540a636bb7.jpeg?w=1920&q=85",
+    "publishedAt": "2026-08-13T06:48:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "9b9cf9e76aeefea346957bfe5f6dafc5",
+      "name": "Економічна правда",
+      "url": "https://epravda.com.ua"
+    }
+  },
+  {
     "id": "4072c0b32fcc61cd889502e9d708b851",
     "title": "Чому яблука з магазину несмачні",
     "description": "Куплені фрукти часто виявляються ватяними й суховатими. Фахівець розповів, як клімат, тривале зберігання та сезонність впливають на якість плодів.",
@@ -132,21 +147,6 @@
       "id": "5f3893b2bdd83721567eef82ac0a6d2e",
       "name": "Korrespondent.net",
       "url": "https://ua.korrespondent.net"
-    }
-  },
-  {
-    "id": "68733095923ab5b0ffa82fd4eb9aee28",
-    "title": "Хакери втрутились у Wi-Fi свого ж літака, на якому летіли додому з хакерської конференції",
-    "description": "Учасники хакерської конференції DEF CON створили підробну мережу Wi-Fi на борту Boeing 757. ФБР розслідує інцидент з викраденням паролів під час польоту до Атланти.",
-    "content": "Атака прямо у повітрі\nІнцидент стався на борту Boeing 757, який виконував рейс 591 з Лас-Вегаса до Атланти. Подія розгорталася в понеділок, 10 серпня, одразу після завершення легендарної конференції DEF CON 34. Приблизно через 60 хвилин після зльоту ... [2132 chars]",
-    "url": "https://24tv.ua/tech/hakeri-vtrutilis-wi-fi-svogo-zh-litaka-yakomu-letili-dodomu-hakerskoyi_n3121854",
-    "image": "https://24tv.ua/resources/photos/news/202608/3121854.jpg?v=1786525427000&w=1200&h=675",
-    "publishedAt": "2026-08-12T14:31:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "e737a8e76b161ef4526698e2ec5f60c9",
-      "name": "24 Канал",
-      "url": "https://24tv.ua"
     }
   }
 ]
