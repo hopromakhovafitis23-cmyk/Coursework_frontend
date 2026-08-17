@@ -1,5 +1,35 @@
 [
   {
+    "id": "39ddbe5e6e7931c6a96bbc6e18a5b79d",
+    "title": "Комета Галлея знову наблизиться до Сонця: коли її можна буде побачити",
+    "description": "Комета Галлея повернеться до внутрішньої частини Сонячної системи у 2061 році. Найближче до Сонця вона пройде 28 липня, після чого наступне проходження перигелію очікується лише 27 березня 2134 року.",
+    "content": "Комета Галлея повернеться до внутрішньої частини Сонячної системи у 2061 році. Найближче до Сонця вона пройде 28 липня, після чого наступне проходження перигелію очікується лише 27 березня 2134 року.\nНауковий журнал Space Daily зазначає, що 28 липня ... [5960 chars]",
+    "url": "https://www.obozrevatel.com/ukr/nauka-oboz/kometa-galleya-znovu-nablizitsya-do-sontsya-koli-ii-mozhna-bude-pobachiti.htm",
+    "image": "https://i.obozrevatel.com/news/2026/8/17/c2025a6lemmonon2october2025.jpg?size=1200x630",
+    "publishedAt": "2026-08-16T21:22:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "ca149ffefb31c86f82d7f299d744af59",
+      "name": "Obozrevatel",
+      "url": "https://www.obozrevatel.com"
+    }
+  },
+  {
+    "id": "f69ba2fa07829eb988fd77dc01b5dec0",
+    "title": "Новий мікроскоп MIT показав електричну активність усього мозку",
+    "description": "MIT створив мікроскоп, який сканує мозок личинки даніо 200 разів на секунду й бачить окремі електричні імпульси нейронів.",
+    "content": "Інженери MIT створили мікроскоп, який може реєструвати електричну активність нейронів, розподілених майже по всьому мозку живої личинки даніо. Система працює з мілісекундною точністю й дозволяє бачити не повільний непрямий сигнал, а самі швидкі елект... [2677 chars]",
+    "url": "https://newsyou.info/2026/08/high-speed-microscope-brain-electrical-activity",
+    "image": "https://news.mit.edu/sites/default/files/download/202608/MIT-Brain-Imaging-01-press.jpg",
+    "publishedAt": "2026-08-16T19:20:53Z",
+    "lang": "uk",
+    "source": {
+      "id": "7130d7ed5c47f8817fa97121ce2de1dc",
+      "name": "NewsYou.Info",
+      "url": "https://newsyou.info"
+    }
+  },
+  {
     "id": "5acb7dfc272b220cbeb70d5b517f16e1",
     "title": "чому люди після 60 можуть гостріше захищати свою незалежність",
     "description": "Поведінку, яку родичі називають \"впертістю\", фахівці пов'язують із психологічним феноменом реактансу – реакцією людини на спробу позбавити її права вибору.",
@@ -112,36 +142,6 @@
     "url": "https://tsn.ua/nauka_it/heny-davnikh-liudey-dopomohly-perezyty-ostanniy-lyodovykovyy-period-shcho-ziasuvaly-vcheni-3149624.html",
     "image": "https://img.tsn.ua/cached/548/tsn-1284f5ef/thumbs/1200x630/1f/d1/2a7dc785b9c2c2420377c6e1a5fdd11f.jpg",
     "publishedAt": "2026-08-16T09:41:44Z",
-    "lang": "uk",
-    "source": {
-      "id": "ae8b9c98d707754fca5e1ea622855c50",
-      "name": "ТСН",
-      "url": "https://tsn.ua"
-    }
-  },
-  {
-    "id": "4ec9506ea03edff583bd94682ee042d2",
-    "title": "мільйонна скам’янілість може переписати історію живородіння",
-    "description": "У Chiniquodon theotonicus знайшли неонатальну лінію та ознаки великого новонародженого. Це може відсунути появу живородіння на 90–95 млн років.",
-    "content": "Живородіння могло з’явитися у лінії предків ссавців набагато раніше, ніж вважалося. У скам’янілості цинодонта Chiniquodon theotonicus віком близько 236 мільйонів років дослідники знайшли мікроскопічну неонатальну лінію в кістці та змогли оцінити розм... [2354 chars]",
-    "url": "https://newsyou.info/2026/08/236-milioniv-rokiv-zhyvorodinnia-predky-ssavtsiv",
-    "image": "https://www.sciencedaily.com/images/1920/chiniquodon-theotonicus-life-reconstruction.webp",
-    "publishedAt": "2026-08-16T09:25:32Z",
-    "lang": "uk",
-    "source": {
-      "id": "7130d7ed5c47f8817fa97121ce2de1dc",
-      "name": "newsyou.info",
-      "url": "https://newsyou.info"
-    }
-  },
-  {
-    "id": "2b98521aa5a47141157b3e54b3b41488",
-    "title": "Учені розшифрували ДНК загадкового галюциногенного гриба",
-    "description": "Протягом століть людей мучать галюцинації з крихітними чоловічками: відомо, що їх викликає ᐅТSN.ua (новини 1+1)",
-    "content": "Гриб Lanmaoa asiatica дійсно спричиняє галюцинації з сотнями крихітних чоловічків, хоча психоделічних речовин у ньому немає.\nПро це повідомляє Gizmodo.\nЗразки гриба аспірант-міколог Колін Домнауер зібрав у китайській провінції Юньнань і філіппінськом... [1552 chars]",
-    "url": "https://tsn.ua/nauka_it/tayemnychi-hryby-iaki-zmushuiut-liudey-bachyty-krykhitnykh-cholovichkiv-vcheni-rozshyfruvaly-yoho-dnk-3149588.html",
-    "image": "https://img.tsn.ua/cached/618/tsn-51cb131e/thumbs/1200x630/00/96/bb8324426f2c7a9d120476ef5bb39600.jpg",
-    "publishedAt": "2026-08-16T08:10:48Z",
     "lang": "uk",
     "source": {
       "id": "ae8b9c98d707754fca5e1ea622855c50",
