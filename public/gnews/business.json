@@ -1,5 +1,65 @@
 [
   {
+    "id": "90226258f4bc1ea0b428bb550f56cc99",
+    "title": "Водоплаваюча Tesla Model 3 в Україні здивувала американців",
+    "description": "Американські автожурналісти були вражені, побачивши, як Tesla плаває затопленими вулицями десь в Україні - читайте докладно в матеріалі УНІАН",
+    "content": "Коли Ілон Маск проектував свою Tesla Model 3, він розраховував, що ця машина їздитиме ідеально рівними дорогами при плюсовій температурі, а станції швидкої зарядки стоятимуть через кожні 5 кілометрів. Він точно не знав, що на світі існують країни, зо... [2816 chars]",
+    "url": "https://www.unian.ua/curiosities/vodoplavayucha-tesla-model-3-v-ukrajini-zdivuvala-amerikanciv-13471755.html",
+    "image": "https://images.unian.net/photos/2026_08/thumb_files/620_324_1786882467-1131.jpg?1",
+    "publishedAt": "2026-08-16T12:45:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "d4361862486677369ff2ae7719b8d313",
+      "name": "УНІАН",
+      "url": "https://www.unian.ua"
+    }
+  },
+  {
+    "id": "a78aec8571fdff8f5206ae9f902ae9c6",
+    "title": "ChatGPT скасовує ліміти у 2026 році",
+    "description": "Безкоштовний доступ до GPT-5.6 Luna тепер включає безлімітне спілкування текстом. OpenAI зберігає щотижневі обмеження на роботу з файлами та додає рекламу в основні відповіді чат-бота.",
+    "content": "Які можливості отримали користувачі безкоштовного тарифу\nВід серпня 2026 року користувачам без підписки відкрили необмежену кількість текстових повідомлень. Тепер базовий тариф працює на основній моделі GPT-5.6 Luna, яка прийшла на зміну GPT-5.5 Inst... [1826 chars]",
+    "url": "https://24tv.ua/tech/chatgpt-skasovuye-limiti-2026-rotsi-novi-dostupni-funktsiyi-modeli_n3122633",
+    "image": "https://24tv.ua/resources/photos/news/202608/3122633.jpg?v=1786613702000&w=1200&h=675",
+    "publishedAt": "2026-08-16T12:01:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "e737a8e76b161ef4526698e2ec5f60c9",
+      "name": "24 Канал",
+      "url": "https://24tv.ua"
+    }
+  },
+  {
+    "id": "1b5b46e5296433bbb6a507c66ceed28a",
+    "title": "Nvidia інвестує три мільярди в центр обробки даних",
+    "description": "Детальніше про це читайте у новині ЕП",
+    "content": "Nvidia веде переговори про інвестування до 3 мільярдів доларів у SB Energy, дочірню компанію SoftBank Group, яка розробляє масштабний проєкт центру обробки даних в Огайо для OpenAI.\nПро це повідомило видання The Information у суботу з посиланням на д... [963 chars]",
+    "url": "https://epravda.com.ua/tehnologiji/nvidia-investuye-tri-milyardi-v-centr-obrobki-danih-824676/",
+    "image": "https://img.epravda.com.ua/epravda/images/doc/b/c/176393/bc94fe2a645b15f10cf11a13aa8ba1e9.jpeg?w=1920&q=85",
+    "publishedAt": "2026-08-16T11:10:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "9b9cf9e76aeefea346957bfe5f6dafc5",
+      "name": "Економічна правда",
+      "url": "https://epravda.com.ua"
+    }
+  },
+  {
+    "id": "e3be7aeead0ca49206c03acfcf7e8842",
+    "title": "Найпопулярніші кросовери в Україні: найкращі моделі",
+    "description": "Добірка найпопулярніших кросоверів в Україні - уся правда про Renault Duster, Toyota RAV4, Hyundai Tucson, Mazda CX-5, Nissan Qashqai, VW Tiguan та Škoda Kodiaq - Авто24",
+    "content": "На вторинному ринку картина дещо інша: тут особливо сильні Volkswagen Tiguan, Audi Q5, Nissan Rogue, Nissan Qashqai, Mazda CX-5 та Hyundai Tucson. За даними рейтингу імпортованих уживаних SUV за першу половину 2026 року, частка кросоверів серед таких... [6409 chars]",
+    "url": "https://24tv.ua/auto/naipopuliarnishi_krosovery_v_ukraini_dobirka_modelei_novoho_ta_vtorynnoho_rynku_n74857",
+    "image": "https://24tv.ua/auto/resources/photos/news/202608/7485782fcad95-131d-4b55-96c9-56b8b0242cb3.jpg",
+    "publishedAt": "2026-08-16T10:13:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "e737a8e76b161ef4526698e2ec5f60c9",
+      "name": "24 Канал",
+      "url": "https://24tv.ua"
+    }
+  },
+  {
     "id": "5d7129c3e93c0f77ceabcaa74da721de",
     "title": "США закликали Apple уникати китайських чипів - ЗМІ",
     "description": "Адміністрація Трампа закликала компанію не купувати чипи пам’яті у китайських виробників на тлі глобального дефіциту, спричиненого розвитком ШІ.",
@@ -87,66 +147,6 @@
       "id": "e1db65ee22b4e2d08bcca5c44a306103",
       "name": "Retailers.ua",
       "url": "https://retailers.ua"
-    }
-  },
-  {
-    "id": "424c6515b63775673f0446ea3e65f7b3",
-    "title": "Смартфони дешевше 5000 грн скоро можуть зникнути: що відбувається",
-    "description": "Виробники або припиняють постачання смартфонів вартістю до 100 доларів, або змушені підвищувати ціни, щоб компенсувати подорожчання комплектуючих.",
-    "content": "Смартфони вартістю менше 100 доларів незабаром можуть стати рідкістю або взагалі зникнути з полиць. У другому кварталі 2026 року продажі таких моделей у США скоротилися на 64% у річному вимірі, і головною причиною називають різке зростання цін на опе... [1874 chars]",
-    "url": "https://www.unian.ua/techno/gadgets/smartfoni-deshevshe-za-5000-grn-skoro-mozhut-zniknuti-shcho-vidbuvayetsya-13471125.html",
-    "image": "https://images.unian.net/photos/2026_08/thumb_files/1000_545_1786799891-6394.jpg?1",
-    "publishedAt": "2026-08-15T13:45:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "d4361862486677369ff2ae7719b8d313",
-      "name": "УНІАН",
-      "url": "https://www.unian.ua"
-    }
-  },
-  {
-    "id": "2583d605025218557778dca3ce63b2f4",
-    "title": "Індійські електромобілі випередили Tesla",
-    "description": "Електрокари Tata Sierra.ev та Mahindra BE 6 випередили американські електромобілі за показником енергоефективності (Вт-год/км).",
-    "content": "Електрокари Tata Sierra.ev та Mahindra BE 6 випередили американські електромобілі за показником енергоефективності (Вт-год/км).\nЗа рейтингами електрокар Tata показав 106 Вт-год/км.\nІндійські моделі мають батарею 59 кВт-год та 79 кВт-год.\nЗа рейтингом... [3896 chars]",
-    "url": "https://motorcar.com.ua/news/indijski-elektromobili-tata-vyperedyly-tesla-2026/",
-    "image": "https://motorcar.com.ua/wp-content/uploads/2026/08/tata-power-ev-charging-station.webp",
-    "publishedAt": "2026-08-15T13:16:16Z",
-    "lang": "uk",
-    "source": {
-      "id": "ccf5b23cf2f813320e7baafea8cf4ea7",
-      "name": "motorcar.com.ua",
-      "url": "https://motorcar.com.ua"
-    }
-  },
-  {
-    "id": "5faa4e4abc00d285267abdd6a44fd89d",
-    "title": "Чи вигідно купувати квартиру під оренду в Чехії",
-    "description": "Купівля квартири в Чехії з розрахунком здавати її в оренду зараз виглядає найменш привабливо приблизно за чотири роки. Високі ціни нерухомості та дорогі",
-    "content": "Купівля квартири в Чехії з розрахунком здавати її в оренду зараз виглядає найменш привабливо приблизно за чотири роки. Високі ціни нерухомості та дорогі іпотеки дедалі сильніше з’їдають дохід, який власник отримує від орендарів.\nПро це пише Чехія-Онл... [2900 chars]",
-    "url": "https://donpatriot.news/chy-vygidno-kupuvaty-kvartyru-pid-orendu-v-chehiyi",
-    "image": "https://donpatriot.news/wp-content/uploads/2026/03/chehyya-flag1.jpg",
-    "publishedAt": "2026-08-15T13:05:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "556066753a7a30eb0619823360acdde4",
-      "name": "Патріот Донбасу",
-      "url": "https://donpatriot.news"
-    }
-  },
-  {
-    "id": "f6ea2e4f4e162ebdfd8b05c5c03cfeff",
-    "title": "Anthropic прогнозує до $200 млрд виручки у 2028 році",
-    "description": "Anthropic очікує виручку в розмірі 190–200 млрд доларів у 2028 році, а інвестори використовують цей прогноз для оцінки компанії перед IPO.",
-    "content": "Американська ШІ-компанія Anthropic, розробник чатбота Claude, прогнозує виручку на рівні $190–200 млрд у 2028 році – більш ніж учетверо вище за нинішній річний темп бізнесу компанії у $47 млрд.\nПро це пише Reuters із посиланням на два джерела, обізна... [1402 chars]",
-    "url": "https://epravda.com.ua/tehnologiji/anthropic-prognozuye-do-200-mlrd-viruchki-u-2028-roci-824667/",
-    "image": "https://img.epravda.com.ua/epravda/images/doc/0/7/176384/077efbcd0426ee94337c403f90bac3b1.jpeg?w=1920&q=85",
-    "publishedAt": "2026-08-15T12:00:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "9b9cf9e76aeefea346957bfe5f6dafc5",
-      "name": "Економічна правда",
-      "url": "https://epravda.com.ua"
     }
   }
 ]
