@@ -1,5 +1,65 @@
 [
   {
+    "id": "99a434a4955c34f8fc1292c0338b4e90",
+    "title": "Польща мала вісім САУ 2С7 \"Піон\", із них половина зараз в музеях, чи могли інші посилити ЗСУ",
+    "description": "Коли польська армія списала свої 2С7 \"Піон\", в яких музеях можна побачити ці САУ, та яка \"біла пляма\" є у цій історії",
+    "content": "Військо Польське до 2006 року мало на озброєнні вісім самохідних артустановок 2С7 \"Піон\" калібру 203-мм, які були в строю 5-ої та 23-ої артилерійських бригад. Після списання частина із цих САУ, тобто чотири одиниці, стали експонатами деяких польських... [2299 chars]",
+    "url": "https://defence-ua.com/weapon_and_tech/polscha_mala_visim_sau_2s7_pion_iz_nih_polovina_zaraz_v_muzejah_chi_mogli_inshi_posiliti_zsu-23987.html",
+    "image": "https://defence-ua.com/media/illustration/articles/2cf6a82ed04824e8.jpg",
+    "publishedAt": "2026-08-18T06:21:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "f488af954cb509cbacccbd34e7f47985",
+      "name": "Defense Express",
+      "url": "https://defence-ua.com"
+    }
+  },
+  {
+    "id": "448593c61fd3109e57566c13be76c049",
+    "title": "Тест-драйв Skoda Kamiq Monte Carlo: маленький кросовер із великим характером",
+    "description": "Тестуємо Skoda Kamiq Monte Carlo — компактний кросовер із оновленим дизайном, спортивними акцентами та фірмовою практичністю Skoda. Розповідаємо, як змінилася версія Monte Carlo, що вона пропонує в салоні, як поводиться на дорозі та чи виправдовує доплата за стиль.",
+    "content": "Від цього маленького кросовера віє духом свободи, легким бризом та нотками авантюризму. Здавалось би легкі зміни сталися у Skoda Kamiq Monte Carlo, але вони повністю перевертають сприйняття представника чеської школи зі стриманим дизайном і відсутніс... [11246 chars]",
+    "url": "https://itc.ua/ua/articles/test-drajv-skoda-kamiq-monte-carlo-malenkyj-krosover-iz-velykym-harakterom/",
+    "image": "https://cdn.itc.ua/uploads/2026/08/AER_3383-835x557.jpg",
+    "publishedAt": "2026-08-18T06:00:01Z",
+    "lang": "uk",
+    "source": {
+      "id": "391d17d071b755a4bda37c1b43f47c2c",
+      "name": "itc.ua",
+      "url": "https://itc.ua"
+    }
+  },
+  {
+    "id": "4b548993227ea9b29cdd5d3897536db1",
+    "title": "Apple припинить підтримку цих пристроїв у 2026 році: перевірте, чи є у списку ваш",
+    "description": "Apple у 2026 році припинить підтримку старих Apple Watch, iPad, Mac і Apple TV, які не отримають нові версії операційних систем. - ITsider.com.ua",
+    "content": "Аpple у 2026 році припинить підтримку низки старих пристроїв, які не зможуть перейти на нові версії ОС. Водночас усі iPhone, сумісні з iOS 26, отримають і iOS 27, пише PhoneArena.\nБез watchOS 27 залишаться Apple Watch Series 6, 7, 8, перше покоління ... [734 chars]",
+    "url": "https://itsider.com.ua/apple-prypynyt-pidtrymku-tsyh-prystroyiv-u-2026-rotsi-perevirte-chy-ye-u-spysku-vash/",
+    "image": "https://itsider.com.ua/catalog/uploaded/2026/08/rfl5oh-c1536x921x0sx62s-42a27acfbae17b891c5ca19b12901f9d.jpg",
+    "publishedAt": "2026-08-18T05:05:12Z",
+    "lang": "uk",
+    "source": {
+      "id": "734dbff0a78be4114fce5962aa39dc2c",
+      "name": "ITsider.",
+      "url": "https://itsider.com.ua"
+    }
+  },
+  {
+    "id": "a1a63ec294970bacbbe83b84c110f29f",
+    "title": "Mercedes-Benz оновив найпопулярніший клас: потужніші двигуни і технологічніший салон",
+    "description": "У Німеччині дебютував оновлений Mercedes-Benz C-Class W206.",
+    "content": "Фото: Mercedes-Benz\nЦе наймасовіша модель марки — випущено вже понад 12 мільйонів авто, і саме тому компанія вирішила не відмовлятися від версії з двигунами внутрішнього згоряння, навіть попри появу електричного C-Class. Новинка отримала виразніший д... [2082 chars]",
+    "url": "https://pravdatutnews.com/avto/2026/08/18/84230-mercedes-benz-onovyv-naypopulyarnishyy-klas-potuzhnishi-dvyguny-i",
+    "image": "https://pravdatutnews.com/sites/default/files/news/2026/08/18/mercedes-benz_c-class.jpg",
+    "publishedAt": "2026-08-17T23:12:13Z",
+    "lang": "uk",
+    "source": {
+      "id": "716e7cb92f5f203aa3506c9ba057538c",
+      "name": "ПравдаТУТ NEWS",
+      "url": "https://pravdatutnews.com"
+    }
+  },
+  {
     "id": "2fa338af460694ef0cc06e539032df29",
     "title": "Названо 5 кросоверів і позашляховиків, здатних прослужити понад 15 років",
     "description": "Експерти назвали п’ять кросоверів і позашляховиків Honda, Toyota та Lexus, які за належного обслуговування здатні прослужити понад 15 років. - ITsider.com.ua",
@@ -87,66 +147,6 @@
       "id": "5f3893b2bdd83721567eef82ac0a6d2e",
       "name": "Korrespondent.net",
       "url": "https://ua.korrespondent.net"
-    }
-  },
-  {
-    "id": "711d1eec256a05a63cc88e7340c91ed1",
-    "title": "Індія рекордно наростить імпорт соєвої олії",
-    "description": "Індія може імпортувати рекордні 620 тис. тонн соєвої олії у серпні через низькі ціни та перебої з поставками соняшникової олії.",
-    "content": "Індія у серпні може імпортувати рекордні 620 тис. тонн соєвої олії на тлі конкурентних цін і перебоїв із постачанням соняшникової олії з Росії та України.\nПро це пише Reuters із посиланням на чотирьох трейдерів, безпосередньо залучених до угод.\nПрогн... [1627 chars]",
-    "url": "https://epravda.com.ua/svit/indiya-rekordno-narostit-import-soyevoji-oliji-824711/",
-    "image": "https://img.epravda.com.ua/epravda/images/doc/e/e/176752/ee3d3f704c4a8fcdeb832baf4a310c8c.jpeg?w=1920&q=85",
-    "publishedAt": "2026-08-17T14:30:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "9b9cf9e76aeefea346957bfe5f6dafc5",
-      "name": "Економічна правда",
-      "url": "https://epravda.com.ua"
-    }
-  },
-  {
-    "id": "88f04759c08694dc11020cc83b393fd7",
-    "title": "Ідеальні для пенсіонерів: названі найкращі вживані авто",
-    "description": "Стрімке зростання цін на авторинку змушує багатьох покупців, особливо людей на пенсії, шукати якісні альтернативи серед авто із пробігом.",
-    "content": "Стрімке зростання цін на авторинку змушує багатьох покупців, особливо людей на пенсії, шукати якісні альтернативи серед авто із пробігом. Завдяки високим оцінкам надійності від JD Power та відмінним результатам краш-тестів IIHS, навіть на бюджетному ... [4489 chars]",
-    "url": "https://www.obozrevatel.com/ukr/avto-oboz/idealni-dlya-pensioneriv-nazvani-najkraschi-vzhivani-avto.htm",
-    "image": "https://i.obozrevatel.com/news/2026/8/17/pexels-rdne-6540128.jpg?size=1200x630",
-    "publishedAt": "2026-08-17T14:03:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "ca149ffefb31c86f82d7f299d744af59",
-      "name": "Obozrevatel",
-      "url": "https://www.obozrevatel.com"
-    }
-  },
-  {
-    "id": "2435b78b008dc22d8f011ae434f71f0f",
-    "title": "характеристики та ціна",
-    "description": "Новий електричний кросовер Voyah Passion S виконав 360-градусну петлю в тунелі. Він отримав до 637 к.с., батарею 98 кВт-год і запас ходу до 740 кілометрів - Авто24",
-    "content": "Voyah Passion S – це новий електричний кросовер, який виробник позиціонує як FUV (автомобіль для подорожей поза дорогами). Модель доступна у трьох комплектаціях й ціни в Китаї становлять від 229 900 до 279 900 юанів, що еквівалентно приблизно 33 800-... [2970 chars]",
-    "url": "https://24tv.ua/auto/kytaitsi_z_voyah_sprobuvaly_povtoryty_reklamu_mercedes_benz_z_triukom_v_tuneli_chy_vyishlo_v_nykh_tse_n74902",
-    "image": "https://24tv.ua/auto/resources/photos/news/202608/749024c007f32-f464-4e34-b3c4-e2009816f622.jpg",
-    "publishedAt": "2026-08-17T13:40:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "e737a8e76b161ef4526698e2ec5f60c9",
-      "name": "24tv.ua",
-      "url": "https://24tv.ua"
-    }
-  },
-  {
-    "id": "3865f6196824c8483955e6883a86d027",
-    "title": "яка ціна на аукціоні",
-    "description": "Рідкісний Toyota Land Cruiser 1997 року має пробіг лише 7544 км. Позашляховик з 4,5-літровим двигуном 1FZ-FE повністю оригінальний та виставлений на аукціон. Ставка вже перевищила 130 тисяч доларів - Авто24",
-    "content": "Для Land Cruiser невеликий пробіг є особливо незвичним. Такі позашляховики часто використовували як повсякденний транспорт, для подорожей та експлуатації на складних дорогах, тому екземпляр із настільки малим пробігом знайти непросто. Як повідомляє C... [1754 chars]",
-    "url": "https://24tv.ua/auto/absoliutno_novyi_toyota_land_cruiser_1997_roku_vystavyly_na_prodazh_tsina_vrazhaie_n74900",
-    "image": "https://24tv.ua/auto/resources/photos/news/202608/74900bd4f0b98-06ea-4023-a59e-43b4f3a7ec15.jpg",
-    "publishedAt": "2026-08-17T12:50:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "e737a8e76b161ef4526698e2ec5f60c9",
-      "name": "24 Канал",
-      "url": "https://24tv.ua"
     }
   }
 ]
