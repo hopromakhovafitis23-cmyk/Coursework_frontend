@@ -1,5 +1,20 @@
 [
   {
+    "id": "df76a451ccf1f973ce7e5181bd8e3433",
+    "title": "Skoda Slavia 2026: ціна $11 500 та великий багажник як головні аргументи",
+    "description": "На індійському ринку дебютувала оновлена Skoda Slavia 2026 – доступний ліфтбек, який поєднує просторий салон, сучасне оснащення та ціну, що стартує приблизно від $11 500.",
+    "content": "Фото: Skoda\nМодель позиціонують як практичну альтернативу для тих, хто шукає європейську якість у бюджетному сегменті. Докладніше про авто розповіли на сайті чеського автовиробника.\nВиробництво Slavia розташоване саме в Індії, де вона прийшла на змін... [2072 chars]",
+    "url": "https://pravdatutnews.com/avto/2026/08/20/84363-skoda-slavia-2026-cina-11-500-ta-velykyy-bagazhnyk-yak-golovni",
+    "image": "https://pravdatutnews.com/sites/default/files/news/2026/08/20/skoda_slavia_2026.jpg",
+    "publishedAt": "2026-08-19T23:16:11Z",
+    "lang": "uk",
+    "source": {
+      "id": "716e7cb92f5f203aa3506c9ba057538c",
+      "name": "ПравдаТУТ NEWS",
+      "url": "https://pravdatutnews.com"
+    }
+  },
+  {
     "id": "7a732be1674a7c46680fab6cea42c0f2",
     "title": "Land Rover представила лімітований Defender Dakar",
     "description": "Екстремальний позашляховик створять на основі ралійного Defender Dakar D7X-R. Новинка отримає найпотужніший 635-сильний бензиновий двигун у сімействі Defender.",
@@ -60,6 +75,21 @@
     }
   },
   {
+    "id": "67656be164bad7baa4c18b1099746e5c",
+    "title": "Ціни на українські облігації зростають",
+    "description": "Ціни на українські облігації зростають завдяки стійкості на полі бою, новій європейській допомозі та угодам з кредиторами. Інвестори вважають українські облігації привабливою ставкою.",
+    "content": "Що відбувається з українськими облігаціями\nВід початку 2023 року індекс українського боргу приніс 150% дохідності, а 2026 рік, ймовірно, також стане ще одним роком двозначного зростання, про що пише Bloomberg.\nСкептики попереджають, що мирні перегово... [2988 chars]",
+    "url": "https://financy.24tv.ua/investment24/tsini-ukrayinski-obligatsiyi-zrostayut-chomu-prichina_n3126413",
+    "image": "https://24tv.ua/resources/photos/news/202608/3126413.jpg?v=1787145929000&w=1200&h=675",
+    "publishedAt": "2026-08-19T14:00:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "e13bcd14a7bd08edb7ba7e9f6c802b40",
+      "name": "Фінанси 24",
+      "url": "https://financy.24tv.ua"
+    }
+  },
+  {
     "id": "160f2ea2fb0e2634e08f895eae59b2e5",
     "title": "Представлено Hyundai Tucson нового покоління: популярну в Україні модель майже не впізнати",
     "description": "Компанія Hyundai показала перші офіційні зображення нового Tucson. Популярний кросовер отримав кардинально оновлений дизайн - подробиці читайте на УНІАН.",
@@ -117,36 +147,6 @@
       "id": "0d8fa2a9055c6fc2ace2650b663c989a",
       "name": "автосвіт",
       "url": "https://www.avtomir.ua"
-    }
-  },
-  {
-    "id": "17201a2d5da1436aa8466b7eb2184c6e",
-    "title": "Китайський електрокар повторив трюк у тунелі з популярної реклами Mercedes 2010 року",
-    "description": "Китайський електрокар Passion S від Voyah здійснив трюк з петлею на 360° у тунелі, відтворивши один з найвідоміших автомобільних трюків з реклами Mercedes-Benz 2010 року.",
-    "content": "Китайський електрокар Passion S від Voyah здійснив трюк з петлею на 360° у тунелі, відтворивши один з найвідоміших автомобільних трюків з реклами Mercedes-Benz 2010 року.\nVoyah — люксовий підрозділ китайської державної автокорпорації Dongfeng Motor. ... [2636 chars]",
-    "url": "https://itc.ua/ua/novini/kytajskyj-elektrokar-povtoryv-tryuk-u-tuneli-z-populyarnoyi-reklamy-mercedes-2010-roku/",
-    "image": "https://cdn.itc.ua/uploads/2026/08/imgonline-com-ua-convertsJru9aWZHhkE.jpg",
-    "publishedAt": "2026-08-19T09:31:05Z",
-    "lang": "uk",
-    "source": {
-      "id": "391d17d071b755a4bda37c1b43f47c2c",
-      "name": "ITC.ua",
-      "url": "https://itc.ua"
-    }
-  },
-  {
-    "id": "387784803fcac1b315f6114d67b969eb",
-    "title": "“Біткоїн почав відокремлюватися від акцій: це здоровий сигнал”, - BlackRock",
-    "description": "Керівник цифрових активів BlackRock Роберт Мітчник заявив, що біткоїн почав менше залежати від динаміки акцій, особливо пов'язаних зі штучним інтелектом — і назвав це здоровим сигналом для тези про диверсифікацію.",
-    "content": "Керівник напрямку цифрових активів BlackRock Роберт Мітчник заявив у прямому ефірі Bloomberg, що настрої довкола біткоїна змінюються — актив демонструє помітно менший зв’язок з динамікою акцій, особливо тих, що пов’язані зі штучним інтелектом.\nЩо сам... [3102 chars]",
-    "url": "https://itc.ua/ua/novini/bitkoyin-pochav-vidokremlyuvatysya-vid-aktsij-tse-zdorovyj-sygnal-blackrock/",
-    "image": "https://cdn.itc.ua/uploads/2026/08/Bytok-blekrok-Depositphotos_197581672_L-1.jpg",
-    "publishedAt": "2026-08-19T09:00:24Z",
-    "lang": "uk",
-    "source": {
-      "id": "391d17d071b755a4bda37c1b43f47c2c",
-      "name": "ITC.ua",
-      "url": "https://itc.ua"
     }
   }
 ]
