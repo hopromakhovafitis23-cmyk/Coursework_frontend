@@ -1,5 +1,20 @@
 [
   {
+    "id": "311c04055e35fb04a7a4fcf4422b0228",
+    "title": "\"Аврора\" представила лімітований солодовий напій",
+    "description": "Мережа мультимаркетів Аврора та бренд Underwood надали новинку для українського ринку — солодовий напій з ягодами Ячча.",
+    "content": "Ілюстрація: \"Аврора\"\nМережа мультимаркетів \"Аврора\" та бренд Underwood надали новинку для українського ринку — солодовий напій з ягодами \"Ячча\". Про це повідомили у пресслужбі компанії.\nНапій \"Ячча\" створений для тих, хто любить відкривати нове та не... [1186 chars]",
+    "url": "https://retailers.ua/news/menedjment/avrora-predstavila-limitovaniy-solodoviy-napiy",
+    "image": "https://retailers.ua/media/news/364-s/00/20/20598/65-32083.jpg",
+    "publishedAt": "2026-08-20T02:43:04Z",
+    "lang": "uk",
+    "source": {
+      "id": "e1db65ee22b4e2d08bcca5c44a306103",
+      "name": "Retailers.ua",
+      "url": "https://retailers.ua"
+    }
+  },
+  {
     "id": "df76a451ccf1f973ce7e5181bd8e3433",
     "title": "Skoda Slavia 2026: ціна $11 500 та великий багажник як головні аргументи",
     "description": "На індійському ринку дебютувала оновлена Skoda Slavia 2026 – доступний ліфтбек, який поєднує просторий салон, сучасне оснащення та ціну, що стартує приблизно від $11 500.",
@@ -132,21 +147,6 @@
       "id": "391d17d071b755a4bda37c1b43f47c2c",
       "name": "ITC.ua",
       "url": "https://itc.ua"
-    }
-  },
-  {
-    "id": "100122b3b5d65941d75f6d7703eb716b",
-    "title": "Hyundai показав Tucson нового покоління",
-    "description": "Кросовер Hyundai Tucson п'ятої генерації не тільки кардинально змінив імідж, а й збільшився у розмірах. Опубліковано перші зображення автомобіля.",
-    "content": "Кросовер Hyundai Tucson п’ятої генерації не тільки кардинально змінив імідж, а й збільшився у розмірах. Опубліковано перші зображення автомобіля.\nДизайн новинки виконаний у кутуватому стилі Art of Steel, який вже приміряли седан Hyundai Elantra та ел... [1279 chars]",
-    "url": "https://www.avtomir.ua/news/hyundai-pokazav-tucson-novogo-pokolinnya/",
-    "image": "https://www.avtomir.ua/wp-content/uploads/2026/08/new-hyundai-tucson-1.webp",
-    "publishedAt": "2026-08-19T10:21:18Z",
-    "lang": "uk",
-    "source": {
-      "id": "0d8fa2a9055c6fc2ace2650b663c989a",
-      "name": "автосвіт",
-      "url": "https://www.avtomir.ua"
     }
   }
 ]

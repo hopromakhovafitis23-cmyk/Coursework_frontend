@@ -1,5 +1,65 @@
 [
   {
+    "id": "be9e9352915b40c080dc08179327edf4",
+    "title": "Новий вид коралів золоте дерево",
+    "description": "Вчені виявили біля берегів Коста-Ріки нову родину коралів, яку назвали золоте дерево",
+    "content": "Вчені виявили на глибині сотень метрів у Тихому океані біля берегів Коста-Ріки яскраво-жовті колонії коралів, які вкривають підводні гори. Як повідомляє SciTechDaily, ці корали настільки відрізняються за анатомією та генетикою від відомих родичів, що... [2364 chars]",
+    "url": "https://zn.ua/ukr/TECHNOLOGIES/zolote-derevo-vcheni-vijavili-bilja-berehiv-kosta-riki-unikalnij-koral.html",
+    "image": "https://zn.ua/img/article/6933/3_main-v1787152695.webp",
+    "publishedAt": "2026-08-20T04:15:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "c5c959cb41bdd64f8b2b81a75752cf74",
+      "name": "Дзеркало тижня",
+      "url": "https://zn.ua"
+    }
+  },
+  {
+    "id": "a2460bb8df64df6329714dcf532aca08",
+    "title": "Мікроскоп MOSAIC показує клітини в п’яти вимірах і генерує терабайти даних",
+    "description": "Мікроскоп MOSAIC показує клітини в п’яти вимірах і генерує терабайти даних %",
+    "content": "“Швейцарський ніж” серед мікроскопів\nДослідники з Національної лабораторії ім. Лоуренса Берклі (Berkeley Lab) та партнерських установ створили Multimodal Optical Scope with Adaptive Imaging Correction (MOSAIC) — багаторежимний оптичний мікроскоп з ад... [5953 chars]",
+    "url": "https://newsyou.info/2026/08/mikroskop-mosaic-pokazuye-klitini-v-pyati-vimirax-i-generuye-terabajti-danix",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/11/U_S_Air_Force_and_Polizei_Strengthen_Ties_in_Joint_Drone_Exercise_%289227421%29.jpg",
+    "publishedAt": "2026-08-20T03:43:22Z",
+    "lang": "uk",
+    "source": {
+      "id": "7130d7ed5c47f8817fa97121ce2de1dc",
+      "name": "NewsYou.Info",
+      "url": "https://newsyou.info"
+    }
+  },
+  {
+    "id": "38510f29717316f9251d7b69abe45be5",
+    "title": "Гігантська мегаземля кидає виклик існуючим моделям формування планет",
+    "description": "Вчені виявили кам'янисту планету, яка в 23 рази масивніша за Землю",
+    "content": "Астрономи відкрили надзвичайно масивну й щільну планету, яка ставить під сумнів існуючі теорії формування кам'янистих світів, повідомляє Space.com.\nЕкзопланета отримала назву GJ 523b, вона приблизно в 2,5 рази більша за Землю, але її маса в 23 рази п... [2184 chars]",
+    "url": "https://zn.ua/ukr/TECHNOLOGIES/u-23-razi-masivnisha-za-nashu-planetu-astronomi-vidkrili-hihantsku-mehazemlju.html",
+    "image": "https://zn.ua/img/article/6933/1_main-v1787152021.webp",
+    "publishedAt": "2026-08-20T03:05:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "c5c959cb41bdd64f8b2b81a75752cf74",
+      "name": "Дзеркало тижня",
+      "url": "https://zn.ua"
+    }
+  },
+  {
+    "id": "5838be4a14724b416c4741edb88c87cc",
+    "title": "Як зміниться клімат Землі",
+    "description": "Вчені розповіли про організовані мегашторми, які можуть змінити сезон дощів у тропіках",
+    "content": "Зміни клімату називаються так не тому, що йдеться про холодніші чи тепліші умови. Йдеться про посилення та, часто, непередбачувану мінливість погодних явищ, що формують клімат. Останні 10 тисяч років клімат Землі був напрочуд стабільним, що дозволило... [3130 chars]",
+    "url": "https://zn.ua/ukr/TECHNOLOGIES/orhanizovani-mehashtormi-mozhut-zminiti-sezoni-doshchiv-u-tropichnikh-rehionakh.html",
+    "image": "https://zn.ua/img/article/6932/99_main-v1787151480.webp",
+    "publishedAt": "2026-08-20T01:30:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "c5c959cb41bdd64f8b2b81a75752cf74",
+      "name": "Дзеркало тижня",
+      "url": "https://zn.ua"
+    }
+  },
+  {
     "id": "17c10ebff1e48395d7e07feb2ef5b26c",
     "title": "Астрономи виявили найшвидшу відому зорю Чумацького Шляху",
     "description": "Астрономи виявили найшвидшу з відомих зір у Чумацькому Шляху — слабкий об’єкт S301, що обертається навколо надмасивної чорної діри Стрілець A* у центрі галактики.",
@@ -87,66 +147,6 @@
       "id": "ae8b9c98d707754fca5e1ea622855c50",
       "name": "ТСН",
       "url": "https://tsn.ua"
-    }
-  },
-  {
-    "id": "b641a2cb9d1281cd07e22ec8a52960c4",
-    "title": "Темна матерія могла викривити струмінь плазми від далекого блазара",
-    "description": "Астрономи виявили ознаки того, що струмінь плазми від далекого блазара PKS 2233-148 зазнав гравітаційного лінзування. Можливим поясненням цього явища дослідники вважають невидиме скупчення темної матерії, повідомляє Space.com.",
-    "content": "Астрономи виявили ознаки того, що струмінь плазми від далекого блазара PKS 2233-148 зазнав гравітаційного лінзування. Можливим поясненням цього явища дослідники вважають невидиме скупчення темної матерії, повідомляє Space.com. Лінзування могло змінит... [1927 chars]",
-    "url": "https://ua.news/ua/technologies/temna-materiia-mogla-vikriviti-strumin-plazmi-vid-dalekogo-blazara",
-    "image": "https://cdn-cabinet.ua.news/uploads/images/dark_matter_may_lens_plasma_jet_from_dis_1787162982051.webp",
-    "publishedAt": "2026-08-19T18:09:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "54b33233e9f0f396fe0c9e0f95f2a6f6",
-      "name": "UA.NEWS",
-      "url": "https://ua.news"
-    }
-  },
-  {
-    "id": "d4e9d74fad247faabef8e20f8369fad1",
-    "title": "Вчені виявили раніше невідомий орган в черепі",
-    "description": "Дослідники знайшли у кістковому мозку черепа мишей раніше невідому імунну структуру, яка може працювати як локальний центр захисту мозку та може існувати і у людей.",
-    "content": "Дослідники знайшли у кістковому мозку черепа мишей раніше невідому імунну структуру, яка може працювати як локальний центр захисту мозку та може існувати і у людей.\nБіологи з Медичної школи Вашингтонського університету заявили про відкриття нової іму... [2526 chars]",
-    "url": "https://ua.korrespondent.net/tech/science/4904436-vcheni-vyiavyly-ranishe-nevidomyi-orhan-v-cherepi",
-    "image": "https://kor.ill.in.ua/m/1260x900/4533587.jpg",
-    "publishedAt": "2026-08-19T17:36:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "5f3893b2bdd83721567eef82ac0a6d2e",
-      "name": "Korrespondent.net",
-      "url": "https://ua.korrespondent.net"
-    }
-  },
-  {
-    "id": "32820d773d81fb7f3d17d2526ea724f5",
-    "title": "Ранні планети могли виникнути ще до галактик - вчені пояснили механізм",
-    "description": "У Всесвіті могли з'явитися перші планети ще під час Космічного Світанку. Вчені з'ясували, що важкі елементи, необхідні для їхнього формування, могли н...",
-    "content": "Перші наднові та зародження планет\nСтандартні моделі утворення галактик передбачали, що формування скелястих планет вимагає тривалого часу для збагачення космосу важкими елементами.\nПроте комп'ютерне моделювання показало зовсім інший сценарій еволюці... [1389 chars]",
-    "url": "https://www.rbc.ua/rus/news/vsesvit-sformuvav-planeti-ranishe-nizh-vvazhalosya-1787147177.html",
-    "image": "https://www.rbc.ua/static/img/_/1/_1f32fa6fb2ff46ec1d98301faf917aa1_1300x820.jpg",
-    "publishedAt": "2026-08-19T16:12:39Z",
-    "lang": "uk",
-    "source": {
-      "id": "6f1ead09126f1f4738a48957e22f789c",
-      "name": "РБК-Україна",
-      "url": "https://www.rbc.ua"
-    }
-  },
-  {
-    "id": "be3c1d33c366c9dea80fa1e0ade1222d",
-    "title": "NASA показала кратер від падіння ракети SpaceX на поверхні Місяця (фото)",
-    "description": "Вчені сфотографували кратер на місці падіння верхнього ступеня ракети Falcon 9 компанії SpaceX на Місяці - читайте докладно в матеріалі УНІАН",
-    "content": "Нові знімки NASA показали свіжий кратер на поверхні Місяця, який утворився після падіння частини ракети Falcon 9 компанії SpaceX на початку серпня. Про це пише CNN.\nЙдеться про верхній ступінь ракети Falcon 9, запущеної 15 січня 2025 року. Вона вивел... [3292 chars]",
-    "url": "https://www.unian.ua/science/vcheni-znayshli-misce-na-misyaci-kudi-vpala-raketa-falcon-9-kompaniji-spacex-13474872.html",
-    "image": "https://images.unian.net/photos/2025_11/thumb_files/620_324_1764444803-9192.jpg?1",
-    "publishedAt": "2026-08-19T16:05:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "d4361862486677369ff2ae7719b8d313",
-      "name": "УНІАН",
-      "url": "https://www.unian.ua"
     }
   }
 ]
