@@ -1,5 +1,65 @@
 [
   {
+    "id": "247613fddf4428f142d55997a173b1a0",
+    "title": "Які бюджетні автомобілі є якісними",
+    "description": "Renault Megane давно користується популярністю серед українців, які шукають практичний автомобіль на вторинному ринку. Водночас у цьому сегменті є чим",
+    "content": "Renault Megane давно користується популярністю серед українців, які шукають практичний автомобіль на вторинному ринку. Водночас у цьому сегменті є чимало моделей, здатних скласти йому конкуренцію. Вони пропонують місткі салони, економні двигуни та ві... [3722 chars]",
+    "url": "https://news.uaportal.com/ukr/section-news/news-praktichnyi-ekonomichnyi-i-imeyut-vmestitelnyie-salonyi-top-avtomobilej-ot-7-tyisyach-dollarov-21-08-2026.html",
+    "image": "https://i.uaportal.com/news/2026/8/21/skodaoctaviars.jpg?size=2010x1050",
+    "publishedAt": "2026-08-21T12:32:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "05da9c183ba08e168b60570b18b24484",
+      "name": "UAportal",
+      "url": "https://news.uaportal.com"
+    }
+  },
+  {
+    "id": "0207304f80eb3fbc5f8c31b2313c75fe",
+    "title": "Китай запускає місію Chang'e 7 для пошуку води на Місяці",
+    "description": "Китайський зонд Chang'e 7 вирушає на південний полюс Місяця вже у понеділок. Місія шукатиме водяну кригу та підготує висадку людей до 2030 року.",
+    "content": "Що ми знаємо про місію Chang'e 7\nКитайська місія Chang'e 7 готується до запуску з космодрому Веньчан на ракеті-носії Long March 5 Y14. Як повідомляє Space.com, апарат має вийти на орбіту Місяця, а згодом спуститися в район краю кратера Шеклтон біля п... [1724 chars]",
+    "url": "https://24tv.ua/tech/kitay-zapuskaye-misiyu-change-7-dlya-poshuku-vodi-misyatsi_n3127394",
+    "image": "https://24tv.ua/resources/photos/news/202608/3127394.jpg?v=1787297105000&w=1200&h=675",
+    "publishedAt": "2026-08-21T10:01:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "e737a8e76b161ef4526698e2ec5f60c9",
+      "name": "24 Канал",
+      "url": "https://24tv.ua"
+    }
+  },
+  {
+    "id": "b631f874175eaeb69185c219cc05f69c",
+    "title": "Анонсовано перший політ величезного транспортника нового покоління від Airbus (фото)",
+    "description": "Airbus попередньо запланував перший політ свого вантажного літака A350F на кінець вересня, намагаючись послабити вплив Boeing - подробиці на УНІАН.",
+    "content": "Компанія Airbus запланувала перший політ нового вантажного літака A350F на кінець вересня. Про це з посиланням на джерела в авіаційній галузі повідомляє Reuters.\nПріоритетною датою називають 24 вересня, однак вона може змінитися через технічні пробле... [1793 chars]",
+    "url": "https://www.unian.ua/economics/transport/anonsovano-pershiy-polit-velicheznogo-transportnika-novogo-pokolinnya-vid-airbus-foto-13476426.html",
+    "image": "https://images.unian.net/photos/2026_08/thumb_files/620_324_1787305816-1605.jpg?1",
+    "publishedAt": "2026-08-21T09:59:40Z",
+    "lang": "uk",
+    "source": {
+      "id": "d4361862486677369ff2ae7719b8d313",
+      "name": "УНІАН",
+      "url": "https://www.unian.ua"
+    }
+  },
+  {
+    "id": "7eab2bec61f8eebb41ec472cc15971d2",
+    "title": "Ніякого літію: у США тестують гігантський маховик для довгого зберігання енергії",
+    "description": "США тестують маховикову систему Qnetic Pulsar, яка зберігає енергію механічно за допомогою надшвидкого ротора у вакуумі та може стати альтернативою літій-іонним батареям для дата-центрів і електромереж.",
+    "content": "Компанія Qnetic, що базується в Нью-Йорку, розробила маховик для зберігання електроенергії без використання літій-іонних батарей. Тепер система проходитиме незалежну технічну оцінку, яка охопить її продуктивність, безпеку, надійність і готовність до ... [4169 chars]",
+    "url": "https://itc.ua/ua/novini/niyakogo-litiyu-u-ssha-testuyut-gigantskyj-mahovyk-dlya-dovgogo-zberigannya-energiyi/",
+    "image": "https://cdn.itc.ua/uploads/2026/08/Kynetyk-0.png",
+    "publishedAt": "2026-08-21T07:00:55Z",
+    "lang": "uk",
+    "source": {
+      "id": "391d17d071b755a4bda37c1b43f47c2c",
+      "name": "ITC.ua",
+      "url": "https://itc.ua"
+    }
+  },
+  {
     "id": "557e422c5336943b14320deeda1b3277",
     "title": "у що вкладає гроші легендарний Big Short",
     "description": "Інвестор Майкл Беррі робить концентровані ставки та критикує бум штучного інтелекту. Розбираємо його портфель, стратегію та ставки проти Nvidia і Palantir - Інвестиції.",
@@ -87,66 +147,6 @@
       "id": "ccf5b23cf2f813320e7baafea8cf4ea7",
       "name": "motorcar.com.ua",
       "url": "https://motorcar.com.ua"
-    }
-  },
-  {
-    "id": "17a8432577808248212b9887d06da073",
-    "title": "простий спосіб заощадити",
-    "description": "При частому домашньому заряджанні варто враховувати не лише тариф на електроенергію, а й ефективність самого процесу зарядки. Деталі - на УНІАН.",
-    "content": "Власники електромобілів платять не лише за електроенергію, яка фактично потрапляє до акумулятора. Частина струму втрачається під час заряджання, а величина цих втрат залежить, зокрема, від моделі автомобіля та потужності зарядного пристрою.\nНімецький... [2945 chars]",
-    "url": "https://www.unian.ua/curiosities/vlasniki-elektromobiliv-pereplachuyut-za-zaryadku-vdoma-prostiy-sposib-zaoshchaditi-13475625.html",
-    "image": "https://images.unian.net/photos/2017_12/thumb_files/620_324_1513180604-3355.jpg?1",
-    "publishedAt": "2026-08-20T18:17:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "d4361862486677369ff2ae7719b8d313",
-      "name": "УНІАН",
-      "url": "https://www.unian.ua"
-    }
-  },
-  {
-    "id": "e3e7337acbbe57d449fff6edb3745b0c",
-    "title": "Найкращий вживаний сімейний автомобіль",
-    "description": "Honda CR-V третього покоління названо найвигіднішим сімейним авто. Велика місткість, надійність і доступна вартість роблять його ідеальним вибором",
-    "content": "Honda CR-V третього покоління (Mk3) названо одним із найвигідніших варіантів сімейного автомобіля на вторинному ринку. На цьому наголошує автомобільний експерт Люк Чилінгсворт у матеріалі, пише Daily Express. В Україні такі машини коштують переважно ... [1267 chars]",
-    "url": "https://today.ua/493094-krashogo-avto-dlya-sim-yi-godi-j-shukati-ekspert-nazvav-nedorogij-krosover-z-probigom/",
-    "image": "https://today.ua/storage/images/media/oct2025/8583-krosover-crop-1200-675.webp",
-    "publishedAt": "2026-08-20T14:36:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "3c4c1bd00c486397f0eed2b180a72c3c",
-      "name": "Today.ua",
-      "url": "https://today.ua"
-    }
-  },
-  {
-    "id": "9954f47ac6d6d446a1d4f711f4e05982",
-    "title": "Xiaomi випустила капсульну кавоварку Mijia за €105: 19 бар і 25 секунд на порцію",
-    "description": "Xiaomi випустила Mijia Capsule Coffee Machine у Німеччині за €104,90. Кавомашина нагрівається за 25 секунд, має бак 650 мл, насос 19 бар і два режими об’єму.",
-    "content": "Xiaomi вже давно перестала асоціюватися виключно зі смартфонами та фітнес-трекерами. Зараз компанія також пропонує монітори, пилососи, електромобілі. І тепер Xiaomi вивела на європейський ринок побутовий прилад, який може стати у пригоді українцям пі... [2090 chars]",
-    "url": "https://itc.ua/ua/novini/xiaomi-vypustyla-kapsulnu-kavovarku-mijia-za-105/",
-    "image": "https://cdn.itc.ua/uploads/2026/08/482a13c0d9ebfb0c2cc94fed6ec07173-835x470.jpg",
-    "publishedAt": "2026-08-20T12:07:50Z",
-    "lang": "uk",
-    "source": {
-      "id": "391d17d071b755a4bda37c1b43f47c2c",
-      "name": "ITC.ua",
-      "url": "https://itc.ua"
-    }
-  },
-  {
-    "id": "7018701c46494cb8b9761f9fb62de914",
-    "title": "Toyota перевіряє дефектні двигуни V6 ударом молотка",
-    "description": "Toyota запровадила незвичайну офіційну процедуру перевірки відкликаних двигунів V6. Дилери ударяють по шківу спеціальним молотком і за резонансом визначають стан корінного підшипника.",
-    "content": "Як повідомляє The Drive, Toyota розробила нову діагностичну процедуру для двигунів V35A, які потрапили під масштабну відкличну кампанію через ризик пошкодження корінних підшипників колінвала. Метод дозволяє оцінити стан мотора без його розбирання, ви... [5429 chars]",
-    "url": "https://24tv.ua/auto/toyota_pereviriaie_problemni_dvyhuny_udarom_molotka_tse_ofitsiina_protsedura_n75010",
-    "image": "https://24tv.ua/auto/resources/photos/news/202608/75010d0aaabf1-5c7d-4202-931c-cf9f58734e6d.jpg",
-    "publishedAt": "2026-08-20T11:20:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "e737a8e76b161ef4526698e2ec5f60c9",
-      "name": "24 Канал",
-      "url": "https://24tv.ua"
     }
   }
 ]
