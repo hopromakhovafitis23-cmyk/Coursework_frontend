@@ -1,5 +1,35 @@
 [
   {
+    "id": "b448a82eb6f71ae8e09deeea7a3bb6d9",
+    "title": "Глава NASA зробив гучне зізнання про місячну програму США",
+    "description": "Глава NASA Джаред Айзекман заявив, що агентство не зможе самостійно повернути людей на Місяць: для місії «Артеміда-3» потрібні приватні партнери.",
+    "content": "NASA готується до нової спроби висадити людей на Місяць, однак самостійно виконати це завдання агентство не зможе. Ключову роль у програмі відіграють приватні компанії.\nГлава NASA Джаред Айзекман зробив несподіване та гучне зізнання. За його словами,... [1578 chars]",
+    "url": "https://today.ua/493367-nasa-ne-vporayetsya-z-visadkoyu-na-misyac-samostijno-glava-agentstva-zrobiv-nespodivane-ziznannya/",
+    "image": "https://today.ua/storage/images/media/aug2026/19740-polit-na-misiac-crop-1200-675.webp",
+    "publishedAt": "2026-08-29T20:22:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "3c4c1bd00c486397f0eed2b180a72c3c",
+      "name": "Today.ua",
+      "url": "https://today.ua"
+    }
+  },
+  {
+    "id": "2e3cb7dfb39f30136645643a0f1d462c",
+    "title": "+80 км ходу: Hongqi інтегрувала перовскітові сонячні елементи в дах авто",
+    "description": "Hongqi представила прототип сонячного даху для авто EHS7 із перовскітовими елементами. Система може генерувати до 300 Вт, а кузов — до 10 кВт·год на день.",
+    "content": "Китайський автовиробник FAW Hongqi представив прототип сонячного даху для електромобіля з підвищеною ефективністю генерації енергії. Замість традиційних кремнієвих елементів компанія використала тонкі та гнучкі фотоелектричні матеріали на основі перо... [2388 chars]",
+    "url": "https://itc.ua/ua/novini/hongqi-integruvala-perovskitovi-elementy-v-avto/",
+    "image": "https://cdn.itc.ua/uploads/2026/08/hongqi-ehs7-solar-sunroof-400-kwh_2200x-835x469.jpg",
+    "publishedAt": "2026-08-29T17:16:05Z",
+    "lang": "uk",
+    "source": {
+      "id": "391d17d071b755a4bda37c1b43f47c2c",
+      "name": "ITC.ua",
+      "url": "https://itc.ua"
+    }
+  },
+  {
     "id": "884a6d761d118def5cc0a2e71d294dc8",
     "title": "ціна, витрата і характеристики",
     "description": "Чи залишився гібридний Forester справжнім Subaru. Перевіряємо e-Boxer у місті, на трасі та бездоріжжі, рахуємо витрату й доплату за SHEV.",
@@ -112,36 +142,6 @@
     "url": "https://itc.ua/ua/novini/rekord-ginnesa-smartfon-perezhyv-padinnya-zi-stratosfery-j-zalyshyvsya-neushkodzhenym/",
     "image": "https://cdn.itc.ua/uploads/2026/08/imgonline-com-ua-2to1-0oMKsXMAMlCpRwx2.jpg",
     "publishedAt": "2026-08-28T11:33:57Z",
-    "lang": "uk",
-    "source": {
-      "id": "391d17d071b755a4bda37c1b43f47c2c",
-      "name": "ITC.ua",
-      "url": "https://itc.ua"
-    }
-  },
-  {
-    "id": "cacadeb816ed1fe15b621da7736d7b12",
-    "title": "iPhone 17 Pro пережив падіння зі стратосфери • Межа",
-    "description": "iPhone 17 Pro у чохлі RHINOSHIELD AirX скинули зі стратосфери без парашута. Після падіння з висоти 30 607 метрів смартфон продовжив працювати.",
-    "content": "iPhone 17 Pro у чохлі RHINOSHIELD AirX скинули без парашута з висоти 30 607 метрів. Після падіння смартфон залишився неушкодженим і зберіг усі основні функції. Випробування провели 24 червня на космічному центрі Esrange у Швеції. RHINOSHIELD організу... [1542 chars]",
-    "url": "https://mezha.ua/news/iphone-17-pro-rhinoshield-airx-stratosphere-drop-314604/",
-    "image": "https://img.mezha.ua/mezha/images/doc/4/0/323843/404c89acc2911fdccd5426a36859d52d.jpeg?w=1200&q=85&stamp=1787908216",
-    "publishedAt": "2026-08-28T10:15:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "6b0257d31504a630dde7752eed4e1e39",
-      "name": "Mezha",
-      "url": "https://mezha.ua"
-    }
-  },
-  {
-    "id": "033689c0207cf8909b596ca100b80591",
-    "title": "Китай показав першу у світі МРТ-систему, яка може читати думки та впливати на мозок",
-    "description": "Китай представив uMR Shenguan — першу повноцінну МРТ-систему BCI, здатну одночасно зчитувати сигнали мозку, декодувати їх, модулювати активність і оцінювати результати.",
-    "content": "Китай представив те, що дослідники називають першою у світі повноцінною системою інтерфейсу “мозок — комп’ютер” (BCI) на основі магнітно-резонансної томографії, яка поєднує отримання мозкових сигналів, їх декодування, модуляцію та оцінювання в межах ... [3866 chars]",
-    "url": "https://itc.ua/ua/novini/kytaj-pokazav-pershu-u-sviti-mrt-systemu-yaka-mozhe-chytaty-dumky-ta-vplyvaty-na-mozok/",
-    "image": "https://cdn.itc.ua/uploads/2026/08/Mozok-1.png",
-    "publishedAt": "2026-08-28T10:00:12Z",
     "lang": "uk",
     "source": {
       "id": "391d17d071b755a4bda37c1b43f47c2c",
