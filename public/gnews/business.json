@@ -1,5 +1,20 @@
 [
   {
+    "id": "572b666eb88ae94b4e0a9294fa001cf6",
+    "title": "Які вживані авто в Україні найчастіше мають великі річні пробіги",
+    "description": "За даними carVertical, 15% перевірених в Україні авто мали пробіг понад 36 тисяч км на рік. Найвищий показник виявили у Skoda Kodiaq, Mercedes-Benz Vito та Skoda Superb.",
+    "content": "За результатами дослідження carVertical, 15% автомобілів, перевірених користувачами сервісу в Україні з січня 2025-го до травня 2026 року, мали ознаки інтенсивної експлуатації. У дослідженні до цієї категорії відносили машини, які проходили понад 36 ... [6584 chars]",
+    "url": "https://24tv.ua/auto/vashe_avto_mohlo_pratsiuvaty_v_taksi_abo_dostavtsi_nazvani_modeli_z_naibilshym_ryzykom_n75217",
+    "image": "https://24tv.ua/auto/resources/photos/news/202608/752170e13da63-29ff-4520-8932-58ada7afba66.jpg",
+    "publishedAt": "2026-08-30T06:33:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "e737a8e76b161ef4526698e2ec5f60c9",
+      "name": "24 Канал",
+      "url": "https://24tv.ua"
+    }
+  },
+  {
     "id": "583f46d5a20a80d3c96fbe886d20a3fe",
     "title": "Українці масово купують старі авто: яка ціна найпопулярнішої моделі",
     "description": "У липні 2026 року українці придбали 6,8 тис. ввезених з-за кордону вживаних легкових автомобілів віком до 5 років. Найпопулярнішою моделлю стала TESLA Model Y – таких авто в період з січня по червень було придбано 477 одиниць.",
@@ -132,21 +147,6 @@
       "id": "391d17d071b755a4bda37c1b43f47c2c",
       "name": "ITC.ua",
       "url": "https://itc.ua"
-    }
-  },
-  {
-    "id": "a727a078bac0b477086b31ccaed00e40",
-    "title": "Toyota - які авто найменше падають у ціні при перепродажі",
-    "description": "Toyota традиційно вважається одним із найнадійніших виборів для тих, хто хоче мінімізувати втрати під час перепродажу автомобіля.",
-    "content": "Toyota традиційно вважається одним із найнадійніших виборів для тих, хто хоче мінімізувати втрати під час перепродажу автомобіля. Дані дослідження iSeeCars показують, що окремі моделі бренду через п'ять років можуть зберігати понад 60%, а деякі – біл... [4265 chars]",
-    "url": "https://www.obozrevatel.com/ukr/avto-oboz/yaki-avto-toyota-majzhe-ne-padayut-u-tsini-pri-pereprodazhi-top-10.htm",
-    "image": "https://i.obozrevatel.com/news/2026/8/28/pexels-valeriiamiller-13633258.jpg?size=1200x630",
-    "publishedAt": "2026-08-28T14:01:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "ca149ffefb31c86f82d7f299d744af59",
-      "name": "Obozrevatel",
-      "url": "https://www.obozrevatel.com"
     }
   }
 ]
