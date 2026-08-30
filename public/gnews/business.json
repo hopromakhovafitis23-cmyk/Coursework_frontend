@@ -1,5 +1,20 @@
 [
   {
+    "id": "583f46d5a20a80d3c96fbe886d20a3fe",
+    "title": "Українці масово купують старі авто: яка ціна найпопулярнішої моделі",
+    "description": "У липні 2026 року українці придбали 6,8 тис. ввезених з-за кордону вживаних легкових автомобілів віком до 5 років. Найпопулярнішою моделлю стала TESLA Model Y – таких авто в період з січня по червень було придбано 477 одиниць.",
+    "content": "У липні 2026 року українці придбали 6,8 тис. ввезених з-за кордону вживаних легкових автомобілів віком до 5 років. Найпопулярнішою моделлю стала TESLA Model Y – таких авто в період з січня по червень було придбано 477 одиниць. Придбати ж таку машину ... [1894 chars]",
+    "url": "https://www.obozrevatel.com/ukr/ekonomika-glavnaya/economy/ukraintsi-masovo-kupuyut-stari-avto-yaka-tsina-najpopulyarnishoi-modeli12.htm",
+    "image": "https://i.obozrevatel.com/news/2025/8/29/tesla-model-y-performance.jpg?size=1200x630",
+    "publishedAt": "2026-08-30T00:20:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "ca149ffefb31c86f82d7f299d744af59",
+      "name": "Obozrevatel",
+      "url": "https://www.obozrevatel.com"
+    }
+  },
+  {
     "id": "b448a82eb6f71ae8e09deeea7a3bb6d9",
     "title": "Глава NASA зробив гучне зізнання про місячну програму США",
     "description": "Глава NASA Джаред Айзекман заявив, що агентство не зможе самостійно повернути людей на Місяць: для місії «Артеміда-3» потрібні приватні партнери.",
@@ -132,21 +147,6 @@
       "id": "ca149ffefb31c86f82d7f299d744af59",
       "name": "Obozrevatel",
       "url": "https://www.obozrevatel.com"
-    }
-  },
-  {
-    "id": "1a929e428ecae428e546b4eade387ddf",
-    "title": "Рекорд Гіннеса: смартфон пережив падіння зі стратосфери й залишився неушкодженим",
-    "description": "Смартфон у захисному чохлі пережив падіння з висоти понад 30 000 м й потрапив до Книг",
-    "content": "Смартфон у захисному чохлі пережив падіння з висоти понад 30 000 м й потрапив до Книги рекордів Гіннеса.\nУ рамках акції, проведеної виробником захисних чохлів для смартфонів RHINOSHIELD спільно з британською аерокосмічною компанією Sent Into Space, с... [1633 chars]",
-    "url": "https://itc.ua/ua/novini/rekord-ginnesa-smartfon-perezhyv-padinnya-zi-stratosfery-j-zalyshyvsya-neushkodzhenym/",
-    "image": "https://cdn.itc.ua/uploads/2026/08/imgonline-com-ua-2to1-0oMKsXMAMlCpRwx2.jpg",
-    "publishedAt": "2026-08-28T11:33:57Z",
-    "lang": "uk",
-    "source": {
-      "id": "391d17d071b755a4bda37c1b43f47c2c",
-      "name": "ITC.ua",
-      "url": "https://itc.ua"
     }
   }
 ]
