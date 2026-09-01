@@ -1,5 +1,35 @@
 [
   {
+    "id": "f358916974cf5e41215e2d9a7d391e3b",
+    "title": "Які компактні авто мають високий кліренс - список найкращих",
+    "description": "Багато водіїв надають перевагу саме компактним авто завдяки їхній маневровості, економічності та зручності під час паркування у місті.",
+    "content": "Багато водіїв надають перевагу саме компактним авто завдяки їхній маневровості, економічності та зручності під час паркування у місті. Проте виклики у вигляді зимового снігу, дорожнього сміття чи нерівного асфальту змушують шукати моделі з достатньою... [2693 chars]",
+    "url": "https://www.obozrevatel.com/ukr/avto-oboz/idealni-dlya-novachkiv-najkraschi-kompaktni-avto-z-visokim-klirensom.htm",
+    "image": "https://i.obozrevatel.com/news/2026/8/31/pexels-atulchoudharya9-6726680.jpg?size=1200x630",
+    "publishedAt": "2026-08-31T14:03:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "ca149ffefb31c86f82d7f299d744af59",
+      "name": "Obozrevatel",
+      "url": "https://www.obozrevatel.com"
+    }
+  },
+  {
+    "id": "54c0e773d15ed65dc2cb7b2a1de9f017",
+    "title": "10-річний Nissan Leaf отримав батарею на 62 кВт·год",
+    "description": "Власник Nissan Leaf 2016 року замінив штатну батарею на 30 кВт·год на нову ємністю 62 кВт·год. Після модернізації електромобіль проїжджає понад 400 км.",
+    "content": "Про цей незвичайний проєкт розповів YouTube-блогер MahlerCapital. Як пише Supercar Blondie, нова батарея VIVNE коштувала йому трохи менше ніж 8 тисяч доларів, а встановлення він виконав самостійно.\nСтарий Leaf взимку проїжджав лише 60 км\nNissan Leaf ... [4901 chars]",
+    "url": "https://24tv.ua/auto/zaminyv_batareiu_za_8_tysiach_10_richnyi_nissan_leaf_teper_proizhdzhaie_ponad_400_kilometriv_n75313",
+    "image": "https://24tv.ua/auto/resources/photos/news/202608/753132cbf056a-5bef-4338-9d1c-c266fe5c0ede.jpg",
+    "publishedAt": "2026-08-31T13:40:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "e737a8e76b161ef4526698e2ec5f60c9",
+      "name": "24tv.ua",
+      "url": "https://24tv.ua"
+    }
+  },
+  {
     "id": "d3c1e2f5b3f013a5d97811c747a0970b",
     "title": "Китайський бетонний арковий міст побив світовий рекорд із прольотом у 600 метрів",
     "description": "Китайський міст Тянь’e Лунтань встановив світовий рекорд серед бетонних аркових мостів із прольотом 600 метрів, використавши на 22% менше бетону.",
@@ -112,36 +142,6 @@
     "url": "https://pravdatutnews.com/avto/2026/08/30/84899-startuvav-volkswagen-idaura-t6-simeynyy-elektrokrosover-iz-660-km",
     "image": "https://pravdatutnews.com/sites/default/files/news/2026/08/30/volkswagen_id.aura_t6_-2.jpg",
     "publishedAt": "2026-08-30T19:40:22Z",
-    "lang": "uk",
-    "source": {
-      "id": "716e7cb92f5f203aa3506c9ba057538c",
-      "name": "ПравдаТУТ NEWS",
-      "url": "https://pravdatutnews.com"
-    }
-  },
-  {
-    "id": "52baffe8a98b8f9ff7a94fea2c287a39",
-    "title": "У Китаї дилери BMW змушені продавати iX3 за фотографіями",
-    "description": "Новий BMW iX3 на платформі Neue Klasse зібрав у Китаї десятки тисяч попередніх заявок менш ніж за тиждень. При цьому більшість покупців ще не бачили автомобіль наживо.",
-    "content": "Новий BMW iX3 на платформі Neue Klasse зібрав у Китаї десятки тисяч попередніх заявок менш ніж за тиждень. При цьому більшість покупців ще не бачили автомобіль наживо: демонстраційні машини з'являться в дилерських центрах лише наприкінці жовтня.\nПопе... [2457 chars]",
-    "url": "https://news.infocar.ua/u_kytayi_dylery_bmw_zmusheni_prodavaty_ix3_za_fotohrafiyamy_191895.html",
-    "image": "https://i.infocar.ua/i/7/191895/600x396.jpg",
-    "publishedAt": "2026-08-30T18:58:34Z",
-    "lang": "uk",
-    "source": {
-      "id": "b9c3d8b68faf8a35c49050f7ca29d3cd",
-      "name": "news.infocar.ua",
-      "url": "https://news.infocar.ua"
-    }
-  },
-  {
-    "id": "b3c2f46db2c31aba6bf9c8e7c9e31f39",
-    "title": "Найменший кросовер Renault дебютував за ціною від $13 800",
-    "description": "Renault представила оновлений компактний кросовер Kwid 2026, який після другої модернізації отримав сучасніший дизайн та вдосконалений салон. Ціна моделі стартує від $13 800, що робить її одним із найдоступніших SUV у сегменті.",
-    "content": "Фото: Renault\nНовинка дебютувала в Бразилії, де модель виробляють із 2015 року. Саме на базі Kwid створили електричні Renault City K-ZE та Dacia Spring.\nТепер 3,7-метровий кросовер отримав агресивніший вигляд, цифрову панель приладів і мультимедіа з ... [1861 chars]",
-    "url": "https://pravdatutnews.com/avto/2026/08/30/84890-naymenshyy-krosover-renault-debyutuvav-za-cinoyu-vid-13-800",
-    "image": "https://pravdatutnews.com/sites/default/files/news/2026/08/30/renault_kwid_2026.jpg",
-    "publishedAt": "2026-08-30T17:32:57Z",
     "lang": "uk",
     "source": {
       "id": "716e7cb92f5f203aa3506c9ba057538c",
