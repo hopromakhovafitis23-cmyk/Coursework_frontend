@@ -1,5 +1,20 @@
 [
   {
+    "id": "d4a6e683e19a1f280912a9feb1bf28a0",
+    "title": "Eurocash перезапустив лінійку молочних продуктів під власною торговою маркою",
+    "description": "Польський ритейлер та оптовий продавець Eurocash перезапустив свою лінійку молочних продуктів під власною торговою маркою Kanka з новим дизайном упаковки.",
+    "content": "Фото: Eurocash\nПольський ритейлер та оптовий продавець Eurocash перезапустив свою лінійку молочних продуктів під власною торговою маркою Kanka з новим дизайном упаковки та двома новими видами продукції. Про це повідомляє ESM Magazine.\nУ компанії зазн... [2058 chars]",
+    "url": "https://retailers.ua/news/menedjment/eurocash-perezapustiv-liniyku-molochnih-produktiv-pid-vlasnoyu-torgovoyu-markoyu",
+    "image": "https://retailers.ua/media/news/364-s/00/20/20819/11-32356.jpg",
+    "publishedAt": "2026-09-02T00:41:46Z",
+    "lang": "uk",
+    "source": {
+      "id": "e1db65ee22b4e2d08bcca5c44a306103",
+      "name": "Retailers.ua",
+      "url": "https://retailers.ua"
+    }
+  },
+  {
     "id": "e01474ee55958832519e1f05442fafd7",
     "title": "John Deere запустила ШІ-чатбота для фермерів",
     "description": "Компанія John Deere повідомила про запуск нового чатбота JD на основі штучного інтелекту, який призначений для допомоги фермерам у прийнятті рішень щодо їхньої діяльності та використання техніки.",
@@ -105,6 +120,21 @@
     }
   },
   {
+    "id": "d54cb5be2fcc323ea0d584b5d0ce8768",
+    "title": "які зміни отримають моделі",
+    "description": "Mazda готує масштабні зміни для CX-60, CX-70, CX-80 та CX-90. Кросовери можуть отримати новий дизайн, інтер'єр і силові установки - Авто24",
+    "content": "Mazda останніми роками активно розширює присутність у вищих сегментах ринку. Для цього компанія створила нову задньопривідну платформу з поздовжнім розташуванням силових агрегатів і рядними шестициліндровими двигунами під назвою Mazda Large Architect... [2441 chars]",
+    "url": "https://24tv.ua/auto/mazda_hotuie_masshtabni_zminy_dlia_chotyrokh_naibilshykh_krosoveriv_n75355",
+    "image": "https://24tv.ua/auto/resources/photos/news/202609/75355e19adc9c-6f52-4fb3-85e4-e816ce4e97d8.jpg",
+    "publishedAt": "2026-09-01T15:20:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "e737a8e76b161ef4526698e2ec5f60c9",
+      "name": "24 Канал",
+      "url": "https://24tv.ua"
+    }
+  },
+  {
     "id": "ed53cdabf3ce93ee6714e8dc903e9cca",
     "title": "Продажі однієї моделі зростають шаленими темпами: названо авто, які розкуповують в Європі",
     "description": "За підсумками січня–липня на європейському ринку продано 9 540 989 нових автомобілів. Які найпопулярніші автомобілі в Європі - читайте на УНІАН.",
@@ -117,36 +147,6 @@
       "id": "d4361862486677369ff2ae7719b8d313",
       "name": "УНІАН",
       "url": "https://www.unian.ua"
-    }
-  },
-  {
-    "id": "a57bd16d272ef4d6af37182fc0ddf102",
-    "title": "Ненадійні моделі Subaru - які роки випуску невдалі",
-    "description": "Попри репутацію виробника витривалих автомобілів із фірмовими опозитними двигунами, Subaru також має моделі, які в окремі роки випуску виявилися менш надійними.",
-    "content": "Попри репутацію виробника витривалих автомобілів із фірмовими опозитними двигунами, Subaru також має моделі, які в окремі роки випуску виявилися менш надійними. Особливо це стосується машин, власники яких повідомляли про проблеми з двигунами, електро... [3039 chars]",
-    "url": "https://www.obozrevatel.com/ukr/avto-oboz/yaki-modeli-subaru-nenadijni-nazvani-nevdali-roki-vipusku.htm",
-    "image": "https://i.obozrevatel.com/news/2026/9/1/pexels-connorscottmcmanus-11794483.jpg?size=1200x630",
-    "publishedAt": "2026-09-01T14:02:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "ca149ffefb31c86f82d7f299d744af59",
-      "name": "Obozrevatel",
-      "url": "https://www.obozrevatel.com"
-    }
-  },
-  {
-    "id": "04ea659572578f503a06aacdd82c6414",
-    "title": "Hyundai прибрала панель приладів у базових Elantra та Ioniq 3: деталі",
-    "description": "Нові Hyundai Elantra та Ioniq 3 у базових комплектаціях залишаться без звичного екрана перед водієм. Дізнайтесь, скільки доведеться доплатити за цифровий спідометр та що пропонує бренд - Авто24",
-    "content": "Корейський автовиробник запроваджує нову мультимедійну систему Pleos Connect на базі Android Automotive. Як повідомляє видання Motor1, разом із встановленням величезного центрального екрана компанія пішла на несподіваний крок: у найдешевших версіях н... [993 chars]",
-    "url": "https://24tv.ua/auto/spidometr_za_doplatu_hyundai_prybrala_panel_pryladiv_u_bazovykh_versiiakh_novykh_avto_n75348",
-    "image": "https://24tv.ua/auto/resources/photos/news/202609/75348496d377a-648a-46ff-8e3d-0ef336e61ce0.jpg",
-    "publishedAt": "2026-09-01T12:50:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "e737a8e76b161ef4526698e2ec5f60c9",
-      "name": "24 Канал",
-      "url": "https://24tv.ua"
     }
   }
 ]
