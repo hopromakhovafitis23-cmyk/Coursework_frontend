@@ -1,5 +1,65 @@
 [
   {
+    "id": "7fc9500e6160e682239b0bbbfd6e9f1f",
+    "title": "Ціни на золото впали до мінімуму за понад три тижні",
+    "description": "Ціни на золото опустилися до найнижчого рівня за понад три тижні. Інвестори побоюються нової хвилі інфляції через зростання цін на нафту та очікують важливих даних із ринку праці США.",
+    "content": "Ціни на золото опустилися до найнижчого рівня за понад три тижні. Інвестори побоюються нової хвилі інфляції через зростання цін на нафту та очікують важливих даних із ринку праці США.\nЦіни на золото у середу, 2 вересня, впали до мінімуму більш ніж за... [2079 chars]",
+    "url": "https://ua.korrespondent.net/business/financial/4908340-tsiny-na-zoloto-vpaly-do-minimumu-za-ponad-try-tyzhni",
+    "image": "https://kor.ill.in.ua/m/1260x900/4548246.jpg",
+    "publishedAt": "2026-09-02T13:43:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "5f3893b2bdd83721567eef82ac0a6d2e",
+      "name": "Korrespondent.net",
+      "url": "https://ua.korrespondent.net"
+    }
+  },
+  {
+    "id": "851e692a22ed0423f190a76bac444a89",
+    "title": "Блок живлення на 750 Вт спалахнув в руках працівника сервісного центру",
+    "description": "У мережі завірусилось відео, на якому сумнівний блок живлення VSP MEGA MAX VS750D буквальн",
+    "content": "У мережі завірусилось відео, на якому сумнівний блок живлення VSP MEGA MAX VS750D буквально спалахує у руках працівника в’єтнамського сервісного центру.\nНа щастя, працівник швидко зорієнтувався та вправно відключив небезпечний блок живлення. Відеозап... [1402 chars]",
+    "url": "https://itc.ua/ua/novini/blok-zhyvlennya-na-750-vt-spalahnuv-v-rukah-pratsivnyka-servisnogo-tsentru/",
+    "image": "https://cdn.itc.ua/uploads/2026/09/imgonline-com-ua-convert7GLY22GBFhV8.jpg",
+    "publishedAt": "2026-09-02T13:17:22Z",
+    "lang": "uk",
+    "source": {
+      "id": "391d17d071b755a4bda37c1b43f47c2c",
+      "name": "ITC.ua",
+      "url": "https://itc.ua"
+    }
+  },
+  {
+    "id": "e423a634798a22b524a57df562d20061",
+    "title": "Відомий автовиробник хоче закрити одразу чотири заводи в Німеччині",
+    "description": "Керівництво Volkswagen планує запропонувати на засіданні наглядової ради закриття одразу чотирьох заводів у Німеччині. Підприємства можуть припинити",
+    "content": "Керівництво Volkswagen планує запропонувати на засіданні наглядової ради закриття одразу чотирьох заводів у Німеччині. Підприємства можуть припинити виробництво протягом 2031-2034 років у межах масштабної реструктуризації концерну.\nПро це пише Чехія-... [1929 chars]",
+    "url": "https://donpatriot.news/vidomyj-avtovyrobnyk-hoche-zakryty-odrazu-chotyry-zavody-v-nimechchyni",
+    "image": "https://donpatriot.news/wp-content/uploads/2026/09/i4fhiqd011_big.webp.d7870e96feebc17bb94d7f8c71c12036.webp",
+    "publishedAt": "2026-09-02T11:50:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "556066753a7a30eb0619823360acdde4",
+      "name": "donpatriot.news",
+      "url": "https://donpatriot.news"
+    }
+  },
+  {
+    "id": "f6b0599ebc0bcddd51679e82fc9d1d37",
+    "title": "Нова китайська батарея досягла 602,5 Вт·год/кг і обіцяє довший час польоту дронів",
+    "description": "Китайські дослідники створили літій-металеву батарею з питомою енергією 602,5 Вт·год/кг. Нова технологія може збільшити автономність дронів та електричних літальних апаратів.",
+    "content": "Нова конструкція електроліту може збільшити тривалість польотів дронів та електричних літальних апаратів. Китайські дослідники розробили високостабільний літій-металевий акумуляторний елемент у корпусі pouch із питомою енергією понад 600 Вт·год/кг, щ... [3873 chars]",
+    "url": "https://itc.ua/ua/novini/nova-kytajska-batareya-dosyagla-602-5-vt-god-kg-i-obitsyaye-dovshyj-chas-polotu-droniv/",
+    "image": "https://cdn.itc.ua/uploads/2026/08/Batar-0.jpg",
+    "publishedAt": "2026-09-02T10:00:41Z",
+    "lang": "uk",
+    "source": {
+      "id": "391d17d071b755a4bda37c1b43f47c2c",
+      "name": "ITC.ua",
+      "url": "https://itc.ua"
+    }
+  },
+  {
     "id": "01669dbf33fb499bc56a076388256f6d",
     "title": "Продажі нових авто в Україні впали на 27%: найпопулярніші моделі серпня",
     "description": "У серпні українці купили 5 тис. нових авто — ринок знизився на 27%. Лідер продажів — Toyota RAV-4.",
@@ -82,66 +142,6 @@
     "url": "https://pravdatutnews.com/avto/2026/09/01/85020-volkswagen-id-era-5s-simeynyy-gibrydnyy-sedan-startuye-za-cinoyu",
     "image": "https://pravdatutnews.com/sites/default/files/news/2026/09/01/volkswagen_id_era_5s_2026.jpg",
     "publishedAt": "2026-09-01T19:32:31Z",
-    "lang": "uk",
-    "source": {
-      "id": "716e7cb92f5f203aa3506c9ba057538c",
-      "name": "ПравдаТУТ NEWS",
-      "url": "https://pravdatutnews.com"
-    }
-  },
-  {
-    "id": "e870a1f1768f7bae08a3bdacf1cce692",
-    "title": "Бюджетний кросовер Volkswagen Tera з'явиться на новому ринку",
-    "description": "Компактний кросовер Volkswagen Tera, який випускають у Бразилії, отримає нову назву Tengo для ринку Південної Африки. Автомобіль почнуть виробляти на місцевому підприємстві у 2027 році.",
-    "content": "Компактний кросовер Volkswagen Tera, який випускають у Бразилії, отримає нову назву Tengo для ринку Південної Африки. Автомобіль почнуть виробляти на місцевому підприємстві у 2027 році.\nVolkswagen представила новий компактний кросовер Tengo під час з... [2804 chars]",
-    "url": "https://ua.korrespondent.net/lifestyle/motors/4908086-buidzhetnyi-krosover-Volkswagen-Tera-ziavytsia-na-novomu-rynku",
-    "image": "https://kor.ill.in.ua/m/1260x900/4547034.jpg",
-    "publishedAt": "2026-09-01T18:16:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "5f3893b2bdd83721567eef82ac0a6d2e",
-      "name": "Korrespondent.net",
-      "url": "https://ua.korrespondent.net"
-    }
-  },
-  {
-    "id": "7c787d70e0f4af823e2b69665c785214",
-    "title": "Світові кризи — Трамп змінює політику НАТО, Volkswagen скорочує до 100 тис. місць — оглд ЗМІ",
-    "description": "Трамп змінює підтримку НАТО заради Ірану, Volkswagen готується звільнити до 100 тис. працівників, а у корпорацій США рекордні доходи",
-    "content": "Дональд Трамп позбавляє союзників по НАТО захисту від Росії та Китаю заради авантюри в Ірані, а німецький автогігант Volkswagen може звільнити до 100 тис. працівників через кризу — NV обрав найцікавіші публікації світових медіа.\nВелика Британія\nFinan... [591 chars]",
-    "url": "https://nv.ua/ukr/world/countries/svitovi-krizi-tramp-zminyuye-politiku-nato-volkswagen-skorochuye-do-100-tis-misc-ogld-zmi-50637479.html",
-    "image": "https://static.nv.ua/shared/system/Article/posters/003/354/906/original/29d0d4466af4fd1916e7287bb1597cf8.png?q=85&stamp=20260901183622&f=webp",
-    "publishedAt": "2026-09-01T17:53:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "f194bf27373973fc9320a73bf1f13909",
-      "name": "nv.ua",
-      "url": "https://nv.ua"
-    }
-  },
-  {
-    "id": "f488880d4dd9906275a44d14fc0ab518",
-    "title": "Дебютував оновлений Lexus NX",
-    "description": "Оновлений компактний кросовер Lexus NX отримав новий дизайн, перероблений салон і потужнішу гібридну систему нового покоління.",
-    "content": "Оновлений компактний кросовер Lexus NX отримав новий дизайн, перероблений салон і потужнішу гібридну систему нового покоління.\nКомпанія Lexus представила оновлений NX другого покоління, який отримав плановий рестайлінг п'ять років після дебюту.\nТехні... [3222 chars]",
-    "url": "https://ua.korrespondent.net/lifestyle/motors/4908067-debuituvav-onovlenyi-Lexus-NX",
-    "image": "https://kor.ill.in.ua/m/1260x900/4546969.jpg",
-    "publishedAt": "2026-09-01T16:57:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "5f3893b2bdd83721567eef82ac0a6d2e",
-      "name": "Korrespondent.net",
-      "url": "https://ua.korrespondent.net"
-    }
-  },
-  {
-    "id": "9a5fcca26062d244fa7248258528b85a",
-    "title": "10 найпопулярніших в Європі нових авто: лідери втрачають, одна модель б’є рекорди",
-    "description": "Європейський авторинок зростає, але не всі моделі витримують конкуренцію. У той час як традиційні лідери втрачають позиції, Tesla Model Y демонструє вибухове зростання й стає головним феноменом року.",
-    "content": "Renault Clio все ще очолює рейтинг продажів. Фото: Renault\nЗа підсумками січня–липня 2026 року в Європі продано 9,54 млн нових автомобілів — це на 6,9% більше, ніж торік. Дані Focus2Move свідчать: ринок загалом рухається вгору, але всередині десятки ... [2809 chars]",
-    "url": "https://pravdatutnews.com/avto/2026/09/01/85009-10-naypopulyarnishyh-v-yevropi-novyh-avto-lidery-vtrachayut-odna",
-    "image": "https://pravdatutnews.com/sites/default/files/news/2026/09/01/renault-clio-1024x576.jpg",
-    "publishedAt": "2026-09-01T16:53:25Z",
     "lang": "uk",
     "source": {
       "id": "716e7cb92f5f203aa3506c9ba057538c",
