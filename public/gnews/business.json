@@ -1,5 +1,65 @@
 [
   {
+    "id": "398885f3d6dc4ff48ddad0c4ad0b443f",
+    "title": "Tesla запустила в Техасі безпілотне таксі Cybercab і здивувала рекламою",
+    "description": "Tesla запустила в Техасі безпілотне таксі Cybercab, а рекламна кампанія сервісу вже привернула увагу через незвичний сюжет.",
+    "content": "Tesla запустила в Техасі безпілотне таксі Cybercab, а рекламна кампанія сервісу вже привернула увагу через незвичний сюжет.\nУ ролику компанія показала хлопця на кріслі колісному, який під’їжджає до автомобіля, після чого встає, складає крісло та клад... [446 chars]",
+    "url": "https://donpatriot.news/tesla-zapustyla-v-tehasi-bezpilotne-taksi-cybercab-i-zdyvuvala-reklamoyu",
+    "image": "https://donpatriot.news/wp-content/uploads/2026/09/tesla.avif",
+    "publishedAt": "2026-09-05T07:20:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "556066753a7a30eb0619823360acdde4",
+      "name": "donpatriot.news",
+      "url": "https://donpatriot.news"
+    }
+  },
+  {
+    "id": "248793b42184b77a84d0dc9936e6d1e5",
+    "title": "Ринок вживаних авто змінився: які машини обирають українці",
+    "description": "Попит на вживані авто знизився, але продажі окремих моделей зросли",
+    "content": "У серпні в Україні перепродали 71 154 вживані легкові автомобілі – на 4,3% менше, ніж у липні, та на 6,4% менше, ніж рік тому. Водночас майже третину угод оформили через «Дію», а електромобілі та гібриди разом зайняли 9,5% ринку. Про це пише «Главком... [3597 chars]",
+    "url": "https://glavcom.ua/techno/auto/rinok-vzhivanikh-avto-zminivsja-jaki-mashini-obirajut-ukrajintsi-1140775.html",
+    "image": "https://glavcom.ua/img/article/11407/75_main-v1788523012.webp",
+    "publishedAt": "2026-09-05T07:00:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "170951208432adcfd96b2d9def1a0127",
+      "name": "Главком",
+      "url": "https://glavcom.ua"
+    }
+  },
+  {
+    "id": "c8a122920e4e32ccd6fe4682154a0d7d",
+    "title": "Старі MP3-плеєри повертаються до моди: молодь готова платити тисячі за культові iPod (фото)",
+    "description": "Від 1400 до 10 тисяч гривень: скільки сьогодні коштують старі iPod – ФОТО",
+    "content": "Культові гаджети з 2000-х сьогодні на піку популярності\nПісля повернення касетних магнітофонів молодь дісталася ще одного символу 2000-х — портативних MP3-плеєрів. Інтерес до iPod та інших окремих музичних пристроїв зростає на тлі загального тренду н... [1390 chars]",
+    "url": "https://news.telegraf.com.ua/ukr/obshhestvo/5949146-stari-mp3-pleeri-znovu-v-modi-u-molodi-za-kultovi-ipod-gotovi-viddavati-tisyachi-foto",
+    "image": "https://telegraf.com.ua/static/storage/thumbs/1200x630/1/5a/b4fa2e06-d62564947836f3990f6754115c9ad5a1.jpg?v=3548_2",
+    "publishedAt": "2026-09-05T04:07:01Z",
+    "lang": "uk",
+    "source": {
+      "id": "ff9d5654301b417b70104139b09fafaf",
+      "name": "News Telegraf",
+      "url": "https://news.telegraf.com.ua"
+    }
+  },
+  {
+    "id": "57ea79f89f4e4fc446ea5ac31da3ea64",
+    "title": "АвтоВАЗ за програмою імпортозаміни пустив у продаж оновлену Lada Niva",
+    "description": "Оновлена позашляхова Lada Niva з колісною формулою 4х4 після модернізації отримала двигун від моделі, що має один ведучий міст. Це назвали імпортозаміною позашляховикам made in...",
+    "content": "Як повідомляє чеське видання Autoforum, продажі оновленої моделі стартували в останній день серпня.\nРосійським конструкторам довелося видавати цей вимушений фейсліфтинг за імпортозаміщення іноземним джипам, оскільки після розриву відносин з Renault с... [1898 chars]",
+    "url": "https://24tv.ua/auto/zamist_pensii__avralnyi_restailinh_avtovaz_vykotyv_onovlenu_lada_niva_z_novym_tsinnykom_n75503",
+    "image": "https://24tv.ua/auto/resources/photos/news/202609/75503daaa5fb5-cd2c-4b9e-aaaa-6b01b688e2e3.jpg",
+    "publishedAt": "2026-09-05T03:30:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "e737a8e76b161ef4526698e2ec5f60c9",
+      "name": "24 Канал",
+      "url": "https://24tv.ua"
+    }
+  },
+  {
     "id": "d7b63909c87946677fca5634f19b37a0",
     "title": "Tesla вивела на вулиці американського міста перші Cybercab",
     "description": "Компанія Tesla заявила, що пропонує поїздки в \"обмежених районах Остіна, штат Техас\" на своєму двомісному Cybercab - подробиці читайте на УНІАН.",
@@ -86,66 +146,6 @@
     "source": {
       "id": "d4361862486677369ff2ae7719b8d313",
       "name": "УНІАН",
-      "url": "https://www.unian.ua"
-    }
-  },
-  {
-    "id": "d5a75d8d0747ccb8679eb6c597331232",
-    "title": "Volkswagen планує скоротити до 60 000 робочих місць",
-    "description": "Основна частина скорочень припаде на Volkswagen, решта - на дочірні компанії, включаючи Audi та Porsche.",
-    "content": "Основна частина скорочень припаде на Volkswagen, решта - на дочірні компанії, включаючи Audi та Porsche.\nНаглядова рада Volkswagen схвалила план реструктуризації. Компанія скоротить до 60 тисяч робочих місць. Про це пише BILD у п'ятницю, 4 вересня.\nК... [1613 chars]",
-    "url": "https://ua.korrespondent.net/business/auto/4908955-Volkswagen-planuie-skorotyty-do-60-000-robochykh-mists",
-    "image": "https://kor.ill.in.ua/m/1260x900/4551085.jpg",
-    "publishedAt": "2026-09-04T09:20:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "5f3893b2bdd83721567eef82ac0a6d2e",
-      "name": "Korrespondent.net",
-      "url": "https://ua.korrespondent.net"
-    }
-  },
-  {
-    "id": "f80dc6428fcb7ce9b37319363c62f09e",
-    "title": "Де насправді живуть зарплати $5000-12000 у 2026 році",
-    "description": "За 10 років кар'єрних консультацій Вероніка Косяк побачила закономірність - кандидати з офером на $7000+ не завжди сильніші технічно за тих, хто застряг на $2500. Різниця в тому, де і як вони шукають роботу. У блозі авторка розбирає, чому LinkedIn-профіль",
-    "content": "💡 Усі статті, обговорення, новини про HR — в одному місці. Приєднуйтесь до HR спільноти!\nМене звати Вероніка Косяк, я CEO освітньої платформи StopFail і кар’єрна консультантка з десятирічним досвідом. За цей час я провела сотні мок-інтерв’ю, переглян... [12522 chars]",
-    "url": "https://dou.ua/forums/topic/61711/",
-    "image": "https://s.dou.ua/img/announces/997789789.jpg",
-    "publishedAt": "2026-09-04T09:00:06Z",
-    "lang": "uk",
-    "source": {
-      "id": "d1ef16b5a7558a99f3c289a3b0f93527",
-      "name": "Спільнота програмістів",
-      "url": "https://dou.ua"
-    }
-  },
-  {
-    "id": "5cd17c416193694aa8b36c2e48a0d3c0",
-    "title": "У мережі Біткоїн провели першу в історії квантово-стійку транзакцію",
-    "description": "StarkWare провела на мережі біткоїна першу транзакцію, захищену від атак квантових комп'ютерів, — без жодного оновлення протоколу. Розбираємось, як працює метод Quantum Safe Bitcoin і чому це лише \"крайній захід\", а не рішення проблеми.",
-    "content": "Наприкінці серпня в блоці 964 199 мережі біткоїна пройшла транзакція, яку StarkWare називає першою у своєму роді: переказ виходу на 10 000 сатоші (0,0001 BTC, приблизно $7), захищений методом, стійким до атак квантових комп’ютерів — і все це без софт... [3438 chars]",
-    "url": "https://itc.ua/ua/novini/u-merezhi-bitkoyin-provely-pershu-v-istoriyi-kvantovo-stijku-tranzaktsiyu/",
-    "image": "https://cdn.itc.ua/uploads/2026/08/bytok-kvant-Depositphotos_483166310_L.jpg",
-    "publishedAt": "2026-09-04T08:00:13Z",
-    "lang": "uk",
-    "source": {
-      "id": "391d17d071b755a4bda37c1b43f47c2c",
-      "name": "ITC.ua",
-      "url": "https://itc.ua"
-    }
-  },
-  {
-    "id": "4e7e93b6078dc6d08a927c77751d7d7b",
-    "title": "чому в США водії захищають машини брезентом",
-    "description": "Раніше автомобілі намагалися огородити сіткою для курей, однак представники парку в США кажуть, що тепер бабаки навчилися пробиратися крізь неї.",
-    "content": "У Каліфорнії, в окремих районах Національного парку \"Секвойя та Кінгс-Каньйон\", на автомобілі натягають величезні брезентові чохли, аби не підпускати бабаків до моторного відсіку. Як пише vezess, така проблема особливо актуальна в околицях Мінерал-Кі... [2264 chars]",
-    "url": "https://www.unian.ua/economics/auto/babaki-v-avtomobilyah-chomu-v-ssha-vodiji-zahishchayut-mashini-brezentom-13489788.html",
-    "image": "https://images.unian.net/photos/2026_09/thumb_files/620_324_1788506675-1074.jpg?1",
-    "publishedAt": "2026-09-04T07:27:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "d4361862486677369ff2ae7719b8d313",
-      "name": "unian.ua",
       "url": "https://www.unian.ua"
     }
   }
