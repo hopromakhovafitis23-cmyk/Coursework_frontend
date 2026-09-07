@@ -1,5 +1,65 @@
 [
   {
+    "id": "aa4a0d815d76adb1214e48d160c08eb4",
+    "title": "Шпигун у квартирі: LG Smart TV записують звук та збирають дані про гаджети",
+    "description": "Дослідження Gamers Nexus показало, що LG Smart TV можуть сканувати локальну мережу, збирати дані про пристрої та записувати звук у режимі очікування.",
+    "content": "Телевізори LG Smart TV можуть збирати значно більше даних, ніж очікують їхні власники. Розслідування Gamers Nexus показало, що деякі моделі розумних телевізорів LG постійно сканують домашню мережу, визначають підключені пристрої та можуть записувати ... [2697 chars]",
+    "url": "https://itc.ua/ua/novini/lg-smart-tv-zapysuyut-zvuk-ta-zbyrayut-dani/",
+    "image": "https://cdn.itc.ua/uploads/2026/09/Spy_TVs_LG_Smart_TV.jpg",
+    "publishedAt": "2026-09-07T08:25:27Z",
+    "lang": "uk",
+    "source": {
+      "id": "391d17d071b755a4bda37c1b43f47c2c",
+      "name": "ITC.ua",
+      "url": "https://itc.ua"
+    }
+  },
+  {
+    "id": "340a47ab542afa237c21f736d7d2045a",
+    "title": "Підготовка до зими: як врятувати зарядну станцію від несправності",
+    "description": "Найімовірніше, ваша зарядна станція наразі лежить десь у квартирі відключена",
+    "content": "На тлі ймовірних осінньо-зимових відключень електроенергії ми згадуємо про рівень готовності кожного з нас до таких сценаріїв.\nЗ жовтня 2022 року ми стали значно енергонезалежнішими.\nЗрозуміло, якщо проживаємо в приватному будинку, дуплексі чи таунха... [502 chars]",
+    "url": "https://tech.liga.net/ua/energy-tech/opinion/pidhotovka-do-zymy-iak-vriatuvaty-zariadnu-stantsiiu-vid-polomky",
+    "image": "https://storage.liga.net/images/general/opinion/opinion-5061-ua.png?v=1788756397",
+    "publishedAt": "2026-09-07T07:32:12Z",
+    "lang": "uk",
+    "source": {
+      "id": "fc7ebdf94f1706c87205290f58af159b",
+      "name": "LIGA.net",
+      "url": "https://tech.liga.net"
+    }
+  },
+  {
+    "id": "897403969ab3a4863d1a17b7a18fc1f7",
+    "title": "Понад 20 тисяч вживаних авто за місяць: які моделі ввозили найчастіше в Україну",
+    "description": "Порівняно з аналогічним місяцем торік попит на імпортований секонд-хенд зменшився на 9%.",
+    "content": "У серпні 2026 року український автопарк поповнили 20,7 тисячі вживаних легковиків, ввезених з-за кордону. Порівняно з аналогічним місяцем торік попит на імпортований секонд-хенд зменшився на 9%.\nПро це повідомляє \"Укравтопром\". Найбільшу частку серед... [1187 chars]",
+    "url": "https://trueua.info/news/ukrainci-vvezli-ponad-20-tisyach-vzhivanikh-avto-u-serpni-yaki-modeli-kupuvali-naychastishe",
+    "image": "https://trueua.info/sites/default/files/images/09-2026/floms-mustang-7457465_1920.jpg",
+    "publishedAt": "2026-09-07T06:45:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "dc7a6fdb597c16e847c6858b0ab41485",
+      "name": "trueua.info",
+      "url": "https://trueua.info"
+    }
+  },
+  {
+    "id": "16213fe4dd71bde3efc8a68ac84f2944",
+    "title": "50 000-вольтова система видобуває питну воду з туману Намібії: відео",
+    "description": "Вчені випробували 50 000-вольтову систему для добування питної води з туману в Намібії. Технологія показала потенціал, але зіткнулася із сіллю, вітром і нестабільною погодою. хлз",
+    "content": "Високовольтна технологія показала багатообіцяльні результати під час випробувань у гаражі, але зіткнулася з проблемами через сіль, вітер і нестабільну погоду під час реального тестування. Джей Боулз, власник популярного YouTube-каналу Plasma Channel,... [3636 chars]",
+    "url": "https://itc.ua/ua/novini/50-000-voltova-systema-vydobuvaye-pytnu-vodu-z-tumanu-namibiyi-video/",
+    "image": "https://cdn.itc.ua/uploads/2026/09/Namyb-0.png",
+    "publishedAt": "2026-09-07T06:00:47Z",
+    "lang": "uk",
+    "source": {
+      "id": "391d17d071b755a4bda37c1b43f47c2c",
+      "name": "ITC.ua",
+      "url": "https://itc.ua"
+    }
+  },
+  {
     "id": "963c02a950edbe0062567161d70bb5a7",
     "title": "Хакери приховують фішинг за допомогою невидимих символів Unicode • Межа",
     "description": "Дослідники Microsoft розкрили масштабну фішингову кампанію, у якій зловмисники застосовували так звану \"ASCII-контрабанду\" — техніку приховування тексту за допомогою невидимих Unicode-символів.",
@@ -87,66 +147,6 @@
       "id": "9b9cf9e76aeefea346957bfe5f6dafc5",
       "name": "Економічна правда",
       "url": "https://epravda.com.ua"
-    }
-  },
-  {
-    "id": "8f891968d34fa8c792d71718c24bc467",
-    "title": "Куленепробивний Rolls-Royce Cullinan від Mansory захищає від .44 Magnum",
-    "description": "Mansory представила броньований Rolls-Royce Cullinan із захистом B4. Позашляховик отримав посилене скло та двері, здатні витримати постріли калібру .44 Magnum - Авто24",
-    "content": "Автомобіль розрахований насамперед на клієнтів, яким потрібен підвищений рівень захисту без відмови від звичного рівня оснащення та комфорту Rolls-Royce, пише Motor1.\nЯк Cullinan захищений від куль\nMansory стверджує, що броньований Cullinan має посил... [1209 chars]",
-    "url": "https://24tv.ua/auto/kuleneprobyvnyi_rolls_royce_cullinan_vid_mansory_zakhyshchaie_vid_44_magnum_n75363",
-    "image": "https://24tv.ua/auto/resources/photos/news/202609/75363e4e23ad7-7b31-4844-8d2a-60268bd7373b.jpg",
-    "publishedAt": "2026-09-06T09:12:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "e737a8e76b161ef4526698e2ec5f60c9",
-      "name": "24 Канал",
-      "url": "https://24tv.ua"
-    }
-  },
-  {
-    "id": "7764cee33730d4749d6f1bb35fecc81d",
-    "title": "Бренди скорочують асортимент великих розмірів через моду на Оземпік",
-    "description": "Препарати для схуднення вдарили по світових брендах - на які кроки змушені йти ᐅТSN.ua (новини 1+1)",
-    "content": "Через падіння попиту виробники та торговельні мережі скорочують асортимент речей великих розмірів, хоча ще кілька років тому активно розширювали розмірні сітки.\nПро це пише Bloomberg.\nОфіційно компанії пояснюють зміни «оптимізацією бізнесу», проте га... [1911 chars]",
-    "url": "https://tsn.ua/svit/z-polyts-vidomykh-brendiv-znykaye-odiah-velykykh-rozmiriv-shcho-stalosia-3162989.html",
-    "image": "https://img.tsn.ua/cached/429/tsn-1284f5ef/thumbs/1200x630/ae/02/6b3f04482348843023137c9b5e5202ae.jpg",
-    "publishedAt": "2026-09-06T07:34:58Z",
-    "lang": "uk",
-    "source": {
-      "id": "ae8b9c98d707754fca5e1ea622855c50",
-      "name": "ТСН",
-      "url": "https://tsn.ua"
-    }
-  },
-  {
-    "id": "5e7b67c094f8420e23dc3de1190b0097",
-    "title": "Автомобільний концерн Volkswagen планує масштабний вихід із капіталу футбольних клубів",
-    "description": "Volkswagen може вийти з усіх інвестицій у футбольні клуби згідно зі своїм планом порятунку до 2030 року. Фото — Getty Images З... (6 вересня 2026 р.).",
-    "content": "Volkswagen може вийти з усіх інвестицій у футбольні клуби згідно зі своїм планом порятунку до 2030 року.\nЗа даними Bild, у резолюції наглядової ради компанії у рамках нещодавно затвердженого «Плану майбутнього 2030» зазначено, що частки у футбольних ... [491 chars]",
-    "url": "https://dynamo.kiev.ua/uk/news/736386-avtomobilnyi-kontsern-volkswagen-planuie-masshtabnyi-vykhid-iz-kapitalu-futbolnykh-klubiv",
-    "image": "https://dynamo.kiev.ua/media/posts/2026/09/05/GettyImages-2293514884_1.jpg",
-    "publishedAt": "2026-09-06T06:27:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "65c51d622491ac46ec03f2c92e6d1dac",
-      "name": "Динамо Киев от Шурика",
-      "url": "https://dynamo.kiev.ua"
-    }
-  },
-  {
-    "id": "7aace5c606045088aab766e73dc910ab",
-    "title": "що перевірити перед покупкою",
-    "description": "Як вибрати вживаний електромобіль, чим відрізняються BEV, PHEV та E-REV, як оцінити запас ходу та чому перед покупкою важливо перевірити батарею і зарядку.",
-    "content": "Купівля вживаного електрокара сьогодні вже не виглядає як придбання технологічного експерименту. Особливо якщо йдеться про відносно свіжу модель із нормальною батареєю, достатнім запасом ходу та підтримкою швидкої зарядки.\nВтім, електромобіль має одн... [5737 chars]",
-    "url": "https://24tv.ua/auto/chy_varto_zaraz_kupuvaty_vzhyvanyi_elektromobil_na_shcho_zvernuty_uvahu_n75397",
-    "image": "https://24tv.ua/auto/resources/photos/news/202609/75397a48bc110-f376-4fa8-83c8-5d2a1db20c1c.jpg",
-    "publishedAt": "2026-09-06T06:21:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "e737a8e76b161ef4526698e2ec5f60c9",
-      "name": "24 Канал",
-      "url": "https://24tv.ua"
     }
   }
 ]
