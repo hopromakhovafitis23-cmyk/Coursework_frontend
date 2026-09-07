@@ -1,5 +1,50 @@
 [
   {
+    "id": "963c02a950edbe0062567161d70bb5a7",
+    "title": "Хакери приховують фішинг за допомогою невидимих символів Unicode • Межа",
+    "description": "Дослідники Microsoft розкрили масштабну фішингову кампанію, у якій зловмисники застосовували так звану \"ASCII-контрабанду\" — техніку приховування тексту за допомогою невидимих Unicode-символів.",
+    "content": "Дослідники Microsoft розкрили масштабну фішингову кампанію, у якій зловмисники застосовували так звану \"ASCII-контрабанду\" — техніку приховування тексту за допомогою невидимих Unicode-символів. Такий метод дозволяє приховувати ключові слова у текстах... [2339 chars]",
+    "url": "https://mezha.ua/news/hakeri-prihovuyut-fishing-za-dopomogoyu-nevidimih-simvoliv-unicode-314935/",
+    "image": "https://img.mezha.ua/mezha/images/doc/3/1/325043/312599b661bd9c626a9c9260b7255dc5.jpeg?w=1200&q=85&stamp=1788726477",
+    "publishedAt": "2026-09-06T20:31:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "6b0257d31504a630dde7752eed4e1e39",
+      "name": "Mezha",
+      "url": "https://mezha.ua"
+    }
+  },
+  {
+    "id": "eb38dc69649ea3ea2559ec71d281b4bd",
+    "title": "Китай розпочав масове виробництво нового дрона-перехоплювача H-07",
+    "description": "Китайська компанія Shengying Technology розпочала масове виробництво нового дрона-перехоплювача під назвою H-07.",
+    "content": "Китайська компанія Shengying Technology розпочала масове виробництво нового дрона-перехоплювача під назвою H-07.\nПро це повідомляє виробник у соцмережах.\nПредставники Shengying Technology зазначають, що перехоплювач розрахований на цілі літакового ти... [1303 chars]",
+    "url": "https://militarnyi.com/uk/news/kytaj-rozpochav-masove-vyrobnytstvo-novogo-drona-perehoplyuvacha-h-07/",
+    "image": "https://militarnyi.com/wp-content/uploads/2026/09/H-07-masove-vyrobnytstvo.jpg",
+    "publishedAt": "2026-09-06T17:58:54Z",
+    "lang": "uk",
+    "source": {
+      "id": "c98ff05728e3eec892018e49e689f83e",
+      "name": "Militarnyi",
+      "url": "https://militarnyi.com"
+    }
+  },
+  {
+    "id": "8e97472a1c167ae48d71f5bd8bed5329",
+    "title": "чим їх замінюють",
+    "description": "Вибір малолітражок зараз обмежений і вони непомірно дорожчають. Позитивну тенденцію демонструють лише електричні малолітражки. Всі деталі в аналітичному огляді зі статистикою, інфографікою та графічними блоками.",
+    "content": "І це не просто враження покупців. За роз'ясненнями щодо цього редакція Авто24 звернулася до експертів найбільшого у Європі німецького автомобільного клубу ADAC, які проаналізували ситуацію на ринку й дійшли невтішного висновку: сегмент недорогих мало... [5479 chars]",
+    "url": "https://24tv.ua/auto/deshevykh_malolitrazhok_u_yevropi_staie_dedali_menshe_shcho_vidbuvaietsia_n75510",
+    "image": "https://24tv.ua/auto/resources/photos/news/202609/755102a212583-ea1e-406d-8090-07b362ed86c4.jpg",
+    "publishedAt": "2026-09-06T16:19:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "e737a8e76b161ef4526698e2ec5f60c9",
+      "name": "24tv.ua",
+      "url": "https://24tv.ua"
+    }
+  },
+  {
     "id": "9c74c5fc06e436c54d74258113d0feee",
     "title": "автогіганти готують електрокари з бензиновими двигунами",
     "description": "Hyundai, Ford та Stellantis планують випустити електромобілі, які будуть додатково оснащені бензиновими двигунами. Детальніше читайте на сайті УНІАН.",
@@ -15,6 +60,21 @@
     }
   },
   {
+    "id": "c2ad4e8bfe89560bee541a6cad30d68c",
+    "title": "У США набирають популярності побутові сонячні комплекти для підключення до розетки",
+    "description": "У США поступово поширюються компактні сонячні комплекти, які користувачі можуть самостійно підключати до звичайної домашньої розетки. Такі рішення також називають балконними сонячними системами: вони вже кілька років використовуються в Європі та нині поступово з’являються у США, пише The Verge.",
+    "content": "У США поступово поширюються компактні сонячні комплекти, які користувачі можуть самостійно підключати до звичайної домашньої розетки. Такі рішення також називають балконними сонячними системами: вони вже кілька років використовуються в Європі та нині... [1309 chars]",
+    "url": "https://ua.news/ua/energetika/u-ssha-nabiraiut-populiarnosti-pobutovi-soniachni-komplekti-dlia-pidkliuchennia-do-rozetki",
+    "image": "https://cdn-cabinet.ua.news/uploads/images/plug_in_solar_kits_gain_momentum_in_us_1788696274622.webp",
+    "publishedAt": "2026-09-06T12:04:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "54b33233e9f0f396fe0c9e0f95f2a6f6",
+      "name": "UA.NEWS",
+      "url": "https://ua.news"
+    }
+  },
+  {
     "id": "d7522225b1272e08d0fa1d981ff546a4",
     "title": "Ставка ЄЦБ: європейський регулятор готує нове підвищення",
     "description": "Європейський центральний банк планує вдруге підвищити облікову ставку через зростання інфляції в єврозоні до понад трьох відсотків",
@@ -27,6 +87,21 @@
       "id": "9b9cf9e76aeefea346957bfe5f6dafc5",
       "name": "Економічна правда",
       "url": "https://epravda.com.ua"
+    }
+  },
+  {
+    "id": "8f891968d34fa8c792d71718c24bc467",
+    "title": "Куленепробивний Rolls-Royce Cullinan від Mansory захищає від .44 Magnum",
+    "description": "Mansory представила броньований Rolls-Royce Cullinan із захистом B4. Позашляховик отримав посилене скло та двері, здатні витримати постріли калібру .44 Magnum - Авто24",
+    "content": "Автомобіль розрахований насамперед на клієнтів, яким потрібен підвищений рівень захисту без відмови від звичного рівня оснащення та комфорту Rolls-Royce, пише Motor1.\nЯк Cullinan захищений від куль\nMansory стверджує, що броньований Cullinan має посил... [1209 chars]",
+    "url": "https://24tv.ua/auto/kuleneprobyvnyi_rolls_royce_cullinan_vid_mansory_zakhyshchaie_vid_44_magnum_n75363",
+    "image": "https://24tv.ua/auto/resources/photos/news/202609/75363e4e23ad7-7b31-4844-8d2a-60268bd7373b.jpg",
+    "publishedAt": "2026-09-06T09:12:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "e737a8e76b161ef4526698e2ec5f60c9",
+      "name": "24 Канал",
+      "url": "https://24tv.ua"
     }
   },
   {
@@ -72,81 +147,6 @@
       "id": "e737a8e76b161ef4526698e2ec5f60c9",
       "name": "24 Канал",
       "url": "https://24tv.ua"
-    }
-  },
-  {
-    "id": "94c6c1cfc7e91ec200199aa518d2c97a",
-    "title": "Hyundai привіз у Європу електричну Staria, що стала прямим конкурентом VW ID Buzz",
-    "description": "Цінник на дев'ятимісний мінівен Hyundai Hyundai Staria Electric на ринку Європи значно нижчий від VW ID Buzz, що свідчить про йомовірний відтік клієнтів \"гостя\".",
-    "content": "Як повідомляє корейський бренд на своєму ресурсі hyundai.news, розпочато продажі електричної модифікації популярного вена. Візуально \"електричку\" легко впізнати за глухою панеллю замість решітки радіатора, портом зарядки спереду та спеціальними аерод... [1529 chars]",
-    "url": "https://24tv.ua/auto/deviatymisnyi_kosmolit_hyundai_pryviz_u_yevropu_elektrychnu_staria_za_tsinoiu_vw_id_buzz_n75512",
-    "image": "https://24tv.ua/auto/resources/photos/news/202609/755128acd6463-4e47-44c7-8d32-d9cfb2d662c6.jpg",
-    "publishedAt": "2026-09-06T04:38:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "e737a8e76b161ef4526698e2ec5f60c9",
-      "name": "24 Канал",
-      "url": "https://24tv.ua"
-    }
-  },
-  {
-    "id": "ba906fab9ed296be759d2d22fd6c5594",
-    "title": "Українці масово купують дорогі нові авто: скільки коштує найпопулярніша модель",
-    "description": "У серпні українці придбали близько 5 000 нових легкових автомобілів, при цьому значно збільшивши обсяг купівлі окремих марок. Скажімо, автомобілів SKODA було придбано одразу на 47% більше, ніж у цей самий період минулого року.",
-    "content": "У серпні українці придбали близько 5 000 нових легкових автомобілів, при цьому значно збільшивши обсяг купівлі окремих марок. Скажімо, автомобілів SKODA було придбано одразу на 47% більше, ніж у цей самий період минулого року. Найпопулярнішою моделлю... [1621 chars]",
-    "url": "https://www.obozrevatel.com/ukr/ekonomika-glavnaya/economy/ukraintsi-masovo-kupuyut-dorogi-novi-avto-skilki-koshtue-najpopulyarnisha-model1.htm",
-    "image": "https://i.obozrevatel.com/news/2026/9/4/screenshot-2026-09-04-at-19-12-31-32-8-izobrazhenie-webp-1600-1067-pik.png?size=1200x630",
-    "publishedAt": "2026-09-06T00:20:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "ca149ffefb31c86f82d7f299d744af59",
-      "name": "Obozrevatel",
-      "url": "https://www.obozrevatel.com"
-    }
-  },
-  {
-    "id": "51a30a5f76095f589126e28158a8a9d2",
-    "title": "Криптоінвестор втратив $2,1 млн після переходу за фейковим посиланням, яке згенерував ChatGPT",
-    "description": "Криптоінвестор втратив активи приблизно на $2,1 млн після того, як скористався шкідливим посиланням, отриманим у відповіді ChatGPT.",
-    "content": "Криптоінвестор втратив активи приблизно на $2,1 млн після того, як скористався шкідливим посиланням, отриманим у відповіді ChatGPT.\nКористувач під ніком Alex попросив нейромережу російською мовою підказати, де можна обміняти sFLR на WFLR. У відповіді... [939 chars]",
-    "url": "https://donpatriot.news/kryptoinvestor-vtratyv-21-mln-pislya-perehodu-za-fejkovym-posylannyam-yake-zgeneruvav-chatgpt",
-    "image": "https://donpatriot.news/wp-content/uploads/2023/11/53139.jpg",
-    "publishedAt": "2026-09-05T23:15:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "556066753a7a30eb0619823360acdde4",
-      "name": "Патріот Донбасу",
-      "url": "https://donpatriot.news"
-    }
-  },
-  {
-    "id": "dba953e3cf9186410e2a390f98d9c6c6",
-    "title": "ціни в Україні, проблеми з батареєю, чи варто купувати",
-    "description": "Розбираємося, чи варто купувати вживаний Chevrolet Bolt EV. Реальні ціни в Україні, запас ходу взимку, надійність підвіски та головний нюанс із заміною батареї.",
-    "content": "Як пише видання Автоцентр, Chevrolet Bolt EV свого часу змінив уявлення про доступні електромобілі, запропонувавши запас ходу майже 400 км ще до масової появи Tesla в Україні.\nСьогодні ця модель масово їде до нас зі США та Європи, приваблюючи водіїв ... [2937 chars]",
-    "url": "https://24tv.ua/auto/vid_11_500_dolariv_elektrychku_chy_varto_zaraz_kupuvaty_vzhyvanyi_chevrolet_bolt_ev_n75353",
-    "image": "https://24tv.ua/auto/resources/photos/news/202609/7535366676329-56e1-4e01-b455-581c3d786892.jpg",
-    "publishedAt": "2026-09-05T09:45:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "e737a8e76b161ef4526698e2ec5f60c9",
-      "name": "24 Канал",
-      "url": "https://24tv.ua"
-    }
-  },
-  {
-    "id": "398885f3d6dc4ff48ddad0c4ad0b443f",
-    "title": "Tesla запустила в Техасі безпілотне таксі Cybercab і здивувала рекламою",
-    "description": "Tesla запустила в Техасі безпілотне таксі Cybercab, а рекламна кампанія сервісу вже привернула увагу через незвичний сюжет.",
-    "content": "Tesla запустила в Техасі безпілотне таксі Cybercab, а рекламна кампанія сервісу вже привернула увагу через незвичний сюжет.\nУ ролику компанія показала хлопця на кріслі колісному, який під’їжджає до автомобіля, після чого встає, складає крісло та клад... [446 chars]",
-    "url": "https://donpatriot.news/tesla-zapustyla-v-tehasi-bezpilotne-taksi-cybercab-i-zdyvuvala-reklamoyu",
-    "image": "https://donpatriot.news/wp-content/uploads/2026/09/tesla.avif",
-    "publishedAt": "2026-09-05T07:20:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "556066753a7a30eb0619823360acdde4",
-      "name": "donpatriot.news",
-      "url": "https://donpatriot.news"
     }
   }
 ]
