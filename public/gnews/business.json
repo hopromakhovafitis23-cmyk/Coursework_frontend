@@ -1,5 +1,35 @@
 [
   {
+    "id": "9c74c5fc06e436c54d74258113d0feee",
+    "title": "автогіганти готують електрокари з бензиновими двигунами",
+    "description": "Hyundai, Ford та Stellantis планують випустити електромобілі, які будуть додатково оснащені бензиновими двигунами. Детальніше читайте на сайті УНІАН.",
+    "content": "Hyundai, Ford Motor Company та Stellantis планують випустити електромобілі, які будуть додатково оснащені бензиновими двигунами. Такі моделі покликані розвіяти побоювання водіїв щодо запасу ходу електрокарів, пише The Wall Street Journal.\nЗазначаєтьс... [1492 chars]",
+    "url": "https://www.unian.ua/economics/auto/novi-elektromobili-avtogiganti-gotuyut-elektrokari-z-benzinovimi-dvigunami-13491942.html",
+    "image": "https://images.unian.net/photos/2026_09/thumb_files/1000_545_1788707206-1352.jpg?1",
+    "publishedAt": "2026-09-06T15:10:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "d4361862486677369ff2ae7719b8d313",
+      "name": "УНІАН",
+      "url": "https://www.unian.ua"
+    }
+  },
+  {
+    "id": "d7522225b1272e08d0fa1d981ff546a4",
+    "title": "Ставка ЄЦБ: європейський регулятор готує нове підвищення",
+    "description": "Європейський центральний банк планує вдруге підвищити облікову ставку через зростання інфляції в єврозоні до понад трьох відсотків",
+    "content": "Європейський центральний банк (ЄЦБ) майже напевно проведе друге підвищення облікової ставки наступного тижня, чиновники також відкриті до третього кроку пізніше цього року.\nПро це пише Bloomberg.\nШироко прогнозується підвищення ставки на чверть проце... [1748 chars]",
+    "url": "https://epravda.com.ua/svit/stavka-yecb-yevropeyskiy-regulyator-gotuye-nove-pidvishchennya-825362/",
+    "image": "https://img.epravda.com.ua/epravda/images/doc/4/7/182692/47086dccf33a15e40eccb05efc4e7fef.jpeg?w=1920&q=85",
+    "publishedAt": "2026-09-06T10:35:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "9b9cf9e76aeefea346957bfe5f6dafc5",
+      "name": "Економічна правда",
+      "url": "https://epravda.com.ua"
+    }
+  },
+  {
     "id": "7764cee33730d4749d6f1bb35fecc81d",
     "title": "Бренди скорочують асортимент великих розмірів через моду на Оземпік",
     "description": "Препарати для схуднення вдарили по світових брендах - на які кроки змушені йти ᐅТSN.ua (новини 1+1)",
@@ -117,36 +147,6 @@
       "id": "556066753a7a30eb0619823360acdde4",
       "name": "donpatriot.news",
       "url": "https://donpatriot.news"
-    }
-  },
-  {
-    "id": "248793b42184b77a84d0dc9936e6d1e5",
-    "title": "Ринок вживаних авто змінився: які машини обирають українці",
-    "description": "Попит на вживані авто знизився, але продажі окремих моделей зросли",
-    "content": "У серпні в Україні перепродали 71 154 вживані легкові автомобілі – на 4,3% менше, ніж у липні, та на 6,4% менше, ніж рік тому. Водночас майже третину угод оформили через «Дію», а електромобілі та гібриди разом зайняли 9,5% ринку. Про це пише «Главком... [3597 chars]",
-    "url": "https://glavcom.ua/techno/auto/rinok-vzhivanikh-avto-zminivsja-jaki-mashini-obirajut-ukrajintsi-1140775.html",
-    "image": "https://glavcom.ua/img/article/11407/75_main-v1788523012.webp",
-    "publishedAt": "2026-09-05T07:00:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "170951208432adcfd96b2d9def1a0127",
-      "name": "Главком",
-      "url": "https://glavcom.ua"
-    }
-  },
-  {
-    "id": "c8a122920e4e32ccd6fe4682154a0d7d",
-    "title": "Старі MP3-плеєри повертаються до моди: молодь готова платити тисячі за культові iPod (фото)",
-    "description": "Від 1400 до 10 тисяч гривень: скільки сьогодні коштують старі iPod – ФОТО",
-    "content": "Культові гаджети з 2000-х сьогодні на піку популярності\nПісля повернення касетних магнітофонів молодь дісталася ще одного символу 2000-х — портативних MP3-плеєрів. Інтерес до iPod та інших окремих музичних пристроїв зростає на тлі загального тренду н... [1390 chars]",
-    "url": "https://news.telegraf.com.ua/ukr/obshhestvo/5949146-stari-mp3-pleeri-znovu-v-modi-u-molodi-za-kultovi-ipod-gotovi-viddavati-tisyachi-foto",
-    "image": "https://telegraf.com.ua/static/storage/thumbs/1200x630/1/5a/b4fa2e06-d62564947836f3990f6754115c9ad5a1.jpg?v=3548_2",
-    "publishedAt": "2026-09-05T04:07:01Z",
-    "lang": "uk",
-    "source": {
-      "id": "ff9d5654301b417b70104139b09fafaf",
-      "name": "News Telegraf",
-      "url": "https://news.telegraf.com.ua"
     }
   }
 ]
