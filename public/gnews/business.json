@@ -60,6 +60,21 @@
     }
   },
   {
+    "id": "1f04a15e0739c9b516fc8f6f8a694e76",
+    "title": "EcoFlow представила портативні зарядні станції RIVER Gen4",
+    "description": "Компанія EcoFlow представила четверте покоління портативних зарядних станцій RIVER — моделі RIVER 260 Gen4 і RIVER 520 Gen4. Як повідомляє The Verge, ємність їхніх акумуляторів становить 256 Вт·год і 512 Вт·год відповідно.",
+    "content": "Компанія EcoFlow представила четверте покоління портативних зарядних станцій RIVER — моделі RIVER 260 Gen4 і RIVER 520 Gen4. Як повідомляє The Verge, ємність їхніх акумуляторів становить 256 Вт·год і 512 Вт·год відповідно.\nЄмність і роз’єми\nRIVER 260... [1012 chars]",
+    "url": "https://ua.news/ua/technologies/ecoflow-predstavila-portativni-zariadni-stantsiyi-river-gen4",
+    "image": "https://cdn-cabinet.ua.news/uploads/images/ecoflow_predstavyla_portatyvni_zaryadni_1788793368114.webp",
+    "publishedAt": "2026-09-07T15:02:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "54b33233e9f0f396fe0c9e0f95f2a6f6",
+      "name": "UA.NEWS",
+      "url": "https://ua.news"
+    }
+  },
+  {
     "id": "702ab8c6f1cb746c3d200f564855a827",
     "title": "Атака на Liquid Network: викрадено біткойнів на $320 млн",
     "description": "З Liquid Network викрали близько 4 тисяч біткойнів на $320 млн. Після масштабної кібератаки платформа призупинила нові транзакції та розслідує інцидент.",
@@ -132,21 +147,6 @@
       "id": "e737a8e76b161ef4526698e2ec5f60c9",
       "name": "24 Канал",
       "url": "https://24tv.ua"
-    }
-  },
-  {
-    "id": "aa4a0d815d76adb1214e48d160c08eb4",
-    "title": "Шпигун у квартирі: LG Smart TV записують звук та збирають дані про гаджети",
-    "description": "Дослідження Gamers Nexus показало, що LG Smart TV можуть сканувати локальну мережу, збирати дані про пристрої та записувати звук у режимі очікування.",
-    "content": "Телевізори LG Smart TV можуть збирати значно більше даних, ніж очікують їхні власники. Розслідування Gamers Nexus показало, що деякі моделі розумних телевізорів LG постійно сканують домашню мережу, визначають підключені пристрої та можуть записувати ... [2697 chars]",
-    "url": "https://itc.ua/ua/novini/lg-smart-tv-zapysuyut-zvuk-ta-zbyrayut-dani/",
-    "image": "https://cdn.itc.ua/uploads/2026/09/Spy_TVs_LG_Smart_TV.jpg",
-    "publishedAt": "2026-09-07T08:25:27Z",
-    "lang": "uk",
-    "source": {
-      "id": "391d17d071b755a4bda37c1b43f47c2c",
-      "name": "ITC.ua",
-      "url": "https://itc.ua"
     }
   }
 ]
