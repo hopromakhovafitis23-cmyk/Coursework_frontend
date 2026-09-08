@@ -1,5 +1,65 @@
 [
   {
+    "id": "702ab8c6f1cb746c3d200f564855a827",
+    "title": "Атака на Liquid Network: викрадено біткойнів на $320 млн",
+    "description": "З Liquid Network викрали близько 4 тисяч біткойнів на $320 млн. Після масштабної кібератаки платформа призупинила нові транзакції та розслідує інцидент.",
+    "content": "З Liquid Network викрали близько 4 тисяч біткойнів на $320 млн. Після масштабної кібератаки платформа призупинила нові транзакції та розслідує інцидент.\nЗ мережі Liquid Network, яка використовується для платежів і розрахунків із біткойнами, невідомі ... [894 chars]",
+    "url": "https://ua.korrespondent.net/business/financial/4909654-ataka-na-Liquid-Network-vykradeno-bitkoiniv-na-320-mln",
+    "image": "https://kor.ill.in.ua/m/1260x900/4554353.jpg",
+    "publishedAt": "2026-09-07T12:27:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "5f3893b2bdd83721567eef82ac0a6d2e",
+      "name": "Korrespondent.net",
+      "url": "https://ua.korrespondent.net"
+    }
+  },
+  {
+    "id": "83dd3b841cd840e9f4cb1bf915976543",
+    "title": "які японські SUV варто купувати сім’ям, а які краще оминати на авторинку - Blik",
+    "description": "Експерти визначили найкращі японські кросовери для сімей та назвали моделі, які можуть розчарувати водіїв попри привабливу стартову ціну.",
+    "content": "Які японські кросовери найкращі для сім’ї?\nФахівці виділяють Toyota Highlander, Toyota Grand Highlander та Honda Pilot одними з найкращих варіантів для сімей, тоді як Nissan Pathfinder і Mitsubishi Outlander не рекомендують до покупки. Про це пише ви... [6371 chars]",
+    "url": "https://blik.ua/automobile/43675-ne-veditsya-na-nizku-cinu-eksperti-nazvali-naikrashi-ta-naigirshi-simeini-krosoveri",
+    "image": "https://blik.ua/img/news/thumbs/auto0709main.jpg",
+    "publishedAt": "2026-09-07T11:43:27Z",
+    "lang": "uk",
+    "source": {
+      "id": "5e8763eb8f65bd733ca2324cfefbe5b6",
+      "name": "БЛІК",
+      "url": "https://blik.ua"
+    }
+  },
+  {
+    "id": "3b54f38e1cf3dafecf146ba74e5e7bf4",
+    "title": "$2 трлн на кону: чому IPO Anthropic може стати найдорожчою помилкою в історії ШІ",
+    "description": "Чому саме Claude може принести Anthropic оцінку у $2 трлн — і так само легко її обвалити",
+    "content": "За що ринок готовий заплатити $2 трлн\n$2 трлн — це більше, ніж сумарна вартість Nike, McDonald’s, Starbucks і Coca-Cola. І таку суму ринок пророкує компанії, яка ще навіть не вийшла на біржу.\nУ червні Anthropic подала документи на IPO, випередивши св... [8652 chars]",
+    "url": "https://minfin.com.ua/ua/invest/articles/2-trln-na-konu-pochemu-ipo-anthropic-mozhet-stat-samoy-dorogoy-oshibkoy-v-istorii-ii/",
+    "image": "https://minfin.com.ua/img/2026/181198578/325895676333b19a3ee7bbfd2cabbe77.jpeg",
+    "publishedAt": "2026-09-07T11:30:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "6028444ee1303e4577f50406a4c7988e",
+      "name": "Minfin.com.ua",
+      "url": "https://minfin.com.ua"
+    }
+  },
+  {
+    "id": "e745dd2475e04dd3747b229eaa7678f6",
+    "title": "У Києві продають відреставрований Mercedes-Benz 500SEC",
+    "description": "Авто з часів, коли Mercedes-Benz робив якісні та довговічні автомобілі. У такому стані купе здатне проїхати не один мільйон кілометрів.",
+    "content": "У Києві виставили на продаж купе Mercedes-Benz 500SEC 1983 року після повної реставрації. За автомобіль власник просить 70 тисяч доларів, однак готовий обговорити ціну з реальним покупцем. Про це пише topgir.com.ua.\nЗа словами продавця, відновлення а... [812 chars]",
+    "url": "https://24tv.ua/auto/u_kyievi_prodaiut_vidrestavrovanyi_mercedes_benz_500sec_1983_roku_za_70_tysiach_dolariv_n75542",
+    "image": "https://24tv.ua/auto/resources/photos/news/202609/755420d68191e-9642-48ef-949b-ef4ce3960e00.jpg",
+    "publishedAt": "2026-09-07T10:10:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "e737a8e76b161ef4526698e2ec5f60c9",
+      "name": "24 Канал",
+      "url": "https://24tv.ua"
+    }
+  },
+  {
     "id": "aa4a0d815d76adb1214e48d160c08eb4",
     "title": "Шпигун у квартирі: LG Smart TV записують звук та збирають дані про гаджети",
     "description": "Дослідження Gamers Nexus показало, що LG Smart TV можуть сканувати локальну мережу, збирати дані про пристрої та записувати звук у режимі очікування.",
@@ -87,66 +147,6 @@
       "id": "c98ff05728e3eec892018e49e689f83e",
       "name": "Militarnyi",
       "url": "https://militarnyi.com"
-    }
-  },
-  {
-    "id": "8e97472a1c167ae48d71f5bd8bed5329",
-    "title": "чим їх замінюють",
-    "description": "Вибір малолітражок зараз обмежений і вони непомірно дорожчають. Позитивну тенденцію демонструють лише електричні малолітражки. Всі деталі в аналітичному огляді зі статистикою, інфографікою та графічними блоками.",
-    "content": "І це не просто враження покупців. За роз'ясненнями щодо цього редакція Авто24 звернулася до експертів найбільшого у Європі німецького автомобільного клубу ADAC, які проаналізували ситуацію на ринку й дійшли невтішного висновку: сегмент недорогих мало... [5479 chars]",
-    "url": "https://24tv.ua/auto/deshevykh_malolitrazhok_u_yevropi_staie_dedali_menshe_shcho_vidbuvaietsia_n75510",
-    "image": "https://24tv.ua/auto/resources/photos/news/202609/755102a212583-ea1e-406d-8090-07b362ed86c4.jpg",
-    "publishedAt": "2026-09-06T16:19:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "e737a8e76b161ef4526698e2ec5f60c9",
-      "name": "24tv.ua",
-      "url": "https://24tv.ua"
-    }
-  },
-  {
-    "id": "9c74c5fc06e436c54d74258113d0feee",
-    "title": "автогіганти готують електрокари з бензиновими двигунами",
-    "description": "Hyundai, Ford та Stellantis планують випустити електромобілі, які будуть додатково оснащені бензиновими двигунами. Детальніше читайте на сайті УНІАН.",
-    "content": "Hyundai, Ford Motor Company та Stellantis планують випустити електромобілі, які будуть додатково оснащені бензиновими двигунами. Такі моделі покликані розвіяти побоювання водіїв щодо запасу ходу електрокарів, пише The Wall Street Journal.\nЗазначаєтьс... [1492 chars]",
-    "url": "https://www.unian.ua/economics/auto/novi-elektromobili-avtogiganti-gotuyut-elektrokari-z-benzinovimi-dvigunami-13491942.html",
-    "image": "https://images.unian.net/photos/2026_09/thumb_files/1000_545_1788707206-1352.jpg?1",
-    "publishedAt": "2026-09-06T15:10:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "d4361862486677369ff2ae7719b8d313",
-      "name": "УНІАН",
-      "url": "https://www.unian.ua"
-    }
-  },
-  {
-    "id": "c2ad4e8bfe89560bee541a6cad30d68c",
-    "title": "У США набирають популярності побутові сонячні комплекти для підключення до розетки",
-    "description": "У США поступово поширюються компактні сонячні комплекти, які користувачі можуть самостійно підключати до звичайної домашньої розетки. Такі рішення також називають балконними сонячними системами: вони вже кілька років використовуються в Європі та нині поступово з’являються у США, пише The Verge.",
-    "content": "У США поступово поширюються компактні сонячні комплекти, які користувачі можуть самостійно підключати до звичайної домашньої розетки. Такі рішення також називають балконними сонячними системами: вони вже кілька років використовуються в Європі та нині... [1309 chars]",
-    "url": "https://ua.news/ua/energetika/u-ssha-nabiraiut-populiarnosti-pobutovi-soniachni-komplekti-dlia-pidkliuchennia-do-rozetki",
-    "image": "https://cdn-cabinet.ua.news/uploads/images/plug_in_solar_kits_gain_momentum_in_us_1788696274622.webp",
-    "publishedAt": "2026-09-06T12:04:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "54b33233e9f0f396fe0c9e0f95f2a6f6",
-      "name": "UA.NEWS",
-      "url": "https://ua.news"
-    }
-  },
-  {
-    "id": "d7522225b1272e08d0fa1d981ff546a4",
-    "title": "Ставка ЄЦБ: європейський регулятор готує нове підвищення",
-    "description": "Європейський центральний банк планує вдруге підвищити облікову ставку через зростання інфляції в єврозоні до понад трьох відсотків",
-    "content": "Європейський центральний банк (ЄЦБ) майже напевно проведе друге підвищення облікової ставки наступного тижня, чиновники також відкриті до третього кроку пізніше цього року.\nПро це пише Bloomberg.\nШироко прогнозується підвищення ставки на чверть проце... [1748 chars]",
-    "url": "https://epravda.com.ua/svit/stavka-yecb-yevropeyskiy-regulyator-gotuye-nove-pidvishchennya-825362/",
-    "image": "https://img.epravda.com.ua/epravda/images/doc/4/7/182692/47086dccf33a15e40eccb05efc4e7fef.jpeg?w=1920&q=85",
-    "publishedAt": "2026-09-06T10:35:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "9b9cf9e76aeefea346957bfe5f6dafc5",
-      "name": "Економічна правда",
-      "url": "https://epravda.com.ua"
     }
   }
 ]
