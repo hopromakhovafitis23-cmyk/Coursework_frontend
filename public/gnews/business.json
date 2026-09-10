@@ -1,5 +1,20 @@
 [
   {
+    "id": "41823d943d352b092dc9a1cce7ec926e",
+    "title": "У Києві показали на чверть дешевший електрокросовер Toyota bZ3X у преміум-комплектації",
+    "description": "На виставці Plug In Ukraine 2026 у столиці вперше показали Toyota bZ3X — електричний кросовер, який японська компанія створила для китайського ринку.",
+    "content": "Фото: Auto24\nАвтомобіль привезли незалежні продавці, і саме це робить його появу в Україні особливою. Журналіст Auto24 побував на виставці та побачив автомобіль наживо: представлений екземпляр має максимальну комплектацію 610 Max, батарею на 67,9 кВт... [2653 chars]",
+    "url": "https://pravdatutnews.com/avto/2026/09/10/85469-u-kyyevi-pokazaly-na-chvert-deshevshyy-elektrokrosover-toyota",
+    "image": "https://pravdatutnews.com/sites/default/files/news/2026/09/10/toyota_bz3x_auto24.jpg",
+    "publishedAt": "2026-09-10T00:47:50Z",
+    "lang": "uk",
+    "source": {
+      "id": "716e7cb92f5f203aa3506c9ba057538c",
+      "name": "ПравдаТУТ NEWS",
+      "url": "https://pravdatutnews.com"
+    }
+  },
+  {
     "id": "a64df2f8655d194511a673ba8feda632",
     "title": "Нове покоління найдешевшого електрокара Dacia: Spring додав потужності, став ширшим і соліднішим",
     "description": "Dacia представила друге покоління електричного Spring — модель, яка зберегла головну ідею доступного міського електромобіля, але фактично докорінно змінилася.",
@@ -42,6 +57,21 @@
       "id": "5f3893b2bdd83721567eef82ac0a6d2e",
       "name": "Korrespondent.net",
       "url": "https://ua.korrespondent.net"
+    }
+  },
+  {
+    "id": "5e583cde89a02b8b5d05e4cc5b4cbc4d",
+    "title": "Найкращі позашляховики у 2026 році - топ 3",
+    "description": "Автовиробники щороку представляють десятки нових моделей та оновлень, однак лише деяким автомобілям вдається справді привернути увагу всієї індустрії.",
+    "content": "Автовиробники щороку представляють десятки нових моделей та оновлень, однак лише деяким автомобілям вдається справді привернути увагу всієї індустрії. У 2026 році серед позашляховиків особливо відзначилися одразу кілька моделей – одні зібрали престиж... [3723 chars]",
+    "url": "https://www.obozrevatel.com/ukr/avto-oboz/spravili-furor-3-najkraschih-pozashlyahoviki-u-2026-rotsi.htm",
+    "image": "https://i.obozrevatel.com/news/2026/9/9/d8e7f6bf-8699-40d2-b3c3-a992c95e1991.png?size=1200x630",
+    "publishedAt": "2026-09-09T14:00:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "ca149ffefb31c86f82d7f299d744af59",
+      "name": "Obozrevatel",
+      "url": "https://www.obozrevatel.com"
     }
   },
   {
@@ -116,36 +146,6 @@
     "source": {
       "id": "391d17d071b755a4bda37c1b43f47c2c",
       "name": "ITC.ua",
-      "url": "https://itc.ua"
-    }
-  },
-  {
-    "id": "949d2f7cf57beb37acad5583202868c6",
-    "title": "Новий Volkswagen ID. Polo розкупили ще до появи в салонах: черга вже на 10 місяців",
-    "description": "Компанія Volkswagen зафіксувала високий попит на новий доступний електрохетчбек ID. Polo у Європі.",
-    "content": "Компанія Volkswagen зафіксувала високий попит на новий доступний електрохетчбек ID. Polo у Європі. Автовиробник уже зібрав понад 30 тис. замовлень на модель. Про це повідомляє «Укравтопром».\n► Читайте телеграм-канал «Мінфіну»: головні фінансові новин... [959 chars]",
-    "url": "https://minfin.com.ua/ua/2026/09/09/181314554/",
-    "image": "http://minfin.com.ua/img/2026/181314554/a3c10f233f0570a868463595676977de.jpeg",
-    "publishedAt": "2026-09-09T06:02:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "6028444ee1303e4577f50406a4c7988e",
-      "name": "Мінфін",
-      "url": "https://minfin.com.ua"
-    }
-  },
-  {
-    "id": "e162906d9904208051d0136991d0d63e",
-    "title": "США будують перший завод із переробки магнітів у рідкісноземельні елементи",
-    "description": "У США побудують перший завод із переробки постійних магнітів вартістю $100 млн. Підприємство вилучатиме неодим, празеодим та інші рідкісноземельні елементи чистотою понад 99,5%.",
-    "content": "US Strategic Metals та Ionic Rare Earths планують побудувати в Міссурі підприємство вартістю 100 мільйонів доларів для переробки постійних магнітів. US Strategic Metals та Ionic Rare Earths будують у штаті Міссурі те, що вони називають першим у США з... [3973 chars]",
-    "url": "https://itc.ua/ua/novini/ssha-buduyut-pershyj-zavod-iz-pererobky-magnitiv-u-ridkisnozemelni-elementy/",
-    "image": "https://cdn.itc.ua/uploads/2026/09/Magnyt-01.png",
-    "publishedAt": "2026-09-09T06:00:41Z",
-    "lang": "uk",
-    "source": {
-      "id": "391d17d071b755a4bda37c1b43f47c2c",
-      "name": "itc.ua",
       "url": "https://itc.ua"
     }
   }
