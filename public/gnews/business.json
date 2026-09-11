@@ -1,5 +1,65 @@
 [
   {
+    "id": "251778dd73697cb5576393b4bb294a29",
+    "title": "Сарафанне радіо в бізнесі",
+    "description": "Сарафанне радіо в бізнесі допомагає бізнесу залучати нових клієнтів без великих витрат на рекламу. Основа - рекомендації клієнтів, які діляться досвідом з друзями - Бізнес 24.",
+    "content": "Маркетинг \"з вуст в уста\" (WOM-маркетинг) виникає тоді, коли клієнти обговорюють продукт або послугу компанії у своїх щоденних розмовах. По суті, це безкоштовна реклама, яка з’являється завдяки хорошому клієнтському досвіду, що часто перевершує очіку... [7417 chars]",
+    "url": "https://24tv.ua/business/sarafanne-radio-biznesi-chomu-rekomendatsiyi-kliyentiv-tse-naykrashha_n3137967",
+    "image": "https://24tv.ua/resources/photos/news/202609/3137967.jpg?v=1788877693000&w=1200&h=675",
+    "publishedAt": "2026-09-10T12:00:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "e737a8e76b161ef4526698e2ec5f60c9",
+      "name": "24 Канал",
+      "url": "https://24tv.ua"
+    }
+  },
+  {
+    "id": "6d755376b6d0a235701267788183f714",
+    "title": "Volkswagen витратить €16 млрд на масштабну реструктуризацію",
+    "description": "План передбачає скорочення персоналу та ймовірне згортання виробництва на чотирьох німецьких заводах.",
+    "content": "План передбачає скорочення персоналу та ймовірне згортання виробництва на чотирьох німецьких заводах.\nVolkswagen оцінює загальну вартість нещодавно погодженого плану реструктуризації приблизно у €16 млрд. Про це повідомляє Reuters із посиланням на об... [1925 chars]",
+    "url": "https://ua.korrespondent.net/business/auto/4910666-Volkswagen-vytratyt-16-mlrd-na-masshtabnu-restrukturyzatsiui",
+    "image": "https://kor.ill.in.ua/m/1260x900/4558865.jpg",
+    "publishedAt": "2026-09-10T11:54:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "5f3893b2bdd83721567eef82ac0a6d2e",
+      "name": "Korrespondent.net",
+      "url": "https://ua.korrespondent.net"
+    }
+  },
+  {
+    "id": "77ce1486ec34dc4e8f9d86ecb8026bfa",
+    "title": "Один бренд майже захопив український ринок нових гібридів: названо моделі-лідери",
+    "description": "У серпні в Україні зареєстрували майже 3,9 тисячі гібридних авто, що на 38% більше, ніж торік. Які автомобілі найбільше продавалися в Україні - читайте на УНІАН",
+    "content": "У серпні український автопарк поповнили майже 3,9 тисячі гібридних легковиків – автомобілів із системами HEV та PHEV. Це на 38% більше, ніж за аналогічний період минулого року, повідомляє \"УкрАвтопром\".\nЧастка нових авто у загальній кількості станови... [1323 chars]",
+    "url": "https://www.unian.ua/economics/auto/odin-brend-mayzhe-zahopiv-ukrajinskiy-rinok-novih-gibridiv-nazvano-modeli-lideri-13495521.html",
+    "image": "https://images.unian.net/photos/2016_11/thumb_files/620_324_1479892035-8210.jpg?1",
+    "publishedAt": "2026-09-10T09:10:02Z",
+    "lang": "uk",
+    "source": {
+      "id": "d4361862486677369ff2ae7719b8d313",
+      "name": "УНІАН",
+      "url": "https://www.unian.ua"
+    }
+  },
+  {
+    "id": "15307935440fd9762aa8e8f950b68740",
+    "title": "ціна, фото, характеристики",
+    "description": "Aston Martin спільно з Brough Superior представили свій перший дорожній мотоцикл AMB 002 Roadster. Дизайн від суперкарів, титанова рама та цінник понад 120 тисяч євро.",
+    "content": "Про вихід новинки повідомляє видання Road & Track. Британський виробник люксових авто знову об'єднав зусилля з французьким мотоательє Brough Superior.\nЯкщо їхній попередній спільний проєкт 2019 року був виключно трековою іграшкою, то новий AMB 002 Ro... [1225 chars]",
+    "url": "https://24tv.ua/auto/koshtuie_yak_kvartyra_v_kyievi_aston_martin_pokazav_svii_pershyi_dorozhnii_mototsykl_n75667",
+    "image": "https://24tv.ua/auto/resources/photos/news/202609/756679b1cf4e1-e297-470e-bce7-9d881e2bd256.jpg",
+    "publishedAt": "2026-09-10T08:30:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "e737a8e76b161ef4526698e2ec5f60c9",
+      "name": "24tv.ua",
+      "url": "https://24tv.ua"
+    }
+  },
+  {
     "id": "1d2f44c8cc8d1dc4e507487640c3fd20",
     "title": "Гібриди в Україні подорожчали: які моделі стали найпопулярнішими",
     "description": "У серпні український автопарк поповнили майже 3,9 тисячі гібридних легковиків — автомобілів із силовими установками HEV та PHEV. Це на 38% більше, ніж за аналогічний місяць минулого року.",
@@ -87,66 +147,6 @@
       "id": "5f3893b2bdd83721567eef82ac0a6d2e",
       "name": "Korrespondent.net",
       "url": "https://ua.korrespondent.net"
-    }
-  },
-  {
-    "id": "5e583cde89a02b8b5d05e4cc5b4cbc4d",
-    "title": "Найкращі позашляховики у 2026 році - топ 3",
-    "description": "Автовиробники щороку представляють десятки нових моделей та оновлень, однак лише деяким автомобілям вдається справді привернути увагу всієї індустрії.",
-    "content": "Автовиробники щороку представляють десятки нових моделей та оновлень, однак лише деяким автомобілям вдається справді привернути увагу всієї індустрії. У 2026 році серед позашляховиків особливо відзначилися одразу кілька моделей – одні зібрали престиж... [3723 chars]",
-    "url": "https://www.obozrevatel.com/ukr/avto-oboz/spravili-furor-3-najkraschih-pozashlyahoviki-u-2026-rotsi.htm",
-    "image": "https://i.obozrevatel.com/news/2026/9/9/d8e7f6bf-8699-40d2-b3c3-a992c95e1991.png?size=1200x630",
-    "publishedAt": "2026-09-09T14:00:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "ca149ffefb31c86f82d7f299d744af59",
-      "name": "Obozrevatel",
-      "url": "https://www.obozrevatel.com"
-    }
-  },
-  {
-    "id": "74f5cb81db8b161bdb7aaa3bb155fc10",
-    "title": "Вистачить максимум на 10 днів: запаси пам'яті Samsung та SK hynix скоротились до критичного рівня",
-    "description": "Згідно зі звітом Business Korea, запаси мікросхем пам'яті в Samsung та SK hynix скоротились до рі",
-    "content": "Згідно зі звітом Business Korea, запаси мікросхем пам’яті в Samsung та SK hynix скоротились до рівня, достатнього на 10 днів.\nОбидві компанії переживають безпрецедентний дефіцит мікросхем, оскільки попит з боку ЦОД та компаній з розвитку ШІ чинить ша... [1350 chars]",
-    "url": "https://itc.ua/ua/novini/vystachyt-maksymum-na-10-dniv-zapasy-pam-yati-samsung-ta-sk-hynix-skorotylys-do-krytychnogo-rivnya/",
-    "image": "https://cdn.itc.ua/uploads/2026/09/Depositphotos_61344487_L.jpg",
-    "publishedAt": "2026-09-09T13:11:57Z",
-    "lang": "uk",
-    "source": {
-      "id": "391d17d071b755a4bda37c1b43f47c2c",
-      "name": "ITC.ua",
-      "url": "https://itc.ua"
-    }
-  },
-  {
-    "id": "64bad6e2f7441da39ecde0252cf095c6",
-    "title": "Google зробить найбільшу інвестицію в Європі",
-    "description": "Інвестиції щороку додаватимуть €3,6 млрд до ВВП Фінляндії та забезпечать понад 37 000 робочих місць.",
-    "content": "Інвестиції щороку додаватимуть €3,6 млрд до ВВП Фінляндії та забезпечать понад 37 000 робочих місць.\nКомпанія Google має намір протягом двох років інвестує щонайменше €13 млрд у дата-центри та цифрову інфраструктуру Фінляндії. Це найбільша інвестиція... [1612 chars]",
-    "url": "https://ua.korrespondent.net/business/4910330-Google-zrobyt-naibilshu-investytsiui-v-yevropi",
-    "image": "https://kor.ill.in.ua/m/1260x900/4557348.jpg",
-    "publishedAt": "2026-09-09T10:59:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "5f3893b2bdd83721567eef82ac0a6d2e",
-      "name": "ua.korrespondent.net",
-      "url": "https://ua.korrespondent.net"
-    }
-  },
-  {
-    "id": "d35b8cec93b46d822498e3a99073efb6",
-    "title": "понад мільйон німців вже користуються такими системами",
-    "description": "Понад мільйон німців повісили сонячні панелі на балкони і підключили до розетки, але закон обмежує потужність до 800 ват. Як це вирішується - читайте на УНІАН.",
-    "content": "Понад мільйон німецьких домогосподарств вже встановили сонячні панелі на балконах, повідомляє Space Daily.\nЗакон обмежує потужність таких установок на рівні 800 Вт, але цього достатньо, щоб живити, наприклад, холодильник і ноутбук. У країні, де 55% ж... [2566 chars]",
-    "url": "https://www.unian.ua/economics/energetics/sonyachni-paneli-na-balkoni-ponad-milyon-nimciv-vzhe-koristuyutsya-takimi-sistemami-13494561.html",
-    "image": "https://images.unian.net/photos/2026_07/thumb_files/620_324_1785147439-9949.jpg?1",
-    "publishedAt": "2026-09-09T10:03:01Z",
-    "lang": "uk",
-    "source": {
-      "id": "d4361862486677369ff2ae7719b8d313",
-      "name": "УНІАН",
-      "url": "https://www.unian.ua"
     }
   }
 ]
