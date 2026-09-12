@@ -1,5 +1,35 @@
 [
   {
+    "id": "311e1ab8c78d77cd35e852ac786be0b6",
+    "title": "що з нею стається після 150 000 км пробігу",
+    "description": "Боїтеся купувати вживаний електромобіль через \"вбиту\" батарею? Масштабне дослідження 500 тисяч авто показало реальні цифри деградації акумуляторів. Результати вас приємно здивують.",
+    "content": "Серед українських водіїв досі ходить страшилка, що купувати вживаний електромобіль – це лотерея, де головний приз – заміна батареї за половину вартості самої машини. Проте нове масштабне дослідження, про яке повідомляє видання Jalopnik, ставить крапк... [1972 chars]",
+    "url": "https://24tv.ua/auto/mif_pro_mertvi_batarei_zruinovano_shcho_naspravdi_staietsia_z_akumuliatorom_elektromobilia_pislia_150_tysiach_kilometriv_n75663",
+    "image": "https://24tv.ua/auto/resources/photos/news/202609/756638ffe9fa3-9c8e-42f6-9bdc-42017a5afe88.jpg",
+    "publishedAt": "2026-09-12T05:42:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "e737a8e76b161ef4526698e2ec5f60c9",
+      "name": "24 Канал",
+      "url": "https://24tv.ua"
+    }
+  },
+  {
+    "id": "2780dc785e35fce62ac71171d0e5b9f2",
+    "title": "Попит на ВКВ на міжбанку злітає, але долар дешевшає: з якими курсами йдемо на вихідні",
+    "description": "Прогноз щодо готівкового курсу долара та євро на 12-13 вересня",
+    "content": "З огляду на зростання інфляції у серпні до 3,3% у річному вимірі, аналітики та ринки були впевнені в такому кроці європейського регулятора. Хоча саме по собі це рішення явно непросте й досить спірне. Адже основну причину інфляції в ЄС — стрімке зрост... [4616 chars]",
+    "url": "https://minfin.com.ua/ua/currency/articles/spros-na-skv-na-mezhbanke-rastet-no-dollar-desheveet-s-kakimi-kursami-uhodim-na-vyhodnye/",
+    "image": "https://minfin.com.ua/img/2026/181487854/cd689a4eb3be1e477088eea0075fdb05.jpeg",
+    "publishedAt": "2026-09-11T22:53:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "6028444ee1303e4577f50406a4c7988e",
+      "name": "Мінфін",
+      "url": "https://minfin.com.ua"
+    }
+  },
+  {
     "id": "57df359bc6c3af8757b42fcfed2a2828",
     "title": "ТОП-10 рейтингу вперше посіли громадяни США",
     "description": "Французький магнат Бернар Арно випав зі списку 10 найбільших людей світу, залишивши американців повністю домінувати в рейтингу - подробиці читайте на УНІАН.",
@@ -117,36 +147,6 @@
       "id": "391d17d071b755a4bda37c1b43f47c2c",
       "name": "ITC.ua",
       "url": "https://itc.ua"
-    }
-  },
-  {
-    "id": "570056af645623f4a4f6be9a61542c15",
-    "title": "Mazda пропонує Європі електричну CX-6e: без дзеркал, з величезним екраном і дешевшу за Audi Q6 E-tron та BMW iX3",
-    "description": "Mazda робить чергову спробу закріпитися на ринку електромобілів, презентуючи новий кросовер CX 6e для Європи.",
-    "content": "Фото: Mazda\nЦе адаптована версія китайської моделі EZ‑60, створена у співпраці з Changan, але «загорнута» у фірмовий європейський дизайн Mazda, пише британське видання Autocar.\n💰 Ціна та позиціонування\nГоловний козир CX‑6e — адекватний прайс. У Велик... [2315 chars]",
-    "url": "https://pravdatutnews.com/avto/2026/09/11/85546-mazda-proponuye-yevropi-elektrychnu-cx-6e-bez-dzerkal-z",
-    "image": "https://pravdatutnews.com/sites/default/files/news/2026/09/11/mazda-cx-6e.jpg",
-    "publishedAt": "2026-09-11T01:10:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "716e7cb92f5f203aa3506c9ba057538c",
-      "name": "ПравдаТУТ NEWS",
-      "url": "https://pravdatutnews.com"
-    }
-  },
-  {
-    "id": "04e329efc6bb6bd67f68e6426b45a7cb",
-    "title": "За 10 років iPhone подешевшав у 123 рази, якщо рахувати в біткоїнах",
-    "description": "За останнє десятиліття ціна iPhone у перерахунку на біткоїн скоротилася більш ніж у сто разів — не тому, що смартфони стали дешевшими в доларах, а через",
-    "content": "За останнє десятиліття ціна iPhone у перерахунку на біткоїн скоротилася більш ніж у сто разів — не тому, що смартфони стали дешевшими в доларах, а через стрімке зростання вартості BTC.\nУ 2016 році флагманський iPhone коштував приблизно 1,23 BTC. У 20... [589 chars]",
-    "url": "https://donpatriot.news/za-10-rokiv-iphone-podeshevshav-u-123-razy-yakshho-rahuvaty-v-bitkoyinah",
-    "image": "https://donpatriot.news/wp-content/uploads/2023/11/53538.jpg",
-    "publishedAt": "2026-09-10T23:30:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "556066753a7a30eb0619823360acdde4",
-      "name": "Патріот Донбасу",
-      "url": "https://donpatriot.news"
     }
   }
 ]
