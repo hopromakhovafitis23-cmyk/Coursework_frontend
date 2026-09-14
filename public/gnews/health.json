@@ -1,5 +1,20 @@
 [
   {
+    "id": "55c94154beb0cc5add70a0144b61dcbb",
+    "title": "Гіполіпідемічні препарати пов’язані з гіршими наслідками анафілаксії",
+    "description": "Статини та анафілаксія: науковці виявили несподіваний фактор ризику при алергії на отруту комах.",
+    "content": "Категорія\nНовини\nГіполіпідемічні препарати подвоюють ризик важкої анафілаксії від укусів комах\nДата публікації\nУ пацієнтів із системними алергічними реакціями на отруту перетинчастокрилих комах (бджоли, оси, шершні) прийом гіполіпідемічних засобів по... [1685 chars]",
+    "url": "https://thepharma.media/uk/news/43082-gipolipidemicni-preparati-podvoyuyut-rizik-vazkoyi-anafilaksiyi-vid-ukusiv-komax-14092026",
+    "image": "https://thepharma.media/static/storage/thumbs/1200x630/6/88/12e926e3-d437f0c372a4fa543fcede1962334886.jpg?v=4891_1",
+    "publishedAt": "2026-09-14T07:30:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "32ca59c5beafe8f4abfeced19668c56d",
+      "name": "the Pharma Media",
+      "url": "https://thepharma.media"
+    }
+  },
+  {
     "id": "f773913ec1e727ebc0b339c234629284",
     "title": "хто перебуває в групі ризику",
     "description": "Туберкульоз на Вінниччині: за місяць кількість випадків зросла на третину. Які форми хвороби фіксували лікарі та хто перебуває в групі ризику",
@@ -132,21 +147,6 @@
       "id": "eb8ffa23bb071a1e9fafd6204bb6f68b",
       "name": "Субота Онлайн",
       "url": "https://subota.online"
-    }
-  },
-  {
-    "id": "02581a14f152d2e1a430127ce7e7481f",
-    "title": "Вчені з'ясували, як музика допомагає відновитися після стресу",
-    "description": "Музика допомагає мозку й організму швидше відновлюватися після гострого стресу та може діяти ефективніше за заспокійливі звуки природи, показало нове дослідження.",
-    "content": "Прослуховування музики може допомагати організму швидше відновлюватися після гострого стресу. Вчені з Китайської академії наук з'ясували, що музика впливає не лише на настрій, а й на взаємодію ділянок мозку, пов'язаних із регуляцією стресу. Результат... [2304 chars]",
-    "url": "https://md-eksperiment.org/post/20260913-muzyka-dopomahaye-mozku-vidnovljuvatysja-pislja-stresu-krashche-za-zvuky-pryrody-doslidzhennja",
-    "image": "https://md-eksperiment.org/uploads/1Cf18of1yMBpVmt37bP3Ve.jpg",
-    "publishedAt": "2026-09-13T08:34:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "d5b5aa286abdbd2e69be0b8f732e6f2b",
-      "name": "md-eksperiment.org",
-      "url": "https://md-eksperiment.org"
     }
   }
 ]
