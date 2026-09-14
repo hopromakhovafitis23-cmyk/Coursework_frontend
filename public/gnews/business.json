@@ -1,5 +1,65 @@
 [
   {
+    "id": "d0604376f401057e99dcb8b2c8e9e218",
+    "title": "Індія бажає отримати \"стратосферні супутники\", які будуть тижнями баражувати на висоті понад 20 км",
+    "description": "Стратосферні БПЛА можуть забезпечувати зв'язок, вести розвідку та загалом бути багатофункціональною багаторазовою платформою, яку доволі складно збити, тому зацікавленість Індії в них доволі логічна",
+    "content": "Однією з альтернатив розгортанню власних супутникових угруповань є створення так званих \"стратосферних супутників\" - аеростатів чи БПЛА, які здатні знаходитись на висотах понад 20 км дуже тривалий час. Такі засоби цілком можуть взяти на себе задачі з... [2398 chars]",
+    "url": "https://defence-ua.com/weapon_and_tech/indija_bazhaje_otrimati_stratosferni_suputniki_jaki_budut_tizhnjami_barazhuvati_na_visoti_ponad_20_km-24247.html",
+    "image": "https://defence-ua.com/media/illustration/articles/d7d6aa55d2989c3e.jpg",
+    "publishedAt": "2026-09-13T15:14:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "f488af954cb509cbacccbd34e7f47985",
+      "name": "Defense Express",
+      "url": "https://defence-ua.com"
+    }
+  },
+  {
+    "id": "edb6c0c0ab71afa9facf1e9e1aecaefe",
+    "title": "Трамп знову тисне на ФРС",
+    "description": "Детальніше про це читайте у новині ЕП",
+    "content": "Президент США Дональд Трамп ще раз наголосив, що повинні мати найнижчі процентні ставки у світі, навіть попри те, що обраний ним особисто голова Федеральної резервної системи Кевін Варш знову стикається з тиском щодо підвищення вартості позик.\nПро це... [1045 chars]",
+    "url": "https://epravda.com.ua/svit/tramp-znovu-tisne-na-frs-825577/",
+    "image": "https://img.epravda.com.ua/epravda/images/doc/5/b/183489/5b7602e0ccf9d3a681e3f405ef411eb9.jpeg?w=1920&q=85",
+    "publishedAt": "2026-09-13T15:00:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "9b9cf9e76aeefea346957bfe5f6dafc5",
+      "name": "epravda.com.ua",
+      "url": "https://epravda.com.ua"
+    }
+  },
+  {
+    "id": "80e7588dca1a540eece4c479e9170e97",
+    "title": "У космос без ракети: гіперзвуковий апарат Hazel запускатимуть із дирижабля",
+    "description": "Американська JP Aerospace показала концепт гіперзвукового апарата Hazel, який запускатимуть із висотного дирижабля в межах амбітного плану польотів на орбіту без традиційних ракет.",
+    "content": "JP Aerospace опублікувала нові рендери свого запропонованого апарата Hazel, продемонструвавши по-новому незвичайну ідею досягнення орбіти без використання традиційної ракети. Президент компанії Джон Пауелл поділився зображеннями, на яких Hazel відокр... [3309 chars]",
+    "url": "https://itc.ua/ua/novini/u-kosmos-bez-rakety-giperzvukovyj-aparat-hazel-zapuskatymut-iz-dyryzhablya/",
+    "image": "https://cdn.itc.ua/uploads/2026/09/Dyryzh-0.jpg",
+    "publishedAt": "2026-09-13T12:00:44Z",
+    "lang": "uk",
+    "source": {
+      "id": "391d17d071b755a4bda37c1b43f47c2c",
+      "name": "ITC.ua",
+      "url": "https://itc.ua"
+    }
+  },
+  {
+    "id": "808fe9aa60f15d699f3ca2555d35ed68",
+    "title": "Замість збиткової суниці бельгійські фермери засадили величезну скляну теплицю мускусними динями",
+    "description": "Щоб замінити збиткові осінні посадки суниці садової бельгійське господарство Maatschap Van Overbeke засадило скляну теплицю площею 1 тис. кв. м динями типу Шаранте,  пише SEEDS.  Дині типу Шаранте - це знамениті французькі мускусні дині (різновид кан",
+    "content": "Щоб замінити збиткові осінні посадки суниці садової бельгійське господарство Maatschap Van Overbeke засадило скляну теплицю площею 1 тис. кв. м динями типу Шаранте, пише SEEDS.\nДині типу Шаранте – це знамениті французькі мускусні дині (різновид канта... [983 chars]",
+    "url": "https://www.seeds.org.ua/zamist-zbitkovoi-sunici-belgijski-fermeri-zasadili-velicheznu-sklyanu-teplicyu-muskusnimi-dinyami/",
+    "image": "https://www.seeds.org.ua/wp-content/uploads/2026/09/дині-сорт-Шаранте.jpg",
+    "publishedAt": "2026-09-13T11:33:59Z",
+    "lang": "uk",
+    "source": {
+      "id": "43394660a75bfd6538aa2dcbe6f92a66",
+      "name": "seeds.org.ua",
+      "url": "https://www.seeds.org.ua"
+    }
+  },
+  {
     "id": "837569dc856a71c8046e2334c1646f81",
     "title": "Toyota очолила рейтинг найвитриваліших авто: 400 тисяч км",
     "description": "Toyota має найвищі шанси подолати 400 тисяч км: 19,7% автомобілів бренду можуть досягти 250 тисяч миль. Рейтинг iSeeCars охопив 395 млн машин.",
@@ -87,66 +147,6 @@
       "id": "e737a8e76b161ef4526698e2ec5f60c9",
       "name": "24 Канал",
       "url": "https://24tv.ua"
-    }
-  },
-  {
-    "id": "2780dc785e35fce62ac71171d0e5b9f2",
-    "title": "Попит на ВКВ на міжбанку злітає, але долар дешевшає: з якими курсами йдемо на вихідні",
-    "description": "Прогноз щодо готівкового курсу долара та євро на 12-13 вересня",
-    "content": "З огляду на зростання інфляції у серпні до 3,3% у річному вимірі, аналітики та ринки були впевнені в такому кроці європейського регулятора. Хоча саме по собі це рішення явно непросте й досить спірне. Адже основну причину інфляції в ЄС — стрімке зрост... [4616 chars]",
-    "url": "https://minfin.com.ua/ua/currency/articles/spros-na-skv-na-mezhbanke-rastet-no-dollar-desheveet-s-kakimi-kursami-uhodim-na-vyhodnye/",
-    "image": "https://minfin.com.ua/img/2026/181487854/cd689a4eb3be1e477088eea0075fdb05.jpeg",
-    "publishedAt": "2026-09-11T22:53:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "6028444ee1303e4577f50406a4c7988e",
-      "name": "Мінфін",
-      "url": "https://minfin.com.ua"
-    }
-  },
-  {
-    "id": "57df359bc6c3af8757b42fcfed2a2828",
-    "title": "ТОП-10 рейтингу вперше посіли громадяни США",
-    "description": "Французький магнат Бернар Арно випав зі списку 10 найбільших людей світу, залишивши американців повністю домінувати в рейтингу - подробиці читайте на УНІАН.",
-    "content": "Уперше всі десять найбагатших людей світу виявилися громадянами США, пише Bloomberg.\nЗазначається, що місце в першій десятці втратив французький магнат розкоші Бернар Арно, засновник Louis Vuitton Moët Hennessy (LVMH), чиї статки опустилися нижче ста... [2135 chars]",
-    "url": "https://www.unian.ua/economics/finance/naybagatshi-lyudi-svitu-top-10-reytingu-vpershe-posili-gromadyani-ssha-13496565.html",
-    "image": "https://images.unian.net/photos/2025_01/thumb_files/620_324_1737449260-7766.jpg?1",
-    "publishedAt": "2026-09-11T12:43:20Z",
-    "lang": "uk",
-    "source": {
-      "id": "d4361862486677369ff2ae7719b8d313",
-      "name": "УНІАН",
-      "url": "https://www.unian.ua"
-    }
-  },
-  {
-    "id": "733c49d1c8fedc3eed83b4484e173224",
-    "title": "Вчені відродили батарею Едісона: вона заряджається за секунди",
-    "description": "Міжнародна команда науковців переосмислила нікель-залізну батарею, яку понад століття тому розробляв Томас Едісон.",
-    "content": "Міжнародна команда науковців переосмислила нікель-залізну батарею, яку понад століття тому розробляв Томас Едісон. Завдяки сучасним нанотехнологіям експериментальний акумулятор здатний заряджатися за лічені секунди та витримувати понад 12 000 циклів\n... [2186 chars]",
-    "url": "https://psm7.com/uk/nauka/vcheni-vidrodyly-batareyu-edisona-vona-zaryadzhayetsya-za-sekundy.html",
-    "image": "https://psm7.com/wp-content/uploads/2026/09/battery_energy_1280x700.webp",
-    "publishedAt": "2026-09-11T12:30:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "4f9137cf6704ccfac626503375896155",
-      "name": "PaySpace Magazine",
-      "url": "https://psm7.com"
-    }
-  },
-  {
-    "id": "245eb618848a5f59013959ad9a985376",
-    "title": "названо найкращі бренди у світі",
-    "description": "Нове дослідження фахівців iSeeCars показало, які автомобільні бренди мають найбільші шанси подолати понад 400 тисяч км. Докладніше читайте в матеріалі УНІАН.",
-    "content": "Нове дослідження фахівців iSeeCars показало, які автомобільні бренди мають найбільші шанси подолати 250 тисяч миль (понад 400 тисяч км). В рейтингу домінують азійські виробники: перші чотири місця посіли Toyota, Lexus, Honda та Acura. Висновки оприлю... [2686 chars]",
-    "url": "https://www.unian.ua/economics/auto/yaki-avtomobili-naynadiynishi-nazvano-naykrashchi-brendi-u-sviti-13496667.html",
-    "image": "https://images.unian.net/photos/2026_09/thumb_files/620_324_1789124222-4143.jpg?1",
-    "publishedAt": "2026-09-11T11:03:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "d4361862486677369ff2ae7719b8d313",
-      "name": "УНІАН",
-      "url": "https://www.unian.ua"
     }
   }
 ]
