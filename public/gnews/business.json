@@ -1,5 +1,65 @@
 [
   {
+    "id": "ed1dc2bcfdab0013d86d57099f7a81d7",
+    "title": "Новий BMW 3 Series G50 помітили без камуфляжу до прем’єри",
+    "description": "У Мюнхені помітили задню частину спортивної версії M350 xDrive з дизайном у стилі електричного i3.",
+    "content": "У Мюнхені помітили задню частину спортивної версії M350 xDrive з дизайном у стилі електричного i3.\nНове покоління BMW 3 Series з індексом G50 достроково показали без камуфляжу. Як повідомляє Motor1, автомобіль помітили на території одного з підприємс... [1161 chars]",
+    "url": "https://ua.korrespondent.net/lifestyle/motors/4912007-novyi-BMW-3-Series-G50-pomityly-bez-kamufliazhu-do-premiery",
+    "image": "https://kor.ill.in.ua/m/1260x900/4564791.jpg",
+    "publishedAt": "2026-09-15T18:27:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "5f3893b2bdd83721567eef82ac0a6d2e",
+      "name": "Korrespondent.net",
+      "url": "https://ua.korrespondent.net"
+    }
+  },
+  {
+    "id": "9648b850620490addb753f7602c973a7",
+    "title": "Дизель б’є по кишенях українців: скільки тепер коштують 100 км на різному пальному",
+    "description": "В Україні помітно здорожчав дизель, менш ніж за місяць ціна пального зросла приблизно на 10 грн за літр, через що вартість 100 км на дизельному авто піднялася до 528 грн – одразу на 39 грн більше, ніж місяцем раніше.",
+    "content": "В Україні помітно здорожчав дизель, менш ніж за місяць ціна пального зросла приблизно на 10 грн за літр, через що вартість 100 км на дизельному авто піднялася до 528 грн – одразу на 39 грн більше, ніж місяцем раніше. Водночас бензин залишається найдо... [5806 chars]",
+    "url": "https://www.obozrevatel.com/ukr/ekonomika-glavnaya/economy/dizel-be-po-kishenyah-ukraintsiv-skilki-teper-koshtuyut-100-km-na-riznomu-palnomu.htm",
+    "image": "https://i.obozrevatel.com/news/2026/4/10/15-1.jpg?size=1200x630",
+    "publishedAt": "2026-09-15T18:12:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "ca149ffefb31c86f82d7f299d744af59",
+      "name": "Obozrevatel",
+      "url": "https://www.obozrevatel.com"
+    }
+  },
+  {
+    "id": "28931035d0cf616fa45a384d39ca3f1a",
+    "title": "Volvo представила оновлені кросовери XC60 та XC90",
+    "description": "Оновлені плагін-гібриди отримали батарею збільшеної ємності з електричним запасом ходу до 126 км та нову 455-сильну силову установку.",
+    "content": "Оновлені плагін-гібриди отримали батарею збільшеної ємності з електричним запасом ходу до 126 км та нову 455-сильну силову установку.\nКомпанія Volvo представила оновлені плагін-гібридні кросовери XC60 та XC90 2028 модельного року. Обидві моделі отрим... [2060 chars]",
+    "url": "https://ua.korrespondent.net/lifestyle/motors/4911993-Volvo-predstavyla-onovleni-krosovery-XC60-ta-XC90",
+    "image": "https://kor.ill.in.ua/m/1260x900/4564714.jpg",
+    "publishedAt": "2026-09-15T17:40:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "5f3893b2bdd83721567eef82ac0a6d2e",
+      "name": "Korrespondent.net",
+      "url": "https://ua.korrespondent.net"
+    }
+  },
+  {
+    "id": "cd7290658a1d77c4f1b06754dff9ec20",
+    "title": "Hermeus тепер не лише розробляє гіперзвукові літаки та дрони, а і вироблятиме до них двигуни F100 від F-15 та F-16",
+    "description": "США отримають додаткового постачальника двигунів F100-PW-229 для своїх винищувачів, тоді як Hermeus отримають можливість випуску двигуна, який вже застосовуються у розробках компанії",
+    "content": "Оборонний гігант Pratt & Whitney надає стартапу Hermeus ліцензію на виробництво двигуна F100-PW-229, який використовується у F-15 та F-16. Це має підтримати як пілотовані винищувачі, так і безпілотні апарати.\nПро це йдеться у повідомленні компанія RT... [2266 chars]",
+    "url": "https://defence-ua.com/news/hermeus_teper_ne_lishe_rozrobljaje_giperzvukovi_litaki_ta_droni_a_i_virobljatime_do_nih_dviguni_f100_vid_f_15_ta_f_16-24264.html",
+    "image": "https://defence-ua.com/media/illustration/articles/11b6aa9632de6e62.jpg",
+    "publishedAt": "2026-09-15T15:42:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "f488af954cb509cbacccbd34e7f47985",
+      "name": "Defense Express",
+      "url": "https://defence-ua.com"
+    }
+  },
+  {
     "id": "7fe03dda7b397073267bbf938af17076",
     "title": "До 500 тонн на рік: Китай запустив першу у світі систему видобутку цінних металів з відходів літію",
     "description": "В китайській провінції Цзянсі запустили першу у світі виробничу лінію з вилучення рубідію та цезію з відходів літію.",
@@ -87,66 +147,6 @@
       "id": "0d8fa2a9055c6fc2ace2650b663c989a",
       "name": "автосвіт",
       "url": "https://www.avtomir.ua"
-    }
-  },
-  {
-    "id": "243efee2491bc67186731517d4dfd0e0",
-    "title": "Volkswagen встановила 3 рекорди ефективності електромобіля в реальній поїздці на 1278 км",
-    "description": "Volkswagen Mission Efficiency проїхала 1278 км на батареї 54,9 кВт·год і встановила рекорди аеродинаміки та ефективності. Витрата — лише 6,89 кВт·год/100 км.",
-    "content": "Volkswagen представила концепт Mission Efficiency, який претендує на звання найекономічнішого електромобіля, близького до серійного виробництва. Автомобіль проїхав 1278 км з єдиною зарядкою батареї ємністю 54,9 кВт·год і встановив одразу три рекорди ... [4666 chars]",
-    "url": "https://itc.ua/ua/novini/volkswagen-vstanovyla-3-rekordy-elektromobilya/",
-    "image": "https://cdn.itc.ua/uploads/2026/09/01-1-835x470.jpg",
-    "publishedAt": "2026-09-15T09:28:53Z",
-    "lang": "uk",
-    "source": {
-      "id": "391d17d071b755a4bda37c1b43f47c2c",
-      "name": "ITC.ua",
-      "url": "https://itc.ua"
-    }
-  },
-  {
-    "id": "57a0d929c174f55f7c66ae70bc811e8b",
-    "title": "український дизайнер показав концепт",
-    "description": "Український дизайнер Роман Прядко показав концепт сучасного ЛуАЗ-969М \"Волинянка II\". Позашляховик отримав великі колеса, лебідку та експедиційне обладнання.",
-    "content": "Проєкт дизайнер опублікував на своїй сторінці RP Design у Facebook, назвавши його \"LUAZ-969M Expedition - еволюція легенди\".\nЯкою могла б бути нова \"Волинянка\"\nНа рендерах зображений компактний тридверний позашляховик із короткими звисами, великими п... [2534 chars]",
-    "url": "https://24tv.ua/auto/ukrainskyi_dyzainer_vidrodyv_luaz_volynianku_u_suchasnomu_styli_n75785",
-    "image": "https://24tv.ua/auto/resources/photos/news/202609/75785cd9766f6-00b6-41fb-b4f2-082b15cd5ef1.png",
-    "publishedAt": "2026-09-15T07:40:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "e737a8e76b161ef4526698e2ec5f60c9",
-      "name": "24 Канал",
-      "url": "https://24tv.ua"
-    }
-  },
-  {
-    "id": "953cd5b05cceb36b7b18736703b72871",
-    "title": "Тест-драйв Citroen C5 Aircross: комфортний француз для українських доріг",
-    "description": "Огляд Citroën C5 Aircross: розбираємося, чим французький кросовер приваблює не з першого погляду, як поєднує практичність, комфорт і незвичайний дизайн та чи підходить він для міста, подорожей і щоденних справ.",
-    "content": "Citroen C5 Aircross не з тих в кого закохуєшся з першого погляду, але точно полюбиш як мінімум з п’ятого побачення. Це не мачо в костюмі від Hugo Boss, а стабільний простий роботяга, якій косить під сучасного панка в кольоровому одязі. Цього француза... [12584 chars]",
-    "url": "https://itc.ua/ua/articles/test-drajv-citroen-c5-aircross-komfortnyj-frantsuz-dlya-ukrayinskyh-dorig/",
-    "image": "https://cdn.itc.ua/uploads/2026/09/AER_4028-835x557.jpg",
-    "publishedAt": "2026-09-15T06:30:09Z",
-    "lang": "uk",
-    "source": {
-      "id": "391d17d071b755a4bda37c1b43f47c2c",
-      "name": "ITC.ua",
-      "url": "https://itc.ua"
-    }
-  },
-  {
-    "id": "2154c292f05d10b932ea5eb792bc8881",
-    "title": "\"капсула часу\" за 27 тисяч доларів",
-    "description": "На Вінниччині знайшли ідеальний Lexus RX 2011 року",
-    "content": "Як повідомляє видання ТопЖир, унікальне оголошення з'явилося на маркетплейсі AUTO.RIA. Червоний Lexus RX третього покоління (кузов AL10) зберігся у стані нового авто, а під його капотом ховається класичний 3,5-літровий бензиновий V6 на 277 кінських с... [911 chars]",
-    "url": "https://24tv.ua/auto/kapsula_chasu_za_27_tysiach_dolariv_na_vinnychchyni_znaishly_idealnyi_lexus_rx_2011_roku_n75777",
-    "image": "https://24tv.ua/auto/resources/photos/news/202609/75777bac88d0f-ac99-4fa7-aaa4-e573998d3718.jpg",
-    "publishedAt": "2026-09-15T06:02:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "e737a8e76b161ef4526698e2ec5f60c9",
-      "name": "24tv.ua",
-      "url": "https://24tv.ua"
     }
   }
 ]
