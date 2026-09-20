@@ -1,5 +1,65 @@
 [
   {
+    "id": "5b612a15442520f8a0a537b816c32577",
+    "title": "У китайському винищувачі-бомбардувальнику J-36 шостого покоління буде ще й бойовий лазер",
+    "description": "Поки у США наземні та корабельні бойові лазери мають потужність у десятки кВт, у Китаї розробляють авіаційний на сотні кВт, що перетворить J-36 у літак ППО, який буде перехоплювати дрони та крилаті ракети взагалі без витрати боєкомплекту",
+    "content": "Для китайського новітнього винищувача-бомбардувальника J-36, який вже відносять до шостого покоління за рахунок цілого ряду доволі революційних рішень, буде встановлено бойовий лазер.\nЯк мінімум, наразі у китайській корпорації авіапромисловості AVIC ... [1816 chars]",
+    "url": "https://defence-ua.com/weapon_and_tech/u_kitajskomu_vinischuvachi_bombarduvalniku_j_36_shostogo_pokolinnja_bude_sche_j_bojovij_lazer-24303.html",
+    "image": "https://defence-ua.com/media/illustration/articles/ee46aae5f6dc9ba3.jpg",
+    "publishedAt": "2026-09-19T11:10:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "f488af954cb509cbacccbd34e7f47985",
+      "name": "Defense Express",
+      "url": "https://defence-ua.com"
+    }
+  },
+  {
+    "id": "4dcf75b53ed6a0e43dd28be9ff0d55de",
+    "title": "VW ID. Buzz проїхав 100 тис. км без поломок і зберіг 95,75% ресурсу батареї - і це ще не все",
+    "description": "Volkswagen ID. Buzz проїхав 99 767 км через 92 країни за 445 днів без технічних поломок. Батарея електрофургона після подорожі зберегла 95,75% ресурсу.",
+    "content": "Електромобіль Volkswagen ID. Buzz проїхав майже 100 тис. кілометрів через 92 країни та шість континентів без жодної технічної поломки. За підсумками 445-денної подорожі електричний фургон встановив рекорд Гіннеса як електромобіль, який відвідав найбі... [2525 chars]",
+    "url": "https://itc.ua/ua/novini/vw-id-buzz-proyihav-100-tys-km-bez-polomok/",
+    "image": "https://cdn.itc.ua/uploads/2026/09/Volkswagen-ID-Buzz-EV-world-record-2.jpg",
+    "publishedAt": "2026-09-19T10:59:20Z",
+    "lang": "uk",
+    "source": {
+      "id": "391d17d071b755a4bda37c1b43f47c2c",
+      "name": "itc.ua",
+      "url": "https://itc.ua"
+    }
+  },
+  {
+    "id": "beaf1ee5a213f583471c0c94452955ab",
+    "title": "Apple, Samsung і Google звинуватили у порушеннях і вимагають заборони продажів у США",
+    "description": "USITC відкрила розслідування проти Apple, Samsung і Google через три патенти BoomCloud 360 на просторове аудіо. Пристрої можуть обмежити в США.",
+    "content": "Компанії Apple, Samsung і Google опинилися під увагою американського регулятора через патенти на просторове аудіо. Компанія BoomCloud 360 стверджує, що пристрої трьох технологічних гігантів порушують її права на три патенти. Якщо претензії підтвердят... [1586 chars]",
+    "url": "https://itc.ua/ua/novini/apple-samsung-i-google-zvynuvatyly-u-porushennyah/",
+    "image": "https://cdn.itc.ua/uploads/2026/09/Depositphotos_677168032_L.jpg",
+    "publishedAt": "2026-09-19T08:49:26Z",
+    "lang": "uk",
+    "source": {
+      "id": "391d17d071b755a4bda37c1b43f47c2c",
+      "name": "ITC.ua",
+      "url": "https://itc.ua"
+    }
+  },
+  {
+    "id": "4229af41676cea2d49e29ae1801aa630",
+    "title": "Які вживані авто зараз продають дорожче, ніж вони коштували в салоні",
+    "description": "Деякі вживані моделі продаються дорожче за свою початкову ціну в автосалоні.",
+    "content": "Як пише австралійське видання Drive, аналітики компанії AutoGrab зафіксували цікавий тренд: низка автомобілів ігнорує закони ринку і приносить своїм власникам прибуток під час перепродажу. Йдеться не про колекційні ексклюзиви, а про звичайні машини н... [1240 chars]",
+    "url": "https://24tv.ua/auto/kupyv_i_zarobyv_yaki_vzhyvani_avto_zaraz_prodaiut_dorozhche_nizh_vony_koshtuvaly_v_saloni_n75788",
+    "image": "https://24tv.ua/auto/resources/photos/news/202609/75788e140ae98-00bb-4c75-866c-781e23e513eb.jpg",
+    "publishedAt": "2026-09-19T08:30:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "e737a8e76b161ef4526698e2ec5f60c9",
+      "name": "24 Канал",
+      "url": "https://24tv.ua"
+    }
+  },
+  {
     "id": "09dad5a970bb72b9f034674328808cf8",
     "title": "Найвідоміший інвестор світу Воррен Баффет пішов з посади голови Berkshire Hathaway",
     "description": "Воррен Баффет став почесним головою Berkshire Hathaway і залишився членом ради директорів. Його син Говард тепер є невиконавчим головою ради, а компанію як генеральний директор очолює Грег Абель.",
@@ -87,66 +147,6 @@
       "id": "ae8b9c98d707754fca5e1ea622855c50",
       "name": "ТСН",
       "url": "https://tsn.ua"
-    }
-  },
-  {
-    "id": "489e137f7918cbcf0e89f0b3cdb89e1d",
-    "title": "General Motors розробив революційний двигун",
-    "description": "Американський виробник General Motors нарешті представив два нові двигуни V8 для своїх повнорозмірних пікапів наступного покоління.",
-    "content": "Американський виробник General Motors нарешті представив два нові двигуни V8 для своїх повнорозмірних пікапів наступного покоління.\nНові двигуни V8 об’ємом 5,7 та 6,6 літра потужніші.\nМенший із них має одну важливу перевагу.\nМотори встановлять на пік... [3374 chars]",
-    "url": "https://motorcar.com.ua/news/general-motors-revolyuczijnyj-dvygun-2026/",
-    "image": "https://motorcar.com.ua/wp-content/uploads/2026/09/gm-new-small-block-v8-2.webp",
-    "publishedAt": "2026-09-18T18:25:54Z",
-    "lang": "uk",
-    "source": {
-      "id": "ccf5b23cf2f813320e7baafea8cf4ea7",
-      "name": "motorcar.com.ua",
-      "url": "https://motorcar.com.ua"
-    }
-  },
-  {
-    "id": "4678e690b561cc8bc1582b74731a95d9",
-    "title": "\"Волгу\" продають за 50 тисяч доларів",
-    "description": "ГАЗ-24 з пробігом 18 тис. км продають майже за $50 тисяч. Цінник виправдовує стан автомобіля.",
-    "content": "В Одесі продають ГАЗ-24 \"Волга\" 1974 року із заявленим оригінальним пробігом лише 18 тис. км. За 52-річний седан із 2,4-літровим бензиновим двигуном та механічною коробкою передач на AUTO.RIA просять $49 999 — близько 2,24 млн грн. Про це пише topgir... [1098 chars]",
-    "url": "https://24tv.ua/auto/staru_heneralsku_volhu_prodaiut_za_50_tysiach_dolariv_n75926",
-    "image": "https://24tv.ua/auto/resources/photos/news/202609/75926b104b052-b87a-45b4-a903-3f67de2def30.jpg",
-    "publishedAt": "2026-09-18T17:10:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "e737a8e76b161ef4526698e2ec5f60c9",
-      "name": "24 Канал",
-      "url": "https://24tv.ua"
-    }
-  },
-  {
-    "id": "397f7f31177bfff6d5ad8c1e3b43e799",
-    "title": "Audi пішла у суд проти імпортерів своїх китайських моделей у Німеччині",
-    "description": "Німецький імпортер Auto China завозив моделі AUDI E5 Sportback та E7X, створені Audi й SAIC спеціально для китайського ринку, а Audi вирішила цьому протидіяти юридично.",
-    "content": "Німецький імпортер Auto China завозив моделі AUDI E5 Sportback та E7X, створені Audi й SAIC спеціально для китайського ринку, а Audi вирішила цьому протидіяти юридично.\nКомпанія Audi розпочала судовий процес проти німецького імпортера Auto China, яки... [1552 chars]",
-    "url": "https://ua.korrespondent.net/business/auto/4912970-Audi-pishla-u-sud-proty-importeriv-svoikh-kytaiskykh-modelei-u-nimechchyni",
-    "image": "https://kor.ill.in.ua/m/1260x900/4567844.jpg",
-    "publishedAt": "2026-09-18T16:40:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "5f3893b2bdd83721567eef82ac0a6d2e",
-      "name": "Korrespondent.net",
-      "url": "https://ua.korrespondent.net"
-    }
-  },
-  {
-    "id": "de8836f3521f52836ab00c7a2bc1de89",
-    "title": "Виробники NOR Flash та NAND перекидають потужності на AI-чипи - побутова техніка подорожчають",
-    "description": "Виробники чипів NOR Flash та SLC NAND перекидають потужності на прибутковіші продукти для AI, тому ціни на пам'ять для роутерів і побутової техніки різко зростають.",
-    "content": "Ціни на NOR Flash та SLC NAND, найдешевші й найпростіші типи чипів пам’яті, злітають через бум штучного інтелекту. Виробники напівпровідників масово перекидають виробничі потужності на прибутковіші продукти для AI-серверів, залишаючи без базової пам’... [2185 chars]",
-    "url": "https://itc.ua/ua/novini/vyrobnyky-nor-flash-ta-nand-na-ai-chypy/",
-    "image": "https://cdn.itc.ua/uploads/2026/09/5SYfTWfvwwkaxQ2TWZ8Fch-1920-80.jpg.webp",
-    "publishedAt": "2026-09-18T15:36:54Z",
-    "lang": "uk",
-    "source": {
-      "id": "391d17d071b755a4bda37c1b43f47c2c",
-      "name": "ITC.ua",
-      "url": "https://itc.ua"
     }
   }
 ]
