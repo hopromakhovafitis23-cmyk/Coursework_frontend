@@ -1,5 +1,65 @@
 [
   {
+    "id": "33356824b33915b17abd9aa55b24f20f",
+    "title": "Львівський вентиляційний завод запускає новий корпус",
+    "description": "На Львівському вентиляційному заводі запускають новий виробничий корпус. Яку продукцію випускає Львівський вентиляційний завод та що відомо про його розширення – читайте в матеріалі Фактів ICTV",
+    "content": "Львівський вентиляційний завод завершив будівництво другої черги виробничих приміщень. Обладнання вже придбане й за планом буде змонтовано до кінця 2026 року. Новий корпус дозволить підприємству подвоїти обсяги виробництва.\nПро це повідомив заступник... [1964 chars]",
+    "url": "https://fakty.com.ua/ua/ukraine/ekonomika/20260923-lvivskyj-ventylyatsijnyj-zavod-gotuye-zapusk-novogo-vyrobnychogo-korpusu-kysylevskyj/",
+    "image": "https://fakty.com.ua/wp-content/uploads/2026/09/23/zavod-u-Lvovi-768x432.jpg",
+    "publishedAt": "2026-09-23T20:57:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "10828aeaae724c71000c1326d888e604",
+      "name": "Факти ICTV",
+      "url": "https://fakty.com.ua"
+    }
+  },
+  {
+    "id": "5c93f6ec09149e11e92420a3d09dbf12",
+    "title": "657 к.с та 900 км ходу за €25 500: на ринок вийшов новий конкурент Tesla",
+    "description": "Китайський автовиробник BYD розширює модельний ряд свого бренду Fang Cheng Bao, представивши електричний седан Formula S.",
+    "content": "Фото: BYD\nНовинка поєднує відносно доступну ціну, потужні силові установки та великий запас ходу, позиціонуючись як конкурент Tesla Model 3 та Tesla Model Y, пише Fakti.\nПерша хвиля моделей орієнтована на азійський ринок і включає ліфтбек Formula S у... [3165 chars]",
+    "url": "https://pravdatutnews.com/avto/2026/09/23/86223-657-ks-ta-900-km-hodu-za-eu25-500-na-rynok-vyyshov-novyy",
+    "image": "https://pravdatutnews.com/sites/default/files/news/2026/09/23/byd_leopard_formula_s.jpg",
+    "publishedAt": "2026-09-23T20:21:24Z",
+    "lang": "uk",
+    "source": {
+      "id": "716e7cb92f5f203aa3506c9ba057538c",
+      "name": "ПравдаТУТ NEWS",
+      "url": "https://pravdatutnews.com"
+    }
+  },
+  {
+    "id": "e47350bdfc55216273984bc1a8c257bc",
+    "title": "Toyota розробила революційний двигун",
+    "description": "Японська марка Toyota нарешті вирішила запровадити технологію EREV (електромобілі зі збільшеним запасом ходу) у свої моделі.",
+    "content": "Японська марка Toyota нарешті вирішила запровадити технологію EREV (електромобілі зі збільшеним запасом ходу) у свої моделі.\nToyota пропонуватиме моделі EREV з 2027 року.\nТехнологія застосовуватиметься для китайського ринку.\nУ планах виробництво 400 ... [2376 chars]",
+    "url": "https://motorcar.com.ua/news/toyota-revolyuczijnyj-dvygun-2026-2/",
+    "image": "https://motorcar.com.ua/wp-content/uploads/2025/03/toyota-kenshiki-forum-logo-2025.jpg",
+    "publishedAt": "2026-09-23T18:21:37Z",
+    "lang": "uk",
+    "source": {
+      "id": "ccf5b23cf2f813320e7baafea8cf4ea7",
+      "name": "motorcar.com.ua",
+      "url": "https://motorcar.com.ua"
+    }
+  },
+  {
+    "id": "4d882543b3dd5b3030455e660108e59c",
+    "title": "деталі - ZAXID.NET",
+    "description": "Виробник вентиляційного обладнання з Львівщини завершив другу чергу будівництва і готується до старту третьої. Більше про це читайте на сайті ZAXID.NET.",
+    "content": "Львівський вентиляційний завод завершив будівництво другої черги виробничих приміщень, повідомив заступник голови Комітету Верховної Ради України з питань економічного розвитку Дмитро Кисилевський 23 вересня на своїй фейсбук-сторінці.\nДо кінця року в... [1517 chars]",
+    "url": "https://zaxid.net/lvivskiy_ventilyatsiyniy_zavod_zavershiv_budivnitstvo_drugoyi_chergi_virobnitstva_n1646403",
+    "image": "https://zaxid.net/resources/photos/news/600x315_DIR/202609/1646403.jpg",
+    "publishedAt": "2026-09-23T15:07:13Z",
+    "lang": "uk",
+    "source": {
+      "id": "7ab609f566cdbec66a589947504f2d4c",
+      "name": "Zaxid.net",
+      "url": "https://zaxid.net"
+    }
+  },
+  {
     "id": "081dcc54b8da731b9754fb87c2585e63",
     "title": "модель перетворилася на електромобіль",
     "description": "Nissan представила нове покоління хетчбека Pixo. Тепер це електромобіль, який використовує ту саму платформу, що й Renault Twingo E-Tech та Dacia Spring.",
@@ -87,66 +147,6 @@
       "id": "391d17d071b755a4bda37c1b43f47c2c",
       "name": "ITC.ua",
       "url": "https://itc.ua"
-    }
-  },
-  {
-    "id": "61bb608ab6d3eae5e30bd42d16681848",
-    "title": "Binance припиняє підтримку гривні: що буде з коштами українців",
-    "description": "Binance з 28 вересня припинить поповнення та виведення гривні через Fiat Trade UAH і видалить пару USDT/UAH. Залишки гривні автоматично переведуть у USDT.",
-    "content": "Binance з 28 вересня припинить поповнення та виведення гривні через Fiat Trade UAH і видалить пару USDT/UAH. Залишки гривні автоматично переведуть у USDT.\nКриптовалютна біржа Binance оголосила про припинення роботи з гривнею через сервіс Fiat Trade U... [1116 chars]",
-    "url": "https://ua.korrespondent.net/business/companies/4914161-Binance-prypyniaie-pidtrymku-hryvni-scho-bude-z-koshtamy-ukraintsiv",
-    "image": "https://kor.ill.in.ua/m/1260x900/4572363.jpg",
-    "publishedAt": "2026-09-23T10:00:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "5f3893b2bdd83721567eef82ac0a6d2e",
-      "name": "Korrespondent.net",
-      "url": "https://ua.korrespondent.net"
-    }
-  },
-  {
-    "id": "10138912455a15599cf27d5f0b0ff638",
-    "title": "Royce розпочала глобальні випробування свого першого електричного кабріолета Project Nightingale",
-    "description": "Rolls-Royce розпочала глобальну програму випробувань Project Nightingale — повністю електричного двомісного кабріолета з нової лінійки Coachbuild Collection.",
-    "content": "Rolls-Royce розпочала глобальну програму випробувань Project Nightingale — повністю електричного двомісного кабріолета з нової лінійки Coachbuild Collection. Компанія випустить лише 100 таких автомобілів, а перші клієнти отримають їх у 2028 році.\nПро... [1611 chars]",
-    "url": "https://donpatriot.news/rolls-royce-rozpochala-globalni-vyprobuvannya-svogo-pershogo-elektrychnogo-kabrioleta-project-nightingale",
-    "image": "https://donpatriot.news/wp-content/uploads/2026/09/rols.jpeg",
-    "publishedAt": "2026-09-23T09:50:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "556066753a7a30eb0619823360acdde4",
-      "name": "Патріот Донбасу",
-      "url": "https://donpatriot.news"
-    }
-  },
-  {
-    "id": "f28e451c037874b9588ed12057215f49",
-    "title": "які найпопулярніші авто в україні",
-    "description": "З січня по серпень український автопарк поповнили 154,8 тисячі вживаних авто, ввезених з-за кордону. Які найпопулярніші вживані авто в Україні - читайте на УНІАН",
-    "content": "З січня по серпень 2026 року український автопарк поповнили 154,8 тисячі вживаних легкових авто, ввезених з-за кордону. Найбільшу частку в цьому обсязі охопили кросовери – 54%, повідомляє \"Укравтопром\".\nЗазначається, що середній вік таких авто станов... [1139 chars]",
-    "url": "https://www.unian.ua/economics/auto/krosoveri-ne-vtrachayut-populyarnosti-yaki-naypopulyarnishi-avto-v-ukrajini-13507551.html",
-    "image": "https://images.unian.net/photos/2026_09/thumb_files/620_324_1790153597-2040.jpg?1",
-    "publishedAt": "2026-09-23T09:00:11Z",
-    "lang": "uk",
-    "source": {
-      "id": "d4361862486677369ff2ae7719b8d313",
-      "name": "УНІАН",
-      "url": "https://www.unian.ua"
-    }
-  },
-  {
-    "id": "1a5d26c0945b89ecb95b4700e12ef44e",
-    "title": "Відключення світла в Україні - що треба купити до блекаутів",
-    "description": "Така техніка незамінна під час блекаутів - Новини -",
-    "content": "Що варто підготувати заздалегідь\nПочати можна з найпростішого:\nперевірити павербанки та акумуляторні ліхтарі\nпоновити запас батарейок\nподбати про альтернативне освітлення і можливість заряджати телефони.\nЯкщо ж потрібно забезпечити роботу більшої кіл... [2659 chars]",
-    "url": "https://styler.rbc.ua/rus/useful/zaryadna-stantsiya-generator-chi-akumulyator-1790087202.html",
-    "image": "https://www.rbc.ua/static/img/_/4/_4e8d5dbe73a4d61607e7d59180ac340e_1300x820.jpg",
-    "publishedAt": "2026-09-23T08:29:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "df610b3e8342296ca48c0aa762ab6955",
-      "name": "РБК-Україна",
-      "url": "https://styler.rbc.ua"
     }
   }
 ]
