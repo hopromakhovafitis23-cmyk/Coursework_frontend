@@ -1,5 +1,65 @@
 [
   {
+    "id": "0c18df7e74f5e608da7b2c2520873a1b",
+    "title": "Китайські інженери створили робота, що плаче - чим дивує гуманоїд Yansyn-X2",
+    "description": "Робот-гуманоїд Yansyn-X2 пустив справжню сльозу на очах у публіки - незвичний трюк показали на технологічній виставці у Шанхаї....",
+    "content": "Робот-гуманоїд заплакав на публіці: як Yansyn-X2 імітує емпатію\n17:21 28.09.2026 Пн\n2 хв\nПрезентовано першого робота, який вміє плакати (скриншот: OTOFOOTAGE)\nРобот-гуманоїд Yansyn-X2 пустив справжню сльозу на очах у публіки - незвичний трюк показали... [1748 chars]",
+    "url": "https://www.rbc.ua/rus/news/robot-gumanoyid-zaplakav-publitsi-k-yansyn-1790603143.html",
+    "image": "https://www.rbc.ua/static/img/_/3/_3_3ac70f10dd3d770682d7788d34c8a490_1300x820.jpg",
+    "publishedAt": "2026-09-28T14:21:36Z",
+    "lang": "uk",
+    "source": {
+      "id": "6f1ead09126f1f4738a48957e22f789c",
+      "name": "РБК-Україна",
+      "url": "https://www.rbc.ua"
+    }
+  },
+  {
+    "id": "7b18fd8c4d1aec1d6f466a59d843aca0",
+    "title": "Заробив $5000: підліток зламав базу даних Microsoft",
+    "description": "Юний хакер Faav виявив критичну вразливість бази даних Microsoft з трильйонами записів",
+    "content": "Юний хакер Faav виявив критичну вразливість бази даних Microsoft з трильйонами записів та 25 000 записів з даними про працівників.\nЗа словами підлітка, він протягом року тестував різні системи Microsoft, а також виявляв вразливості в сервісах Amazon,... [1904 chars]",
+    "url": "https://itc.ua/ua/novini/zarobyv-5000-pidlitok-zlamav-bazu-danyh-microsoft/",
+    "image": "https://cdn.itc.ua/uploads/2026/09/Depositphotos_708302714_L.jpg",
+    "publishedAt": "2026-09-28T13:37:11Z",
+    "lang": "uk",
+    "source": {
+      "id": "391d17d071b755a4bda37c1b43f47c2c",
+      "name": "ITC.ua",
+      "url": "https://itc.ua"
+    }
+  },
+  {
+    "id": "cf81188930f6e6596404774d0003d59e",
+    "title": "Скільки коштує відновлений Volkswagen Scirocco 1987 року",
+    "description": "Відреставрований Volkswagen Scirocco продають у Тернополі. Зважаючи на стан авто ціна цікава.",
+    "content": "У Тернополі на AUTO.RIA продають Volkswagen Scirocco II покоління 1987 року. За автомобіль просять $6500. Заявлений пробіг становить 10 тисяч км. Про це пише topgir.com.ua.\nАвтомобіль сірого кольору оснащений бензиновим двигуном об’ємом 1,6 л потужні... [787 chars]",
+    "url": "https://24tv.ua/auto/skilky_prosiat_za_vidnovlenyi_volkswagen_scirocco_1987_roku_v_ukraini_n76179",
+    "image": "https://24tv.ua/auto/resources/photos/news/202609/76179ec4843a2-7e59-428e-bca5-28b618e17513.jpg",
+    "publishedAt": "2026-09-28T12:00:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "e737a8e76b161ef4526698e2ec5f60c9",
+      "name": "24 Канал",
+      "url": "https://24tv.ua"
+    }
+  },
+  {
+    "id": "8f2f672c491e84f3c8cb6478b22b640e",
+    "title": "який автомобіль рекомендують британські фахівці",
+    "description": "Кросовер Skoda Elroq очолив рейтинг найкращих електромобілів 2026 року за версією британських фахівців. Докладніше про це читайте в матеріалі УНІАН.",
+    "content": "Skoda Elroq очолила рейтинг найкращих електромобілів 2026 року за версією британських фахівців. Висновки були оприлюднені на порталі Autocar.\nСпеціалісти нагадують, що приблизно чотири роки тому інша модель – Skoda Enyaq – вийшла на ринок як доступни... [2245 chars]",
+    "url": "https://www.unian.ua/economics/auto/naykrashchi-elektromobili-yakiy-avtomobil-rekomenduyut-britanski-fahivci-13512447.html",
+    "image": "https://images.unian.net/photos/2026_09/thumb_files/620_324_1790593544-5297.jpg?1",
+    "publishedAt": "2026-09-28T11:20:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "d4361862486677369ff2ae7719b8d313",
+      "name": "УНІАН",
+      "url": "https://www.unian.ua"
+    }
+  },
+  {
     "id": "3ce90e6a240d3e9cd8aece46bec96386",
     "title": "ціна, комплектації та характеристики",
     "description": "Mazda відкрила замовлення на нову CX-5 в Україні. Кросовер коштує від 1 549 900 грн, має атмосферний мотор 2,5 л на 188 к. с., передній або повний привод і п'ять комплектацій.",
@@ -87,66 +147,6 @@
       "id": "716e7cb92f5f203aa3506c9ba057538c",
       "name": "ПравдаТУТ NEWS",
       "url": "https://pravdatutnews.com"
-    }
-  },
-  {
-    "id": "2e6469a32ea06daf5238bc45c1a7115d",
-    "title": "Tata засипала свій новий седан Aeris 20 тоннами гравію",
-    "description": "Індійська Tata засипала новий Aeris двадцятьма тоннами гравію та каміння, щоб продемонструвати міцність кузова й безпеку паливної системи версії на стисненому метані.",
-    "content": "Індійська Tata засипала новий Aeris двадцятьма тоннами гравію та каміння, щоб продемонструвати міцність кузова й безпеку паливної системи версії на стисненому метані. Самоскид поступово висипав вантаж на дах автомобіля, доки той повністю не зник під ... [2140 chars]",
-    "url": "https://news.infocar.ua/tata_zasypala_sviy_novyy_sedan_aeris_20_tonnamy_hraviyu_192617.html",
-    "image": "https://i.infocar.ua/i/7/192617/600x396.jpg",
-    "publishedAt": "2026-09-27T15:32:38Z",
-    "lang": "uk",
-    "source": {
-      "id": "b9c3d8b68faf8a35c49050f7ca29d3cd",
-      "name": "news.infocar.ua",
-      "url": "https://news.infocar.ua"
-    }
-  },
-  {
-    "id": "aa63e45c0f53a3f3881ced6375a1f23b",
-    "title": "Фернандо Алонсо купив найдорожчий Bugatti Veyron в історії",
-    "description": "Фернандо Алонсо придбав Bugatti Veyron Grand Sport Vitesse із шасі №8100. Унікальний гіперкар має фрезерований алюмінієвий кузов та особливу історію створення - Авто24",
-    "content": "2026 рік складається для Фернандо Алонсо не найкращим чином із погляду результатів у Формулі-1. Після п'яти сходжень з дистанції і лише трьох набраних очок він проводить один із найменш успішних сезонів своєї кар'єри. Втім, поза трасою іспанський гон... [1711 chars]",
-    "url": "https://24tv.ua/auto/fernando_alonso_prydbav_naidorozhchyi_bugatti_veyron_v_istorii_n76130",
-    "image": "https://24tv.ua/auto/resources/photos/news/202609/76130afd087d7-dbfd-432b-b479-7ea65645f350.jpg",
-    "publishedAt": "2026-09-27T14:20:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "e737a8e76b161ef4526698e2ec5f60c9",
-      "name": "24 Канал",
-      "url": "https://24tv.ua"
-    }
-  },
-  {
-    "id": "ffcb6347cacd5725158412d62f238368",
-    "title": "Українець створив застосунок obleek для автоматичного обліку витрат: деталі",
-    "description": "Український розробник запустив застосунок obleek, який автоматично рахує витрати за пуш-сповіщеннями від банків",
-    "content": "Чоловік з телефоном в руках. Фото: Unsplash\nУкраїнський розробник Владислав Бражнік створив застосунок, який автоматично рахує витрати. Для цього obleek зчитує сповіщення від банків. Про це автор сервісу розповів у Reddit.\nТак, для роботи застосунку ... [1378 chars]",
-    "url": "https://tykyiv.com/news/ukrayinets-stvoriv-zastosunok-shcho-rakhuie-vitrati-z-usikh-kartok-iak-vin-pratsiuie/",
-    "image": "https://tykyiv.com/media/%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_1_TUBSHJ7_xGX3tRj.jpg",
-    "publishedAt": "2026-09-27T13:40:38Z",
-    "lang": "uk",
-    "source": {
-      "id": "e649a3f532b5f5aacd9b6ee6fc872c2c",
-      "name": "ТиКиїв",
-      "url": "https://tykyiv.com"
-    }
-  },
-  {
-    "id": "15282a545f5196a4cdcbcfd2ea655f81",
-    "title": "Ford Bronco Sport зі США подешевшав до $6450 на аукціонах",
-    "description": "Середня ціна Ford Bronco Sport 2021–2023 на аукціонах США впала приблизно до $6450. Як змінилася вартість і що перевірити перед купівлею.",
-    "content": "Згідно з графіком статистики американських аукціонів AutoAstat, у серпні 2024 року Ford Bronco Sport 2021–2023 років у середньому коштував близько 8200 доларів. У серпні 2026 року середня ціна становила вже приблизно 6450 доларів.\nЙдеться про вартіст... [4611 chars]",
-    "url": "https://24tv.ua/auto/ford_bronco_sport_zi_ssha_podeshevshav_serednia_tsina_vpala_do_6450_n76036",
-    "image": "https://24tv.ua/auto/resources/photos/news/202609/760360bb03e0f-9b9b-4410-90b0-eb20f43761b4.jpg",
-    "publishedAt": "2026-09-27T10:21:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "e737a8e76b161ef4526698e2ec5f60c9",
-      "name": "24tv.ua",
-      "url": "https://24tv.ua"
     }
   }
 ]
