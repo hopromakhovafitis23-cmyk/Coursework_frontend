@@ -1,42 +1,72 @@
 [
   {
-    "id": "4c8ca8a241bb48e3d9f7cda30416d847",
-    "title": "iPhone 18 Pro порівняли з трьома попередниками: з якої моделі варто оновлюватися.",
-    "description": "Новий iPhone 18 Pro помітно відрізняється від старіших моделей, але різниця з торішнім iPhone 17 Pro вже не настільки очевидна.",
-    "content": "iPhone 18 Pro\nНовий iPhone 18 Pro помітно відрізняється від старіших моделей, але різниця з торішнім iPhone 17 Pro вже не настільки очевидна.\nБлогер Деніел Ротар із каналу ZONEofTECH порівняв новий смартфон одразу з iPhone 15 Pro, 16 Pro та 17 Pro і ... [3329 chars]",
-    "url": "https://uazmi.org/news/post/5b4da75422ec1b5c5645ad4fd32d355d",
-    "image": "https://uazmi.org/cover/news/image/5b4da75422ec1b5c5645ad4fd32d355d.webp",
-    "publishedAt": "2026-09-28T23:24:00Z",
+    "id": "9eb30c2ed1753e910c8d7c04b3f7f129",
+    "title": "Зеленський подякував партнерам за посилення ППО після ударів РФ",
+    "description": "Президент відзначив підтримку США, Норвегії, Франції та Німеччини системами та ракетами ППО після атак РФ по Києву й регіонах.",
+    "content": "Президент Володимир Зеленський, на тлі чергового російського удару по українських регіонах й столиці зокрема, подякував двом українським партнерам за посилення ППО.\nДжерело: повідомлення Зеленського соцмережах, передає \"Європейська правда\"\nДеталі: У ... [1153 chars]",
+    "url": "https://www.pravda.com.ua/news/2026/09/29/8055574/",
+    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/9/923271/7995f4d5ad9440833873ad8885623681.jpeg?w=1200&q=85&stamp=1790673764",
+    "publishedAt": "2026-09-29T09:17:00Z",
     "lang": "uk",
     "source": {
-      "id": "487247106fdc330f6d4dd56deeca6845",
-      "name": "uazmi.org",
-      "url": "https://uazmi.org"
+      "id": "f22da91c498603eb4d447ae38063cc99",
+      "name": "Українська правда",
+      "url": "https://www.pravda.com.ua"
     }
   },
   {
-    "id": "dcf81c1decc5c62495d23a7a987b13cb",
-    "title": "Студія CD Projekt RED поновила системні вимоги The Witcher 3 Дике полювання",
-    "description": "Студія CD Projekt RED представила оновлені системні вимоги The Witcher 3: Wild Hunt з відмовою від підтримки Windows 10, обов'язковим накопичувачем SSD та профілем з трасуванням шляхів під GeForce RTX 5080.",
-    "content": "Студія CD Projekt RED офіційно оновила конфігурації системних вимог для The Witcher 3: Wild Hunt, розширивши список профілів до шести категорій. У зв'язку з припиненням офіційної підтримки операційної системи розробники повністю відмовилися від тесту... [3107 chars]",
-    "url": "https://uk.gamegpu.com/news/igry/studiya-cd-projekt-red-obnovila-sistemnye-trebovaniya-the-witcher-3-wild-hunt",
-    "image": "https://gamegpu.com/images/1_2026/NEWS/Q3/Sent/6/image_mfuefyt6e8nftgw8qe9fntwa9867fty8_ggpu.webp#joomlaImage://local-images/1_2026/NEWS/Q3/Sent/6/image_mfuefyt6e8nftgw8qe9fntwa9867fty8_ggpu.webp?width=1920&height=1080",
-    "publishedAt": "2026-09-28T22:53:48Z",
+    "id": "066e12c7d1a17c7ae7e4ffab58a64089",
+    "title": "OpenAI відмовилася від жовтневого релізу GPT-6.1 Astra",
+    "description": "Тести показали вищу схильність моделі до обману порівняно з попередньою версією.",
+    "content": "Тести показали вищу схильність моделі до обману порівняно з попередньою версією.\nOpenAI відмовилася від запланованого на жовтень запуску нової моделі штучного інтелекту GPT-6.1 Astra після того, як внутрішні випробування показали, що система не відпо... [1450 chars]",
+    "url": "https://ua.korrespondent.net/business/companies/4915765-OpenAI-vidmovylasia-vid-zhovtnevoho-relizu-GPT-61-Astra",
+    "image": "https://kor.ill.in.ua/m/1260x900/4578819.jpg",
+    "publishedAt": "2026-09-29T09:13:00Z",
     "lang": "uk",
     "source": {
-      "id": "d4a46ced10b24e9b5fea2a92c9602fa2",
-      "name": "GameGPU",
-      "url": "https://uk.gamegpu.com"
+      "id": "5f3893b2bdd83721567eef82ac0a6d2e",
+      "name": "Korrespondent.net",
+      "url": "https://ua.korrespondent.net"
     }
   },
   {
-    "id": "82ed52cb10fab47a965940385aeabc04",
-    "title": "в Reuters повідомили, чи мала Україна право їх передавати Сеулу",
-    "description": "Військові пройдуть допит та перевірку на безпеку, перш ніж південнокорейські власті вирішать, чи надати їм захист і розпочати процес переселення.",
-    "content": "Двоє північнокорейських солдатів, захоплених у полон під час бойових дій на боці Росії проти України, наразі перебувають у Південній Кореї. Це викликає питання щодо того, як буде проводитися розслідування щодо них, як їх захищатимуть і переселятимуть... [4805 chars]",
-    "url": "https://www.unian.ua/world/skandal-z-polonenimi-kndr-v-reuters-povidomili-chi-mala-ukrajina-pravo-jih-peredavati-seulu-13512954.html",
-    "image": "https://images.unian.net/photos/2026_09/thumb_files/620_324_1790635198-4534.jpg?1",
-    "publishedAt": "2026-09-28T22:42:00Z",
+    "id": "6abcedc8c36b9720964e18d19aac0dcb",
+    "title": "Катерина Осадча розплакалася через нові атаки РФ по Україні",
+    "description": "Ведуча Катерина Осадча не витримала й розплакалася на тлі невтішних новин України - зірка показала емоційні кадри й звернулася до іноземців ᐅTSN.ua(новини 1+1)",
+    "content": "Українська телеведуча Катерина Осадча не змогла стримати сліз на тлі новин про чергові російські атаки на Україну та наслідки ударів по Києву.\nТак, днями столиця зазнала чергової атаки російських безпілотників. Зокрема, один із них влучив у будівлю Н... [846 chars]",
+    "url": "https://tsn.ua/glamur/vsikh-nas-shkoda-kateryna-osadcha-rozplakalasia-na-tli-novykh-atak-rf-po-ukrayini-y-zvernulasia-do-svitu-3177716.html",
+    "image": "https://img.tsn.ua/cached/628/tsn-7a7afafe7a64cd96a891771cf6bf5b51/thumbs/1200x630/6d/65/402fd711dea8108450defc0e3b74656d.jpeg",
+    "publishedAt": "2026-09-29T09:00:03Z",
+    "lang": "uk",
+    "source": {
+      "id": "ae8b9c98d707754fca5e1ea622855c50",
+      "name": "ТСН",
+      "url": "https://tsn.ua"
+    }
+  },
+  {
+    "id": "191bbe6b54e08d14ac1d643013cc1d6f",
+    "title": "Який об'єкт підлетів до Сонця найближче в історії",
+    "description": "Найближче з усіх виявлених та вцілілих об'єктів до Сонця підлетіла комета в 1887 році — на відстань, яка є трохи більшою за радіус нашої зорі",
+    "content": "Коли йдеться про об’єкти, розташовані поблизу Сонця, найпершою на думку спадає найближча планета Сонячної системи — Меркурій. У своїй найближчій до зорі точці (перигелії) він підходить на відстань близько 47 млн км. Проте це далеко не рекорд. Уподовж... [2429 chars]",
+    "url": "https://universemagazine.com/blyzhche-za-merkurij-yakyj-obyekt-vprytul-nablyzyvsya-do-sonczya/",
+    "image": "https://universemagazine.com/wp-content/uploads/2026/09/raww34raww34raww.jpg",
+    "publishedAt": "2026-09-29T08:58:52Z",
+    "lang": "uk",
+    "source": {
+      "id": "687b815419a86d64780835373f4bda4f",
+      "name": "Universe Space Tech",
+      "url": "https://universemagazine.com"
+    }
+  },
+  {
+    "id": "ca75b512bff82a684702eda254361a1b",
+    "title": "Найбільший метеорит у світі випадково знайшли під час оранки поля",
+    "description": "Згодом навколо нього з’явилася туристична інфраструктура. Сьогодні відвідувачі можуть побачити метеорит безпосередньо на місці його виявлення.",
+    "content": "У Намібії виявили найбільший неушкоджений метеорит із усіх, що коли-небудь знаходили на Землі. Йдеться про метеорит Хоба, який важить близько 60 тонн.\nЙого виявили абсолютно випадково – у 1920 році фермер натрапив на нього плугом під час оранки поля,... [2101 chars]",
+    "url": "https://www.unian.ua/curiosities/naybilshiy-meteorit-u-sviti-vipadkovo-znayshli-pid-chas-oranki-polya-13513242.html",
+    "image": "https://images.unian.net/photos/2026_03/thumb_files/620_324_1773167034-1924.jpg?1",
+    "publishedAt": "2026-09-29T08:55:00Z",
     "lang": "uk",
     "source": {
       "id": "d4361862486677369ff2ae7719b8d313",
@@ -45,108 +75,78 @@
     }
   },
   {
-    "id": "d2304f19a8d307557e226ad5d7af708e",
-    "title": "Київ під ударом балістичних ракет: вибухи у столиці",
-    "description": "Обстріл Києва балістичними ракетами стався вночі 29 вересня 2026 року. Прогриміла серія вибухів. Що відомо про повітряну атаку на Київ сьогодні та її ймовірні наслідки.",
-    "content": "Також столиці та Київській області продовжують загрожувати реактивні БпЛА, як пишуть Повітряні сили. 24 Канал пише, яка інформація є на цей момент.\nЩо відомо про ракетний удар по Києву вночі 29 вересня?\nПовітряну тривогу в Києві оголосили 29 вересня ... [690 chars]",
-    "url": "https://24tv.ua/kiyiv-pid-udarom-balistichnih-raket-vibuhi-stolitsi_n3150771",
-    "image": "https://24tv.ua/resources/photos/news/202609/3150771.jpg?v=1790634382000&w=1200&h=675",
-    "publishedAt": "2026-09-28T22:26:00Z",
+    "id": "094acfa8cc186b1c560411e6fedf91b6",
+    "title": "Naughty Dog раптово підтвердила два нові проєкти у всесвіті The Last of Us",
+    "description": "Компанія Naughty Dog офіційно підтвердила розробку двох нових проєктів у всесвіті The Last of Us. Вони розширять межі канонічних подій попередніх ігор.",
+    "content": "Студія Naughty Dog офіційно підтвердила розробку двох нових проєктів у всесвіті The Last of Us. Вони розширять межі канонічних подій, показаних в оригінальній дилогії.\nПро початок розробки повідомив керівник Naughty Dog Ніл Дракманн під час святкуван... [1262 chars]",
+    "url": "https://www.unian.ua/techno/games/naughty-dog-raptovo-pidtverdila-dva-novi-proyekti-u-vsesviti-the-last-of-us-13513221.html",
+    "image": "https://images.unian.net/photos/2026_09/thumb_files/1000_545_1790669776-4201.jpg?1",
+    "publishedAt": "2026-09-29T08:35:00Z",
     "lang": "uk",
     "source": {
-      "id": "e737a8e76b161ef4526698e2ec5f60c9",
-      "name": "24 Канал",
-      "url": "https://24tv.ua"
+      "id": "d4361862486677369ff2ae7719b8d313",
+      "name": "unian.ua",
+      "url": "https://www.unian.ua"
     }
   },
   {
-    "id": "680e82f34fd41ff8e54783016a4a9081",
-    "title": "Tata створила новий супердоступний седан: що пропонують за $5500",
-    "description": "Індійська компанія Tata представила новий седан Aeris, який замінює модель Tigor і вже називають одним із найдоступніших автомобілів на ринку.",
-    "content": "Фото: Tata\nЯк повідомляє Autocar India, стартова ціна Aeris становить близько $5500. Поставки клієнтам розпочнуться з 11 жовтня, а сама модель дебютувала у вересні 2026 року.\nЗовнішність та комплектації\nAeris отримав дизайн у стилі хетчбека Tiago, ал... [2488 chars]",
-    "url": "https://pravdatutnews.com/avto/2026/09/29/86498-tata-stvoryla-novyy-superdostupnyy-sedan-shcho-proponuyut-za-5500",
-    "image": "https://pravdatutnews.com/sites/default/files/news/2026/09/29/tata_aeris.jpg",
-    "publishedAt": "2026-09-28T22:18:23Z",
+    "id": "7a9bae2b0d10f60c83f8a26b62c336c7",
+    "title": "Донька Брюса Вілліса показала, як зараз виглядає її батько",
+    "description": "Свіжі фотографії Брюса Вілліса прихильники зазвичай знаходять в інстаграмі його дружини Емми Хемінг Вілліс або доньок актора.",
+    "content": "Свіжі фотографії Брюса Вілліса прихильники зазвичай знаходять в інстаграмі його дружини Емми Хемінг Вілліс або доньок актора.\nДочка голлівудського актора Брюса Вілліса Таллула поділилася в Instagram новим знімком із батьком. На фотографії вона ніжно ... [1556 chars]",
+    "url": "https://ua.korrespondent.net/lifestyle/4915743-donka-bruisa-villisa-pokazala-yak-zaraz-vyhliadaie-yii-batko",
+    "image": "https://kor.ill.in.ua/m/1260x900/4578707.jpg",
+    "publishedAt": "2026-09-29T08:32:00Z",
     "lang": "uk",
     "source": {
-      "id": "716e7cb92f5f203aa3506c9ba057538c",
-      "name": "ПравдаТУТ NEWS",
-      "url": "https://pravdatutnews.com"
+      "id": "5f3893b2bdd83721567eef82ac0a6d2e",
+      "name": "Korrespondent.net",
+      "url": "https://ua.korrespondent.net"
     }
   },
   {
-    "id": "bda6f5e25a25790aefa826ef2ae10486",
-    "title": "AMD домовилася про придбання World Labs за 8,2 млрд доларів - TechCrunch",
-    "description": "AMD домовилася про придбання World Labs — розробника моделей глибокого навчання, призначених для розуміння фізичної реальності. Вартість угоди становить 8,2 млрд доларів, повідомляє TechCrunch. Завершити придбання очікують до кінця року за умови отримання регуляторних схвалень.",
-    "content": "AMD домовилася про придбання World Labs — розробника моделей глибокого навчання, призначених для розуміння фізичної реальності. Вартість угоди становить 8,2 млрд доларів, повідомляє TechCrunch. Завершити придбання очікують до кінця року за умови отри... [1689 chars]",
-    "url": "https://ua.news/ua/technologies/amd-domovilasia-pro-pridbannia-world-labs-za-8-2-mlrd-dolariv-techcrunch",
-    "image": "https://cdn-cabinet.ua.news/uploads/images/amd_to_acquire_world_labs_for_8_2_billio_1790628345027.webp",
-    "publishedAt": "2026-09-28T20:45:00Z",
+    "id": "3aa3d20131b3958c9cca564c88a1de9a",
+    "title": "Ціни на нафту та ф'ючерси Brent і WTI зростають на тлі перебоїв постачання",
+    "description": "Brent подорожчала до $106,99, WTI — до $94 за барель. Попри зростання експорту з Близького Сходу, ринок реагує на ризики постачання.",
+    "content": "Ціни на нафту зростають другу сесію поспіль через побоювання щодо перебоїв з постачанням на тлі війни США та Ізраїлю з Іраном, навіть попри відновлення експорту з країн Перської затоки.\nПро це пише агентство Reuters.\nФ'ючерси на Brent подорожчали на ... [745 chars]",
+    "url": "https://epravda.com.ua/energetika/cini-na-naftu-ta-f-yuchersi-brent-i-wti-zrostayut-na-tli-perebojiv-postachannya-826065/",
+    "image": "https://img.epravda.com.ua/epravda/images/doc/a/7/185550/a7a3a1bb740c2421ae95a07511bcc270.jpeg?w=1920&q=85",
+    "publishedAt": "2026-09-29T08:30:00Z",
     "lang": "uk",
     "source": {
-      "id": "54b33233e9f0f396fe0c9e0f95f2a6f6",
-      "name": "ua.news",
-      "url": "https://ua.news"
+      "id": "9b9cf9e76aeefea346957bfe5f6dafc5",
+      "name": "Економічна правда",
+      "url": "https://epravda.com.ua"
     }
   },
   {
-    "id": "c2a81463840d5109ae31ae898ac97714",
-    "title": "Корецький розповів, на чому уряд економитиме через дефіцит бюджету",
-    "description": "Премʼєр-міністр Сергій Корецький повідомив про замороження непершочергових видатків через дефіцит бюджету. Уряд не фінансуватиме нові будівництва, ремонти та благоустрій. Деталі - на сайті ZAXID.NET.",
-    "content": "Премʼєр-міністр Сергій Корецький повідомив, що Кабінет міністрів ухвалив «жорсткі антикризові заходи» на тлі дефіциту державних фінансів. За його словами, уряд призупинить фінансування непершочергових видатків. Про це глава уряду повідомив у своєму т... [2404 chars]",
-    "url": "https://zaxid.net/premyer_ministr_nazvav_vitrati_vid_yakih_vidmovlyatsya_cherez_defitsit_byudzhetu_n1646732",
-    "image": "https://zaxid.net/resources/photos/news/600x315_DIR/202609/1646732_3162876.jpg?20260928232414",
-    "publishedAt": "2026-09-28T19:53:00Z",
+    "id": "34097d68a49601c25224f92c90848cbf",
+    "title": "журналісти назвали підрозділи РФ",
+    "description": "Хто може бути причетний до гуманітарної катастрофи в Олешках? Журналісти ідентифікували підрозділи та командирів РФ ᐅ TSN.ua (новини 1+1)",
+    "content": "Журналісти ідентифікували російські військові підрозділи, які можуть бути прямо причетними до влаштування гуманітарної катастрофи в окупованих Олешках. За даними розслідувачів, утримувати місто в жорсткій блокаді та морити цивільне населення голодом ... [5311 chars]",
+    "url": "https://tsn.ua/ato/khto-vlashtuvav-blokadu-oleshok-zurnalisty-vstanovyly-prychetnykh-rosiian-3177656.html",
+    "image": "https://img.tsn.ua/cached/484/tsn-51cb131e/thumbs/1200x630/7c/7a/7084343f6384c4e419e719c35f517a7c.jpg",
+    "publishedAt": "2026-09-29T07:50:50Z",
     "lang": "uk",
     "source": {
-      "id": "7ab609f566cdbec66a589947504f2d4c",
-      "name": "Zaxid.net",
-      "url": "https://zaxid.net"
+      "id": "ae8b9c98d707754fca5e1ea622855c50",
+      "name": "ТСН",
+      "url": "https://tsn.ua"
     }
   },
   {
-    "id": "f002659e4341aac8bd32a7262221ce32",
-    "title": "Під поверхнею Місяця знайшли велику магнітну структуру",
-    "description": "На зворотному боці супутника Землі виявили магнітну аномалію",
-    "content": "понеділок, 28 вересня 2026 22:45\nНа зворотному боці супутника Землі виявили магнітну аномалію\nВчені знайшли нові докази того, що мільярди років тому Місяць міг мати власне магнітне поле. Сьогодні воно дуже слабке, але в минулому супутник Землі, ймові... [1031 chars]",
-    "url": "https://radiotrek.rv.ua/news/pid-poverhneyu-misyacya-znayshli-veliku-magnitnu-strukturu_372344.html",
-    "image": "https://radiotrek.rv.ua/uploads/media/3d/c8/3dc85eea63fb27842f9bfe718e140bc8_orig.jpg",
-    "publishedAt": "2026-09-28T19:45:00Z",
+    "id": "04ec379598b07b9e31d00424c1338208",
+    "title": "законодавці США визначили конкретні цілі для посилення санкцій проти Росії",
+    "description": "Республіканці та демократи в Конгресі США спільно закликають президента Трампа скористатися новим законом про санкції проти Росії та Путіна.",
+    "content": "Нова хвиля російських ударів по цивільній інфраструктурі українських міст підживлює двопартійні заклики у Вашингтоні до того, щоб президент США Дональд Трамп застосував нові широкі санкційні повноваження проти Москви.\nПри цьому законодавці стверджуют... [4379 chars]",
+    "url": "https://www.unian.ua/world/zakon-lindsi-grema-zakonodavci-ssha-viznachili-konkretni-cili-dlya-posilennya-sankciy-proti-rosiji-13513149.html",
+    "image": "https://images.unian.net/photos/2026_09/thumb_files/1000_545_1790667893-3669.jpg?1",
+    "publishedAt": "2026-09-29T07:50:27Z",
     "lang": "uk",
     "source": {
-      "id": "60510e5dd05ebc090df0b3585363b2e6",
-      "name": "Радіо ТРЕК",
-      "url": "https://radiotrek.rv.ua"
-    }
-  },
-  {
-    "id": "fb514e74faeb5ce7bdf471905c0681bd",
-    "title": "США без медалей, золотий перфоманс Самуненкова та колаборація Турлова з Подоляком: підсумки шахової Олімпіади-2026",
-    "description": "Підбиваємо підсумки Всесвітньої шахової Олімпіади 2026 року у Самарканді. Україна майже зачепилась за медалі, але не стрибнула вище голови. Самуненков продемонстрував \"золотий\" перфоманс, а зіркові США залишились ні з чим.",
-    "content": "Днями в узбекистанському Самарканді завершилась 46-та Всесвітня шахова Олімпіада, яка подарувала світу двох нових чемпіонів та нового президента ФІДЕ – Тімура Турлова.\nЗбірні України по-різному провели змагання, але виступи важко назвати такими, за я... [10886 chars]",
-    "url": "https://champion.com.ua/ukr/chess/ssha-bez-medaley-zolotiy-perfomans-samunenkova-ta-kolaboraciya-turlova-z-podolyakom-pidsumki-shahovoji-olimpiadi-2026-1086666/",
-    "image": "https://static.champion.com.ua/champion/images/doc/5/0/285109/500a246b7a73cead0f4f41d446a865a6.jpeg?q=90&w=1920",
-    "publishedAt": "2026-09-28T19:00:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "444fc07ba12d7e100917334c4b1b9708",
-      "name": "Champion.com.ua",
-      "url": "https://champion.com.ua"
-    }
-  },
-  {
-    "id": "0f663641b3f5a8d9ee1ea478174a26b2",
-    "title": "Удар Росії по складах АТБ на Київщині 28 вересня",
-    "description": "Росія атакувала склади АТБ у Броварському районі Київщини. Пошкоджено два приміщення, виникли пожежі, а в зоні займання зафіксували перевищення аміаку.",
-    "content": "Про це повідомляє ДСНС.\nЩо відомо про атаку?\nРосійські війська 28 вересня завдали удару по Київській області. Унаслідок атаки в одному з населених пунктів Броварського району пошкоджено два складські приміщення, де виникли пожежі.\nНалежність пошкодже... [1464 chars]",
-    "url": "https://24tv.ua/economy/udar-rosiyi-po-skladah-atb-kiyivshhini-28-veresnya-vinikli-pozhezhi_n3150692",
-    "image": "https://24tv.ua/resources/photos/news/202609/3150692.jpg?v=1790618658000&w=1200&h=675",
-    "publishedAt": "2026-09-28T18:59:04Z",
-    "lang": "uk",
-    "source": {
-      "id": "e737a8e76b161ef4526698e2ec5f60c9",
-      "name": "24 Канал",
-      "url": "https://24tv.ua"
+      "id": "d4361862486677369ff2ae7719b8d313",
+      "name": "unian.ua",
+      "url": "https://www.unian.ua"
     }
   }
 ]
