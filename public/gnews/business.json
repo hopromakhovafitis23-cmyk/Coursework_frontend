@@ -1,5 +1,65 @@
 [
   {
+    "id": "d1e9c3681d4a853a4ea7473bee0873a4",
+    "title": "Apple планує випускати нові продукти частіше та швидше • Межа",
+    "description": "Apple готується змінити підхід до розробки та запуску своїх пристроїв. За даними Bloomberg, новий генеральний директор компанії Джон Тернус ініціював масштабну реструктуризацію, метою якої є прискорення процесів створення нових продуктів та їх частіший вихід на ринок.",
+    "content": "Apple готується змінити підхід до розробки та запуску своїх пристроїв. За даними журналіста Bloomberg Марка Гурмана, новий генеральний директор компанії Джон Тернус ініціював масштабну реструктуризацію, метою якої є прискорення процесів створення нов... [2129 chars]",
+    "url": "https://mezha.ua/news/apple-planuye-vipuskati-novi-produkti-chastishe-ta-shvidshe-315677/",
+    "image": "https://img.mezha.ua/mezha/images/doc/d/b/328442/db87e80d7228029db9bba6cb5b1ef3c5.jpeg?w=1200&q=85&stamp=1790706970",
+    "publishedAt": "2026-09-29T19:16:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "6b0257d31504a630dde7752eed4e1e39",
+      "name": "Mezha",
+      "url": "https://mezha.ua"
+    }
+  },
+  {
+    "id": "3e2f69f8ff1d0267ada9de182dcc2bc5",
+    "title": "Subaru представила ювілейні BRZ та WRX",
+    "description": "Спеціальні версії спортивного купе та седана присвячені 15-й і 25-й річницям моделей, а їхній тираж становитиме 300 та 350 автомобілів відповідно.",
+    "content": "Спеціальні версії спортивного купе та седана присвячені 15-й і 25-й річницям моделей, а їхній тираж становитиме 300 та 350 автомобілів відповідно.\nКомпанія Subaru представила дві спеціальні версії своїх спортивних моделей - BRZ ZC15 та WRX GD25. Прем... [3027 chars]",
+    "url": "https://ua.korrespondent.net/lifestyle/motors/4915950-Subaru-predstavyla-yuvileini-BRZ-ta-WRX",
+    "image": "https://kor.ill.in.ua/m/1260x900/4579202.jpg",
+    "publishedAt": "2026-09-29T19:03:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "5f3893b2bdd83721567eef82ac0a6d2e",
+      "name": "Korrespondent.net",
+      "url": "https://ua.korrespondent.net"
+    }
+  },
+  {
+    "id": "51f41f61e879ca5227d9a18d1fa26aac",
+    "title": "Pepco готує перші магазини в Україні: де відкриється мережа і які приміщення шукає",
+    "description": "Pepco офіційно заходить в Україну! Дізнайтеся, де відкриються перші магазини мережі, чому серед них немає Львова та які вимоги ритейлер має до ТРЦ",
+    "content": "Міжнародний ритейлер Pepco офіційно заходить в Україну. Проте Львів, який разом із Києвом анонсували на старті, не потрапив до переліку перших підтверджених відкриттів.\nRetailers.ua поспілкувалися з представниками Pepco в Україні та брокерською компа... [3190 chars]",
+    "url": "https://retailers.ua/news/menedjment/chomu-pepco-ne-pospishaye-u-lviv-de-mereja-vidkriye-pershi-magazini-v-ukrayini",
+    "image": "https://retailers.ua/media/news/364-s/00/21/21372/1-13-33131.png",
+    "publishedAt": "2026-09-29T17:15:56Z",
+    "lang": "uk",
+    "source": {
+      "id": "e1db65ee22b4e2d08bcca5c44a306103",
+      "name": "retailers.ua",
+      "url": "https://retailers.ua"
+    }
+  },
+  {
+    "id": "08583ae44487d4b05e9e76ac45d5ac0d",
+    "title": "Виробник електромобілів призупинив виробництво у Франції",
+    "description": "Детальніше про це читайте у новині ЕП",
+    "content": "Компанія Stellantis призупинить виробництво на трьох своїх французьких заводах щонайменше на тиждень.\nПро це повідомляє Reuters.\nПричиною цього, зокрема, є дефіцит акумуляторів для електромобілів, що випускаються на цих заводах.\nЗавод у Сошо на сході... [742 chars]",
+    "url": "https://epravda.com.ua/biznes/virobnik-elektromobiliv-prizupiniv-virobnictvo-u-franciji-826089/",
+    "image": "https://img.epravda.com.ua/epravda/images/doc/2/7/185596/274e07aa4a8c9bec197b459b9e97eb6f.jpeg?w=1920&q=85",
+    "publishedAt": "2026-09-29T16:19:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "9b9cf9e76aeefea346957bfe5f6dafc5",
+      "name": "Економічна правда",
+      "url": "https://epravda.com.ua"
+    }
+  },
+  {
     "id": "b9e825a332cd676b6ec7b6291a69237f",
     "title": "Захист без ракет на висоті 36 000 км: Франція готує космічну програму Yoda",
     "description": "Французьке космічне командування (CDE) спільно з Національним центром космічних досліджень (CNES) розробляє нову оборонну програму Yoda....",
@@ -27,6 +87,21 @@
       "id": "c5c959cb41bdd64f8b2b81a75752cf74",
       "name": "Дзеркало тижня",
       "url": "https://zn.ua"
+    }
+  },
+  {
+    "id": "4db9d3ce09682a1ce00c02ececbd417f",
+    "title": "Німецька броварня Wolters припинить виробництво у 2026 році",
+    "description": "Падіння попиту на пиво призвело до банкрутства підприємства Wolters у Брауншвейгу",
+    "content": "Віра Касіян\nРедакторка новин LIGA.net\nНімецька броварня Wolters у Брауншвейгу остаточно припинить виробництво наприкінці 2026 року. Підприємство працювало майже 400 років – його історія бере початок із 1627 року.\nРозумійте більше, ніж заголовки.\nБачт... [276 chars]",
+    "url": "https://biz.liga.net/ua/fmcg/news/odna-z-naystarishykh-brovaren-nimechchyny-zakryvaietsia-pislia-400-rokiv-roboty",
+    "image": "https://storage.liga.net/images/general/social/social-4641599-ua.png?v=1790681404",
+    "publishedAt": "2026-09-29T14:19:34Z",
+    "lang": "uk",
+    "source": {
+      "id": "b93e328777e19b792d6622633a10161e",
+      "name": "LIGA.net",
+      "url": "https://biz.liga.net"
     }
   },
   {
@@ -72,81 +147,6 @@
       "id": "b93e328777e19b792d6622633a10161e",
       "name": "LIGA.net",
       "url": "https://biz.liga.net"
-    }
-  },
-  {
-    "id": "9ea6af989b8ce85d00f0b66729350d03",
-    "title": "До 30 років роботи: запущено першу у світі серійну лінію водяних металевих батарей",
-    "description": "EnerVenue запустила першу у світі високосерійну лінію водяних металевих батарей Aqueous Metal Cell на 30 000 циклів і до 30 років роботи.",
-    "content": "Каліфорнійська компанія EnerVenue розпочала виробництво на першій у світі високосерійній виробничій лінії, створеній для Aqueous Metal Cell (AMC). EnerVenue повідомила, що за повної автоматизації виробнича лінія розрахована на випуск приблизно 300 Aq... [3842 chars]",
-    "url": "https://itc.ua/ua/novini/do-30-rokiv-roboty-zapushheno-pershu-u-sviti-serijnu-liniyu-vodyanyh-metalevyh-batarej/",
-    "image": "https://cdn.itc.ua/uploads/2026/09/Akum-Ser-000-835x557.jpg",
-    "publishedAt": "2026-09-29T10:00:54Z",
-    "lang": "uk",
-    "source": {
-      "id": "391d17d071b755a4bda37c1b43f47c2c",
-      "name": "itc.ua",
-      "url": "https://itc.ua"
-    }
-  },
-  {
-    "id": "f653a249772bf787dac673b5ab9d422f",
-    "title": "Volkswagen готує електричний Tiguan на заміну ID.4",
-    "description": "Volkswagen замінить електричний кросовер ID.4 на новий ID.Tiguan, який дебютує в Європі на початку 2027 року. Модель збереже основні риси попередника, але отримає фізичні кнопки для керування склопідйомниками, кліматом і гучністю.",
-    "content": "Volkswagen замінить електричний кросовер ID.4 на нову модель ID.Tiguan. Електромобіль представлять у Європі на початку 2027 року, а пізніше він з'явиться і на ринку США.\nНовинка збереже основні риси ID.4, але Volkswagen планує виправити один із голов... [1328 chars]",
-    "url": "https://mezha.ua/news/volkswagen-gotuye-elektrichniy-tiguan-na-zaminu-id-4-debyut-u-2027-roci-315637/",
-    "image": "https://img.mezha.ua/mezha/images/doc/a/2/328209/a271d4b80973dd5ec79f816bbeaa94f8.jpeg?w=1200&q=85&stamp=1790660464",
-    "publishedAt": "2026-09-29T07:20:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "6b0257d31504a630dde7752eed4e1e39",
-      "name": "mezha.ua",
-      "url": "https://mezha.ua"
-    }
-  },
-  {
-    "id": "8f5d2d3f17795d0bd4eed3d8835542b6",
-    "title": "Microsoft Excel нарешті може зберігати кілька значень в одній клітинці",
-    "description": "Microsoft тестує в Excel списки, масиви та вкладені масиви в одній клітинці. Нові функції дозволяють фільтрувати й обчислювати окремі значення без розподілу даних по кількох клітинках.",
-    "content": "Microsoft змінює одне з найзвичніших правил Excel: клітинка більше не обов’язково має містити лише одне значення. Компанія представила списки, масиви в клітинках і вкладені масиви, надаючи користувачам нові способи зберігати кілька частин інформації ... [3560 chars]",
-    "url": "https://itc.ua/ua/novini/microsoft-excel-nareshti-mozhe-zberigaty-kilka-znachen-v-odnij-klityntsi/",
-    "image": "https://cdn.itc.ua/uploads/2026/09/Eksel-Komyrka-Depositphotos_563694898_L.jpg",
-    "publishedAt": "2026-09-29T07:00:45Z",
-    "lang": "uk",
-    "source": {
-      "id": "391d17d071b755a4bda37c1b43f47c2c",
-      "name": "ITC.ua",
-      "url": "https://itc.ua"
-    }
-  },
-  {
-    "id": "f7e502571f88a656a03b032bef52c29d",
-    "title": "Тест-драйв Škoda Peaq: великий електричний SUV, у якому хочеться жити",
-    "description": "Огляд Škoda Peaq — першого електричного флагмана бренду: 7 місць, запас ходу до 647 км, просторий салон, преміальний комфорт і сучасні технології. Розбираємося, яким вийшов новий електричний SUV.",
-    "content": "Перший електричний флагман Škoda, сім місць, запас ходу понад 640 кілометрів і чеське вміння перетворювати практичність на майже преміальний досвід. Все це про Škoda Peaq.\nВ Мюнхені у нас була запланована зустріч не тільки зі Škoda Epiq, але і з найб... [18806 chars]",
-    "url": "https://itc.ua/ua/articles/test-drajv-skoda-peaq-velykyj-elektrychnyj-suv-u-yakomu-hochetsya-zhyty/",
-    "image": "https://cdn.itc.ua/uploads/2026/09/AER_4670-835x557.jpg",
-    "publishedAt": "2026-09-29T06:30:16Z",
-    "lang": "uk",
-    "source": {
-      "id": "391d17d071b755a4bda37c1b43f47c2c",
-      "name": "ITC.ua",
-      "url": "https://itc.ua"
-    }
-  },
-  {
-    "id": "a50b87af06be6d86f74a35dcd64a7c9e",
-    "title": "Starbucks закриє ще 250 кав'ярень: причина",
-    "description": "Компанія Starbucks закриє 250 нерентабельних кав'ярень у Північній Америці.",
-    "content": "Фото: Unsplash\nКомпанія Starbucks закриє 250 нерентабельних кав'ярень у Північній Америці, оскільки генеральний директор Брайан Ніккол посилює свою програму з оздоровлення бізнесу та відновлення продажів. Про це повідомляє Reuters.\nЗа словами предста... [755 chars]",
-    "url": "https://retailers.ua/news/menedjment/starbucks-zakriye-sche-250-kavyaren-prichina",
-    "image": "https://retailers.ua/media/news/364-s/00/21/21339/dominik-pearce-pblSSvee0QE-unsplash-33056.jpg",
-    "publishedAt": "2026-09-29T03:40:48Z",
-    "lang": "uk",
-    "source": {
-      "id": "e1db65ee22b4e2d08bcca5c44a306103",
-      "name": "Retailers.ua",
-      "url": "https://retailers.ua"
     }
   }
 ]
