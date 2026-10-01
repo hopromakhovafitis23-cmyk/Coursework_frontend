@@ -1,5 +1,80 @@
 [
   {
+    "id": "e5939a853aec8787188680da86524536",
+    "title": "DRAM не подешевшає: Micron та інші виробники вже мають нового великого замовника окрім ШІ",
+    "description": "Один з провідних світових виробників пам'яті Micron оприлюднив фінансовий звіт за че",
+    "content": "Один з провідних світових виробників пам’яті Micron оприлюднив фінансовий звіт за четвертий квартал цього року та аналітичні прогнози щодо цін.\nЗокрема, Micron перевершила прогнози аналітиків за абсолютно всіма фінансовими показниками окрім прогнозу ... [1672 chars]",
+    "url": "https://itc.ua/ua/novini/dram-ne-podeshevshaye-micron-ta-inshi-vyrobnyky-vzhe-mayut-novogo-velykogo-zamovnyka-okrim-shi/",
+    "image": "https://cdn.itc.ua/uploads/2026/10/default-manufacturer_background_2_1.jpg",
+    "publishedAt": "2026-10-01T10:18:25Z",
+    "lang": "uk",
+    "source": {
+      "id": "391d17d071b755a4bda37c1b43f47c2c",
+      "name": "ITC.ua",
+      "url": "https://itc.ua"
+    }
+  },
+  {
+    "id": "df0b75bae563adc50d5fe708bf9899f1",
+    "title": "Євро падає до мінімумів із травня 2025 року: яким може бути курс долара в Україні",
+    "description": "Курс EUR/USD опустився нижче 1,13, до мінімальних рівнів із травня 2025 року.",
+    "content": "Курс EUR/USD опустився нижче 1,13, до мінімальних рівнів із травня 2025 року. Вересневе падіння євро стало найбільшим за останні 14 місяців. Про це пише фінансовий аналітик Андрій Шевчишин.\n► Читайте телеграм-канал «Мінфіну»: головні фінансові новини... [1748 chars]",
+    "url": "https://minfin.com.ua/ua/2026/10/01/182723034/",
+    "image": "http://minfin.com.ua/img/2026/182723034/efbc15de5b31690e2c9bf4d4520c1dd2.jpeg",
+    "publishedAt": "2026-10-01T09:34:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "6028444ee1303e4577f50406a4c7988e",
+      "name": "Мінфін",
+      "url": "https://minfin.com.ua"
+    }
+  },
+  {
+    "id": "3cf02e3e459245c57d780c05952ba956",
+    "title": "Gemini 4 Argon стала новою флагманською ШІ-моделлю Google для програмування та кібербезпеки • Межа",
+    "description": "Google представила флагманську ШІ-модель Gemini 4 Argon, орієнтовану на складні багатокрокові завдання та здатну генерувати до 1 млн токенів за одну відповідь. Спочатку модель тестують фахівці з кібербезпеки, а ширший запуск відбудеться пізніше для платних користувачів API та Google AI Ultra.",
+    "content": "Нова флагманська ШІ-модель Google орієнтована на складні багатокрокові завдання у програмуванні, фінансах, юриспруденції та кібербезпеці. Gemini 4 Argon поки отримала лише обмежена група фахівців із кіберзахисту.\nОднією з головних змін став ліміт вих... [2671 chars]",
+    "url": "https://mezha.ua/news/google-gemini-4-argon-315729/",
+    "image": "https://img.mezha.ua/mezha/images/doc/b/2/328607/b261452b990e8f8229b789ddb6459f68.jpeg?w=1200&q=85&stamp=1790824428",
+    "publishedAt": "2026-10-01T06:05:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "6b0257d31504a630dde7752eed4e1e39",
+      "name": "Mezha",
+      "url": "https://mezha.ua"
+    }
+  },
+  {
+    "id": "8123a6307073f95e2a4ba82d4be190f8",
+    "title": "Мережа CCC відкрила нові магазини у Полтаві та Одесі",
+    "description": "Мережа CCC у вересні відкрила два магазини. Вони розташовані у ТРЦ Конкорд у Полтаві та ТРЦ Острів в Одесі.",
+    "content": "Ілюстративне фото: riviera.com.ua\nМережа CCC у вересні відкрила два магазини. Вони розташовані у ТРЦ \"Конкорд\" у Полтаві та ТРЦ \"Острів\" в Одесі. Про це повідомляє УРТЦ із посиланням на пресслужбу компанії \"Modivo Україна\".\nВ магазинах покупці можуть... [604 chars]",
+    "url": "https://retailers.ua/news/menedjment/mereja-ccc-vidkrila-novi-magazini-u-poltavi-ta-odesi",
+    "image": "https://retailers.ua/media/news/364-s/00/21/21396/MUZV9120-2308x1539-33164.jpg",
+    "publishedAt": "2026-10-01T02:12:12Z",
+    "lang": "uk",
+    "source": {
+      "id": "e1db65ee22b4e2d08bcca5c44a306103",
+      "name": "Retailers.ua",
+      "url": "https://retailers.ua"
+    }
+  },
+  {
+    "id": "fcd44f542bfb5b40b3cd915537e4ba9b",
+    "title": "П’яте покоління гібридного Mitsubishi Outlander матиме 5 двигунів і незвичний дизайн",
+    "description": "Mitsubishi готує масштабне оновлення свого головного кросовера — Outlander. П’яте покоління моделі, яке очікується у 2028 році, отримає не лише сміливий дизайн, а й революційну гібридну систему з п’ятьма двигунами.",
+    "content": "Візуалізація нового Mitsubishi Outlander. Фото: carscoops.com\nНинішній Outlander четвертого покоління випускається з 2021 року і залишається основою продажів бренду — лише у США у 2025 році дилери реалізували майже 36 000 автомобілів. Попри невелике ... [2760 chars]",
+    "url": "https://pravdatutnews.com/avto/2026/10/01/86622-pyate-pokolinnya-gibrydnogo-mitsubishi-outlander-matyme-5",
+    "image": "https://pravdatutnews.com/sites/default/files/news/2026/10/01/mitsubishi_outlander_5_pokolinnya.jpg",
+    "publishedAt": "2026-10-01T01:35:50Z",
+    "lang": "uk",
+    "source": {
+      "id": "716e7cb92f5f203aa3506c9ba057538c",
+      "name": "pravdatutnews.com",
+      "url": "https://pravdatutnews.com"
+    }
+  },
+  {
     "id": "b019db98667dd4f2e5c776ed9a31fa6d",
     "title": "Названо найпопулярніші електромобілі в Україні",
     "description": "Українці за вісім місяців придбали понад 22 тисячі електромобілів. Більшість з нових електромобілів були китайськими, тоді як серед вживаних найпопулярнішими стали Tesla Model Y та Nissan Leaf.",
@@ -72,81 +147,6 @@
       "id": "6b0257d31504a630dde7752eed4e1e39",
       "name": "Mezha",
       "url": "https://mezha.ua"
-    }
-  },
-  {
-    "id": "6a84631a27dbc4664d38e380a0d2232d",
-    "title": "Tesla запатентувала електромобіль із вентиляторами",
-    "description": "Компанія Tesla щойно отримала патент на \"електромобіль із вентиляторами\" - систему, яка використовує чотири електричні вентилятори в каналах заднього дифузора, щоб притискати автомобіль до дороги на будь-якій швидкості. На кресленнях зображено модель Model S, виробництво якої Tesla припинила у квітні. Це вже другий патент Tesla на автомобіль із вентиляторами за трохи більше ніж рік; він",
-    "content": "Компанія Tesla щойно отримала патент на “електромобіль із вентиляторами” – систему, яка використовує чотири електричні вентилятори в каналах заднього дифузора, щоб притискати автомобіль до дороги на будь-якій швидкості.\nНа кресленнях зображено модель... [1393 chars]",
-    "url": "https://autogeek.com.ua/tesla-zapatentuvala-elektromobil-iz-ventylyatoramy/",
-    "image": "https://autogeek.com.ua/wp-content/uploads/2026/09/large.webp",
-    "publishedAt": "2026-09-30T08:22:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "8315024387ee8a8e7383c5c9007e593e",
-      "name": "autogeek.com.ua",
-      "url": "https://autogeek.com.ua"
-    }
-  },
-  {
-    "id": "aa0899d95e34e4f56e73fbe9a9f647c5",
-    "title": "Підроблений Mercede 1936 року продають у Дніпрі",
-    "description": "90-річну репліку Mercedes-Benz 770 W150 продають за майже $98 тисяч. Це досить велика сума навіть для оригінального авто.",
-    "content": "У Дніпрі продають незвичайний ретроавтомобіль, який зареєстрований як Mercedes-Benz 500K W29 1936 року. За машину просять $97 691. Водночас продавець зазначає, що насправді це репліка рідкісного Mercedes-Benz 770 W150 Cabriolet F.\nЯк пише topgir.com.... [1078 chars]",
-    "url": "https://24tv.ua/auto/pidroblenyi_mercedes_benz_1936_roku_prodaiut_u_dnipri_za_shaleni_hroshi_n76247",
-    "image": "https://24tv.ua/auto/resources/photos/news/202609/7624787d01f11-0aea-4c96-b5e3-4af92a2af458.jpg",
-    "publishedAt": "2026-09-30T08:10:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "e737a8e76b161ef4526698e2ec5f60c9",
-      "name": "24 Канал",
-      "url": "https://24tv.ua"
-    }
-  },
-  {
-    "id": "05cf2f5f0180530e612a27346ef71bea",
-    "title": "Перший рамний пікап Kia вже в Україні: порівняння Tasman із Toyota Hilux і Mitsubishi L200",
-    "description": "На український ринок офіційно вийшов Kia Tasman — перший рамний пікап бренду, який має намір скласти конкуренцію ветеранам сегмента Toyota Hilux та Mitsubishi L200.",
-    "content": "На український ринок офіційно вийшов Kia Tasman — перший рамний пікап бренду, який має намір скласти конкуренцію ветеранам сегмента Toyota Hilux та Mitsubishi L200.\nІлюстрація: Copilot для pravdatutnews.com\nНовинка пропонується наразі в єдиній компле... [4325 chars]",
-    "url": "https://pravdatutnews.com/avto/2026/09/30/86552-pershyy-ramnyy-pikap-kia-vzhe-v-ukrayini-porivnyannya-tasman-iz",
-    "image": "https://pravdatutnews.com/sites/default/files/news/2026/09/30/kia_tasman-_toyota_hilux_-_mitsubishi_l200_copilot.png",
-    "publishedAt": "2026-09-30T01:58:34Z",
-    "lang": "uk",
-    "source": {
-      "id": "716e7cb92f5f203aa3506c9ba057538c",
-      "name": "pravdatutnews.com",
-      "url": "https://pravdatutnews.com"
-    }
-  },
-  {
-    "id": "d1e9c3681d4a853a4ea7473bee0873a4",
-    "title": "Apple планує випускати нові продукти частіше та швидше • Межа",
-    "description": "Apple готується змінити підхід до розробки та запуску своїх пристроїв. За даними Bloomberg, новий генеральний директор компанії Джон Тернус ініціював масштабну реструктуризацію, метою якої є прискорення процесів створення нових продуктів та їх частіший вихід на ринок.",
-    "content": "Apple готується змінити підхід до розробки та запуску своїх пристроїв. За даними журналіста Bloomberg Марка Гурмана, новий генеральний директор компанії Джон Тернус ініціював масштабну реструктуризацію, метою якої є прискорення процесів створення нов... [2129 chars]",
-    "url": "https://mezha.ua/news/apple-planuye-vipuskati-novi-produkti-chastishe-ta-shvidshe-315677/",
-    "image": "https://img.mezha.ua/mezha/images/doc/d/b/328442/db87e80d7228029db9bba6cb5b1ef3c5.jpeg?w=1200&q=85&stamp=1790706970",
-    "publishedAt": "2026-09-29T19:16:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "6b0257d31504a630dde7752eed4e1e39",
-      "name": "Mezha",
-      "url": "https://mezha.ua"
-    }
-  },
-  {
-    "id": "3e2f69f8ff1d0267ada9de182dcc2bc5",
-    "title": "Subaru представила ювілейні BRZ та WRX",
-    "description": "Спеціальні версії спортивного купе та седана присвячені 15-й і 25-й річницям моделей, а їхній тираж становитиме 300 та 350 автомобілів відповідно.",
-    "content": "Спеціальні версії спортивного купе та седана присвячені 15-й і 25-й річницям моделей, а їхній тираж становитиме 300 та 350 автомобілів відповідно.\nКомпанія Subaru представила дві спеціальні версії своїх спортивних моделей - BRZ ZC15 та WRX GD25. Прем... [3027 chars]",
-    "url": "https://ua.korrespondent.net/lifestyle/motors/4915950-Subaru-predstavyla-yuvileini-BRZ-ta-WRX",
-    "image": "https://kor.ill.in.ua/m/1260x900/4579202.jpg",
-    "publishedAt": "2026-09-29T19:03:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "5f3893b2bdd83721567eef82ac0a6d2e",
-      "name": "Korrespondent.net",
-      "url": "https://ua.korrespondent.net"
     }
   }
 ]
