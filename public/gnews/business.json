@@ -1,5 +1,20 @@
 [
   {
+    "id": "a0ea00e53738d58e7d4cb6a6c64c1b22",
+    "title": "Що пішло не так із Nike",
+    "description": "За останні роки найбільший у світі бренд спортивного одягу припустився низки помилок, які йому дорого коштують.",
+    "content": "Author, Майкл Рейс\nRole, Бізнес-кореспондент\nReporting from, Нью-Йорк\nPublished 3 годин(и) тому\nЧас прочитання: 5 хв\nОстанні кілька років були непростими для Nike.\nНайбільший у світі бренд спортивного одягу, названий на честь давньогрецької богині, о... [6702 chars]",
+    "url": "https://www.bbc.com/ukrainian/articles/cqn497z7rjzro",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_ukrainian/ca3a/live/a79a57d0-be2a-11f1-bc2e-018d645d8d21.jpg",
+    "publishedAt": "2026-10-03T08:33:04Z",
+    "lang": "uk",
+    "source": {
+      "id": "f331a5ed3965fb59761dfcecfc7e7a34",
+      "name": "BBC",
+      "url": "https://www.bbc.com"
+    }
+  },
+  {
     "id": "84da4ba0dcd705612d05e62f81a73eb1",
     "title": "Aston Martin відкладає свій перший електромобіль до щонайменше 2033 року",
     "description": "Глава компанії Адріан Голлмарк назвав орієнтовним періодом дебюту першого електромобіля 2033-2035 роки, тоді як бензинові двигуни V8 і V12 планують адаптувати до вимог до 2035 року.",
@@ -132,21 +147,6 @@
       "id": "6b0257d31504a630dde7752eed4e1e39",
       "name": "Mezha",
       "url": "https://mezha.ua"
-    }
-  },
-  {
-    "id": "34f4c02df9928b7c612343d740c18c22",
-    "title": "Глава \"Коло\" Денис Здоренко залишив компанію",
-    "description": "Генеральний директор мережі магазинів Коло Денис Здоренко залишив компанію.",
-    "content": "Генеральний директор мережі магазинів \"Коло\" Денис Здоренко залишив компанію. Про це він повідомив на своїй сторінці у LinkedIn.\nСьогодні мій останній робочий день у KOLO Market де я з часів, коли це був лише проєкт: концепція, фінансова модель і баг... [732 chars]",
-    "url": "https://retailers.ua/news/menedjment/glava-kolo-denis-zdorenko-zalishiv-kompaniyu",
-    "image": "https://retailers.ua/media/news/364-s/00/21/21422/kolo-1280x712-33190.jpg",
-    "publishedAt": "2026-10-02T04:23:12Z",
-    "lang": "uk",
-    "source": {
-      "id": "e1db65ee22b4e2d08bcca5c44a306103",
-      "name": "retailers.ua",
-      "url": "https://retailers.ua"
     }
   }
 ]
