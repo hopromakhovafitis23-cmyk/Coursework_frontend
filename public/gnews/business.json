@@ -1,5 +1,35 @@
 [
   {
+    "id": "cb8eb8be082ec6ee9ccb81de60e03f59",
+    "title": "Без керма і педалей: Tesla випустила Cybercab на вулиці Остіна",
+    "description": "Tesla запустила в Остіні, штат Техас, перевезення на Cybercab, двомісному безпілотному автомобілі без керма та педалей. Закрита презентація відбулася 3",
+    "content": "Tesla запустила в Остіні, штат Техас, перевезення на Cybercab, двомісному безпілотному автомобілі без керма та педалей. Закрита презентація відбулася 3 вересня, після чого нову модель долучили до сервісу роботаксі компанії.\nЗа повідомленням The Verge... [915 chars]",
+    "url": "https://donpatriot.news/bez-kerma-i-pedalej-tesla-vypustyla-cybercab-na-vulyczi-ostina",
+    "image": "https://donpatriot.news/wp-content/uploads/2026/10/avto.jpeg",
+    "publishedAt": "2026-10-02T15:15:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "556066753a7a30eb0619823360acdde4",
+      "name": "Патріот Донбасу",
+      "url": "https://donpatriot.news"
+    }
+  },
+  {
+    "id": "5111573a456cb965c0843d8b354724ae",
+    "title": "Tesla Model 3 отримала 528 к.с. потужності і більше ходу - китайська має більше переваг",
+    "description": "Tesla оновила Model 3 у США: усі версії отримали 16-дюймовий екран, Performance — 528 к.с. і 509 км запасу ходу, а Premium AWD розганяється за 3,8 с.",
+    "content": "Tesla оновила Model 3 для ринків США, Пуерто-Рико та Мексики. Раніше компанія також оновила модель для китайського ринку. Тепер усі версії електромобіля отримують новий центральний сенсорний екран діагоналлю 16 дюймів замість попередніх 15,4 дюйма. О... [1986 chars]",
+    "url": "https://itc.ua/ua/novini/tesla-model-3-528-k-s-potuzhnosti-bilshe-hodu/",
+    "image": "https://cdn.itc.ua/uploads/2026/10/arenaev_000.jpg",
+    "publishedAt": "2026-10-02T09:07:52Z",
+    "lang": "uk",
+    "source": {
+      "id": "391d17d071b755a4bda37c1b43f47c2c",
+      "name": "ITC.ua",
+      "url": "https://itc.ua"
+    }
+  },
+  {
     "id": "59e043b9a7eabdbd7c905b889206a5bb",
     "title": "гібрид, запас ходу, версія XRT PRO, фото, характеристики",
     "description": "Hyundai представила новий Tucson із системою Pleos Connect, гібридом до 5,6 л/100 км та позашляховою версією XRT PRO із кліренсом 210 міліметрів - Авто24",
@@ -117,36 +147,6 @@
       "id": "ccf5b23cf2f813320e7baafea8cf4ea7",
       "name": "motorcar.com.ua",
       "url": "https://motorcar.com.ua"
-    }
-  },
-  {
-    "id": "7a35397339f10bc8d6ae763cb56cc701",
-    "title": "Золото впало у ціні за вересень",
-    "description": "Детальніше про це читайте у новині ЕП",
-    "content": "У середу золото втратило раніше здобуті позиції та знизилося в ціні, рухаючись до місячного зниження, оскільки зростання цін на енергоносії перекрило позитивний ефект від даних про інфляцію в США, які виявилися нижчими за очікування.\nПро це повідомля... [924 chars]",
-    "url": "https://epravda.com.ua/svit/zoloto-vpalo-u-cini-za-veresen-826171/",
-    "image": "https://img.epravda.com.ua/epravda/images/doc/1/2/185909/12105e16e82152aa496e4d36e594f43f.jpeg?w=1920&q=85",
-    "publishedAt": "2026-10-01T16:29:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "9b9cf9e76aeefea346957bfe5f6dafc5",
-      "name": "Економічна правда",
-      "url": "https://epravda.com.ua"
-    }
-  },
-  {
-    "id": "5d491ff8633b9c8badc00a22a0d8a496",
-    "title": "яке міське авто купують найчастіше",
-    "description": "Сегмент міських автомобілів з початку 2026 року демонструє спад – світові продажі становили 2,07 млн одиниць. Експерти визначили найпопулярнішу модель.",
-    "content": "Сегмент міських автомобілів за період з початку 2026 року демонструє спад – світові продажі становили 2,07 млн одиниць, скоротившись на 13,6%. Про це повідомляє Focus2Move.\nСкорочення сталося через падіння продажів в Азії (-21,7%), яка є найбільшим р... [1639 chars]",
-    "url": "https://www.unian.ua/economics/auto/naypopulyarnishi-avtomobili-u-sviti-yake-miske-avto-kupuyut-naychastishe-13515753.html",
-    "image": "https://images.unian.net/photos/2026_10/thumb_files/620_324_1790856593-3679.jpg?1",
-    "publishedAt": "2026-10-01T12:17:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "d4361862486677369ff2ae7719b8d313",
-      "name": "УНІАН",
-      "url": "https://www.unian.ua"
     }
   }
 ]
