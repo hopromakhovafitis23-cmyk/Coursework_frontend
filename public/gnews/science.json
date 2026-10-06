@@ -1,102 +1,27 @@
 [
   {
-    "id": "c037670634f9510c59a67eace40e093f",
-    "title": "Російський чиновник закликав урізати уроки математики, фізики та хімії після вимоги Путіна заповнити заводи робітниками",
-    "description": "В Росії посилюється курс на перенаправлення школярів до середньої професійної освіти після дев'ятого класу",
-    "content": "Глава Ради при президентові РФ з прав людини Валерій Фадєєв висловив пропозицію зменшити обсяг шкільних програм з математики, фізики та хімії на 20-30%, заявивши про їхнє перенасичення «зайвою інформацією». Про це пише «Главком» із посиланням на The ... [1411 chars]",
-    "url": "https://glavcom.ua/world/world-politics/rosijskij-chinovnik-zaklikav-urizati-uroki-matematiki-fiziki-ta-khimiji-pislja-vimohi-putina-zapovniti-zavodi-robitnikami-1147331.html",
-    "image": "https://glavcom.ua/img/article/11473/31_main-v1791245009.webp",
-    "publishedAt": "2026-10-06T00:03:00Z",
+    "id": "2fcfa80ab3c5a3943c9d6fcc5e40c9b5",
+    "title": "Оголошено лауреата Нобелівської премії-2026 з фізики",
+    "description": "Френсіс Хальцен отримав Нобелівську премію з фізики 2026 року за внесок у створення обсерваторії IceCube та відкриття нейтрино високих енергій астрофізичного походження.",
+    "content": "Нобелівську премію з фізики у 2026 році отримав Френсіс Хальцен за визначальний внесок у створення обсерваторії IceCube та відкриття нейтрино високих енергій астрофізичного походження.\nПро це повідомляє пресслужба Фонду Нобеля.\nНобелівська премія: ре... [1323 chars]",
+    "url": "https://www.slovoidilo.ua/2026/10/06/novyna/suspilstvo/oholosheno-laureata-nobelivskoyi-premiyi-2026-fizyky",
+    "image": "https://media.slovoidilo.ua/media/scimage/245/244849-uk.png",
+    "publishedAt": "2026-10-06T10:15:33Z",
     "lang": "uk",
     "source": {
-      "id": "170951208432adcfd96b2d9def1a0127",
-      "name": "Главком",
-      "url": "https://glavcom.ua"
+      "id": "15797505fcdbf49191263455ed070cbb",
+      "name": "Слово і Діло",
+      "url": "https://www.slovoidilo.ua"
     }
   },
   {
-    "id": "ff06d8fd87bc399b009e71f3f364f5d4",
-    "title": "Шимпанзе крадуть менше у своїх друзів",
-    "description": "Вчені провели експеримент із 26 шимпанзе та з'ясували, що тварини рідше крадуть їжу у друзів, ніж у тих, із ким не мають близьких стосунків.ᐅТSN.ua (новини 1+1)",
-    "content": "Шимпанзе значно рідше крадуть їжу у тих, із ким мають близькі стосунки. До такого висновку дійшли біологи, які досліджували поведінку тварин у заповіднику на острові Нгамба в Уганді. Вчені також виявили, що реакція на крадіжку залежить від того, хто ... [3212 chars]",
-    "url": "https://tsn.ua/nauka_it/chym-shympanze-vidrizniaiutsia-vid-liudey-u-druzbi-vcheni-znayshly-vidpovid-3182023.html",
-    "image": "https://img.tsn.ua/cached/649/tsn-671b840e81dae5015bc4c6345e63d1d0/thumbs/1200x630/17/84/10ab2e0905f03f2d45210e01be1a8417.jpeg",
-    "publishedAt": "2026-10-05T19:35:34Z",
-    "lang": "uk",
-    "source": {
-      "id": "ae8b9c98d707754fca5e1ea622855c50",
-      "name": "ТСН",
-      "url": "https://tsn.ua"
-    }
-  },
-  {
-    "id": "86cbfa3184fb456b4f1b696a96d4f828",
-    "title": "Вчені з’ясували, як кава впливає на мозок",
-    "description": "Невелике дослідження показало різний вплив двох видів напою: кава без кофеїну покращувала результати тестів на пам’ять, тоді як кофеїн був пов’язаний зі зниженням стресу та тривожності.",
-    "content": "Невелике дослідження показало різний вплив двох видів напою: кава без кофеїну покращувала результати тестів на пам’ять, тоді як кофеїн був пов’язаний зі зниженням стресу та тривожності.\nНейробіологи виявили, що вплив кави на мозок може бути пов’язани... [2152 chars]",
-    "url": "https://ua.korrespondent.net/tech/4917540-vcheni-ziasuvaly-yak-kava-vplyvaie-na-mozok",
-    "image": "https://kor.ill.in.ua/m/1260x900/4587542.jpg",
-    "publishedAt": "2026-10-05T18:43:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "5f3893b2bdd83721567eef82ac0a6d2e",
-      "name": "Korrespondent.net",
-      "url": "https://ua.korrespondent.net"
-    }
-  },
-  {
-    "id": "21661e910c0d7760f7d6b5102bb969c7",
-    "title": "Теорія \"мертвого Інтернету\" нарешті стає реальністю: про що попереджають вчені",
-    "description": "ШІ-персонажі набирають тисячі підписників ᐅТSN.ua (новини 1+1)",
-    "content": "У соцмережах стрімко набирають популярність акаунти, за якими стоять не реальні люди, а створені штучним інтелектом персонажі. Деякі з них уже зібрали сотні тисяч підписників, через що користувачі побоюються, що так звана теорія «мертвого Інтернету» ... [2732 chars]",
-    "url": "https://tsn.ua/nauka_it/teoriia-mertvoho-internetu-nareshti-staye-realnistiu-pro-shcho-poperedzaiut-vcheni-3181975.html",
-    "image": "https://img.tsn.ua/cached/375/tsn-1284f5ef/thumbs/1200x630/16/32/38fdcddcd6e2a22ba7735a50a0833216.jpg",
-    "publishedAt": "2026-10-05T18:09:52Z",
-    "lang": "uk",
-    "source": {
-      "id": "ae8b9c98d707754fca5e1ea622855c50",
-      "name": "ТСН",
-      "url": "https://tsn.ua"
-    }
-  },
-  {
-    "id": "d381e28aa893239e694c98fc479dd424",
-    "title": "Голос старіє разом із мозком: вчені виявили несподіваний зв’язок",
-    "description": "Ваш голос може розповісти про старіння мозку більше, ніж здається. Вчені створили систему машинного навчання, яка оцінює так званий «вік мовлення» — і виявили несп...",
-    "content": "Ваш голос може розповісти про старіння мозку більше, ніж здається. Вчені створили систему машинного навчання, яка оцінює так званий «вік мовлення» — і виявили несподіваний зв’язок із біологічним старінням, когнітивними здібностями та хворобами мозку.... [2098 chars]",
-    "url": "https://portaltele.com.ua/zdorovya/golos-stariye-razom-iz-mozkom-vcheni-vyyavyly-nespodivanyj-zv-yazok.html",
-    "image": "https://portaltele.com.ua/wp-content/uploads/2016/11/voice-650x393.jpg",
-    "publishedAt": "2026-10-05T17:35:21Z",
-    "lang": "uk",
-    "source": {
-      "id": "64d089bdfc2be7c93f12463048ae17a5",
-      "name": "portaltele.com.ua",
-      "url": "https://portaltele.com.ua"
-    }
-  },
-  {
-    "id": "963868e75ade03bbba8ea8761df6728b",
-    "title": "Шкільні програми - вчителька біології б’є на сполох через перевантаження учнів - Укрaїнa",
-    "description": "Вчителька пояснила головний провал сучасної шкільної біології та хімії. Деталі читайте ᐅ TSN.ua (новини 1+1)",
-    "content": "Українська вчителька хімії та біології Оксана Непота звернулася з відкритим листом до авторів шкільних програм, заявивши про критичне перевантаження школярів.\nПро це педагогиня написала у соцмережах.\nВчителька переконана — надмірна кількість складних... [2828 chars]",
-    "url": "https://tsn.ua/ukrayina/imitatsiia-znan-chy-znushchannia-vchytelka-oburylasia-perevantazenniam-shkilnoyi-prohramy-9-klasu-3181935.html",
-    "image": "https://img.tsn.ua/cached/443/tsn-51cb131e/thumbs/1200x630/ad/05/aaaceaf6eba7b4b943b0049f299c05ad.png",
-    "publishedAt": "2026-10-05T17:30:23Z",
-    "lang": "uk",
-    "source": {
-      "id": "ae8b9c98d707754fca5e1ea622855c50",
-      "name": "ТСН",
-      "url": "https://tsn.ua"
-    }
-  },
-  {
-    "id": "5b78f89efae22bf65965fac5c55d2ee8",
-    "title": "NASA дослідить западину на Місяці в пошуках гігантської печери",
-    "description": "NASA відправить на Місяць наукові інструменти GIMLI. Щоб перевірити, чи веде Marius Hills Pit до великої лавової труби або підземної печери.",
-    "content": "NASA профінансує місію, яка має з'ясувати, чи веде одна з великих западин на Місяці до підземної печери або лавової труби. Дослідження проведе команда Planetary Science Institute в межах програми Payloads and Research Investigations on the Surface of... [4553 chars]",
-    "url": "https://24tv.ua/tech/nasa-doslidit-zapadinu-misyatsi-poshukah-gigantskoyi-pecheri_n3154877",
-    "image": "https://24tv.ua/resources/photos/news/202610/3154877.jpg?v=1791211445000&w=1200&h=675",
-    "publishedAt": "2026-10-05T17:30:00Z",
+    "id": "033bcaac77d322b36400e5847a55f00b",
+    "title": "Нобелівська премія з фізики 2026 року",
+    "description": "Шведська королівська академія оголосила рішення про присудження світової наукової премії. Історія нагороди та головні відкриття лауреатів минулих років.",
+    "content": "Хто отримав Нобелівську премію з фізики 2026 року\nЦього року премію вручили Френсісу Голзену за \"вирішальний внесок у Нейтринну обсерваторію IceCube та відкриття високоенергетичних нейтрино астрофізичного походження\", пише 24 Канал.\nФренсіс Холзен на... [8184 chars]",
+    "url": "https://24tv.ua/tech/nobelivska-premiya-fiziki-2026-roku-hto-otrimav-tsogorichnu-nagorodu_n3155145",
+    "image": "https://24tv.ua/resources/photos/news/202610/3155145.jpg?v=1791271027000&w=1200&h=675",
+    "publishedAt": "2026-10-06T10:03:00Z",
     "lang": "uk",
     "source": {
       "id": "e737a8e76b161ef4526698e2ec5f60c9",
@@ -105,48 +30,123 @@
     }
   },
   {
-    "id": "bc3ace82de368897b8c157bab7dd60b3",
-    "title": "Слуг убивали після смерті царя: що показали черепи в Єгипті",
-    "description": "В Абідосі знайшли докази людських жертвоприношень у Давньому Єгипті. Що показав аналіз 46 черепів, читайте ᐅТSN.ua (новини 1+1)",
-    "content": "Черепи з царського некрополя в Абідосі, заховані у фондах музейних колекцій на ціле століття, врешті розкрили одну з найпохмуріших таємниць раннього Єгипту. Нове дослідження доводить: 5000 років тому, після смерті єгипетських правителів, їхніх найбли... [3703 chars]",
-    "url": "https://tsn.ua/nauka_it/zertvoprynoshennia-v-davnyomu-yehypti-cherepy-rozkryly-tayemnytsiu-tsarskykh-pokhovan-3181839.html",
-    "image": "https://img.tsn.ua/cached/300/tsn-51cb131e/thumbs/1200x630/6a/fd/b0069d4b899ab96acdaf11c2344afd6a.jpg",
-    "publishedAt": "2026-10-05T14:56:27Z",
+    "id": "43f380d9c6967c2ef14951c681ea1f21",
+    "title": "Нобелівська премія 2026 - рекорди, історія, розмір та лауреати",
+    "description": "Нобелівський тиждень-2026 у самому розпалі. Слово і діло зібрало на інфографіці головні факти про найвідомішу нагороду у світі науки.",
+    "content": "Щороку в перший тиждень жовтня світ стежить за Нобелівською премією. 5 жовтня цьогорічну премію в галузі медицини та фізіології отримали Карл Дайссерот, Петер Гегеманн та Георг Нагель за розвиток оптогенетики. Сьогодні, 6 жовтня, премію з фізики отри... [5221 chars]",
+    "url": "https://www.slovoidilo.ua/2026/10/06/infografika/nauka/nobelivska-premiya-rekordy-ta-klyuchovi-fakty-najvidomishoho-pryzu-nauczi",
+    "image": "https://media.slovoidilo.ua/media/scimage/245/244844-uk.png",
+    "publishedAt": "2026-10-06T09:56:00Z",
     "lang": "uk",
     "source": {
-      "id": "ae8b9c98d707754fca5e1ea622855c50",
-      "name": "ТСН",
-      "url": "https://tsn.ua"
+      "id": "15797505fcdbf49191263455ed070cbb",
+      "name": "Слово і Діло",
+      "url": "https://www.slovoidilo.ua"
     }
   },
   {
-    "id": "4399446386b2cb4c1ac2670cdef22106",
-    "title": "Rheinmetall запустив перший супутник разом з Argotec - що відомо про програму",
-    "description": "Німецький концерн Rheinmetall разом з італійською космічною компанією Argotec 1 жовтня 2026 року запустив на орбіту перший супутник спільної програми....",
-    "content": "Що відомо про запуск та плани\nСупутник вивели на орбіту ракетою-носієм Falcon 9 компанії SpaceX з космічної бази Ванденберг у Каліфорнії (США) 1 жовтня. У Rheinmetall назвали запуск віхою в межах нового стратегічного партнерства з Argotec.\nЧерез дочі... [2423 chars]",
-    "url": "https://www.rbc.ua/rus/news/rheinmetall-viviv-orbitu-pershiy-suputnik-1791211718.html",
-    "image": "https://www.rbc.ua/static/img/f/a/falcon_heavy_launches_nrol_97_from_pad_39a_in_florida_0111b223b7a938787c80e3ba58964f46_1300x820.jpg",
-    "publishedAt": "2026-10-05T14:48:38Z",
+    "id": "f5c87941f7a4f6fe3c086908d2e58b0a",
+    "title": "Нобелівська премія з фізики 2026 - хто і за що отримав нагороду",
+    "description": "Нобелівський комітет у вівторок, 6 жовтня оголосив лауреатів 125-ої премії у галузі фізики....",
+    "content": "\"Королівська шведська академія наук вирішила присудити Нобелівську премію з фізики 2026 року Френсісу Гальзену (Francis Halzen) \"за вирішальний внесок у створення нейтринної обсерваторії IceCube та відкриття нейтрино високих енергій астрофізичного по... [3486 chars]",
+    "url": "https://www.rbc.ua/rus/news/ogolosheni-laureati-nobelivskoyi-premiyi-1791270655.html",
+    "image": "https://www.rbc.ua/static/img/g/e/gettyimages_2239148831_d7d402552517b5cd352747e00632ed12_1300x820.jpg",
+    "publishedAt": "2026-10-06T09:51:00Z",
     "lang": "uk",
     "source": {
       "id": "6f1ead09126f1f4738a48957e22f789c",
-      "name": "РБК-Україна",
+      "name": "rbc.ua",
       "url": "https://www.rbc.ua"
     }
   },
   {
-    "id": "6f68e7d1f38604e275f046d098470661",
-    "title": "Зупинка обертання Землі - моторошна відеосимуляція - Наука та IT",
-    "description": "Що станеться, якщо Земля зупиниться – моторошна відеосимуляція апокаліпсису та руйнувань. Дізнайтеся всі деталі ᐅTSN.ua (новини 1+1).",
-    "content": "У Мережі показали моторошну симуляцію зупинки обертання Землі. Такий сценарій призвів би до глобальної катастрофи та масових руйнувань. Величезна швидкість та інерція змели б із поверхні планети міста, будинки й океани.\nПро це пише LadBible.\nУявімо, ... [3932 chars]",
-    "url": "https://tsn.ua/nauka_it/shcho-bude-iakshcho-zemlia-prypynyt-obertatysia-motoroshna-symuliatsiia-apokalipsysu-video-3181745.html",
-    "image": "https://img.tsn.ua/cached/944/tsn-1284f5ef/thumbs/1200x630/71/ca/5a4646f5bb7087d45f8852c17141ca71.jpg",
-    "publishedAt": "2026-10-05T13:37:28Z",
+    "id": "653efe5316738ee6608002bc844dd8d9",
+    "title": "Древній кратер може бути пов'язаний з одним із найбільших вимирань в історії",
+    "description": "Геологи переоцінили вік підземного астероїдного кратера в штаті Оклахома. Падіння метеорита збіглося з масштабним вимиранням морських організмів.",
+    "content": "Помилка тривалістю в сотню мільйонів років\nГігантська структура діаметром близько 16 кілометрів лежить безпосередньо під містечком Еймс. Вона захована під товщею осадових порід глибиною 2,7 кілометра, тому фахівці знайшли її лише у 1991 році за допом... [2098 chars]",
+    "url": "https://24tv.ua/tech/krater-eyms-viyavivsya-povyazanim-iz-masovim-vimirannyam-shho_n3155200",
+    "image": "https://24tv.ua/resources/photos/news/202610/3155200.jpg?v=1791274013000&w=1200&h=675",
+    "publishedAt": "2026-10-06T09:01:00Z",
     "lang": "uk",
     "source": {
-      "id": "ae8b9c98d707754fca5e1ea622855c50",
-      "name": "ТСН",
-      "url": "https://tsn.ua"
+      "id": "e737a8e76b161ef4526698e2ec5f60c9",
+      "name": "24 Канал",
+      "url": "https://24tv.ua"
+    }
+  },
+  {
+    "id": "32bd9f246474e1e54b70c4d5a50acb40",
+    "title": "Чи можна кип'ятити одну і ту ж саму воду двічі: це дуже важливо знати",
+    "description": "Чи замислювалися ви коли-небудь над тим, чому воду не можна кип'ятити двічі? Для чаю чи кави лікарі часто радять використовувати таку воду, яка кипіла тільки...",
+    "content": "Люди вигадали кип'ятіння, щоб використовувати воду для приготування їжі та пиття. Головна причина — позбутися мікробів та бактерій, які часто містяться у сирій воді. Насправді, більша частина шкідливих речовин дійсно гине під впливом високої температ... [1845 chars]",
+    "url": "https://storinka.com.ua/ukr/2026/10/ci-mozna-kipatiti-odnu-i-tu-z-samu-vodu-dvici-ce-duze-vazlivo-znati/",
+    "image": "https://storinka.com.ua/storage/source/15/7D0pzPqO4AjWuHjcf5IBu_IC7NoLuwt1.jpeg",
+    "publishedAt": "2026-10-06T07:41:04Z",
+    "lang": "uk",
+    "source": {
+      "id": "be649413e7f536f74be376a22ee8a2a2",
+      "name": "Storinka.com.ua",
+      "url": "https://storinka.com.ua"
+    }
+  },
+  {
+    "id": "69b2a6ab8ab94e4e99ea47ec4a3d1fc2",
+    "title": "Під Араратом виявили невідомі раніше підземні проходи",
+    "description": "Дослідники в Туреччині зафіксували підземні аномалії біля формації Дюрупінар, із якою роками пов язують легендарний Ноїв ковчег.",
+    "content": "Дослідники в Туреччині зафіксували підземні аномалії біля формації Дюрупінар, із якою роками пов'язують легендарний Ноїв ковчег.\nУ Туреччині вчені виявили підземні утворення в зоні формації Дюрупінар, яку протягом багатьох років асоціюють з можливим ... [2746 chars]",
+    "url": "https://ua.korrespondent.net/tech/science/4917502-pid-araratom-vyiavyly-nevidomi-ranishe-pidzemni-prokhody",
+    "image": "https://kor.ill.in.ua/m/1260x900/4587294.jpg",
+    "publishedAt": "2026-10-06T07:03:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "5f3893b2bdd83721567eef82ac0a6d2e",
+      "name": "Korrespondent.net",
+      "url": "https://ua.korrespondent.net"
+    }
+  },
+  {
+    "id": "08b009a18fa4ca4ce6ce18f2e6b2bbc3",
+    "title": "Вчені розробили метод виявлення змін у мозку при хворобі Альцгеймера",
+    "description": "Діагностика деменції та хвороби Альцгеймера може покращитися",
+    "content": "Цей метод продемонстрував високу точність у виявленні осіб із низьким та високим рівнем тау-патології.\nДослідження опубліковано 2 жовтня 2026 року в науковому журналі Nature Communications.\nЩо визначає нова модель\nПри хворобі Альцгеймера в мозку відб... [2610 chars]",
+    "url": "https://socportal.info/ua/news/u-liudei-iz-khvoroboiu-altcgeimera-v-mozku-nakopichuetsya-pevna-rechovina-doslidzhennya/",
+    "image": "https://socportal.info/site/assets/files/0/07/13/288/pexels-mozg-5114952.jpg?3j3nlv",
+    "publishedAt": "2026-10-06T06:23:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "6a351bc824aa09e9d8177e4fb2f09c73",
+      "name": "socportal.info",
+      "url": "https://socportal.info"
+    }
+  },
+  {
+    "id": "6f555643d6accb4f68b5159bec2e8627",
+    "title": "Росія підсвічує власні проблеми, засекречуючи дані (ІНФОГРАФІКА)",
+    "description": "Texty.org.ua та СтратКом ЗСУ візуалізували масштабне приховування даних у РФ: від військових втрат і демографії до доходів домогосподарств та роботи НПЗ.",
+    "content": "Мовчання буває красномовнішим за будь-які слова. Texty.org.ua та Стратком ЗСУ візуалізували, що й коли засекречувала Росія напередодні й після початку широкомасштабного вторгнення в Україну.\nЗазначимо, що подекуди Росія просто мовчки переставала публ... [2955 chars]",
+    "url": "https://texty.org.ua/fragments/118422/rosiya-pidsvichuye-vlasni-problemy-zasekrechuyuchy-dani-infohrafika/",
+    "image": "https://texty.org.ua/media/images/pitma_grafiki_Montazhna_oblast_11.2e16d0ba.fill-1200x630.png",
+    "publishedAt": "2026-10-06T06:20:05Z",
+    "lang": "uk",
+    "source": {
+      "id": "a3169217b1ad89d7ea4f4e303bd546d4",
+      "name": "Texty.org.ua",
+      "url": "https://texty.org.ua"
+    }
+  },
+  {
+    "id": "ef74961771bf44e9eb68cc04092238da",
+    "title": "Академія наук готує консервацію будівлі після атаки РФ: пошкоджено 40% приміщень",
+    "description": "Фахівці Київської аварійно-рятувальної службы завершують розбір найнебезпечніших конструкцій",
+    "content": "У Національній академії наук України розробляють проєкт консервації будівлі Президії, яка зазнала руйнувань внаслідок атаки російського безпілотника 28 вересня. Усі роботи прагнуть завершити до настання холодів. Про це розповів перший віцепрезидент Н... [2100 chars]",
+    "url": "https://glavcom.ua/kyiv/news/akademija-nauk-hotuje-konservatsiju-budivli-pislja-ataki-rf-poshkodzheno-40-primishchen-1147349.html",
+    "image": "https://glavcom.ua/img/article/11473/49_main-v1791265894.webp",
+    "publishedAt": "2026-10-06T05:57:25Z",
+    "lang": "uk",
+    "source": {
+      "id": "170951208432adcfd96b2d9def1a0127",
+      "name": "Главком",
+      "url": "https://glavcom.ua"
     }
   }
 ]
