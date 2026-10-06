@@ -1,5 +1,125 @@
 [
   {
+    "id": "c47d88b24e3e4ebb56dff7286a1d9c0e",
+    "title": "У Німеччині запустили спецтариф на електроенергію для геймерів",
+    "description": "Німецька міська енергетична компанія SWK Energie запустила незвичний тариф, передусім орієнтований на геймерів та стримерів. Пропозиція передбачає нижчу ціну за кіловат-годину, але вищу фіксовану плату – тобто стає вигідною за достатньо великого річного споживання.",
+    "content": "Катерина Левицька Авторка новин видання \"Межа\". В медіа з 2015 року, пишу про софт, IT-бізнес та кіно.\nНімецька міська енергетична компанія SWK Energie запустила незвичний тариф, передусім орієнтований на геймерів та стримерів. Пропозиція передбачає ... [1662 chars]",
+    "url": "https://mezha.ua/news/germany-special-electricity-tariff-for-gamers-315847/",
+    "image": "https://img.mezha.ua/mezha/images/doc/0/6/329025/06656c689f4f17d4ff7a7db91342b663.jpeg?w=1200&q=85&stamp=1791209077",
+    "publishedAt": "2026-10-05T21:15:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "6b0257d31504a630dde7752eed4e1e39",
+      "name": "mezha.ua",
+      "url": "https://mezha.ua"
+    }
+  },
+  {
+    "id": "d39894e913be63065538f01e6e080ef5",
+    "title": "Новий Hyundai Tucson дебютував у Європі",
+    "description": "П’яте покоління Hyundai Tucson продовжує виходити на світові ринки й тепер кросовер дебютував у Європі.",
+    "content": "П’яте покоління Hyundai Tucson продовжує виходити на світові ринки й тепер кросовер дебютував у Європі.\nНовий Hyundai Tucson отримав європейську версію.\nЄвропейський Tucson вироблятиметься в Чехії.\nНове покоління кросовера виросло в розмірах.\nНове по... [5344 chars]",
+    "url": "https://motorcar.com.ua/news/hyundai-tucson-pokolinnya-debyut-yevropa-2026/",
+    "image": "https://motorcar.com.ua/wp-content/uploads/2026/10/2027-hyundai-tucson-.jpg",
+    "publishedAt": "2026-10-05T19:07:23Z",
+    "lang": "uk",
+    "source": {
+      "id": "ccf5b23cf2f813320e7baafea8cf4ea7",
+      "name": "motorcar.com.ua",
+      "url": "https://motorcar.com.ua"
+    }
+  },
+  {
+    "id": "0a5d43a81026a50f84eaa661742288d4",
+    "title": "Suzuki розробляє революційний двигун",
+    "description": "Suzuki анонсувала 24-місячні цикли розробки, модульні електричні мости (e-Axles), системи подовження запасу ходу (REEV), заходи зі зниження ваги та ефективніші турбодвигуни.",
+    "content": "Suzuki анонсувала 24-місячні цикли розробки, модульні електричні мости (e-Axles), системи подовження запасу ходу (REEV), заходи зі зниження ваги та ефективніші турбодвигуни.\nSuzuki представляє 10-річний технологічний план розробки автомобілів.\nМодуль... [5546 chars]",
+    "url": "https://motorcar.com.ua/news/suzuki-revolyuczijnyj-dvygun-strategiya-2026/",
+    "image": "https://motorcar.com.ua/wp-content/uploads/2026/08/2026-suzuki-xl7-hybrid-indonesia-4_.jpg",
+    "publishedAt": "2026-10-05T18:22:30Z",
+    "lang": "uk",
+    "source": {
+      "id": "ccf5b23cf2f813320e7baafea8cf4ea7",
+      "name": "motorcar.com.ua",
+      "url": "https://motorcar.com.ua"
+    }
+  },
+  {
+    "id": "49ca1c27381d9273ddfa81e9b97c9427",
+    "title": "Citroën показала новий 2CV напередодні прем’єри",
+    "description": "Електричний міський автомобіль із ретродизайном стане найдоступнішою моделлю марки та коштуватиме менше €15000.",
+    "content": "Електричний міський автомобіль із ретродизайном стане найдоступнішою моделлю марки та коштуватиме менше €15000.\nКомпанія Citroën опублікувала нові зображення відродженої моделі 2CV напередодні офіційної прем’єри. Новинка отримає дизайн із численними ... [1677 chars]",
+    "url": "https://ua.korrespondent.net/lifestyle/motors/4917531-Citron-pokazala-novyi-2CV-naperedodni-premiery",
+    "image": "https://kor.ill.in.ua/m/1260x900/4587509.jpg",
+    "publishedAt": "2026-10-05T18:12:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "5f3893b2bdd83721567eef82ac0a6d2e",
+      "name": "Korrespondent.net",
+      "url": "https://ua.korrespondent.net"
+    }
+  },
+  {
+    "id": "c092ae3b011f0196fdd5e4bfe00327c5",
+    "title": "Акумуляторний поїзд Stadler вийде на рейки Чикаго до 2028 року: що це змінить",
+    "description": "Чи замінить акумуляторний поїзд Metra дизельні потяги в Чикаго назавжди?",
+    "content": "Чиказька приміська залізниця готується зняти з колій дизельні локомотиви й замінити їх потягами, що живляться від бортових батарей і не потребують суцільної електрифікації маршруту.\nПро це повідомляє Interesting Engineering: оператор Metra замовив у ... [2889 chars]",
+    "url": "https://itc.ua/ua/novini/akumulyatornyj-poyizd-stadler-vyjde-na-rejky-chykago-do-2028-roku-shho-tse-zminyt/",
+    "image": "https://cdn.itc.ua/uploads/2026/10/Stadler.jpg",
+    "publishedAt": "2026-10-05T18:00:27Z",
+    "lang": "uk",
+    "source": {
+      "id": "391d17d071b755a4bda37c1b43f47c2c",
+      "name": "ITC.ua",
+      "url": "https://itc.ua"
+    }
+  },
+  {
+    "id": "24a2ffcf1526803c8515e1ec6808dda8",
+    "title": "Tesla Model S Plaid розбилася на швидкості 286 км/год: відео",
+    "description": "У Німеччині Tesla Model S Plaid втратила керованість на автобані при 286 км/год і була майже повністю знищена. Водій вижив і називає причиною аварії дефект задньої шини Goodyear.",
+    "content": "Аварія сталася на автобані A10 поблизу Берліна. Як повідомила поліція Бранденбурга, Tesla з невідомої на той момент причини з'їхала праворуч із проїзної частини, перекинулася та зупинилася на даху. Постраждалого чоловіка витягли з автомобіля очевидці... [4434 chars]",
+    "url": "https://24tv.ua/auto/tesla_model_s_plaid_rozbylasia_na_shvydkosti_286_kilometriv_na_hodynu_vodii_dyvom_vyzhyv_n76407",
+    "image": "https://24tv.ua/auto/resources/photos/news/202610/764076a4c4742-a909-46e1-b8d1-078cd7a59e73.jpg",
+    "publishedAt": "2026-10-05T17:21:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "e737a8e76b161ef4526698e2ec5f60c9",
+      "name": "24 Канал",
+      "url": "https://24tv.ua"
+    }
+  },
+  {
+    "id": "edcb8a51787d1efee5f18e3531bd3a92",
+    "title": "Продажі електромобілів у Європі досягли рекордних показників",
+    "description": "У другому кварталі 2026 року електромобілі вперше за повний квартал випередили автомобілі з бензиновими двигунами за обсягом продажів.",
+    "content": "У другому кварталі 2026 року електромобілі вперше за повний квартал випередили автомобілі з бензиновими двигунами за обсягом продажів.\nПродажі акумуляторних електромобілів у Європі у 2026 році досягли рекордного рівня, повідомляє Transport & Environm... [1857 chars]",
+    "url": "https://ua.korrespondent.net/business/auto/4917510-prodazhi-elektromobiliv-u-yevropi-dosiahly-rekordnykh-pokaznykiv",
+    "image": "https://kor.ill.in.ua/m/1260x900/4587476.jpg",
+    "publishedAt": "2026-10-05T17:12:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "5f3893b2bdd83721567eef82ac0a6d2e",
+      "name": "Korrespondent.net",
+      "url": "https://ua.korrespondent.net"
+    }
+  },
+  {
+    "id": "2aa6788644fb2d965bf5b38f007d3a7e",
+    "title": "Visa, Mastercard і Coinbase спільно запустили стейблкоїн Open USD",
+    "description": "30 вересня 2026 року компанія Open Standard запустила стейблкоїн OUSD за підтримки Visa, Mastercard, Stripe, Coinbase і Shopify — розбираємось, чим нова економічна модель розподілу доходу відрізняється від Tether і Circle.",
+    "content": "Наприкінці вересня 2026 року компанія Open Standard офіційно запустила Open USD (OUSD) — доларовий стейблкоїн, який об’єднав навколо себе не просто черговий пул криптопартнерів, а п’ятірку найважливіших гравців світової платіжної індустрії: Coinbase,... [3594 chars]",
+    "url": "https://itc.ua/ua/novini/visa-mastercard-i-coinbase-spilno-zapustyly-stejblkoyin-open-usd/",
+    "image": "https://cdn.itc.ua/uploads/2026/10/OUSD-HTeLduWb0AAb_vg.jpg",
+    "publishedAt": "2026-10-05T17:00:13Z",
+    "lang": "uk",
+    "source": {
+      "id": "391d17d071b755a4bda37c1b43f47c2c",
+      "name": "ITC.ua",
+      "url": "https://itc.ua"
+    }
+  },
+  {
     "id": "e0d014b30a216ea47b9629b5d4f8ee60",
     "title": "Ця марка автомобіля ніколи не потребує ремонту: механіки назвали модель, яка не створює проблем",
     "description": "Який автомобіль рідко ламається. TSN.ua (новини 1+1).",
@@ -27,126 +147,6 @@
       "id": "60510e5dd05ebc090df0b3585363b2e6",
       "name": "Радіо ТРЕК",
       "url": "https://radiotrek.rv.ua"
-    }
-  },
-  {
-    "id": "c26ba061c719749ca58a0ee06a8a37a1",
-    "title": "Dacia готує новий найдешевший автомобіль",
-    "description": "Румунський автовиробник Dacia розробляє новий крихітний електромобіль на базі концепту Hipster та за ціною 11 000 євро.",
-    "content": "Румунський автовиробник Dacia розробляє новий крихітний електромобіль на базі концепту Hipster та за ціною 11 000 євро.\nНовий Dacia Hipster може у 2027 році.\nВиробництво може відбуватись в Китаї.\nГрупа Renault ще схвалила проєкт остаточно.\nКрихітний ... [3295 chars]",
-    "url": "https://motorcar.com.ua/news/dacia-hipster-najdeshevshyj-avtomobil-2026/",
-    "image": "https://motorcar.com.ua/wp-content/uploads/2025/10/dacia-hipster-concept-13.jpg",
-    "publishedAt": "2026-10-05T13:21:10Z",
-    "lang": "uk",
-    "source": {
-      "id": "ccf5b23cf2f813320e7baafea8cf4ea7",
-      "name": "motorcar.com.ua",
-      "url": "https://motorcar.com.ua"
-    }
-  },
-  {
-    "id": "ab6c2e80b92e7f8de5671d72bba2e352",
-    "title": "їхні продажі можуть зрости у 7 разів • Межа",
-    "description": "Продажі нових електромобілів із ціною до €25 000 у ЄС у 2026 році можуть зрости у сім разів порівняно з 2024-м. До кінця року європейцям будуть доступні 16 таких моделей, а до 2028-го їхня кількість продовжить зростати. Аналітики також прогнозують збільшення частки доступних електромобілів європейського виробництва.",
-    "content": "Продажі нових електромобілів із базовою ціною до €25 000 у Європейському Союзі 2026 року можуть бути всемеро вищими, ніж у 2024-му. Такий прогноз опублікувала екологічна організація Transport & Environment у новому звіті про європейський ринок електр... [1741 chars]",
-    "url": "https://mezha.ua/news/budget-ev-models-rise-315836/",
-    "image": "https://img.mezha.ua/mezha/images/doc/1/7/328902/1756cbff9fa27ed430d99b21fc518fee.jpeg?w=1200&q=85&stamp=1791196341",
-    "publishedAt": "2026-10-05T13:17:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "6b0257d31504a630dde7752eed4e1e39",
-      "name": "Mezha",
-      "url": "https://mezha.ua"
-    }
-  },
-  {
-    "id": "f4f3d9b37d8e5f62e4c4934c7949eabd",
-    "title": "Рейтинг змінюється: які нові авто купували українці у вересні",
-    "description": "У вересні українці придбали 4881 новий легковик. Найбільший попит отримала Toyota RAV4, але до десятки лідерів пробилися й китайські моделі.",
-    "content": "У вересні українці придбали 4881 новий легковик. Найбільший попит отримала Toyota RAV4, але до десятки лідерів пробилися й китайські моделі.\nУ вересні 2026 року українці придбали 4881 новий легковий автомобіль. За даними Укравтопрому, найпопулярнішою... [980 chars]",
-    "url": "https://ua.korrespondent.net/business/auto/4917396-reitynh-zminuiietsia-yaki-novi-avto-kupuvaly-ukraintsi-u-veresni",
-    "image": "https://kor.ill.in.ua/m/1260x900/4587194.jpg",
-    "publishedAt": "2026-10-05T11:40:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "5f3893b2bdd83721567eef82ac0a6d2e",
-      "name": "Korrespondent.net",
-      "url": "https://ua.korrespondent.net"
-    }
-  },
-  {
-    "id": "ba0f7ea92f85b6ab2fbaef00388d6c6a",
-    "title": "який кросовер купують найчастіше у світі",
-    "description": "За підсумками січня-серпня 2026 року у світі було продано 28,01 млн кросоверів та позашляховиків. Найпопулярнішою моделлю виявився електрокар Tesla Model Y.",
-    "content": "За підсумками січня-серпня 2026 року у світі було продано 28,01 млн кросоверів та позашляховиків (SUV), що на 1,3% більше, ніж за аналогічний період минулого року. Про це повідомляє Focus2Move.\nДинаміка продажів у різних регіонах суттєво відрізняєтьс... [2354 chars]",
-    "url": "https://www.unian.ua/economics/auto/naypopulyarnishi-avtomobili-yakiy-krosover-kupuyut-naychastishe-u-sviti-13519281.html",
-    "image": "https://images.unian.net/photos/2026_10/thumb_files/620_324_1791198283-6269.jpg?1",
-    "publishedAt": "2026-10-05T11:07:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "d4361862486677369ff2ae7719b8d313",
-      "name": "unian.ua",
-      "url": "https://www.unian.ua"
-    }
-  },
-  {
-    "id": "d063c96889a77f4a0232a1ff1f2ace53",
-    "title": "Євро провалився до мінімуму за 17 місяців: долар в Україні уже вище 45 грн",
-    "description": "Євро на світовому валютному ринку опустився нижче $1,12 і в моменті падав до $1,1161 — мінімуму з травня 2025 року.",
-    "content": "Євро на світовому валютному ринку опустився нижче $1,12 і в моменті падав до $1,1161 — мінімуму з травня 2025 року. Основний тиск на валюту створюють боргові та бюджетні проблеми Франції, а також політична невизначеність у Європі. Про це пише фінансо... [1799 chars]",
-    "url": "https://minfin.com.ua/ua/2026/10/05/182979438/",
-    "image": "http://minfin.com.ua/img/2026/182979438/11e14a7ab112001fbeab63b036d503f3.jpeg",
-    "publishedAt": "2026-10-05T10:59:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "6028444ee1303e4577f50406a4c7988e",
-      "name": "Мінфін",
-      "url": "https://minfin.com.ua"
-    }
-  },
-  {
-    "id": "b9e423fd29245ddf71f22eb8287e3e7e",
-    "title": "Micron прогнозує посилення дефіциту в 2027 і 2028",
-    "description": "Компанія із топ-3 виробників пам'яті попередила про збереження дефіциту до 2028 року. Для покупців це означає, що ціни на електроніку продовжать зростати.",
-    "content": "Голова Micron Санджай Мехротра попередив, що дефіцит оперативної та флеш-пам'яті у 2027 і 2028 роках лише посилиться. На його думку, індустрія просто не усвідомлює, наскільки поганою стане ситуація.\nПопит залишається настільки високим, що весь обсяг ... [1674 chars]",
-    "url": "https://www.unian.ua/techno/hardware/pam-yati-na-vsih-ne-vistachit-micron-prognozuye-posilennya-deficitu-v-2027-i-2028-13519236.html",
-    "image": "https://images.unian.net/photos/2026_10/thumb_files/1000_545_1791193887-3363.jpg?1",
-    "publishedAt": "2026-10-05T10:25:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "d4361862486677369ff2ae7719b8d313",
-      "name": "УНІАН",
-      "url": "https://www.unian.ua"
-    }
-  },
-  {
-    "id": "744f97fea1cb9b69762b870184bd8191",
-    "title": "ціна, фото, характеристики дешевого електромобіля",
-    "description": "Citroën відроджує культову модель 2CV у форматі доступного електромобіля. Дізнайтеся, коли новинка вийде на ринок, скільки коштуватиме та чим здивує водіїв - Авто24",
-    "content": "Як повідомляє Carscoops, Citroën готується сколихнути Паризький автосалон гучною прем'єрою. Після 36-річної перерви компанія покаже концепт нового 2CV, який дебютує вже 11 жовтня. Це буде повністю електричний сітікар, що збереже ретро-стилістику свог... [1242 chars]",
-    "url": "https://24tv.ua/auto/lehendarnyi_citron_2cv_povertaietsia_yakym_bude_novyi_elektromobil_za_15_000_yevro_n76384",
-    "image": "https://24tv.ua/auto/resources/photos/news/202610/763843c56095b-d60e-4c4d-be92-a4e37ca92da0.jpg",
-    "publishedAt": "2026-10-05T08:31:13Z",
-    "lang": "uk",
-    "source": {
-      "id": "e737a8e76b161ef4526698e2ec5f60c9",
-      "name": "24 Канал",
-      "url": "https://24tv.ua"
-    }
-  },
-  {
-    "id": "c727f78ea25e0655dbc1a42fb9d6f0db",
-    "title": "Джон Тернус взяв дизайн Apple під особистий контроль • Межа",
-    "description": "Після призначення CEO Apple Джон Тернус зробив дизайн продуктів одним із головних пріоритетів компанії. Він особисто відвідує дизайнерську студію кілька разів на тиждень і приділяє більше уваги інженерії та дизайну, ніж його попередник Тім Кук.",
-    "content": "Після того як минулого місяця Джон Тернус став CEO Apple, він зробив дизайн продуктів \"головним пріоритетом\", повідомляє Марк Гурман із Bloomberg.\n\"Тернус уже певною мірою працював із дизайнерською студією на посаді керівника апаратної інженерії Appl... [1062 chars]",
-    "url": "https://mezha.ua/news/dzhon-ternus-vzyav-dizayn-apple-pid-osobistiy-kontrol-315821/",
-    "image": "https://img.mezha.ua/mezha/images/doc/e/4/328868/e4afea6afdfd9f32e0877f28c49348a3.jpeg?w=1200&q=85&stamp=1791178524",
-    "publishedAt": "2026-10-05T06:45:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "6b0257d31504a630dde7752eed4e1e39",
-      "name": "mezha.ua",
-      "url": "https://mezha.ua"
     }
   }
 ]

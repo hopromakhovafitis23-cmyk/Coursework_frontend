@@ -1,5 +1,110 @@
 [
   {
+    "id": "c037670634f9510c59a67eace40e093f",
+    "title": "Російський чиновник закликав урізати уроки математики, фізики та хімії після вимоги Путіна заповнити заводи робітниками",
+    "description": "В Росії посилюється курс на перенаправлення школярів до середньої професійної освіти після дев'ятого класу",
+    "content": "Глава Ради при президентові РФ з прав людини Валерій Фадєєв висловив пропозицію зменшити обсяг шкільних програм з математики, фізики та хімії на 20-30%, заявивши про їхнє перенасичення «зайвою інформацією». Про це пише «Главком» із посиланням на The ... [1411 chars]",
+    "url": "https://glavcom.ua/world/world-politics/rosijskij-chinovnik-zaklikav-urizati-uroki-matematiki-fiziki-ta-khimiji-pislja-vimohi-putina-zapovniti-zavodi-robitnikami-1147331.html",
+    "image": "https://glavcom.ua/img/article/11473/31_main-v1791245009.webp",
+    "publishedAt": "2026-10-06T00:03:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "170951208432adcfd96b2d9def1a0127",
+      "name": "Главком",
+      "url": "https://glavcom.ua"
+    }
+  },
+  {
+    "id": "ff06d8fd87bc399b009e71f3f364f5d4",
+    "title": "Шимпанзе крадуть менше у своїх друзів",
+    "description": "Вчені провели експеримент із 26 шимпанзе та з'ясували, що тварини рідше крадуть їжу у друзів, ніж у тих, із ким не мають близьких стосунків.ᐅТSN.ua (новини 1+1)",
+    "content": "Шимпанзе значно рідше крадуть їжу у тих, із ким мають близькі стосунки. До такого висновку дійшли біологи, які досліджували поведінку тварин у заповіднику на острові Нгамба в Уганді. Вчені також виявили, що реакція на крадіжку залежить від того, хто ... [3212 chars]",
+    "url": "https://tsn.ua/nauka_it/chym-shympanze-vidrizniaiutsia-vid-liudey-u-druzbi-vcheni-znayshly-vidpovid-3182023.html",
+    "image": "https://img.tsn.ua/cached/649/tsn-671b840e81dae5015bc4c6345e63d1d0/thumbs/1200x630/17/84/10ab2e0905f03f2d45210e01be1a8417.jpeg",
+    "publishedAt": "2026-10-05T19:35:34Z",
+    "lang": "uk",
+    "source": {
+      "id": "ae8b9c98d707754fca5e1ea622855c50",
+      "name": "ТСН",
+      "url": "https://tsn.ua"
+    }
+  },
+  {
+    "id": "86cbfa3184fb456b4f1b696a96d4f828",
+    "title": "Вчені з’ясували, як кава впливає на мозок",
+    "description": "Невелике дослідження показало різний вплив двох видів напою: кава без кофеїну покращувала результати тестів на пам’ять, тоді як кофеїн був пов’язаний зі зниженням стресу та тривожності.",
+    "content": "Невелике дослідження показало різний вплив двох видів напою: кава без кофеїну покращувала результати тестів на пам’ять, тоді як кофеїн був пов’язаний зі зниженням стресу та тривожності.\nНейробіологи виявили, що вплив кави на мозок може бути пов’язани... [2152 chars]",
+    "url": "https://ua.korrespondent.net/tech/4917540-vcheni-ziasuvaly-yak-kava-vplyvaie-na-mozok",
+    "image": "https://kor.ill.in.ua/m/1260x900/4587542.jpg",
+    "publishedAt": "2026-10-05T18:43:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "5f3893b2bdd83721567eef82ac0a6d2e",
+      "name": "Korrespondent.net",
+      "url": "https://ua.korrespondent.net"
+    }
+  },
+  {
+    "id": "21661e910c0d7760f7d6b5102bb969c7",
+    "title": "Теорія \"мертвого Інтернету\" нарешті стає реальністю: про що попереджають вчені",
+    "description": "ШІ-персонажі набирають тисячі підписників ᐅТSN.ua (новини 1+1)",
+    "content": "У соцмережах стрімко набирають популярність акаунти, за якими стоять не реальні люди, а створені штучним інтелектом персонажі. Деякі з них уже зібрали сотні тисяч підписників, через що користувачі побоюються, що так звана теорія «мертвого Інтернету» ... [2732 chars]",
+    "url": "https://tsn.ua/nauka_it/teoriia-mertvoho-internetu-nareshti-staye-realnistiu-pro-shcho-poperedzaiut-vcheni-3181975.html",
+    "image": "https://img.tsn.ua/cached/375/tsn-1284f5ef/thumbs/1200x630/16/32/38fdcddcd6e2a22ba7735a50a0833216.jpg",
+    "publishedAt": "2026-10-05T18:09:52Z",
+    "lang": "uk",
+    "source": {
+      "id": "ae8b9c98d707754fca5e1ea622855c50",
+      "name": "ТСН",
+      "url": "https://tsn.ua"
+    }
+  },
+  {
+    "id": "d381e28aa893239e694c98fc479dd424",
+    "title": "Голос старіє разом із мозком: вчені виявили несподіваний зв’язок",
+    "description": "Ваш голос може розповісти про старіння мозку більше, ніж здається. Вчені створили систему машинного навчання, яка оцінює так званий «вік мовлення» — і виявили несп...",
+    "content": "Ваш голос може розповісти про старіння мозку більше, ніж здається. Вчені створили систему машинного навчання, яка оцінює так званий «вік мовлення» — і виявили несподіваний зв’язок із біологічним старінням, когнітивними здібностями та хворобами мозку.... [2098 chars]",
+    "url": "https://portaltele.com.ua/zdorovya/golos-stariye-razom-iz-mozkom-vcheni-vyyavyly-nespodivanyj-zv-yazok.html",
+    "image": "https://portaltele.com.ua/wp-content/uploads/2016/11/voice-650x393.jpg",
+    "publishedAt": "2026-10-05T17:35:21Z",
+    "lang": "uk",
+    "source": {
+      "id": "64d089bdfc2be7c93f12463048ae17a5",
+      "name": "portaltele.com.ua",
+      "url": "https://portaltele.com.ua"
+    }
+  },
+  {
+    "id": "963868e75ade03bbba8ea8761df6728b",
+    "title": "Шкільні програми - вчителька біології б’є на сполох через перевантаження учнів - Укрaїнa",
+    "description": "Вчителька пояснила головний провал сучасної шкільної біології та хімії. Деталі читайте ᐅ TSN.ua (новини 1+1)",
+    "content": "Українська вчителька хімії та біології Оксана Непота звернулася з відкритим листом до авторів шкільних програм, заявивши про критичне перевантаження школярів.\nПро це педагогиня написала у соцмережах.\nВчителька переконана — надмірна кількість складних... [2828 chars]",
+    "url": "https://tsn.ua/ukrayina/imitatsiia-znan-chy-znushchannia-vchytelka-oburylasia-perevantazenniam-shkilnoyi-prohramy-9-klasu-3181935.html",
+    "image": "https://img.tsn.ua/cached/443/tsn-51cb131e/thumbs/1200x630/ad/05/aaaceaf6eba7b4b943b0049f299c05ad.png",
+    "publishedAt": "2026-10-05T17:30:23Z",
+    "lang": "uk",
+    "source": {
+      "id": "ae8b9c98d707754fca5e1ea622855c50",
+      "name": "ТСН",
+      "url": "https://tsn.ua"
+    }
+  },
+  {
+    "id": "5b78f89efae22bf65965fac5c55d2ee8",
+    "title": "NASA дослідить западину на Місяці в пошуках гігантської печери",
+    "description": "NASA відправить на Місяць наукові інструменти GIMLI. Щоб перевірити, чи веде Marius Hills Pit до великої лавової труби або підземної печери.",
+    "content": "NASA профінансує місію, яка має з'ясувати, чи веде одна з великих западин на Місяці до підземної печери або лавової труби. Дослідження проведе команда Planetary Science Institute в межах програми Payloads and Research Investigations on the Surface of... [4553 chars]",
+    "url": "https://24tv.ua/tech/nasa-doslidit-zapadinu-misyatsi-poshukah-gigantskoyi-pecheri_n3154877",
+    "image": "https://24tv.ua/resources/photos/news/202610/3154877.jpg?v=1791211445000&w=1200&h=675",
+    "publishedAt": "2026-10-05T17:30:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "e737a8e76b161ef4526698e2ec5f60c9",
+      "name": "24 Канал",
+      "url": "https://24tv.ua"
+    }
+  },
+  {
     "id": "bc3ace82de368897b8c157bab7dd60b3",
     "title": "Слуг убивали після смерті царя: що показали черепи в Єгипті",
     "description": "В Абідосі знайшли докази людських жертвоприношень у Давньому Єгипті. Що показав аналіз 46 черепів, читайте ᐅТSN.ua (новини 1+1)",
@@ -42,111 +147,6 @@
       "id": "ae8b9c98d707754fca5e1ea622855c50",
       "name": "ТСН",
       "url": "https://tsn.ua"
-    }
-  },
-  {
-    "id": "d5add919aad25ee3b79d7ab97b6ff4ad",
-    "title": "Повернення людей на Місяць - чому долю місії NASA вирішить SpaceX",
-    "description": "NASA готується повернути людей на Місяць уперше за понад 50 років - висадку планують на початок 2028 року в межах місії Artemis IV. Але історичне пове...",
-    "content": "Згідно з чинним сценарієм Artemis IV, NASA відправить чотирьох астронавтів до місячної орбіти за допомогою власної надважкої ракети Space Launch System (SLS) та корабля Orion.\nВодночас компанія SpaceX має вивести на орбіту Місяця спеціально модифіков... [1594 chars]",
-    "url": "https://www.rbc.ua/rus/news/zalezhat-vid-maska-chomu-visadka-astronavtiv-1791203749.html",
-    "image": "https://www.rbc.ua/static/img/_/f/_f125234881739160f9d2e1b6b4c0b49f_1300x820.jpg",
-    "publishedAt": "2026-10-05T13:32:30Z",
-    "lang": "uk",
-    "source": {
-      "id": "6f1ead09126f1f4738a48957e22f789c",
-      "name": "rbc.ua",
-      "url": "https://www.rbc.ua"
-    }
-  },
-  {
-    "id": "85db92670784ded29a74b37a453a040f",
-    "title": "Земля і полярне блукання",
-    "description": "За 320 млн років Земля різко змінювала вісь обертання чотири рази. Як полярне блукання впливало на динозаврів і океани? ᐅТSN.ua (новини 1+1).",
-    "content": "Земля — не таке стабільне тіло, що обертається, як прийнято вважати. Дослідники виявили, що за останні 320 мільйонів років планета чотири рази різко змінювала положення навколо своєї осі.\nПро це повідомляється в новому дослідженні, опублікованому в ж... [4367 chars]",
-    "url": "https://tsn.ua/tsikavinki/zemlia-chotyry-razy-rizko-zminiuvala-polozennia-osi-za-320-mln-rokiv-doslidzennia-3181679.html",
-    "image": "https://img.tsn.ua/cached/322/tsn-1284f5ef/thumbs/1200x630/f2/a3/775047a656339116e6ca618cf2a4a3f2.jpg",
-    "publishedAt": "2026-10-05T13:23:14Z",
-    "lang": "uk",
-    "source": {
-      "id": "ae8b9c98d707754fca5e1ea622855c50",
-      "name": "tsn.ua",
-      "url": "https://tsn.ua"
-    }
-  },
-  {
-    "id": "62ad33843d4588af9fa992d45a8a0de9",
-    "title": "Коротке відео зменшило стрес у жінок після сексуального насильства",
-    "description": "17-хвилинне відео STAR показували просто під час судово-медичного огляду. Через тиждень гострого стресу було менше: пілотне дослідження з 50 жінками",
-    "content": "Коротке відео, яке вчить долати психологічні наслідки сексуального насильства, пов'язали з менш вираженим гострим стресом через тиждень після нападу. Це показало пілотне рандомізоване дослідження за участю 50 жінок, які звернулися по медичну допомогу... [2049 chars]",
-    "url": "https://nauka.ua/news/korotke-video-zmenshilo-gostrij-stres-u-zhinok-pislya-seksualnogo-nasilstva-jogo-pokazuvali-prosto-pid-chas-sudovo-medichnogo-oglyadu",
-    "image": "https://nauka.ua/storage/uploads/public/6ac/398/8f9/6ac3988f91418328647358.jpg",
-    "publishedAt": "2026-10-05T12:37:44Z",
-    "lang": "uk",
-    "source": {
-      "id": "780644dab43a156799ba55a022663644",
-      "name": "nauka.ua",
-      "url": "https://nauka.ua"
-    }
-  },
-  {
-    "id": "3dc6656abc046dd4198a8f2ea0da0f03",
-    "title": "Чи сумує кіт сам у дома",
-    "description": "Експерти пояснили, чи сумує кіт вдома, коли його господар у відпустці. Також вони пояснили дивну поведінку тварин після повернення їхньої людини додому ᐅ TSN.ua(новини 1+1).",
-    "content": "Кіт, ймовірно, не сумує за своїм господарем, який їде у відпустку. А дивна поведінка тварини, яка нагадує «образу», може свідчити про те, що чотирилапий звикає до нових запахів.\nПро це пише ВВС. Countryfile.\nКіт поводиться незвично після вашого повер... [1636 chars]",
-    "url": "https://tsn.ua/tsikavinki/chy-sumuye-kit-koly-yoho-hospodar-yide-u-vidpustku-naukovtsi-zdyvuvaly-poiasnenniam-3181637.html",
-    "image": "https://img.tsn.ua/cached/890/tsn-51cb131e/thumbs/1200x630/7d/f8/9bbdc30c632f6928c0bfc09266fdf87d.jpg",
-    "publishedAt": "2026-10-05T11:56:29Z",
-    "lang": "uk",
-    "source": {
-      "id": "ae8b9c98d707754fca5e1ea622855c50",
-      "name": "ТСН",
-      "url": "https://tsn.ua"
-    }
-  },
-  {
-    "id": "2fadabdb8be376165f5dcff16ffb7bd2",
-    "title": "у Британії знайшли істоту, яка живе у тепліших водах",
-    "description": "Фахівці наголошують на важливості регулярного спостереження за такими змінами, щоб зрозуміти, як потепління океану впливає на морське життя.",
-    "content": "На пляжі Портпін у графстві Корнуолл, Велика Британія, виявили крихітного різнокольорового морського слимака, який зазвичай мешкає у значно тепліших водах, таких, як узбережжя Іспанії, Португалії та Франції. Як пише The Independent, експерти певні, щ... [2688 chars]",
-    "url": "https://www.unian.ua/ecology/rayduzhniy-morskiy-slimak-u-britaniji-znayshli-istotu-yaka-zhive-u-teplishih-vodah-13519326.html",
-    "image": "https://images.unian.net/photos/2026_10/thumb_files/620_324_1791199792-9884.jpg?1",
-    "publishedAt": "2026-10-05T11:39:39Z",
-    "lang": "uk",
-    "source": {
-      "id": "d4361862486677369ff2ae7719b8d313",
-      "name": "unian.ua",
-      "url": "https://www.unian.ua"
-    }
-  },
-  {
-    "id": "4e0d9686841cbae06a25ced3918213fc",
-    "title": "Троє німецьких вчених отримали Нобелівську премію у медицині: вони пояснили вплив світла на нервові клітини",
-    "description": "Нобелівську премію з медицини 2026 року отримали Пітер Гегеманн, Георг Нагель і Карл Дейссерот за відкриття, що започаткували оптогенетику.",
-    "content": "Хто отримав Нобелівську премію з медицини?\nНобелівську премію з фізіології та медицини 2026 року отримали Пітер Гегеманн, Георг Нагель і Карл Дейссерот за відкриття світлочутливих іонних каналів та оптогенетики. Про це відомо з офіційного пресрелізу ... [1085 chars]",
-    "url": "https://blik.ua/nauka/46716-revolyuciya-v-doslidzhenni-mozku-nobelivsku-premiyu-z-medicini-dali-optogenetikam",
-    "image": "https://blik.ua/img/news/thumbs/opto0510main.jpg",
-    "publishedAt": "2026-10-05T11:36:44Z",
-    "lang": "uk",
-    "source": {
-      "id": "5e8763eb8f65bd733ca2324cfefbe5b6",
-      "name": "blik.ua",
-      "url": "https://blik.ua"
-    }
-  },
-  {
-    "id": "d727c3bf73fb54b83d692032cb57890b",
-    "title": "вчені виявили незвичайні явища",
-    "description": "За словами вчених, за останні 320 мільйонів років Земля могла пережити кілька епізодів швидкого зміщення полюсів. Детальніше про це читайте у матеріалі УНІАН.",
-    "content": "За останні 320 мільйонів років Земля могла пережити кілька епізодів швидкого зміщення полюсів, причому найбільш яскраво виражені ознаки цього явища спостерігалися в юрському та крейдяному періодах. Про це пише The Brighter Side of News.\nУ своєму ново... [5850 chars]",
-    "url": "https://www.unian.ua/curiosities/zmini-osi-zemli-v-epohu-dinozavriv-vcheni-viyavili-nezvichayni-yavishcha-13519290.html",
-    "image": "https://images.unian.net/photos/2023_04/thumb_files/1000_545_1681198217-2468.jpg?1",
-    "publishedAt": "2026-10-05T11:20:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "d4361862486677369ff2ae7719b8d313",
-      "name": "УНІАН",
-      "url": "https://www.unian.ua"
     }
   }
 ]
