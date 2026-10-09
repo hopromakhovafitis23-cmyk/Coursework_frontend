@@ -1,5 +1,50 @@
 [
   {
+    "id": "1ccacc88762903d8588e3322b1a183d4",
+    "title": "Samsung скоротить виробництво на 30%",
+    "description": "Виробництво смартфонів стає дедалі дорожчим через зростання витрат на оперативну пам’ять. І щоб зменшити збитки, Samsung скоротить виробництво на 30 %",
+    "content": "Виробництво смартфонів стає дедалі дорожчим через зростання витрат на пам'ять. Щоб скоротити збитки, Samsung почала скорочувати обсяги виробництва смартфонів у 4-му кварталі 2026 року.\nЗа даними SamMobile, мобільний підрозділ Samsung терміново зверну... [1639 chars]",
+    "url": "https://www.unian.ua/techno/gadgets/smartfoni-bilshe-ne-prinosyat-pributku-samsung-skorotit-virobnictvo-na-30-13523085.html",
+    "image": "https://images.unian.net/photos/2026_10/thumb_files/1000_545_1791468882-4991.jpg?1",
+    "publishedAt": "2026-10-08T15:15:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "d4361862486677369ff2ae7719b8d313",
+      "name": "УНІАН",
+      "url": "https://www.unian.ua"
+    }
+  },
+  {
+    "id": "08fce2ec065fa0e6ade5d978010c26cb",
+    "title": "ДТП року та \"зустріч епох\": у Дніпрі на Бандери зіткнулися ВАЗ та Tesla Cybertruck",
+    "description": "У четвер, 8 жовтня, у Дніпрі сталося те, що у соцмережах прозвали зустріччю епох та ДТП року. На вулиці Степана Бандери “притерлися” Tesla Cybertruck та ВАЗ. При зіткненні обійшлося без постраждалих.",
+    "content": "У четвер, 8 жовтня, у Дніпрі сталося те, що у соцмережах прозвали зустріччю епох та ДТП року. На вулиці Степана Бандери “притерлися” Tesla Cybertruck та ВАЗ. При зіткненні обійшлося без постраждалих.\nАварія трапилася о 13:43. Про це Інформатор повідо... [1210 chars]",
+    "url": "https://dp.informator.ua/uk/dtp-roku-ta-zustrich-epoh-u-dnipri-na-banderi-zitknulisya-vaz-ta-tesla-cybertruck",
+    "image": "https://cdn.informator.ua/@prod/media/dnipro/2026/10/08/6ac7815cc61933.13370453.jpg",
+    "publishedAt": "2026-10-08T11:35:33Z",
+    "lang": "uk",
+    "source": {
+      "id": "bf189377f6976a856237023a6f73fb56",
+      "name": "Інформатор Дніпро",
+      "url": "https://dp.informator.ua"
+    }
+  },
+  {
+    "id": "8dc77fd5c9bd610964efa911371d0acf",
+    "title": "Як купити акції Apple чи Coca-Cola в Україні попри валютні обмеження",
+    "description": "Нацбанк дозволив українцям купувати іноземні цінні папери, як це реалізовується на практиці",
+    "content": "Що змінив регулятор\nПро дозвіл на придбання акцій Нацбанк оголосив у серпні цього року, прописавши відповідні правила у спеціальній постанові. Відповідно до неї для громадян встановлено загальний ліміт 200 тис. гривень в еквіваленті на місяць для при... [6585 chars]",
+    "url": "https://minfin.com.ua/ua/invest/articles/kak-kupit-akcii-apple-ili-cocacola-v-ukraine-nesmotrya-na-valyutnye-ogranicheniya/",
+    "image": "https://minfin.com.ua/img/2026/183173502/ae5290b9be90b8e632963fe15d87b98a.jpeg",
+    "publishedAt": "2026-10-08T11:30:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "6028444ee1303e4577f50406a4c7988e",
+      "name": "Мінфін",
+      "url": "https://minfin.com.ua"
+    }
+  },
+  {
     "id": "12210f35ea753a96ee409652f9a5132b",
     "title": "Українці змінили вподобання: які авто масово везуть з Європи",
     "description": "У вересні українці завезли 21,5 тис. вживаних легковиків з-за кордону. Водночас структура імпорту помітно змінилася: електромобілі втратили частку, а гібриди різко додали.",
@@ -27,6 +72,21 @@
       "id": "e737a8e76b161ef4526698e2ec5f60c9",
       "name": "24 Канал",
       "url": "https://24tv.ua"
+    }
+  },
+  {
+    "id": "f0932f4a719ba1b3c767c76670d62e62",
+    "title": "​​скільки коштує 1 кг міді на сьогодні, 8 жовтня",
+    "description": "Ціни на мідь зросли разом із цінами на інші метали, оскільки китайські трейдери повернулися на ринок. Скільки коштує 1 кг міді в Україні – читайте на УНІАН",
+    "content": "Ціни на мідь у четвер, 8 жовтня, знову зросли разом з іншими металами. Китайські трейдери повернулися після тижневих свят, які тимчасово призупинили активність на азіатських ринках.\nВидання Bloomberg повідомляє, що ф'ючерси на червоний метал на Лондо... [1827 chars]",
+    "url": "https://www.unian.ua/economics/other/mid-dorozhchaye-na-ochah-skilki-koshtuye-1-kg-midi-na-sogodni-8-zhovtnya-13522572.html",
+    "image": "https://images.unian.net/photos/2025_11/thumb_files/1000_545_1764142703-8620.jpg?1",
+    "publishedAt": "2026-10-08T09:57:43Z",
+    "lang": "uk",
+    "source": {
+      "id": "d4361862486677369ff2ae7719b8d313",
+      "name": "УНІАН",
+      "url": "https://www.unian.ua"
     }
   },
   {
@@ -87,66 +147,6 @@
       "id": "e1db65ee22b4e2d08bcca5c44a306103",
       "name": "Retailers.ua",
       "url": "https://retailers.ua"
-    }
-  },
-  {
-    "id": "27f237fb52f641eb56a38d0af933a994",
-    "title": "Tesla Model 3 та Y офіційно стали станціями резервного живлення для дому",
-    "description": "Відтепер акумулятори Tesla Model 3 та Model Y можуть живити помешкання під час зникнення електроенергії, однак із суттєвими обмеженнями. Раніше серед моделей Tesla такий режим мав лише Cybertruck.",
-    "content": "Відтепер акумулятори Tesla Model 3 та Model Y можна використовувати для живлення помешкань під час зникнення електроенергії, однак це стосується переважно нових авто. Раніше серед моделей Tesla такий режим мав лише Cybertruck.\nTesla активувала функці... [1539 chars]",
-    "url": "https://mezha.ua/news/tesla-model-3-for-home-power-315938/",
-    "image": "https://img.mezha.ua/mezha/images/doc/4/f/329255/4f8e6c2bbee0e81d98740d570d23edc4.jpeg?w=1200&q=85&stamp=1791400778",
-    "publishedAt": "2026-10-07T19:23:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "6b0257d31504a630dde7752eed4e1e39",
-      "name": "Mezha",
-      "url": "https://mezha.ua"
-    }
-  },
-  {
-    "id": "9700493aafaa24076706618a7777800a",
-    "title": "Porsche зосередиться на люксових авто",
-    "description": "Німецький автовиробник прагне знизити точку беззбитковості до менш ніж 200 тис. автомобілів на рік.",
-    "content": "Німецький автовиробник прагне знизити точку беззбитковості до менш ніж 200 тис. автомобілів на рік.\nНімецький виробник спортивних автомобілів Porsche оголосив про масштабну стратегію скорочення витрат, зосереджуючись на найприбутковіших автомобілях. ... [2546 chars]",
-    "url": "https://ua.korrespondent.net/business/auto/4918184-Porsche-zoseredytsia-na-luiksovykh-avto",
-    "image": "https://kor.ill.in.ua/m/1260x900/4589849.jpg",
-    "publishedAt": "2026-10-07T19:04:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "5f3893b2bdd83721567eef82ac0a6d2e",
-      "name": "Korrespondent.net",
-      "url": "https://ua.korrespondent.net"
-    }
-  },
-  {
-    "id": "e1d3cc4ff6feda6aab8508afd93cd5a1",
-    "title": "Skoda представила свій перший повний гібрид",
-    "description": "Octavia Hybrid отримала 1,5-літровий бензиновий двигун, два електромотори та батарею на 1,6 кВт·год, а її потужність сягає 168 к.с.",
-    "content": "Octavia Hybrid отримала 1,5-літровий бензиновий двигун, два електромотори та батарею на 1,6 кВт·год, а її потужність сягає 168 к.с.\nКомпанія Skoda представила свій перший автомобіль із повноцінною гібридною силовою установкою. Нову Octavia Hybrid осн... [2697 chars]",
-    "url": "https://ua.korrespondent.net/lifestyle/motors/4918179-Skoda-predstavyla-svii-pershyi-povnyi-hibryd",
-    "image": "https://kor.ill.in.ua/m/1260x900/4589832.jpg",
-    "publishedAt": "2026-10-07T18:26:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "5f3893b2bdd83721567eef82ac0a6d2e",
-      "name": "Korrespondent.net",
-      "url": "https://ua.korrespondent.net"
-    }
-  },
-  {
-    "id": "63b2ce988246171ce067fad68ef5d491",
-    "title": "Jaguar повністю представила 1000-сильний електроседан Type 01",
-    "description": "Новий флагманський електромобіль має три двигуни, архітектуру на 850 В, батарею на 118 кВт·год і запас ходу до 644 км.",
-    "content": "Новий флагманський електромобіль має три двигуни, архітектуру на 850 В, батарею на 118 кВт·год і запас ходу до 644 км.\nКомпанія Jaguar представила у Нью-Йорку серійний електромобіль Type 01, який має стати першою моделлю нового етапу розвитку британс... [3254 chars]",
-    "url": "https://ua.korrespondent.net/lifestyle/motors/4918155-Jaguar-povnistui-predstavyla-1000-sylnyi-elektrosedan-Type-01",
-    "image": "https://kor.ill.in.ua/m/1260x900/4589731.jpg",
-    "publishedAt": "2026-10-07T17:01:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "5f3893b2bdd83721567eef82ac0a6d2e",
-      "name": "Korrespondent.net",
-      "url": "https://ua.korrespondent.net"
     }
   }
 ]
