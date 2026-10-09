@@ -1,117 +1,27 @@
 [
   {
-    "id": "abba7b3d7bea9aacedb81698b2a27594",
-    "title": "Росія отримала стратегічну перевагу",
-    "description": "Російські реактивні дрони створюють потенційні геополітичні виклики для країни, оскільки Київ прагне зміцнити свою репутацію військового новатора",
-    "content": "З останніх тижнів літнього сезону над Києвом та іншими українськими містами почали масово з’являтися російські ударні дрони з реактивним двигуном. Вони змінили хід повітряної війни, передавши ініціативу Москві та змусивши українських розробників обор... [6183 chars]",
-    "url": "https://www.unian.ua/weapons/reaktivni-droni-rosiya-otrimala-strategichnu-perevagu-13523316.html",
-    "image": "https://images.unian.net/photos/2026_10/thumb_files/620_324_1791498535-7540.jpg?1",
-    "publishedAt": "2026-10-08T22:30:00Z",
+    "id": "1607cab64775b6b37a260dcb334989cc",
+    "title": "Дрони-перехоплювачі SwarmShot будуть багаторазовими - що відомо",
+    "description": "Компанія CSG спільно з O.F. Mossberg & Sons та Palladyne AI розробляють багаторазовий дрон-перехоплювач SwarmShot з високим рівнем автономності....",
+    "content": "Зазначається, що новий дрон матиме спеціалізовані боєприпаси, легкий корпус та передові автономні технології для створення багаторазових перехоплювачів класу \"повітря-повітря\", призначених для боротьби з ворожими дронами.\nSwarmShot розробляється як м... [948 chars]",
+    "url": "https://www.rbc.ua/rus/news/evropi-rozroblyayut-bagatorazovi-droni-perehoplyuvachi-1791541017.html",
+    "image": "https://www.rbc.ua/static/img/g/e/gettyimages_2239832293_57e92e59ce9523ba3179d14ef722f84f_1300x820.jpg",
+    "publishedAt": "2026-10-09T10:16:57Z",
     "lang": "uk",
     "source": {
-      "id": "d4361862486677369ff2ae7719b8d313",
-      "name": "УНІАН",
-      "url": "https://www.unian.ua"
+      "id": "6f1ead09126f1f4738a48957e22f789c",
+      "name": "РБК-Україна",
+      "url": "https://www.rbc.ua"
     }
   },
   {
-    "id": "874b796d607c3ce706dafeea4767f609",
-    "title": "Samsung скоротить виробництво смартфонів на 30% • Межа",
-    "description": "Samsung може зменшити випуск смартфонів у 2026 році через різке зростання витрат на виробництво та зниження прибутковості мобільного підрозділу. За повідомленнями, до кінця року компанія планує скоротити виробництво на 30%, щоб уникнути подальших фінансових втрат.",
-    "content": "Компанія Samsung може зменшити випуск смартфонів у 2026 році майже на третину через різке зростання витрат на виробництво та зниження прибутковості мобільного підрозділу. За даними південнокорейських ЗМІ, у четвертому кварталі компанія планує скороти... [1597 chars]",
-    "url": "https://mezha.ua/news/zmi-samsung-skorotit-virobnictvo-smartfoniv-na-30-315983/",
-    "image": "https://img.mezha.ua/mezha/images/doc/a/1/329550/a1971c1c06186e7bfcb1100e984c0b90.jpeg?w=1200&q=85&stamp=1791490110",
-    "publishedAt": "2026-10-08T20:58:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "6b0257d31504a630dde7752eed4e1e39",
-      "name": "Mezha",
-      "url": "https://mezha.ua"
-    }
-  },
-  {
-    "id": "5d83ee5f64f13a9ddb97caf55d41af48",
-    "title": "Резерв+ заблокував смартфони з root-правами: що робити користувачам",
-    "description": "Чому не відкривається Резерв+ на телефоні та як відновити доступ - дізнавайтеся у матеріалі ᐅТSN.ua (новини 1+1)",
-    "content": "Українці з модифікованими смартфонами більше не можуть увійти в застосунок «Резерв+». У службі підтримки пояснили, що це не збій: доступ навмисно заблокували для телефонів із root-правами (правами адміністратора), щоб краще захистити особисті дані ко... [2448 chars]",
-    "url": "https://tsn.ua/ukrayina/rezerv-zablokuvav-vkhid-chastyni-ukrayintsiv-koho-ne-puskaye-zastosunok-3185031.html",
-    "image": "https://img.tsn.ua/cached/488/tsn-1284f5ef/thumbs/1200x630/67/1e/fe6c723277aa687bffdc01307e361e67.jpg",
-    "publishedAt": "2026-10-08T20:24:18Z",
-    "lang": "uk",
-    "source": {
-      "id": "ae8b9c98d707754fca5e1ea622855c50",
-      "name": "ТСН",
-      "url": "https://tsn.ua"
-    }
-  },
-  {
-    "id": "d366312a3af06add2e0d4b56ebd233d9",
-    "title": "Акції Nvidia, Oracle та CoreWeave впали після даних про доходи OpenAI - CNBC",
-    "description": "Акції Nvidia, Oracle, CoreWeave та інших компаній, пов’язаних зі штучним інтелектом, знизилися у четвер після уточнення фінансових показників OpenAI.",
-    "content": "Акції Nvidia, Oracle, CoreWeave та інших компаній, пов’язаних зі штучним інтелектом, знизилися у четвер після уточнення фінансових показників OpenAI. Як повідомляє CNBC, наприкінці вересня OpenAI поінформувала інвесторів, що її річний дохід у перерах... [1491 chars]",
-    "url": "https://ua.news/ua/money/aktsiyi-nvidia-oracle-ta-coreweave-vpali-pislia-danikh-pro-dokhodi-openai-cnbc",
-    "image": "https://cdn-cabinet.ua.news/uploads/images/ai_stocks_fall_after_openai_revenue_upda_1791484301414.webp",
-    "publishedAt": "2026-10-08T18:31:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "54b33233e9f0f396fe0c9e0f95f2a6f6",
-      "name": "UA.NEWS",
-      "url": "https://ua.news"
-    }
-  },
-  {
-    "id": "e93568ea11388551788ebcbd3b1b6b9c",
-    "title": "Перехоплювачі реактивних дронів, напад на школу у Польщі, допит Мадяра: новини дня",
-    "description": "Держсекретар США Марко Рубіо вважає, що війна Росії проти України опинилася",
-    "content": "Держсекретар США Марко Рубіо вважає, що війна Росії проти України опинилася \"у стратегічному глухому куті\". Тим часом Кушнер нібито пропонує Трампу залучити інвестора зі США для відновлення \"Північних потоків\".\nЗеленський закликає Сполучені Штати не ... [9590 chars]",
-    "url": "https://www.eurointegration.com.ua/news/2026/10/8/7247273/",
-    "image": "https://img.eurointegration.com.ua/images/doc/1/f/1f08f4e-spys.jpg",
-    "publishedAt": "2026-10-08T18:25:04Z",
-    "lang": "uk",
-    "source": {
-      "id": "92907bbd0364e9333834133beac47de2",
-      "name": "Європейська правда",
-      "url": "https://www.eurointegration.com.ua"
-    }
-  },
-  {
-    "id": "90f4c9d6a79f661fcf8a3f426481fabc",
-    "title": "У Китаї почали видавати паспорти людям, яких створив штучний інтелект",
-    "description": "Віртуальні персонажі отримують офіційні документи з іменем, датою народження та адресою. | Новини, У світі - Судово-юридична газета",
-    "content": "У Китаї почали офіційно реєструвати цифрових людей, створених за допомогою штучного інтелекту. У Пекіні запустили пілотну програму, в межах якої віртуальним персонажам видають посвідчення особи.\nОднією з перших документ отримала віртуальна співачка Ю... [1614 chars]",
-    "url": "https://sud.ua/uk/news/abroad/374343-u-kytai-pochaly-vydavaty-pasporty-liudiam-iakykh-stvoryv-shtuchnyi-intelekt",
-    "image": "https://sud.ua/uploads/news/2026/10/08/u-kytai-pochaly-vydavaty-pasporty-liudiam-iakykh-stvoryv-shtuchnyi-intelekt.webp",
-    "publishedAt": "2026-10-08T17:19:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "b46500d70972c8020239617cebe67243",
-      "name": "Судово-юридична газета",
-      "url": "https://sud.ua"
-    }
-  },
-  {
-    "id": "344168088a59d78b8ee6671426b08def",
-    "title": "РФ тестує новий реактивний зенітний БПЛА для перехоплення повітряних цілей",
-    "description": "Окупанти випробовують апарат ДФ-1 масою 15 кг зі швидкістю 500 км/год та радіусом дії до 250 км, створений компанією \"ДОФА-Тек\" для збиття безпілотників.",
-    "content": "Російські окупанти почали випробування нового реактивного зенітного дрона ДФ-1 \"Росчерк\" зі швидкістю 500 км/год та дальністю до 250 км. Також ворог розробляє зенітний дрон ДФ-3 \"Гадюка\" з максимальною швидкістю 800 км/год. Про це повідомляють росЗМІ... [2849 chars]",
-    "url": "https://www.unian.ua/weapons/dron-roscherk-rf-testuye-noviy-reaktivniy-zenitniy-bpla-dlya-perehoplennya-povitryanih-ciley-13523187.html",
-    "image": "https://images.unian.net/photos/2026_10/thumb_files/620_324_1791479658-8193.jpg?1",
-    "publishedAt": "2026-10-08T17:15:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "d4361862486677369ff2ae7719b8d313",
-      "name": "УНІАН",
-      "url": "https://www.unian.ua"
-    }
-  },
-  {
-    "id": "81d73a83265309cb14b7de2a7b104216",
-    "title": "За дистанцією між фурами у Німеччині слідкують дрони",
-    "description": "З повітря поліцейський дрон відстежує дистанцію між фурами. Якщо вона менша, то на місці патрульні випусують штраф у розмірі від 80 до 120 євро",
-    "content": "Як повідомляє німецьке видання SWR, поліцейські дрони тепер не тільки контролюють порушення водіями заборони обгону, але й відстежують додаткові зловживання на трасі.\nНімецька поліція запустила пілотну програму повітряного патрулювання дистанції. Дня... [1931 chars]",
-    "url": "https://24tv.ua/auto/drony_proty_fur_yak_nimetska_politsiia_khytro_shtrafuie_vodiiv_za_dystantsiiu_n76543",
-    "image": "https://24tv.ua/auto/resources/photos/news/202610/76543da6987a6-028d-49f2-998b-a2485cebd3b1.jpg",
-    "publishedAt": "2026-10-08T17:10:00Z",
+    "id": "756aa6352650b79e6395095db346760f",
+    "title": "Джорджа Мелоні патентує свій голос як бренд",
+    "description": "Прем'єр-міністерка Італії Джорджа Мелоні подала заявку на реєстрацію голосу як торговельної марки. Так вона хоче захиститися від діпфейків і клонування голосу штучним інтелектом.",
+    "content": "Мелоні прагне захистити свій голос від підробки\nЯк повідомляє видання 20minutos.es, очільниця уряду Італії звернулася до Офісу інтелектуальної власності Європейського Союзу (EUIPO). Щоб пройти необхідну процедуру реєстрації, Джорджі Мелоні довелося з... [1336 chars]",
+    "url": "https://24tv.ua/tech/dzhordzha-meloni-podala-zayavku-reyestratsiyu-svogo-golosu-yak_n3157336",
+    "image": "https://24tv.ua/resources/photos/news/202610/3157336.jpg?v=1791532126000&w=1200&h=675",
+    "publishedAt": "2026-10-09T10:01:00Z",
     "lang": "uk",
     "source": {
       "id": "e737a8e76b161ef4526698e2ec5f60c9",
@@ -120,33 +30,123 @@
     }
   },
   {
-    "id": "8fa8d937bcd4b47df14e34c3f86613c3",
-    "title": "Український виробник двигунів для дронів залучив $550 тис і збільшив випуск до 60 тис/місяць",
-    "description": "Український виробник електродвигунів для дронів AeroMotors після залучення $550 тис. від шведської Front Ventures збільшив виробничу потужність до 60 тис. двигунів на місяць",
-    "content": "Українська компанія AeroMotors, яка спеціалізується на розробці та виробництві електродвигунів для безпілотників, збільшила виробничі потужності до 60 тис. двигунів на місяць після залучення $550 тис. інвестицій від шведської інвестиційної компанії F... [1263 chars]",
-    "url": "https://inventure.com.ua/uk/news/ukraine/ukrayinskij-virobnik-dviguniv-dlya-droniv-zaluchiv-dollar550-tis-i-zbilshiv-vipusk-do-60-tismisyac",
-    "image": "https://inventure.com.ua/upload/pic2026-2H/aeromotors.png",
-    "publishedAt": "2026-10-08T17:05:33Z",
+    "id": "fbe87d29caafe01f2f2be0a3c0c1d5a4",
+    "title": "На заході України знищили 21 реактивний дрон: атака зачепила й Рівненщину",
+    "description": "Актуальні новини та події Рівного, Рівненщини, України, інтерв’ю, аналітика, мультимедіа, факти",
+    "content": "Рівненщина опинилася серед областей, над якими сили ППО знищували російські реактивні безпілотники. Атака на західні регіони України тривала вдень 8 жовтня та вночі 9 жовтня.\nЗа даними повітряного командування «Захід», авіація та підрозділи протипові... [467 chars]",
+    "url": "https://www.rivnenews.com.ua/2026/10/09/na-zakhodi-ukrainy-znyshchyly-21-reaktyvnyi-dron-ataka-zachepyla-i-rivnenshchynu/",
+    "image": "https://www.rivnenews.com.ua/wp-content/uploads/2026/10/202610-rivnenski-novyny-33976.webp",
+    "publishedAt": "2026-10-09T09:53:00Z",
     "lang": "uk",
     "source": {
-      "id": "6c6f16cbcaf3c208bae22836580b22dc",
-      "name": "Inventure.com.ua.",
-      "url": "https://inventure.com.ua"
+      "id": "4ca167ab65821e0ac71861baa2912ad7",
+      "name": "Рівненські новини",
+      "url": "https://www.rivnenews.com.ua"
     }
   },
   {
-    "id": "5986722660b127a3d6edd4824a710b58",
-    "title": "Американський венчурний фонд Endeavor Catalyst залучив $320 млн: у портфелі три українські компанії",
-    "description": "Американський венчурний фонд Endeavor Catalyst залучив $320 млн до п’ятого фонду, у портфелі якого є три компанії українського походження — Preply, Headway Inc. та HOLYWATER TECH",
-    "content": "Американський венчурний фонд Endeavor Catalyst закрив п’ятий фонд обсягом $320 млн. Серед компаній у його портфелі — три компанії українського походження: освітня платформа Preply, розробник цифрових продуктів Headway Inc. та технологічна компанія у ... [2152 chars]",
-    "url": "https://inventure.com.ua/uk/news/ukraine/amerikanskij-venchurnij-fond-endeavor-catalyst-zaluchiv-dollar320-mln:-u-portfeli-tri-ukrayinski-kompaniyi",
-    "image": "https://inventure.com.ua/upload/pic2026-2H/8673.jpg",
-    "publishedAt": "2026-10-08T16:47:00Z",
+    "id": "b8c16d182086824f8c99a8cd98be057b",
+    "title": "експерт пояснив, як захистити ЛЕП від російських ударів",
+    "description": "Які в україни є засоби протидії ударам росіян по ЛЕП та чи можна їх якось захистити - пояснив у коментарі для УНІАН експерт Анатолій Храпчинський.",
+    "content": "Якщо лише намагатися краще захищати від ударів російських окупантів лінії електропередач, але не покращувати нашу протиповітряну оборону в цілому, то це як лікувати зуби, але й далі продовжувати їсти цукор. Про це у коментарі УНІАН сказав Анатолій Хр... [2368 chars]",
+    "url": "https://www.unian.ua/economics/energetics/vidklyuchennya-svitla-v-ukrajini-ekspert-poyasniv-yak-zahistiti-lep-vid-rosiyskih-udariv-13523676.html",
+    "image": "https://images.unian.net/photos/2026_10/thumb_files/620_324_1791537018-8472.jpg?1",
+    "publishedAt": "2026-10-09T09:20:00Z",
     "lang": "uk",
     "source": {
-      "id": "6c6f16cbcaf3c208bae22836580b22dc",
-      "name": "Inventure.com.ua.",
-      "url": "https://inventure.com.ua"
+      "id": "d4361862486677369ff2ae7719b8d313",
+      "name": "УНІАН",
+      "url": "https://www.unian.ua"
+    }
+  },
+  {
+    "id": "5d023e4ea01d75ad7d6e005db7c42864",
+    "title": "У Росії пошкоджено ще один датацентр Яндекса",
+    "description": "Нічна атака на Калузьку область пошкодила датацентр Яндекса. За повідомленням компанії, у роботі окремих сервісів можливі перебої.",
+    "content": "Нічна атака на Калузьку область пошкодила датацентр Яндекса. За повідомленням компанії, у роботі окремих сервісів можливі перебої.\nУ російській Калузі внаслідок атаки пошкоджено датацентр компанії Яндекс. Через це в роботі частини її сервісів можливі... [705 chars]",
+    "url": "https://ua.korrespondent.net/world/russia/4918637-u-rosii-poshkodzheno-sche-odyn-datatsentr-yandeksa",
+    "image": "https://kor.ill.in.ua/m/1260x900/4591121.jpg",
+    "publishedAt": "2026-10-09T09:20:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "5f3893b2bdd83721567eef82ac0a6d2e",
+      "name": "Korrespondent.net",
+      "url": "https://ua.korrespondent.net"
+    }
+  },
+  {
+    "id": "68d349d2dad8341435f9fbf2da7f906c",
+    "title": "Залучить Claude і виконає задачу: Google показала нового ШІ-агента Gemini",
+    "description": "Google представила ШІ-агента Gemini, який може самостійно виконувати робочі завдання та взаємодіяти з командою без покрокових інструкцій. Новий інстру...",
+    "content": "Повноцінний \"колега\": як новий ШІ вирішує задачі без підказок?\nЗа інформацією розробників, Gemini Agent здатен розпізнавати комплексні завдання та виконувати їх самостійно.\nТак, на прохання керівника підготувати звіт у вигляді презентації, система Wo... [2070 chars]",
+    "url": "https://www.rbc.ua/rus/news/zaluchit-claude-i-vikonae-zadachu-google-1791534978.html",
+    "image": "https://www.rbc.ua/static/img/g/e/gettyimages_2222594117_87d68050a5ab4bf5cc05048caa80ff64_1300x820.jpg",
+    "publishedAt": "2026-10-09T09:12:17Z",
+    "lang": "uk",
+    "source": {
+      "id": "6f1ead09126f1f4738a48957e22f789c",
+      "name": "РБК-Україна",
+      "url": "https://www.rbc.ua"
+    }
+  },
+  {
+    "id": "14e1abda3b7d13f4a221e74969888321",
+    "title": "Хтось масово зламує вебкамери в Україні",
+    "description": "Фахівці GreyNoise виявили сплеск спроб сканування та зламу камер спостереження Hikvision в Україні через давню критичну уразливість. Кампанія почалася у вересні й триває досі.",
+    "content": "Звідки йде загроза\nПерші підозрілі дії фахівці помітили 21 вересня 2026 року, коли одна з українських IP-адрес намагалася під'єднатися до сервісних портів без надсилання шкідливого коду. У звіті дослідної компанії GreyNoise зазначають, що основна хви... [1618 chars]",
+    "url": "https://24tv.ua/tech/hakeri-masovo-atakuyut-vebkameri-odniyeyi-firmi-po-vsiy-ukrayini_n3157319",
+    "image": "https://24tv.ua/resources/photos/news/202610/3157319.jpg?v=1791531212000&w=1200&h=675",
+    "publishedAt": "2026-10-09T09:01:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "e737a8e76b161ef4526698e2ec5f60c9",
+      "name": "24 Канал",
+      "url": "https://24tv.ua"
+    }
+  },
+  {
+    "id": "3f728faa21595d2627eeb9c85840fdbb",
+    "title": "Дрони атакували НПЗ Лукойлу в Ухті",
+    "description": "В Ухті 9 жовтня повідомляють про атаку на НПЗ Лукойлу, на кадрах видно дим, масштаби пошкоджень поки невідомі.",
+    "content": "Уранці 9 жовтня безпілотники атакували російську Ухту в Республіці Комі, де, за повідомленням моніторингових каналів, ціллю став нафтопереробний завод \"Лукойлу\".\nПро це пише The Moscow Times.\nЗа даними видання, у місті лунали сирени, вибухи та пострі... [488 chars]",
+    "url": "https://epravda.com.ua/energetika/droni-atakuvali-npz-lukoylu-v-uhti-826416/",
+    "image": "https://img.epravda.com.ua/epravda/images/doc/a/3/187777/a367697f2378e0981fc3dbce5b0802b8.jpeg?w=1920&q=85",
+    "publishedAt": "2026-10-09T08:40:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "9b9cf9e76aeefea346957bfe5f6dafc5",
+      "name": "Економічна правда",
+      "url": "https://epravda.com.ua"
+    }
+  },
+  {
+    "id": "6db513902868b865a375660c10c402ba",
+    "title": "Яндекс в РФ атакований 9 жовтня - також під ударом був НПЗ у Комі",
+    "description": "У Росії повідомили, що українські дрони вдарили по дата-центру \"Яндексу\" в Калузі. Також повідомили про атаку на НПЗ....",
+    "content": "Дата-центр \"Яндексу\" в Калузі атакували дрони. Це вже другий дата-центр компанії, який опинився під ударом. У \"Яндексі\" кажуть, що кілька модулів повністю виведено з ладу.\n\"Частина сервісів \"Яндексу\" може працювати з перебоями. Повний масштаб збитків... [492 chars]",
+    "url": "https://www.rbc.ua/rus/news/rf-pid-udarom-opinivsya-drugiy-data-tsentr-1791533897.html",
+    "image": "https://www.rbc.ua/static/img/2/_/2_gettyimages_1052515896_6ccb085bf03ddff1ae5ab9a78aa21f8a_1300x820.jpg",
+    "publishedAt": "2026-10-09T08:18:17Z",
+    "lang": "uk",
+    "source": {
+      "id": "6f1ead09126f1f4738a48957e22f789c",
+      "name": "РБК-Україна",
+      "url": "https://www.rbc.ua"
+    }
+  },
+  {
+    "id": "a4e7fc32fdd273c2f9f70117f9193a89",
+    "title": "Трамп назвав \"ворогами Білого дому\" тих, хто продовжує називати ШІ штучним інтелектом",
+    "description": "Трамп наполягає на назві «суперінтелект» і вже зобов’язав федеральні відомства США відмовитися від звичного терміна «штучний інтелект». | Новини, У світі - Судово-юридична газета",
+    "content": "Президент США Дональд Трамп заявив, що Білий дім вважатиме «ворогами» тих, хто продовжує використовувати термін Artificial Intelligence (AI) — «штучний інтелект» замість запропонованої ним назви Super Intelligence (SI) — «суперінтелект». Таку заяву Т... [1780 chars]",
+    "url": "https://sud.ua/uk/news/abroad/374384-tramp-nazvav-vorohamy-biloho-domu-tykh-khto-prodovzhuie-nazyvaty-shi-shtuchnym-intelektom",
+    "image": "https://sud.ua/uploads/news/2026/10/09/tramp-nazvav-vorohamy-biloho-domu-tykh-khto-prodovzhuie-nazyvaty-shi-shtuchnym-intelektom.webp",
+    "publishedAt": "2026-10-09T08:10:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "b46500d70972c8020239617cebe67243",
+      "name": "Судово-юридична газета",
+      "url": "https://sud.ua"
     }
   }
 ]
