@@ -1,5 +1,65 @@
 [
   {
+    "id": "abdde186aad9a3ef357540c79025ed4c",
+    "title": "SEAT відповіла на чутки про закриття бренду після 2030 року",
+    "description": "SEAT прокоментувала чутки про можливе закриття бренду після 2030 року. Компанія підтвердила плани випустити гібридні SEAT Ibiza та Arona у 2027 році, але остаточного рішення щодо майбутнього марки поки немає.",
+    "content": "SEAT заявила, що бренд залишається важливою частиною компанії, на тлі повідомлень про можливе припинення його існування. Водночас майбутнє бренду після 2030 року поки не визначене – компанія розглядає кілька сценаріїв розвитку.\nУ SEAT підтвердили, що... [1477 chars]",
+    "url": "https://mezha.ua/news/seat-poki-ne-znaye-shcho-bude-z-brendom-pislya-2030-roku-316025/",
+    "image": "https://img.mezha.ua/mezha/images/doc/e/1/329656/e140c05db8d42a73448356e0c189d2dc.jpeg?w=1200&q=85&stamp=1791557938",
+    "publishedAt": "2026-10-09T15:04:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "6b0257d31504a630dde7752eed4e1e39",
+      "name": "Mezha",
+      "url": "https://mezha.ua"
+    }
+  },
+  {
+    "id": "2d04dc0949cef711295b088db2931a0a",
+    "title": "SpaceX виходить на ринок мобільного зв'язку США",
+    "description": "Компанія Маска домовилася про купівлю радіочастот у США приблизно за 8 млрд доларів.",
+    "content": "Компанія Маска домовилася про купівлю радіочастот у США приблизно за 8 млрд доларів.\nКомпанія Ілона Маска отримає доступ до низькочастотного спектра, що дасть супутниковому сервісу Starlink Mobile змогу конкурувати з традиційними мобільними оператора... [897 chars]",
+    "url": "https://ua.korrespondent.net/business/companies/4918722-SpaceX-vykhodyt-na-rynok-mobilnoho-zviazku-ssha",
+    "image": "https://kor.ill.in.ua/m/1260x900/4591295.jpg",
+    "publishedAt": "2026-10-09T12:49:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "5f3893b2bdd83721567eef82ac0a6d2e",
+      "name": "Korrespondent.net",
+      "url": "https://ua.korrespondent.net"
+    }
+  },
+  {
+    "id": "399de856bf87dd45124d93640031778e",
+    "title": "Пакистан розповів про виробництво Haider як копії конкурента танка \"Оплот\", до якого були харківські Т-80УД",
+    "description": "Якими темпами пакистанська промисловість може виготовляти Haider як вітчизняну копію китайського танка VT-4, що став конкурентом українського \"Оплота\", і чому тут виникла згадка про харківські Т-80УД",
+    "content": "Оборонна промисловість Пакистану на даний момент уже виготовила понад 100 танків Haider, які є локалізованою копією китайського ОБТ VT-4, котрий в свою чергу відомий як конкурент українського танка \"Оплот\" на ринках країн Азії.\nТемп виробництва таких... [1623 chars]",
+    "url": "https://defence-ua.com/news/pakistan_rozpoviv_pro_virobnitstvo_haider_jak_kopiji_konkurenta_tanka_oplot_do_jakogo_buli_harkivski_t_80ud-24446.html",
+    "image": "https://defence-ua.com/media/illustration/articles/4d06ac8ab4f3b1a2.jpg",
+    "publishedAt": "2026-10-09T11:57:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "f488af954cb509cbacccbd34e7f47985",
+      "name": "Defense Express",
+      "url": "https://defence-ua.com"
+    }
+  },
+  {
+    "id": "8b2d8dcdfd6ba4f9bf1655bf37a588a8",
+    "title": "Mafia III вийшла на PS5 та Xbox Series X|S із підтримкою 60 FPS",
+    "description": "Mafia III: Definitive Edition отримала нативні версії для PS5 та Xbox Series X|S. Власники старих версій можуть оновитися безкоштовно, але перенести збереження не вийде.",
+    "content": "Mafia III: Definitive Edition отримала версії для PlayStation 5 та Xbox Series X|S до десятиріччя гри. Оновлене видання підтримує режим 60 кадрів за секунду, а також містить виправлення технічних проблем, графічних помилок і баґів, які могли блокуват... [2001 chars]",
+    "url": "https://itc.ua/ua/novini/mafia-iii-vyjshla-na-ps5-ta-xbox-series-x-s-iz-pidtrymkoyu-60-fps/",
+    "image": "https://cdn.itc.ua/uploads/2026/10/ss_ceaaa39640fb02e7949568432b0157a3a4280125.1920x1080.jpg",
+    "publishedAt": "2026-10-09T10:23:01Z",
+    "lang": "uk",
+    "source": {
+      "id": "391d17d071b755a4bda37c1b43f47c2c",
+      "name": "ITC.ua",
+      "url": "https://itc.ua"
+    }
+  },
+  {
     "id": "e2d675fa1ae6c4ed428cfbb231772cba",
     "title": "Дизайн у стилі космічного корабля: BYD Tang отримав два екрани на 30 дюймів",
     "description": "BYD Tang третього покоління: дисплеї 30 і 35,4 дюйма, батареї до 105,792 кВт·год, запас ходу до 850 км і заряджання 10–70% за 5 хвилин. Продажі в Китаї почнуться до кінця року.",
@@ -22,6 +82,21 @@
     "url": "https://itc.ua/ua/novini/yevropa-dobudovuye-najbilshyj-u-sviti-termoyadernyj-reaktor/",
     "image": "https://cdn.itc.ua/uploads/2026/10/Reaktor-Evropa-1.png",
     "publishedAt": "2026-10-09T09:00:53Z",
+    "lang": "uk",
+    "source": {
+      "id": "391d17d071b755a4bda37c1b43f47c2c",
+      "name": "ITC.ua",
+      "url": "https://itc.ua"
+    }
+  },
+  {
+    "id": "0519074a9720bedf333081bec803472b",
+    "title": "На 81% міцніший: армований бамбуком пластик обіцяє броньовані смартфони",
+    "description": "Китайські дослідники з Анхойського сільгоспінституту створили армований бамбуком пластик, на 81% міцніший за попередні аналоги, що блокує електромагнітні перешкоди.",
+    "content": "Китайські дослідники з Анхойського сільгоспінституту створили армований бамбуком пластик, на 81% міцніший за попередні аналоги, що блокує електромагнітні перешкоди.\nЗазначається, що новий матеріал на 173% стійкіший до зносу й може використовуватись д... [2821 chars]",
+    "url": "https://itc.ua/ua/novini/na-81-mitsnishyj-armovanyj-bambukom-plastyk-obitsyaye-bronovani-smartfony/",
+    "image": "https://cdn.itc.ua/uploads/2026/10/Depositphotos_182543364_L.jpg",
+    "publishedAt": "2026-10-09T08:48:43Z",
     "lang": "uk",
     "source": {
       "id": "391d17d071b755a4bda37c1b43f47c2c",
@@ -72,81 +147,6 @@
       "id": "5f3893b2bdd83721567eef82ac0a6d2e",
       "name": "Korrespondent.net",
       "url": "https://ua.korrespondent.net"
-    }
-  },
-  {
-    "id": "5c378cdf2def813a3f0928ec95dcf0e7",
-    "title": "Хоча євро впало до 17-місячного мінімуму, є ще кілька причин, чому валюта може подешевшати ще більше",
-    "description": "Євро опустилося до $1,1174, найнижчого рівня за 17 місяців, і ринок дедалі більше побоюється, що проблеми єврозони — від високих цін на енергоносії до бюджетної нестабільності окремих країн — посилюватимуться.",
-    "content": "Євро опустилося до $1,1174, найнижчого рівня за 17 місяців, і ринок дедалі більше побоюється, що проблеми єврозони — від високих цін на енергоносії до бюджетної нестабільності окремих країн — посилюватимуться. Як наголошує Reuters, на цьому тлі долар... [4636 chars]",
-    "url": "https://minfin.com.ua/ua/2026/10/08/183179886/",
-    "image": "http://minfin.com.ua/img/2026/183179886/966f8185ad379fd49afda7a77976f9a8.jpeg",
-    "publishedAt": "2026-10-08T16:30:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "6028444ee1303e4577f50406a4c7988e",
-      "name": "Мінфін",
-      "url": "https://minfin.com.ua"
-    }
-  },
-  {
-    "id": "1ccacc88762903d8588e3322b1a183d4",
-    "title": "Samsung скоротить виробництво на 30%",
-    "description": "Виробництво смартфонів стає дедалі дорожчим через зростання витрат на оперативну пам’ять. І щоб зменшити збитки, Samsung скоротить виробництво на 30 %",
-    "content": "Виробництво смартфонів стає дедалі дорожчим через зростання витрат на пам'ять. Щоб скоротити збитки, Samsung почала скорочувати обсяги виробництва смартфонів у 4-му кварталі 2026 року.\nЗа даними SamMobile, мобільний підрозділ Samsung терміново зверну... [1639 chars]",
-    "url": "https://www.unian.ua/techno/gadgets/smartfoni-bilshe-ne-prinosyat-pributku-samsung-skorotit-virobnictvo-na-30-13523085.html",
-    "image": "https://images.unian.net/photos/2026_10/thumb_files/1000_545_1791468882-4991.jpg?1",
-    "publishedAt": "2026-10-08T15:15:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "d4361862486677369ff2ae7719b8d313",
-      "name": "УНІАН",
-      "url": "https://www.unian.ua"
-    }
-  },
-  {
-    "id": "08fce2ec065fa0e6ade5d978010c26cb",
-    "title": "ДТП року та \"зустріч епох\": у Дніпрі на Бандери зіткнулися ВАЗ та Tesla Cybertruck",
-    "description": "У четвер, 8 жовтня, у Дніпрі сталося те, що у соцмережах прозвали зустріччю епох та ДТП року. На вулиці Степана Бандери “притерлися” Tesla Cybertruck та ВАЗ. При зіткненні обійшлося без постраждалих.",
-    "content": "У четвер, 8 жовтня, у Дніпрі сталося те, що у соцмережах прозвали зустріччю епох та ДТП року. На вулиці Степана Бандери “притерлися” Tesla Cybertruck та ВАЗ. При зіткненні обійшлося без постраждалих.\nАварія трапилася о 13:43. Про це Інформатор повідо... [1210 chars]",
-    "url": "https://dp.informator.ua/uk/dtp-roku-ta-zustrich-epoh-u-dnipri-na-banderi-zitknulisya-vaz-ta-tesla-cybertruck",
-    "image": "https://cdn.informator.ua/@prod/media/dnipro/2026/10/08/6ac7815cc61933.13370453.jpg",
-    "publishedAt": "2026-10-08T11:35:33Z",
-    "lang": "uk",
-    "source": {
-      "id": "bf189377f6976a856237023a6f73fb56",
-      "name": "Інформатор Дніпро",
-      "url": "https://dp.informator.ua"
-    }
-  },
-  {
-    "id": "8dc77fd5c9bd610964efa911371d0acf",
-    "title": "Як купити акції Apple чи Coca-Cola в Україні попри валютні обмеження",
-    "description": "Нацбанк дозволив українцям купувати іноземні цінні папери, як це реалізовується на практиці",
-    "content": "Що змінив регулятор\nПро дозвіл на придбання акцій Нацбанк оголосив у серпні цього року, прописавши відповідні правила у спеціальній постанові. Відповідно до неї для громадян встановлено загальний ліміт 200 тис. гривень в еквіваленті на місяць для при... [6585 chars]",
-    "url": "https://minfin.com.ua/ua/invest/articles/kak-kupit-akcii-apple-ili-cocacola-v-ukraine-nesmotrya-na-valyutnye-ogranicheniya/",
-    "image": "https://minfin.com.ua/img/2026/183173502/ae5290b9be90b8e632963fe15d87b98a.jpeg",
-    "publishedAt": "2026-10-08T11:30:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "6028444ee1303e4577f50406a4c7988e",
-      "name": "Мінфін",
-      "url": "https://minfin.com.ua"
-    }
-  },
-  {
-    "id": "f55ec2a14e88b628bddab8deac1ecc3f",
-    "title": "Mafia 2 і Mafia 3 готують до нового життя на PS5 та Xbox",
-    "description": "Mafia 2 та Mafia 3 отримали рейтинги ESRB для PS5 та Xbox Series X/S. Це може свідчити про підготовку нативних версій ігор для сучасних консолей.",
-    "content": "Mafia 2 та Mafia 3, схоже, готуються до виходу на сучасних консолях. Обидві гри отримали рейтинги ESRB для PS5 та Xbox Series X/S, що може свідчити про підготовку нових версій.\nІнформація з’явилася в базі Entertainment Software Rating Board, але стор... [1586 chars]",
-    "url": "https://itc.ua/ua/novini/mafia-2-i-mafia-3-gotuyut-do-novogo-zhyttya-na-ps5-ta-xbox/",
-    "image": "https://cdn.itc.ua/uploads/2026/10/ss_f6d60fcb54fce33e1365861d472508a7f6350d2a.1920x1080.jpg",
-    "publishedAt": "2026-10-08T10:37:41Z",
-    "lang": "uk",
-    "source": {
-      "id": "391d17d071b755a4bda37c1b43f47c2c",
-      "name": "ITC.ua",
-      "url": "https://itc.ua"
     }
   }
 ]
