@@ -1,5 +1,65 @@
 [
   {
+    "id": "8ddcce9903ce33628b477897d2e9b26d",
+    "title": "Android-смартфон працюватиме довше після вимкнення цієї \"корисної\" функції",
+    "description": "Вимкнення однієї прихованої функції Android допомогло збільшити час роботи смартфона на півгодини. Йдеться про параметр \"Мобільні дані завжди активні\".",
+    "content": "Ваш Android-телефон оснащений безліччю корисних функцій, які так чи інакше полегшують життя. Однак деякі з них потрібні не всім і можуть мати несподівані недоліки.\nЯк зазначає автор MakeUseOf, функція \"Мобільні дані завжди активні\" – хороший приклад ... [3559 chars]",
+    "url": "https://www.unian.ua/techno/software/vash-android-smartfon-pracyuvatime-dovshe-pislya-vimknennya-ciyeji-korisnoji-funkciji-13524606.html",
+    "image": "https://images.unian.net/photos/2026_10/thumb_files/1000_545_1791622155-7770.jpg?1",
+    "publishedAt": "2026-10-10T14:30:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "d4361862486677369ff2ae7719b8d313",
+      "name": "УНІАН",
+      "url": "https://www.unian.ua"
+    }
+  },
+  {
+    "id": "30fd70ad2d873ad15f576cd3670af0d4",
+    "title": "Рідкісний Citroën DS21 продадуть на аукціоні за 200 000 євро",
+    "description": "У Бельгії виставили на торги унікальний кабріолет Citroën DS21 1966 року від Анрі Шапрона. Чому за авто просять 200 тисяч євро — читайте на Авто24.",
+    "content": "Як повідомляє аукціонний дім Bonhams, торги за цю перлину французького автопрому відбудуться 11 жовтня у містечку Ле-Зут. Автомобіль змагатиметься за увагу колекціонерів поруч із класичними машинами вартістю у мільйони євро, проте саме ця модель має ... [2860 chars]",
+    "url": "https://24tv.ua/auto/za_frantsuzkyi_kabriolet_prosiat_200_tysiach_yevro_u_chomu_sekret_unikalnoho_citron_ds21_n76604",
+    "image": "https://24tv.ua/auto/resources/photos/news/202610/766047efe136e-5360-4781-8747-0132b2553537.jpg",
+    "publishedAt": "2026-10-10T14:17:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "e737a8e76b161ef4526698e2ec5f60c9",
+      "name": "24 Канал",
+      "url": "https://24tv.ua"
+    }
+  },
+  {
+    "id": "c300dcabda9feb5c901779f4eca431d6",
+    "title": "Китайський аналог Starlink: Guowang дає 30 Мбіт/с і відеодзвінок між полюсами",
+    "description": "Китай випробував супутникову мережу Guowang як аналог Starlink: відеодзвінок між Арктикою та Антарктикою мав затримку менш ніж секунду, а швидкість сягнула 30 Мбіт/с.",
+    "content": "Китай випробував власну супутникову мережу Guowang, передавши відеодзвінок між дослідниками в Арктиці та персоналом антарктичної станції. За даними китайського державного телеканалу CCTV, затримка зв’язку становила менш ніж одну секунду. Під час експ... [2022 chars]",
+    "url": "https://itc.ua/ua/novini/kytajskyj-analog-starlink-guowang-daye-30-mbit-s/",
+    "image": "https://cdn.itc.ua/uploads/2026/10/Untitled-Design-2026-10-10T051141.webp",
+    "publishedAt": "2026-10-10T10:39:04Z",
+    "lang": "uk",
+    "source": {
+      "id": "391d17d071b755a4bda37c1b43f47c2c",
+      "name": "ITC.ua",
+      "url": "https://itc.ua"
+    }
+  },
+  {
+    "id": "798d4e427ada7da85a2c5d84acd31a1c",
+    "title": "Volkswagen ID. Tiguan замінить ID.4: запас ходу до 600 км і фізичні кнопки",
+    "description": "Volkswagen ID. Tiguan замінить ID.4 і отримає батареї на 58 та 77 кВт·год, потужність до 299 к.с., запас ходу близько 600 км, фізичні кнопки та функцію V2L.",
+    "content": "Volkswagen представила електричний кросовер ID. Tiguan — наступника ID.4, який отримав знайоміший дизайн, більші екрани та фізичні кнопки замість частини сенсорного керування. Новинка пропонує кілька варіантів силової установки та функції, яких браку... [2086 chars]",
+    "url": "https://itc.ua/ua/novini/volkswagen-id-tiguan-zaminyt-id4-zapas-600-km/",
+    "image": "https://cdn.itc.ua/uploads/2026/10/arenaev_001-1.jpg",
+    "publishedAt": "2026-10-10T09:15:57Z",
+    "lang": "uk",
+    "source": {
+      "id": "391d17d071b755a4bda37c1b43f47c2c",
+      "name": "ITC.ua",
+      "url": "https://itc.ua"
+    }
+  },
+  {
     "id": "041335aacca0c472344c14c59a2bdbcd",
     "title": "Японія планує збудувати на Місяці гігантську електростанцію: як вона працюватиме",
     "description": "Роботи побудують пояс сонячних батарей, що простягнеться навколо всього екватора Місяця. Довжина становитиме 11 тис. км, а ширина в найширшому місці - 400 км.",
@@ -87,66 +147,6 @@
       "id": "7ab609f566cdbec66a589947504f2d4c",
       "name": "Zaxid.net",
       "url": "https://zaxid.net"
-    }
-  },
-  {
-    "id": "2d04dc0949cef711295b088db2931a0a",
-    "title": "SpaceX виходить на ринок мобільного зв'язку США",
-    "description": "Компанія Маска домовилася про купівлю радіочастот у США приблизно за 8 млрд доларів.",
-    "content": "Компанія Маска домовилася про купівлю радіочастот у США приблизно за 8 млрд доларів.\nКомпанія Ілона Маска отримає доступ до низькочастотного спектра, що дасть супутниковому сервісу Starlink Mobile змогу конкурувати з традиційними мобільними оператора... [897 chars]",
-    "url": "https://ua.korrespondent.net/business/companies/4918722-SpaceX-vykhodyt-na-rynok-mobilnoho-zviazku-ssha",
-    "image": "https://kor.ill.in.ua/m/1260x900/4591295.jpg",
-    "publishedAt": "2026-10-09T12:49:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "5f3893b2bdd83721567eef82ac0a6d2e",
-      "name": "Korrespondent.net",
-      "url": "https://ua.korrespondent.net"
-    }
-  },
-  {
-    "id": "399de856bf87dd45124d93640031778e",
-    "title": "Пакистан розповів про виробництво Haider як копії конкурента танка \"Оплот\", до якого були харківські Т-80УД",
-    "description": "Якими темпами пакистанська промисловість може виготовляти Haider як вітчизняну копію китайського танка VT-4, що став конкурентом українського \"Оплота\", і чому тут виникла згадка про харківські Т-80УД",
-    "content": "Оборонна промисловість Пакистану на даний момент уже виготовила понад 100 танків Haider, які є локалізованою копією китайського ОБТ VT-4, котрий в свою чергу відомий як конкурент українського танка \"Оплот\" на ринках країн Азії.\nТемп виробництва таких... [1623 chars]",
-    "url": "https://defence-ua.com/news/pakistan_rozpoviv_pro_virobnitstvo_haider_jak_kopiji_konkurenta_tanka_oplot_do_jakogo_buli_harkivski_t_80ud-24446.html",
-    "image": "https://defence-ua.com/media/illustration/articles/4d06ac8ab4f3b1a2.jpg",
-    "publishedAt": "2026-10-09T11:57:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "f488af954cb509cbacccbd34e7f47985",
-      "name": "Defense Express",
-      "url": "https://defence-ua.com"
-    }
-  },
-  {
-    "id": "8b2d8dcdfd6ba4f9bf1655bf37a588a8",
-    "title": "Mafia III вийшла на PS5 та Xbox Series X|S із підтримкою 60 FPS",
-    "description": "Mafia III: Definitive Edition отримала нативні версії для PS5 та Xbox Series X|S. Власники старих версій можуть оновитися безкоштовно, але перенести збереження не вийде.",
-    "content": "Mafia III: Definitive Edition отримала версії для PlayStation 5 та Xbox Series X|S до десятиріччя гри. Оновлене видання підтримує режим 60 кадрів за секунду, а також містить виправлення технічних проблем, графічних помилок і баґів, які могли блокуват... [2001 chars]",
-    "url": "https://itc.ua/ua/novini/mafia-iii-vyjshla-na-ps5-ta-xbox-series-x-s-iz-pidtrymkoyu-60-fps/",
-    "image": "https://cdn.itc.ua/uploads/2026/10/ss_ceaaa39640fb02e7949568432b0157a3a4280125.1920x1080.jpg",
-    "publishedAt": "2026-10-09T10:23:01Z",
-    "lang": "uk",
-    "source": {
-      "id": "391d17d071b755a4bda37c1b43f47c2c",
-      "name": "ITC.ua",
-      "url": "https://itc.ua"
-    }
-  },
-  {
-    "id": "e2d675fa1ae6c4ed428cfbb231772cba",
-    "title": "Дизайн у стилі космічного корабля: BYD Tang отримав два екрани на 30 дюймів",
-    "description": "BYD Tang третього покоління: дисплеї 30 і 35,4 дюйма, батареї до 105,792 кВт·год, запас ходу до 850 км і заряджання 10–70% за 5 хвилин. Продажі в Китаї почнуться до кінця року.",
-    "content": "BYD поділилася подробицями щодо нового Tang третього покоління — п’ятимісного електричного кросовера з дизайном у стилі космічного корабля. Модель отримала два великі дисплеї, крісла з кутом нахилу до 130 градусів і нову батарею Blade 2.0, яка підтри... [1762 chars]",
-    "url": "https://itc.ua/ua/novini/byd-tang-otrymav-dva-ekrany-na-30-dyujmiv/",
-    "image": "https://cdn.itc.ua/uploads/2026/10/BYD-Tang-EV-SUV.jpg",
-    "publishedAt": "2026-10-09T10:19:46Z",
-    "lang": "uk",
-    "source": {
-      "id": "391d17d071b755a4bda37c1b43f47c2c",
-      "name": "ITC.ua",
-      "url": "https://itc.ua"
     }
   }
 ]
