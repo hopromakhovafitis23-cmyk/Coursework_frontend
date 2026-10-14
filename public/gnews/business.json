@@ -1,5 +1,35 @@
 [
   {
+    "id": "ae9a891f0294220686f43fe97312b45b",
+    "title": "дизайн від Tucson та гібрид",
+    "description": "На Паризькому автосалоні показали новий кросовер Hyundai Bayon. Автомобіль отримав брутальний дизайн та гібридний двигун - Авто24",
+    "content": "На Паризькому автосалоні корейці показали абсолютно нове втілення свого найменшого європейського кросовера. Новий Bayon остаточно позбувся образу \"скромного малюка\" і приміряв брутальний фірмовий дизайн \"Мистецтво сталі\", який ми вже бачили на свіжом... [1035 chars]",
+    "url": "https://24tv.ua/auto/novyi_hyundai_bayon_radykalno_zminyv_vyhliad_teper_tse_mini_tucson_iz_povnotsinnym_hibrydom_n76684",
+    "image": "https://24tv.ua/auto/resources/photos/news/202610/76684f6a9dc79-aa43-420a-952d-70d4e88ef0ad.jpg",
+    "publishedAt": "2026-10-14T07:50:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "e737a8e76b161ef4526698e2ec5f60c9",
+      "name": "24 Канал",
+      "url": "https://24tv.ua"
+    }
+  },
+  {
+    "id": "a5110ee7c71a82a19129ca7eba8674f7",
+    "title": "Заборона автомобілів Polestar у США спантеличила виробника",
+    "description": "Автовиробник електричних автомобілів Polestar вимагає пояснень щодо заборони діяльності в США, адже споріднена компанія Volvo досі продає автомобілі.",
+    "content": "Автовиробник електричних автомобілів Polestar вимагає пояснень щодо заборони діяльності в США, адже споріднена компанія Volvo досі продає автомобілі.\nPolestar очікував отримати дозвіл на продаж автомобілів у США.\nУряд США заборонив продажі Polestar.\n... [3685 chars]",
+    "url": "https://motorcar.com.ua/news/zaborona-avtomobiliv-polestar-ssha-prychyny-2026/",
+    "image": "https://motorcar.com.ua/wp-content/uploads/2020/10/polestar-precept.jpg",
+    "publishedAt": "2026-10-14T07:20:45Z",
+    "lang": "uk",
+    "source": {
+      "id": "ccf5b23cf2f813320e7baafea8cf4ea7",
+      "name": "Motorcar",
+      "url": "https://motorcar.com.ua"
+    }
+  },
+  {
     "id": "c25d5cecfc81e2c67418fb3dd77ad1d0",
     "title": "механік поділився результатами",
     "description": "Механік вирішив порівняти двигуни від Volkswagen та китайського MG3. Результати порівняння показали як сильні, так і слабкі сторони китайської інженерії.",
@@ -117,36 +147,6 @@
       "id": "d1ef16b5a7558a99f3c289a3b0f93527",
       "name": "Спільнота програмістів",
       "url": "https://dou.ua"
-    }
-  },
-  {
-    "id": "b1003c7d78456bdc1c447a630f4d0171",
-    "title": "Китайський Avatr вийде на європейський ринок у 2027 році",
-    "description": "Першими країнами для експансії стануть Норвегія та Іспанія, де дебютують універсал 06T і кросовер 07L. Протягом наступних трьох років в Європі з являться ще шість моделей.",
-    "content": "Першими країнами для експансії стануть Норвегія та Іспанія, де дебютують універсал 06T і кросовер 07L. Протягом наступних трьох років в Європі з'являться ще шість моделей.\nКитайський автомобільний бренд Avatr оголосив про вихід на європейський ринок ... [2248 chars]",
-    "url": "https://ua.korrespondent.net/business/auto/4919685-kytaiskyi-Avatr-vyide-na-yevropeiskyi-rynok-u-2027-rotsi",
-    "image": "https://kor.ill.in.ua/m/1260x900/4595270.jpg",
-    "publishedAt": "2026-10-13T11:37:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "5f3893b2bdd83721567eef82ac0a6d2e",
-      "name": "Korrespondent.net",
-      "url": "https://ua.korrespondent.net"
-    }
-  },
-  {
-    "id": "021b3bf052777f1b4bac2182fb4b6947",
-    "title": "Названо найпопулярніші бензинові авто України у вересні",
-    "description": "У вересні серед нових автомобілів лідирував Hyundai Tucson, а серед імпортованих вживаних - Volkswagen Golf.",
-    "content": "У вересні серед нових автомобілів лідирував Hyundai Tucson, а серед імпортованих вживаних - Volkswagen Golf.\nУ вересні автопарк України поповнили 13,1 тис. нових і вживаних бензинових машин, що на 4% більше, ніж за аналогічний місяць минулого року, п... [721 chars]",
-    "url": "https://ua.korrespondent.net/business/auto/4919658-nazvano-naipopuliarnishi-benzynovi-avto-ukrainy-u-veresni",
-    "image": "https://kor.ill.in.ua/m/1260x900/4595219.jpg",
-    "publishedAt": "2026-10-13T10:47:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "5f3893b2bdd83721567eef82ac0a6d2e",
-      "name": "Korrespondent.net",
-      "url": "https://ua.korrespondent.net"
     }
   }
 ]
