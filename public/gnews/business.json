@@ -1,5 +1,65 @@
 [
   {
+    "id": "baa2db4cb9cd843d0cfc8e6d9aa318db",
+    "title": "Двигун Volkswagen проти китайського мотора",
+    "description": "Механік порівняв Volkswagen 1.5 TSI та MG3 Super Hybrid 1.5: у китайського мотора він зафіксував ерозію циліндрів і розподільних валів після кількох тисяч кілометрів.",
+    "content": "Механік відзначив у Volkswagen 1.5 TSI товстіші стінки циліндрів і міцніші поршні, тоді як у MG3 Super Hybrid його насторожила зносостійкість металу.\nСуперечки довкола того, чи здатний автопром Піднебесної змагатися у надійності з європейськими автог... [3182 chars]",
+    "url": "https://today.ua/494629-kitajskij-chi-nimeckij-dvigun-mehanik-yih-porivnyav-ta-znajshov-trivozhni-vidminnosti/",
+    "image": "https://today.ua/storage/images/media/oct2026/20837-yutk9lyahr0chm6ly9vy2rulmv1l3b1bhnjbxmtdhjhbnnmb3jtcy8xl3lwwwt0a3buvvjcwhk5a05evxhnbuuzt1rwbe5xstvza-crop-1200-675.webp",
+    "publishedAt": "2026-10-15T15:03:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "3c4c1bd00c486397f0eed2b180a72c3c",
+      "name": "Today.ua",
+      "url": "https://today.ua"
+    }
+  },
+  {
+    "id": "e90b7e1dae66e5fb4777b70c439c7fcc",
+    "title": "Навіть $500 тисяч на рік не рятують: заможні американці живуть від зарплати до зарплати",
+    "description": "40% опитаних американців із річними доходами понад $500 тис. заявили, що переважно живуть від зарплати до зарплати та мають труднощі з досягненням довгострокових фінансових цілей.",
+    "content": "40% опитаних американців із річними доходами понад $500 тис. заявили, що переважно живуть від зарплати до зарплати та мають труднощі з досягненням довгострокових фінансових цілей. Про це йдеться у звіті Goldman Sachs Asset Management Retirement Surve... [1453 chars]",
+    "url": "https://minfin.com.ua/ua/2026/10/15/183617670/",
+    "image": "https://minfin.com.ua/img/2026/183617670/e2cb134e5bc46ed500d8bb32f3792740.jpeg",
+    "publishedAt": "2026-10-15T12:42:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "6028444ee1303e4577f50406a4c7988e",
+      "name": "Мінфін",
+      "url": "https://minfin.com.ua"
+    }
+  },
+  {
+    "id": "de1d38675793fbb3333b4cc27f81b452",
+    "title": "Виробника CAESAR та Leopard 2A8 поділять навпіл Німеччина та Франція, які практично націоналізують оборонного гіганта",
+    "description": "Замість виходу на біржу компанію KNDS поділять між Францією та Німеччиною без сторонніх власників і це на фоні сварок між країнами по оборонних проєктах",
+    "content": "Попри попередні плани Німеччина та Франція збираються поділити порівну власність над оборонним гігантом KNDS у пропорціях 50 на 50. Можна сказати, що таким чином вони націоналізують компанію.\nЯк повідомляє Handelsblatt з посиланням на власні джерела ... [2240 chars]",
+    "url": "https://defence-ua.com/people_and_company/virobnika_caesar_ta_leopard_2a8_podiljat_navpil_nimechchina_ta_frantsija_jaki_praktichno_natsionalizujut_oboronnogo_giganta-24496.html",
+    "image": "https://defence-ua.com/media/illustration/articles/a756ad0aa2f93b61.jpg",
+    "publishedAt": "2026-10-15T10:37:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "f488af954cb509cbacccbd34e7f47985",
+      "name": "Defense Express",
+      "url": "https://defence-ua.com"
+    }
+  },
+  {
+    "id": "7cfb43c133552b244b72df60a60ed99a",
+    "title": "Продажі дизельних авто в Україні впали на 14%",
+    "description": "У вересні українці придбали 4,5 тисячі дизельних легковиків, що свідчить про падіння попиту. Дізнайтеся рейтинг найпопулярніших моделей на Авто24.",
+    "content": "Як повідомляє Укравтопром, загальна статистика розділилася на два сегменти, де імпорт вживаних машин традиційно домінує над покупкою нових. Зокрема, з-за кордону завезли близько 3,5 тисячі автомобілів з пробігом, тоді як з автосалонів виїхало лише бл... [1013 chars]",
+    "url": "https://24tv.ua/auto/ukraintsi_vtrachaiut_interes_do_dyzelia_yaki_modeli_na_vazhkomu_palyvi_shche_kupuiut_n76753",
+    "image": "https://24tv.ua/auto/resources/photos/news/202610/7675343bcf0cd-c3b4-44f6-beda-32c78c125449.jpg",
+    "publishedAt": "2026-10-15T09:40:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "e737a8e76b161ef4526698e2ec5f60c9",
+      "name": "24 Канал",
+      "url": "https://24tv.ua"
+    }
+  },
+  {
     "id": "da9b6bc500b5a3a73f5023d83f8fc4dd",
     "title": "Apple досягла $5 трлн капіталізації • Межа",
     "description": "Apple вперше закрила торговий день із капіталізацією понад $5 трлн і стала другою компанією після NVIDIA, яка подолала цей рубіж.",
@@ -87,66 +147,6 @@
       "id": "e737a8e76b161ef4526698e2ec5f60c9",
       "name": "24 Канал",
       "url": "https://24tv.ua"
-    }
-  },
-  {
-    "id": "be12574d45627ac2e67fc12cdd4d8d7c",
-    "title": "Долар зріс до максимуму за майже півтора року",
-    "description": "Долар зміцнився до найвищого рівня за понад рік, оскільки висока інфляції в США змушують трейдерів чекати підвищення процентних ставок ФРС - подробиці на УНІАН.",
-    "content": "Долар зріс до найвищого рівня з травня 2025 року на тлі прискорення інфляції у США. Це спонукало трейдерів збільшити ставки на те, що Федеральна резервна система (ФРС) підвищить процентні ставки.\nЯк пише Bloomberg, 14 жовтня індекс долара, що визнача... [2542 chars]",
-    "url": "https://www.unian.ua/economics/finance/dolar-zris-do-maksimumu-za-mayzhe-pivtora-roki-13528869.html",
-    "image": "https://images.unian.net/photos/2018_08/thumb_files/620_324_1535540485-6704.JPG?1",
-    "publishedAt": "2026-10-14T14:36:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "d4361862486677369ff2ae7719b8d313",
-      "name": "УНІАН",
-      "url": "https://www.unian.ua"
-    }
-  },
-  {
-    "id": "24b1585b17a55df18a4eea12ddcc59e0",
-    "title": "Скільки коштує зарядна станція для квартири: актуальні ціни у жовтні 2026 року",
-    "description": "Як забезпечити квартиру світлом 24/7 під час блек-аутів. Які актуальні ціни на зарядні станції від 600 до 3600 Вт, можливості підключення техніки та правила безпеки.",
-    "content": "Повномасштабна війна диктує українцям нові вимоги й змушує пристосовуватись до різних реалій. Щороку російська армія намагається знищити енергетичну інфраструктуру України, через що українці змушені сидіти тривалий час без світла. Дехто пристосовуєть... [3775 chars]",
-    "url": "https://novyny.live/ekonomi/svitlo-247-skilki-koshtuie-zariadna-stantsiia-dlia-kvartiri-348000.html",
-    "image": "https://novyny.live/cdn-cgi/imagedelivery/4_JwVYxosZqzJ7gIDJgTLA/51e19a76-bd56-4a4d-ae4b-045f2f5c6700/16x9",
-    "publishedAt": "2026-10-14T14:12:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "24859de7683ddeaf2e8bc4f3eec7de6b",
-      "name": "Новини.Live",
-      "url": "https://novyny.live"
-    }
-  },
-  {
-    "id": "345fee10165fdfd187c4732ec79877a4",
-    "title": "Туалетний папір відходить у минуле",
-    "description": "Більш дорогі електричні моделі також оснащені підігрівом сидіння, сушінням теплим повітрям, системою самоочищення форсунки та дистанційним керуванням.",
-    "content": "У світі набирають популярності сидіння-біде, які дозволяють митися теплою водою, регулювати напір струменя і навіть сушити шкіру теплим повітрям.\nТакі пристрої, які вже давно поширені в Японії, тепер поступово з’являються й у будинках інших країн, а ... [4025 chars]",
-    "url": "https://www.unian.ua/curiosities/tualetniy-papir-vidhodit-u-minule-populyarne-rishennya-u-2026-roci-13528668.html",
-    "image": "https://images.unian.net/photos/2026_09/thumb_files/620_324_1789214885-9991.jpg?1",
-    "publishedAt": "2026-10-14T12:27:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "d4361862486677369ff2ae7719b8d313",
-      "name": "УНІАН",
-      "url": "https://www.unian.ua"
-    }
-  },
-  {
-    "id": "f289f33ee35b5da638b5b717a18d2dcd",
-    "title": "Названо найпопулярніші гібридні авто України у вересні",
-    "description": "В сегменті нових легкових гібридних авто лідером ринку гібридів залишається - Toyota RAV4.",
-    "content": "В сегменті нових легкових гібридних авто лідером ринку гібридів залишається - Toyota RAV4.\nУ вересні автопарк України поповнили понад 3,8 тис. гібридних легковиків - HEV та PHEV. Порівняно з вереснем 2025 року кількість таких авто зросла на 44%. Про ... [737 chars]",
-    "url": "https://ua.korrespondent.net/business/auto/4920022-nazvano-naipopuliarnishi-hibrydni-avto-ukrainy-u-veresni",
-    "image": "https://kor.ill.in.ua/m/1260x900/4596042.png",
-    "publishedAt": "2026-10-14T11:29:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "5f3893b2bdd83721567eef82ac0a6d2e",
-      "name": "Korrespondent.net",
-      "url": "https://ua.korrespondent.net"
     }
   }
 ]
