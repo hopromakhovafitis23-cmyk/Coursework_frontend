@@ -90,6 +90,21 @@
     }
   },
   {
+    "id": "c794e832ce557f83ff890b26b73c6b65",
+    "title": "Renault забороняє партнерам копіювати дизайн своїх авто",
+    "description": "Французький бренд припиняє практику випуску однакових авто під різними логотипами. Чому нові спільні моделі стануть унікальними, читайте на Авто24.",
+    "content": "Як повідомляє видання Autocar із посиланням на інсайдерські джерела, керівництво Renault висловило серйозне невдоволення візуальною схожістю між новими електромобілями Nissan Micra EV та власною моделлю Renault 5 E-Tech. Хоча японський бренд перероби... [2335 chars]",
+    "url": "https://24tv.ua/auto/renault_vtomylasia_vid_kloniv_kompaniia_radykalno_zminiuie_pravyla_hry_dlia_partneriv_n76808",
+    "image": "https://24tv.ua/auto/resources/photos/news/202610/768088cae4f39-8cf1-497f-9da0-8fb7537283d0.jpg",
+    "publishedAt": "2026-10-15T07:00:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "e737a8e76b161ef4526698e2ec5f60c9",
+      "name": "24 Канал",
+      "url": "https://24tv.ua"
+    }
+  },
+  {
     "id": "da9b6bc500b5a3a73f5023d83f8fc4dd",
     "title": "Apple досягла $5 трлн капіталізації • Межа",
     "description": "Apple вперше закрила торговий день із капіталізацією понад $5 трлн і стала другою компанією після NVIDIA, яка подолала цей рубіж.",
@@ -132,21 +147,6 @@
       "id": "5f3893b2bdd83721567eef82ac0a6d2e",
       "name": "Korrespondent.net",
       "url": "https://ua.korrespondent.net"
-    }
-  },
-  {
-    "id": "f041a9ff312cd3bbc2ab9e0a9db4f0fb",
-    "title": "Попит на гібридні авто в Україні стрімко зростає: найпопулярніші моделі серед нових та вживаних",
-    "description": "Лідером серед нових легкових гібридів на українському ринку залишається Toyota RAV4.",
-    "content": "Незмінний лідер рейтингу. Фото: Toyota\nМинулого місяця український автопарк поповнили понад 3,8 тисячі гібридних легкових автомобілів (HEV і PHEV). Це на 44% більше, ніж за аналогічний період минулого року, повідомляє \"УкрАвтопром\".\nЧастка нових маши... [1250 chars]",
-    "url": "https://pravdatutnews.com/avto/2026/10/14/87358-popyt-na-gibrydni-avto-v-ukrayini-strimko-zrostaye",
-    "image": "https://pravdatutnews.com/sites/default/files/news/2026/10/14/toyota_rav4-gibrid_toyota.jpg",
-    "publishedAt": "2026-10-14T17:21:02Z",
-    "lang": "uk",
-    "source": {
-      "id": "716e7cb92f5f203aa3506c9ba057538c",
-      "name": "ПравдаТУТ NEWS",
-      "url": "https://pravdatutnews.com"
     }
   }
 ]
