@@ -1,5 +1,65 @@
 [
   {
+    "id": "d4535398ec7489b53163e9fd3fc6e45b",
+    "title": "Вчені розкрили механізм, за допомогою якого вправи омолоджують м'язи",
+    "description": "Міжнародна група науковців із Медичної школи Duke-NUS, Сінгапурської загальної лікарні та Кардіффського університету виявила молекулярний механізм, який пояснює здатність фізичних навантажень повертати назад процес старіння м'язів.",
+    "content": "Міжнародна група науковців із Медичної школи Duke-NUS, Сінгапурської загальної лікарні та Кардіффського університету виявила молекулярний механізм, який пояснює здатність фізичних навантажень повертати назад процес старіння м’язів. Згідно з результат... [1701 chars]",
+    "url": "https://bukvy.org/vcheni-rozkryly-mehanizm-za-dopomogoyu-yakogo-vpravy-omolodzhuyut-m-yazy/",
+    "image": "https://bukvy.org/wp-content/uploads/devitem_opengraph_images/354266.jpg",
+    "publishedAt": "2026-10-16T22:01:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "8bbee1c72678a4ab4a072b208e0690f3",
+      "name": "Букви",
+      "url": "https://bukvy.org"
+    }
+  },
+  {
+    "id": "f130bac17cf7d3cde0bac103719bab9e",
+    "title": "У USC розробили метод вирощування імунних клітин проти раку - ScienceDaily",
+    "description": "Дослідники Університету Південної Каліфорнії (USC) розробили метод тривалого вирощування та генетичного модифікування попередників імунних клітин.",
+    "content": "Дослідники Університету Південної Каліфорнії (USC) розробили метод тривалого вирощування та генетичного модифікування попередників імунних клітин. У дослідах на мишах такі клітини оселялися в кістковому мозку, утворювали нові імунні клітини та уповіл... [2175 chars]",
+    "url": "https://ua.news/ua/health/u-usc-rozrobili-metod-viroshchuvannia-imunnikh-klitin-proti-raku-sciencedaily",
+    "image": "https://cdn-cabinet.ua.news/uploads/images/usc_developed_method_to_grow_cancer_figh_1792183367813.webp",
+    "publishedAt": "2026-10-16T20:42:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "54b33233e9f0f396fe0c9e0f95f2a6f6",
+      "name": "UA.NEWS",
+      "url": "https://ua.news"
+    }
+  },
+  {
+    "id": "83724f606201b4fd0dc6e7186d65457c",
+    "title": "Дієта й вправи забезпечили ремісію діабету у 27 з 50 учасників - ScienceAlert",
+    "description": "У Канаді та Великій Британії поєднання низькокалорійної дієти зі структурованими фізичними вправами дало змогу досягти ремісії цукрового діабету 2 типу у 27 із 50 учасників групи втручання за 24 тижні. У контрольній групі ремісію зафіксували у двох людей, повідомляє ScienceAlert.",
+    "content": "У Канаді та Великій Британії поєднання низькокалорійної дієти зі структурованими фізичними вправами дало змогу досягти ремісії цукрового діабету 2 типу у 27 із 50 учасників групи втручання за 24 тижні. У контрольній групі ремісію зафіксували у двох л... [1892 chars]",
+    "url": "https://ua.news/ua/health/diieta-i-vpravi-zabezpechili-remisiiu-diabetu-u-27-z-50-uchasnikiv-sciencealert",
+    "image": "https://cdn-cabinet.ua.news/uploads/images/diet_and_exercise_diabetes_remission_stu_1792181996508.webp",
+    "publishedAt": "2026-10-16T20:20:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "54b33233e9f0f396fe0c9e0f95f2a6f6",
+      "name": "UA.NEWS",
+      "url": "https://ua.news"
+    }
+  },
+  {
+    "id": "fb1e4a646e2138d38e63000ec5fb7e96",
+    "title": "19, вітрянки та менінгокока",
+    "description": "Які вакцини потрібні дітям і дорослим? Щеплення від грипу, COVID-19, вітрянки та менінгокока: користь, терміни вакцинації та можливі реакції.",
+    "content": "Більшість інфекцій не починаються з чогось страшного. Трохи підвищена температура, втома, голова болить, закладений ніс. Звичайна застуда, думаємо ми. Але іноді під цим “нічого особливого” ховається хвороба, яка може закінчитися серйозними ускладненн... [9826 chars]",
+    "url": "https://znaj.org/vakczynacziya-ditej-i-doroslyh-yaki-shheplennya-zahyshhayut-vid-nebezpechnyh-infekczij/",
+    "image": "https://znaj.org/wp-content/uploads/2025/06/apple-icon-180x180-1-150x150.png",
+    "publishedAt": "2026-10-16T16:02:37Z",
+    "lang": "uk",
+    "source": {
+      "id": "bd7b764990b8b074299eb95a36aefb39",
+      "name": "ZNAJ.ORG",
+      "url": "https://znaj.org"
+    }
+  },
+  {
     "id": "89530ebc502fc840a9aacb3f34295bff",
     "title": "кардіологи назвали найефективніший овоч для здоров'я судин",
     "description": "Лікарі радять додати буряк та його бадилля до щоденного меню: природні нітрати розширюють судини й нормалізують самопочуття без зайвих зусиль.",
@@ -87,66 +147,6 @@
       "id": "687b815419a86d64780835373f4bda4f",
       "name": "Universe Space Tech",
       "url": "https://universemagazine.com"
-    }
-  },
-  {
-    "id": "02bd1fb5263fab55c68ec3bd642e13fd",
-    "title": "Яку рибу їсти замість лосося",
-    "description": "Форель може замінити лосось - чому її вважають корисною для здоров'я та які її переваги ᐅTSN.ua (новини 1+1).",
-    "content": "Лосось залишається одним із найпопулярніших варіантів для тих, хто хоче додати до раціону корисну рибу. Однак гідною альтернативою йому може стати райдужна форель. Вона містить багато білка, водночас є менш калорійною та має нижчий вміст жиру.\nПро це... [2073 chars]",
-    "url": "https://tsn.ua/other/tsia-biudzetna-ryba-moze-zaminyty-losos-u-niy-bahato-bilka-ta-menshe-zyru-3191367.html",
-    "image": "https://img.tsn.ua/cached/992/tsn-1284f5ef/thumbs/1200x630/37/bb/7951e667b86d5a027b0571b90644bb37.jpg",
-    "publishedAt": "2026-10-16T09:24:03Z",
-    "lang": "uk",
-    "source": {
-      "id": "ae8b9c98d707754fca5e1ea622855c50",
-      "name": "ТСН",
-      "url": "https://tsn.ua"
-    }
-  },
-  {
-    "id": "28e5c79233946ff1d521b26a367a7045",
-    "title": "Лікарі виявили поширену харчову звичку, що шкодить печінці",
-    "description": "У дослідженні проаналізували дані 199 155 осіб",
-    "content": "Вчені виявили, що пізні перекуси асоціюються з підвищеним ризиком розвитку двох захворювань печінки: цирозу на 28% та метаболічно асоційованої стеатотичної хвороби печінки (MASLD) на 36%, проти стандартного режиму харчування. Про це йдеться в дослідж... [1025 chars]",
-    "url": "https://life.liga.net/health/news/odna-zvychka-kharchuvannia-mozhe-znachno-pidvyshchuvaty-ryzyk-dvokh-khvorob-pechinky",
-    "image": "https://storage.liga.net/images/general/social/social-4644131-ua.png?v=1792140685",
-    "publishedAt": "2026-10-16T09:10:06Z",
-    "lang": "uk",
-    "source": {
-      "id": "bbf1605b958b020fa27799844b910803",
-      "name": "LIGA.net",
-      "url": "https://life.liga.net"
-    }
-  },
-  {
-    "id": "9bceb9ee78bf68dd5a3de8e8fab1f9e5",
-    "title": "Епілепсія у 30-55 років пов'язана з ушестеро вищим ризиком ранньої деменції",
-    "description": "За десятиліття деменція настала у 2,2 % людей із новою епілепсією проти 0,21 % без неї. Пік — в перший рік після діагнозу: напади можуть бути передвісником. Neurology.",
-    "content": "У людей, яким у віці 30–55 років діагностували епілепсію, виявили приблизно вшестеро вищий ризик розвитку деменції у віці до 65 років, ніж у їхніх однолітків без епілепсії. Найсильніший зв’язок між епілепсією та деменцією спостерігали протягом першог... [2350 chars]",
-    "url": "https://nauka.ua/news/u-lyudej-iz-diagnostovanoyu-v-serednomu-vici-epilepsiyeyu-viyavivsya-vishchim-rizik-rannoyi-demenciyi",
-    "image": "https://nauka.ua/storage/uploads/public/6ad/1e5/fbc/6ad1e5fbc75ba623128593.jpg",
-    "publishedAt": "2026-10-16T08:53:47Z",
-    "lang": "uk",
-    "source": {
-      "id": "780644dab43a156799ba55a022663644",
-      "name": "nauka.ua",
-      "url": "https://nauka.ua"
-    }
-  },
-  {
-    "id": "75b707c481725baf954c804f542c8532",
-    "title": "Рак кишківника пов'язали не з ультраобробленою їжею, а з м'ясними виробами",
-    "description": "461 682 американці, 19 років, раціон питали раз. У любителів хліба, сухих сніданків і молочного ризик до 18 % нижчий, переробленого м'яса — на 10 % вищий. PLOS Medicine.",
-    "content": "Американські науковці не виявили зв'язку між загальним споживанням ультраоброблених продуктів і ризиком розвитку колоректального раку, який уражає товсту та пряму кишки. Водночас ризик захворювання відрізнявся залежно від категорій продуктів: спожива... [3247 chars]",
-    "url": "https://nauka.ua/news/amerikanski-naukovci-ne-znajshli-zvyazku-mizh-poyidannyam-silno-obroblenih-produktiv-i-rizikom-raku-kishkivnika",
-    "image": "https://nauka.ua/storage/uploads/public/6ad/1df/a07/6ad1dfa071412940405733.jpg",
-    "publishedAt": "2026-10-16T08:27:21Z",
-    "lang": "uk",
-    "source": {
-      "id": "780644dab43a156799ba55a022663644",
-      "name": "nauka.ua",
-      "url": "https://nauka.ua"
     }
   }
 ]
