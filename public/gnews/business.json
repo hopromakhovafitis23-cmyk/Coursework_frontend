@@ -1,5 +1,20 @@
 [
   {
+    "id": "3b35457a0d3a5b60f0e19d3c558ec27a",
+    "title": "\"Літаюча\" Tesla стала героїнею мемів: українці у мережі висміяли Маска й згадали про маршрутку \"Богдан\". Фото",
+    "description": "Компанія Tesla американського мільярдера Ілона Маска днями презентувала електромобіль Roadster другого покоління , на розробку якого пішло майже 10 ро",
+    "content": "Компанія Tesla американського мільярдера Ілона Маска днями презентувала електромобіль Roadster другого покоління, на розробку якого пішло майже 10 років. Завдяки ракетним двигунами SpaceX машина може підніматися в повітря та виконувати незвичайні ман... [1173 chars]",
+    "url": "https://www.obozrevatel.com/ukr/section-novosti-obschestvo/news-litayucha-tesla-stala-heroyineyu-memiv-ukrayintsi-u-merezhi-vysmiyaly-maska-y-zhadaly-pro-marshrutku-bohdan-foto-17-10-2026.html",
+    "image": "https://i.obozrevatel.com/news/2026/10/17/filestoragetemp-1.jpeg?size=1280x720",
+    "publishedAt": "2026-10-16T22:59:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "ca149ffefb31c86f82d7f299d744af59",
+      "name": "OBOZ.UA",
+      "url": "https://www.obozrevatel.com"
+    }
+  },
+  {
     "id": "8b61d7985d14687f5f1d5044553f819d",
     "title": "BMW i3 проїхав 1213 км на одному заряді в реальному тесті",
     "description": "Під час випробування електричний седан Neue Klasse подолав понад 1200 км і завершив поїздку із зарядом батареї 1%.",
@@ -132,21 +147,6 @@
       "id": "ae8b9c98d707754fca5e1ea622855c50",
       "name": "ТСН",
       "url": "https://tsn.ua"
-    }
-  },
-  {
-    "id": "badc29f2fb25ad82969a3a4e7ed56fe5",
-    "title": "Посунься, ASML: Китай представив ключовий елемент для EUV-літографії",
-    "description": "На Міжнародній промисловій виставці у Шанхаї китайський стартап Langdao Silex представ",
-    "content": "На Міжнародній промисловій виставці у Шанхаї китайський стартап Langdao Silex представив власне джерело EUV-випромінювання.\nУстановка отримала назву FlintNano LPP-OXXO. В компанії заявляють, що як ключовий елемент EUV-літографії, розробка отримала на... [1894 chars]",
-    "url": "https://itc.ua/ua/novini/posunsya-asml-kytaj-predstavyv-klyuchovyj-element-dlya-euv-litografiyi/",
-    "image": "https://cdn.itc.ua/uploads/2026/10/imgonline-com-ua-convertyp6zF4PClz6e.jpg",
-    "publishedAt": "2026-10-16T14:08:22Z",
-    "lang": "uk",
-    "source": {
-      "id": "391d17d071b755a4bda37c1b43f47c2c",
-      "name": "ITC.ua",
-      "url": "https://itc.ua"
     }
   }
 ]
