@@ -1,5 +1,50 @@
 [
   {
+    "id": "66f75d01b22badf9f522f9ecfaafac71",
+    "title": "Учені випробували препарат, який захищає кишківник від глютену: результати дослідження",
+    "description": "УНН Здоров'я ✎ ANB033 зменшив ушкодження кишківника у пацієнтів із целіакією після вживання глютену. Препарат ще потребує масштабніших\nвипробувань.",
+    "content": "Науковці повідомили про успішні результати ранніх клінічних випробувань експериментального препарату ANB033, який може захищати кишківник людей із целіакією від пошкоджень після вживання глютену. Про це повідомило агентство Reuters, пише УНН.\nДеталі\n... [1135 chars]",
+    "url": "https://unn.ua/news/ucheni-vyprobuvaly-preparat-yakyi-zakhyshchaie-kyshkivnyk-vid-hliutenu-rezultaty-doslidzhennia",
+    "image": "https://unn.ua/img/2026/10/16/1792190622-4465-large.webp",
+    "publishedAt": "2026-10-17T01:38:42Z",
+    "lang": "uk",
+    "source": {
+      "id": "052123f557cbbddd4dd84cb648e3b977",
+      "name": "Українські Національні Новини (УНН)",
+      "url": "https://unn.ua"
+    }
+  },
+  {
+    "id": "2768818579d6d1e19fa3888fbe9b45ef",
+    "title": "Знеболювальне без небезпечних побічних ефектів створили вчені",
+    "description": "Вчені розробили препарат AM-3 на основі морфіну, який активується світлом. Як працює нове знеболювальне та що показали експерименти на тваринах",
+    "content": "Американські вчені розробили знеболювальний препарат, дією якого можна керувати за допомогою світла. Під впливом ультрафіолетового випромінювання він стає активним, а синє світло послаблює його дію. Такий підхід дозволяє знеболювати конкретну ділянку... [4362 chars]",
+    "url": "https://zn.ua/ukr/TECHNOLOGIES/vcheni-stvorili-zneboljuvalne-jake-mozhna-vmikati-ta-vimikati-svitlom-jak-tse-pratsjuje.html",
+    "image": "https://zn.ua/img/article/6993/25_main-v1792197790.webp",
+    "publishedAt": "2026-10-17T00:43:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "c5c959cb41bdd64f8b2b81a75752cf74",
+      "name": "Дзеркало тижня",
+      "url": "https://zn.ua"
+    }
+  },
+  {
+    "id": "9d8394faacf4d37fe59d376dd74b6d5a",
+    "title": "Дослідники посилили CAR T-клітини через активацію білка PPARD - ScienceDaily",
+    "description": "Дослідники Cold Spring Harbor Laboratory встановили, що активація білка PPARD в імунних клітинах може посилити їхню здатність атакувати пухлини.",
+    "content": "Дослідники Cold Spring Harbor Laboratory встановили, що активація білка PPARD в імунних клітинах може посилити їхню здатність атакувати пухлини. Як повідомляє ScienceDaily, у лабораторних дослідах активований PPARD допоміг модифікованим CAR T-клітина... [1700 chars]",
+    "url": "https://ua.news/ua/health/doslidniki-posilili-car-t-klitini-cherez-aktivatsiiu-bilka-ppard-sciencedaily",
+    "image": "https://cdn-cabinet.ua.news/uploads/images/ppard_activation_strengthens_car_t_cells_1792195612586.webp",
+    "publishedAt": "2026-10-17T00:06:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "54b33233e9f0f396fe0c9e0f95f2a6f6",
+      "name": "UA.NEWS",
+      "url": "https://ua.news"
+    }
+  },
+  {
     "id": "d4535398ec7489b53163e9fd3fc6e45b",
     "title": "Вчені розкрили механізм, за допомогою якого вправи омолоджують м'язи",
     "description": "Міжнародна група науковців із Медичної школи Duke-NUS, Сінгапурської загальної лікарні та Кардіффського університету виявила молекулярний механізм, який пояснює здатність фізичних навантажень повертати назад процес старіння м'язів.",
@@ -27,6 +72,21 @@
       "id": "54b33233e9f0f396fe0c9e0f95f2a6f6",
       "name": "UA.NEWS",
       "url": "https://ua.news"
+    }
+  },
+  {
+    "id": "392c47689233b5c4831cc58b4c6c3b14",
+    "title": "Дієтологиня пояснила, чому банана на сніданок недостатньо",
+    "description": "Банани містять корисні поживні речовини, але для тривалого відчуття ситості їх варто поєднувати з продуктами, багатими на білок і корисні жири",
+    "content": "Фото: depositphotos\nБанан може бути швидким і поживним варіантом сніданку, однак сам по собі він не забезпечує організм усіма необхідними поживними речовинами для повноцінного початку дня. Щоб довше залишатися ситими та підтримувати стабільний рівень... [1414 chars]",
+    "url": "https://pravdatutnews.com/health/2026/10/17/87497-diyetologynya-poyasnyla-chomu-banana-na-snidanok-nedostatno",
+    "image": "https://pravdatutnews.com/sites/default/files/news/2026/10/17/banani.jpg",
+    "publishedAt": "2026-10-16T20:35:32Z",
+    "lang": "uk",
+    "source": {
+      "id": "716e7cb92f5f203aa3506c9ba057538c",
+      "name": "ПравдаТУТ NEWS",
+      "url": "https://pravdatutnews.com"
     }
   },
   {
@@ -87,66 +147,6 @@
       "id": "d597d08d30da5c6ae044461783e5194d",
       "name": "dev.ua",
       "url": "https://dev.ua"
-    }
-  },
-  {
-    "id": "7b23d31c6202e6f72c8e5a95b16316c8",
-    "title": "Не весь жир шкідливий: вчені виявили його несподівану користь",
-    "description": "Дослідження охопило понад 100 000 учасників",
-    "content": "Наявність \"активного\" бурого жиру в організмі людини пов’язана зі зниженням ризику розвитку цукрового діабету 2-го типу, підвищеного артеріального тиску та психічних розладів, зокрема депресії та тривожності. Про це пише The Independent.\nРезультати д... [574 chars]",
-    "url": "https://life.liga.net/health/news/buryy-zhyr-mozhe-dopomahaty-pidtrymuvaty-metabolichne-ta-psykhichne-zdorovia",
-    "image": "https://storage.liga.net/images/general/social/social-4644215-ua.png?v=1792151443",
-    "publishedAt": "2026-10-16T14:40:03Z",
-    "lang": "uk",
-    "source": {
-      "id": "bbf1605b958b020fa27799844b910803",
-      "name": "LIGA.net",
-      "url": "https://life.liga.net"
-    }
-  },
-  {
-    "id": "b507f0a038f110785e01ac6d5a6f3630",
-    "title": "56% українців майже нічого не знають про ВПЛ",
-    "description": "Опитування UNFPA показало низьку обізнаність про зв’язок вірусу з раком. Читайте, чому важливі вакцинація, ПАП-тест і регулярні огляди.",
-    "content": "Понад половина опитаних в Україні (56%) майже нічого не знають про вірус папіломи людини (ВПЛ) або ніколи про нього не чули. Лише 17% добре знають, що таке ВПЛ, як він передається та які наслідки може мати.\nПро це свідчать результати дослідження гром... [3280 chars]",
-    "url": "https://medicine.rayon.in.ua/news/1109489-56-ukrayinciv-maize-nicogo-ne-znaiut-pro-virus-papilomi-liudini-rezultati-opituvannia-unfpa",
-    "image": "https://static.rayon.in.ua/Seo/62008/conversions/0ca17f63f485fc248cf2b6ff9e28895e91f49895-webp_1200.webp",
-    "publishedAt": "2026-10-16T14:34:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "c34123cf0df918272d77055061790bfd",
-      "name": "Район.Медицина",
-      "url": "https://medicine.rayon.in.ua"
-    }
-  },
-  {
-    "id": "ff70dd5b2a2dc2282e58f2b50b45d35d",
-    "title": "Бактерії навчилися жити на мідній плівці, що мала захищати від них кораблі",
-    "description": "У США гени стійкості до міді знайшли навіть у бактерій з пластин без неї: вони вже поширені. Клітини виживали за доз, вищих, ніж у найбрудніших водах. Biointerphases.",
-    "content": "У морських бактерій виявили пристосування до виживання за дуже високих концентрацій міді. Цей метал використовують у захисних плівках, які відлякують різних морських організмів від кораблів і не дають їм пошкодити корпус суден. Тож тепер для захисту ... [2091 chars]",
-    "url": "https://nauka.ua/news/bakteriyi-pristosuvalisya-vizhivati-na-midnih-plivkah-yaki-mali-zahishchati-korabli-vid-zhivih-organizmiv",
-    "image": "https://nauka.ua/storage/uploads/public/6ad/200/0d2/6ad2000d2dfbb550757123.jpg",
-    "publishedAt": "2026-10-16T10:44:59Z",
-    "lang": "uk",
-    "source": {
-      "id": "780644dab43a156799ba55a022663644",
-      "name": "nauka.ua",
-      "url": "https://nauka.ua"
-    }
-  },
-  {
-    "id": "93f7629c4467d10ff1963f89109a219e",
-    "title": "Гелікоптери NASA скануватимуть ґрунт Марса у пошуках льоду",
-    "description": "Три гелікоптери NASA місії SkyFall шукатимуть лід під поверхнею Марса і зможуть пролетіти до 300 км. Місце посадки оберуть у 2027 році.",
-    "content": "Три гелікоптери, які NASA готує до польоту на Марс, зможуть пролетіти над планетою сотні кілометрів. Зібрані ними дані мають допомогти з підготовкою висадки людей. Науковці готуються вибрати місце, звідки гелікоптери розпочнуть роботу. Орієнтиром ста... [2626 chars]",
-    "url": "https://universemagazine.com/helikoptery-nasa-skanuvatymut-grunt-marsa-poshukakh-lodu/",
-    "image": "https://universemagazine.com/wp-content/uploads/2026/10/mspqdkaa8fqcvvbdfjpjng-1200-80.jpg.webp",
-    "publishedAt": "2026-10-16T09:57:06Z",
-    "lang": "uk",
-    "source": {
-      "id": "687b815419a86d64780835373f4bda4f",
-      "name": "Universe Space Tech",
-      "url": "https://universemagazine.com"
     }
   }
 ]
