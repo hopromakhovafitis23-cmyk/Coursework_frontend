@@ -1,5 +1,20 @@
 [
   {
+    "id": "bd65ca2c8d1353bbc663a5168d69108e",
+    "title": "Найвіддаленіший швидкий радіосплеск - вчені з’ясували, звідки він прийшов - ZN.ua",
+    "description": "Вчені встановили, що стало джерелом найвіддаленішого відомого швидкого радіосплеску",
+    "content": "Вчені повідомили про виявлення найвіддаленішого швидкого радіосплеску (FRB), зафіксованого на сьогодні. Він отримав позначення FRB 20240304B. Як повідомляє Science Alert, спалах тривав одну тисячну частку секунди, а щоб дістатися до нас, йому довелос... [1259 chars]",
+    "url": "https://zn.ua/ukr/TECHNOLOGIES/do-zemli-dijshov-sihnal-epokhi-koli-vsesvitu-bulo-tri-miljardi-rokiv-vin-zdivuvav-vchenikh.html",
+    "image": "https://zn.ua/img/article/6992/87_main-v1792157061.webp",
+    "publishedAt": "2026-10-18T05:30:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "c5c959cb41bdd64f8b2b81a75752cf74",
+      "name": "Дзеркало тижня",
+      "url": "https://zn.ua"
+    }
+  },
+  {
     "id": "dfbe2f155631f0e5211855568e537a0c",
     "title": "Японія планує запустити місію MMX для повернення зразків із Фобоса - Asharq Al-Awsat",
     "description": "Японське агентство аерокосмічних досліджень JAXA планує запустити безпілотну місію Martian Moons eXploration (MMX) із космодрому Танегасіма в Японії.",
@@ -132,21 +147,6 @@
       "id": "f3e13980836c5027da583232ba783135",
       "name": "Comments UA",
       "url": "https://it.comments.ua"
-    }
-  },
-  {
-    "id": "39a555093ba5f6bff6f273eb10c4b838",
-    "title": "Астрономи виявили першу в історії зелену зірку",
-    "description": "Астрономи пояснили, чому деякі білі карлики світяться рожевим і зеленим ᐅТSN.ua (новини 1+1)",
-    "content": "Астрономи виявили білий карлик, який може мати незвичайне зелене забарвлення. Відкриття показує, що зоряні залишки, які традиційно вважають білими, насправді можуть бути рожевими, жовтими, блакитними та зеленими.\nПро це пише independent.\nНауковці дос... [1692 chars]",
-    "url": "https://tsn.ua/nauka_it/astronomy-vyiavyly-pershu-v-istoriyi-zelenu-zirku-3192267.html",
-    "image": "https://img.tsn.ua/cached/914/tsn-f2d38421711137c60c863447b76ad054/thumbs/1200x630/c0/31/9f0470ef91dd9ebbee757385f20c31c0.jpg",
-    "publishedAt": "2026-10-17T11:40:30Z",
-    "lang": "uk",
-    "source": {
-      "id": "ae8b9c98d707754fca5e1ea622855c50",
-      "name": "ТСН",
-      "url": "https://tsn.ua"
     }
   }
 ]
