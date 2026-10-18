@@ -1,5 +1,20 @@
 [
   {
+    "id": "a3d5dbbc162f49b4d554b39043a90497",
+    "title": "Українці масово купують старі авто: яка ціна найпопулярнішої моделі",
+    "description": "У вересні українці придбали 21,5 тис. ввезених з-за кордону вживаних легкових автомобілів. Середній вік таких машин склав 8,7 року. А найпопулярнішою",
+    "content": "Використання будь-яких матеріалів ( в тому числі фото- та відео-), розміщених на цьому сайті https://www.obozrevatel.com та всіх його піддоменах, в будь-якому вигляді суворо заборонено. Дозволяється використання при отриманні письмового дозволу на їх... [1817 chars]",
+    "url": "https://www.obozrevatel.com/ukr/section-ekonomika-glavnaya/economy/news-ukrayintsi-masovo-kupuyut-stari-avto-yaka-tsina-naypopulyarnishoyi-modeli-18-10-2026.html",
+    "image": "https://i.obozrevatel.com/news/2024/9/20/volkswagen-golf-8.jpg?size=1280x720",
+    "publishedAt": "2026-10-18T00:20:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "ca149ffefb31c86f82d7f299d744af59",
+      "name": "OBOZ.UA",
+      "url": "https://www.obozrevatel.com"
+    }
+  },
+  {
     "id": "a002b9fd9d4d9a37d7fe50d267b2cc48",
     "title": "Пекін взявся за заможних китайців після десятиліть лібералізму, - Reuters",
     "description": "Пекін взявся за багатих китайців, які десятиліттями ховали свої прибутки в закордонних трастах. Тепер їм доведеться за все заплатити - читайте на УНІАН",
@@ -132,21 +147,6 @@
       "id": "6c6f16cbcaf3c208bae22836580b22dc",
       "name": "Inventure.com.ua.",
       "url": "https://inventure.com.ua"
-    }
-  },
-  {
-    "id": "3f2755ba0a2c4eabb17376ad436ca2cf",
-    "title": "Найбільший банк Польщі хоче купити банк в Україні",
-    "description": "PKO Bank Polski розглядає купівлю державного або приватного банку в Україні. Конкретну установу та строки можливої угоди поки не називають.",
-    "content": "Польська банківська група PKO Bank Polski планує розширювати присутність в Україні через купівлю ще одного банку. Вона розглядає як державні, так і приватні установи.\nПро це голова правління Кредобанку, який належить польській групі, Якуб Карновскі р... [983 chars]",
-    "url": "https://epravda.com.ua/finances/naybilshiy-bank-polshchi-hoche-kupiti-bank-v-ukrajini-826654/",
-    "image": "https://img.epravda.com.ua/epravda/images/doc/f/2/189967/f20ed19461f6e92fecc51847704a488f.jpeg?w=1920&q=85",
-    "publishedAt": "2026-10-16T15:50:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "9b9cf9e76aeefea346957bfe5f6dafc5",
-      "name": "Економічна правда",
-      "url": "https://epravda.com.ua"
     }
   }
 ]
