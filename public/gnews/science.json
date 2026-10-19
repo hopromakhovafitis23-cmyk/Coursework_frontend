@@ -1,102 +1,27 @@
 [
   {
-    "id": "bd65ca2c8d1353bbc663a5168d69108e",
-    "title": "Найвіддаленіший швидкий радіосплеск - вчені з’ясували, звідки він прийшов - ZN.ua",
-    "description": "Вчені встановили, що стало джерелом найвіддаленішого відомого швидкого радіосплеску",
-    "content": "Вчені повідомили про виявлення найвіддаленішого швидкого радіосплеску (FRB), зафіксованого на сьогодні. Він отримав позначення FRB 20240304B. Як повідомляє Science Alert, спалах тривав одну тисячну частку секунди, а щоб дістатися до нас, йому довелос... [1259 chars]",
-    "url": "https://zn.ua/ukr/TECHNOLOGIES/do-zemli-dijshov-sihnal-epokhi-koli-vsesvitu-bulo-tri-miljardi-rokiv-vin-zdivuvav-vchenikh.html",
-    "image": "https://zn.ua/img/article/6992/87_main-v1792157061.webp",
-    "publishedAt": "2026-10-18T05:30:00Z",
+    "id": "b189b0fcfd4f5ce84b1d3e8f42664b14",
+    "title": "Телескоп James Webb виявив водяні хмари за межами Сонячної системи: що відомо про незвичайний об'єкт WISE 0855",
+    "description": "James Webb зафіксував водяні хмари на коричневому карлику за 7,5 світлових років від Землі. Астрономи також простежили, як змінюється їхня товщина.",
+    "content": "Що виявили астрономи?\nАстрономи за допомогою космічного телескопа James Webb виявили водяні хмари на коричневому карлику WISE 0855, розташованому за 7,5 світлових років від Землі, про дослідження повідомляє BGR.\nWISE 0855 відомий вченим уже понад дес... [1460 chars]",
+    "url": "https://blik.ua/nauka/48137-za-7-5-svitlovikh-rokiv-vid-zemli-znaishli-vodyani-khmari-yak-voni-zminyuyutsya-na-korichnevomu-karliku",
+    "image": "https://blik.ua/img/news/thumbs/planeta-28-lat-swietlnych-ross-318.jpg",
+    "publishedAt": "2026-10-18T14:54:18Z",
     "lang": "uk",
     "source": {
-      "id": "c5c959cb41bdd64f8b2b81a75752cf74",
-      "name": "Дзеркало тижня",
-      "url": "https://zn.ua"
+      "id": "5e8763eb8f65bd733ca2324cfefbe5b6",
+      "name": "БЛІК",
+      "url": "https://blik.ua"
     }
   },
   {
-    "id": "dfbe2f155631f0e5211855568e537a0c",
-    "title": "Японія планує запустити місію MMX для повернення зразків із Фобоса - Asharq Al-Awsat",
-    "description": "Японське агентство аерокосмічних досліджень JAXA планує запустити безпілотну місію Martian Moons eXploration (MMX) із космодрому Танегасіма в Японії.",
-    "content": "Японське агентство аерокосмічних досліджень JAXA планує запустити безпілотну місію Martian Moons eXploration (MMX) із космодрому Танегасіма в Японії. Апарат має прибути до околиць Марса приблизно через рік, вийти на орбіту його супутника Фобоса, здій... [1565 chars]",
-    "url": "https://ua.news/ua/world/iaponiia-planuie-zapustiti-misiiu-mmx-dlia-povernennia-zrazkiv-iz-fobosa-asharq-al-awsat",
-    "image": "https://cdn-cabinet.ua.news/uploads/images/japan_mmx_phobos_samples_mars_moon_missi_1792292573441.webp",
-    "publishedAt": "2026-10-18T03:02:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "54b33233e9f0f396fe0c9e0f95f2a6f6",
-      "name": "UA.NEWS",
-      "url": "https://ua.news"
-    }
-  },
-  {
-    "id": "85b2bb540380e225d6ef64cd27e3943e",
-    "title": "вчені дали відповідь",
-    "description": "Старіння може почати позначатися на фізичних здібностях людини навіть раніше, ніж очікують багато хто. Про це йдеться в новому масштабному дослідженні.",
-    "content": "Старіння може почати позначатися на фізичних здібностях людини навіть раніше, ніж очікують багато хто. Вчені виявили, що це зниження прискорюється з віком, але початок занять спортом у дорослому віці все ще може поліпшити фізичні показники.\nЯк пише S... [4070 chars]",
-    "url": "https://www.unian.ua/science/u-yakomu-vici-organizm-lyudini-pochinaye-vtrachati-sili-vcheni-dali-vidpovid-13532106.html",
-    "image": "https://images.unian.net/photos/2026_07/thumb_files/1000_545_1783496830-3788.jpg?1",
-    "publishedAt": "2026-10-18T01:19:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "d4361862486677369ff2ae7719b8d313",
-      "name": "УНІАН",
-      "url": "https://www.unian.ua"
-    }
-  },
-  {
-    "id": "bc57dc6b513a6244db03aece40dfd651",
-    "title": "Хвороба Альцгеймера - вчені знайшли спосіб перезапустити нейрони - ZN.ua",
-    "description": "Нове дослідження показало, як відновлення активності нейронів може покращувати пам'ять і зменшувати патологічні зміни мозку при Альцгеймері",
-    "content": "Американським дослідникам вдалося відновити порушену роботу нервових клітин у мозку мишей із моделлю хвороби Альцгеймера. Після експериментального втручання у тварин покращилися пам'ять і когнітивні функції, зменшилася кількість амілоїдних бляшок, а ... [5583 chars]",
-    "url": "https://zn.ua/ukr/TECHNOLOGIES/vcheni-vidnovili-robotu-nejroniv-pri-khvorobi-altshejmera-eksperimenti-pokazali-nespodivani-rezultati.html",
-    "image": "https://zn.ua/img/article/6993/99_main-v1792282315.webp",
-    "publishedAt": "2026-10-18T00:11:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "c5c959cb41bdd64f8b2b81a75752cf74",
-      "name": "Дзеркало тижня",
-      "url": "https://zn.ua"
-    }
-  },
-  {
-    "id": "12a22fe3dcf8e59fa77eda777e7fe144",
-    "title": "Вчені дослідили півсотні стародавніх відбитків пальців на глиняних намистинах: про що вони \"розповіли\"",
-    "description": "Задовго до того, як люди навчилися випалювати глиняні посудини чи обробляти поля, хтось взяв у руки шматочок глини й надав йому форму. Задовго до того, як люди навчилися випалювати глиняні посудини або обробляти поля, хтось взяв у руки шматочок глини й надав йому форму. Ця людина й уявити собі не могла, що сліди її дотику збережуться до наших днів.",
-    "content": "Схованка зі 142 намистинами з необпаленої глини з натуфійських стоянок в Ізраїлі, яка заважає продажу С-400 з Туреччини в ОАЕ, відсуває початки виготовлення прикрас на тисячі років назад. Про це пише The Daily Galaxy.\nНа них збереглося п’ятдесят відб... [3666 chars]",
-    "url": "https://www.unian.ua/science/vcheni-doslidili-pivsotni-starodavnih-vidbitkiv-palciv-na-glinyanih-namistinah-pro-shcho-voni-rozpovili-13532178.html",
-    "image": "https://images.unian.net/photos/2026_10/thumb_files/620_324_1792281727-9942.jpg?1",
-    "publishedAt": "2026-10-18T00:04:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "d4361862486677369ff2ae7719b8d313",
-      "name": "УНІАН",
-      "url": "https://www.unian.ua"
-    }
-  },
-  {
-    "id": "0362869a5ed1fbcc4ee10e094786145c",
-    "title": "Світова система вимірювання часу зміниться з 2027 року: що це означає",
-    "description": "Світова система вимірювання часу зазнає істотних змін. Всесвітній скоординований час більше не коригуватимуть шляхом додавання додаткових секунд.",
-    "content": "Міжнародна система вимірювання часу зазнає важливих змін з 20 травня 2027 року. Всесвітній координований час (UTC) – орієнтир, який використовується в усьому світі для синхронізації годинників – більше не коригуватиметься додаванням додаткових секунд... [4022 chars]",
-    "url": "https://www.unian.ua/science/svitova-sistema-vimiryuvannya-chasu-zminitsya-z-2027-roku-shcho-ce-oznachaye-13531992.html",
-    "image": "https://images.unian.net/photos/2018_07/thumb_files/1000_545_1532953047-9025.JPG?1",
-    "publishedAt": "2026-10-17T15:53:55Z",
-    "lang": "uk",
-    "source": {
-      "id": "d4361862486677369ff2ae7719b8d313",
-      "name": "УНІАН",
-      "url": "https://www.unian.ua"
-    }
-  },
-  {
-    "id": "eaf2fb9ac34c2ee105aa0c93f0b034e9",
-    "title": "На Мадагаскарі знайшли новий вид павука",
-    "description": "Науковці описали новий вид павука-стрибуна — томоцирбу великопалу — та повторно виявили його родича, томоцирбу обезголовлену, яку не знаходили понад 120 років. Що відомо про відкриття ᐅ ТСН.ua (новини 1+1).",
-    "content": "У тропічних лісах на півночі Мадагаскару науковці виявили новий вид павука-стрибуна — томоцирбу великопалу (Tomocyrba ankihiberta). Водночас дослідники знайшли свіжі екземпляри іншого представника цього роду — томоцирби обезголовленої (Tomocyrba deco... [4223 chars]",
-    "url": "https://tsn.ua/nauka_it/vvazaly-znyklym-ponad-stolittia-vcheni-vypadkovo-natrapyly-na-ridkisnykh-pavukiv-3192455.html",
-    "image": "https://img.tsn.ua/cached/087/tsn-51cb131e/thumbs/1200x630/0c/ec/92904aaac1a0bbb9399e942d9715ec0c.png",
-    "publishedAt": "2026-10-17T15:22:51Z",
+    "id": "e6620f5a83e8d84bba0d792983cf7d3e",
+    "title": "Кінець Сонячної системи - нові розрахунки натякають на хаос значно раніше - Цікaвинки",
+    "description": "Учені спрогнозували кінець світу: що станеться з Землею, коли згасне Сонце, читайте ᐅ TSN.ua (новини 1+1)",
+    "content": "Вчені показали моторошний погляд на майбутнє нашої Сонячної системи, і схоже, що кінець світу може настати набагато раніше, ніж очікувалося.\nПро це пише Daily Mail.\nЯк тільки Сонце досягне кінця свого життєвого циклу, воно зазнає різкого перетворення... [3199 chars]",
+    "url": "https://tsn.ua/tsikavinki/kinets-svitu-moze-nastaty-nabahato-ranishe-niz-ochikuvalosia-vcheni-poperedyly-pro-khaos-na-orbitakh-planet-3193003.html",
+    "image": "https://img.tsn.ua/cached/818/tsn-09295eed4a70c304db39297c76a49605/thumbs/1200x630/c1/6e/5edb1142c3b1c005d57a39810fb86ec1.jpg",
+    "publishedAt": "2026-10-18T14:42:40Z",
     "lang": "uk",
     "source": {
       "id": "ae8b9c98d707754fca5e1ea622855c50",
@@ -105,13 +30,73 @@
     }
   },
   {
-    "id": "4576bc3ec0e8ded054e3832efbccfdba",
-    "title": "астрономи не повірили, звідки він надійшов",
-    "description": "Астрономи зафіксували надзвичайно давній радіосигнал, який мандрував космосом мільярди років. Детальніше про це читайте на сайті видання УНІАН.",
-    "content": "Астрономи виявили найвіддаленіший на сьогодні швидкий радіоспалах, який виник, коли Всесвіту було лише близько 3 мільярдів років. Найбільшим сюрпризом стала його галактика-господар: замість великої зоряної системи дослідники знайшли невелику карликов... [4763 chars]",
-    "url": "https://www.unian.ua/science/zagadkoviy-signal-letiv-kriz-vsesvit-milyardi-rokiv-astronomi-ne-povirili-zvidki-vin-nadiyshov-13531821.html",
-    "image": "https://images.unian.net/photos/2026_10/thumb_files/620_324_1792073166-5262.jpg?1",
-    "publishedAt": "2026-10-17T15:12:00Z",
+    "id": "dc20e479200ad7a9f37a914c97691e26",
+    "title": "Як ви поводитеся під час сварки: 5 стратегій конфлікту",
+    "description": "Психологія конфліктів: суперництво, ухилення, поступливість, компроміс і співпраця. Дізнайтеся, що означає кожна стратегія. Читайте ᐅТSN.ua (новини 1+1)",
+    "content": "Реакція людини на виклики та протиріччя — це не випадкові емоційні сплески, а сформовані моделі поведінки. Для аналізу цих дій науковці часто використовують класифікацію Кілманна та Томаса, яка спирається на два фактори: прагнення захистити власний і... [6335 chars]",
+    "url": "https://tsn.ua/tsikavinki/na-roboti-sperechayetesia-a-vdoma-movchyte-shcho-vplyvaye-na-vashu-povedinku-pid-chas-konfliktiv-3192935.html",
+    "image": "https://img.tsn.ua/cached/203/tsn-1284f5ef/thumbs/1200x630/03/c2/837986d3ec2be8fd8f14b2dbf483c203.jpg",
+    "publishedAt": "2026-10-18T14:13:09Z",
+    "lang": "uk",
+    "source": {
+      "id": "ae8b9c98d707754fca5e1ea622855c50",
+      "name": "ТСН",
+      "url": "https://tsn.ua"
+    }
+  },
+  {
+    "id": "b67cc3bf779f97113b1c50b133513f16",
+    "title": "Як горюють слони: дивна поведінка розкрила глибину їхніх емоцій",
+    "description": "Переможець конкурсу Wildlife Photographer of the Year 2026 року Федеріко Веронезі закарбував рідкісну поведінку слонів, детально показавши особливості їхніх емоційних реакцій.",
+    "content": "Author, Ізабель Герретсен\nRole, BBC\nPublished 4 годин(и) тому\nЧас прочитання: 5 хв\nУ вересні 2025 року фотограф Федеріко Веронезі став свідком сумної сцени, коли стежив за стадом слонів, що рухалося сухим руслом річки в пустелі Намібії.\nВін побачив с... [6152 chars]",
+    "url": "https://www.bbc.com/ukrainian/articles/cwq6n901784zo",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_ukrainian/2577/live/7b97d9b0-c7c5-11f1-993a-152cbb068da1.jpg",
+    "publishedAt": "2026-10-18T14:01:37Z",
+    "lang": "uk",
+    "source": {
+      "id": "f331a5ed3965fb59761dfcecfc7e7a34",
+      "name": "BBC",
+      "url": "https://www.bbc.com"
+    }
+  },
+  {
+    "id": "81b0a7ac49c6766af872ea53c612ac8f",
+    "title": "Загадковий сигнал із глибин космосу з'явився двічі: відкриття \"Джеймса Вебба\" спантеличило вчених",
+    "description": "Телескоп Джеймс Вебб зафіксував у глибокому космосі незрозумілий сигнал, який повторювався двічі з проміжком 88 днів. Подробиці читайте ᐅ TSN.ua (новини 1+1)",
+    "content": "Космічний телескоп «Джеймс Вебб» двічі зафіксував незвичайний інфрачервоний сигнал із тієї самої ділянки неба з інтервалом у 88 днів. Астрономи не змогли встановити, який об’єкт його породжує, а наявні спостереження не дають змоги однозначно пояснити... [2858 chars]",
+    "url": "https://tsn.ua/nauka_it/zahadkovyy-syhnal-iz-hlybyn-kosmosu-ziavyvsia-dvichi-vidkryttia-dzeymsa-vebba-spantelychylo-vchenykh-3192903.html",
+    "image": "https://img.tsn.ua/cached/049/tsn-2e5933e84c8f120777c30b7610ecadcd/thumbs/1200x630/97/30/42aacb9210df4c3254147a6f835d3097.jpeg",
+    "publishedAt": "2026-10-18T13:14:25Z",
+    "lang": "uk",
+    "source": {
+      "id": "ae8b9c98d707754fca5e1ea622855c50",
+      "name": "ТСН",
+      "url": "https://tsn.ua"
+    }
+  },
+  {
+    "id": "43e9f12af8913b1edde1fe2083b39d62",
+    "title": "В Індійському океані виявили новий рід глибоководних спагеті-червів",
+    "description": "На глибині до 674 метрів в Індійському океані вчені виявили новий рід спагеті-червів Terebellosuctoria з незвичайними структурами, схожими на присоски\nᐅTSN.ua(новини 1+1)",
+    "content": "На великій глибині поблизу острова Різдва та Кокосових островів в Індійському океані вчені виявили новий рід донних червів із незвичайними структурами, схожими на присоски.\nРезультати дослідження опублікували в журналі Records of the Australian Museu... [2516 chars]",
+    "url": "https://tsn.ua/nauka_it/v-indiyskomu-okeani-na-velykiy-hlybyni-znayshly-motoroshnykh-cherviv-vchenykh-zdyvuvala-yikhnia-budova-foto-3192875.html",
+    "image": "https://img.tsn.ua/cached/371/tsn-51cb131e/thumbs/1200x630/2e/9a/a6bbfb7075acc9f85740e9dfa2109a2e.png",
+    "publishedAt": "2026-10-18T12:32:55Z",
+    "lang": "uk",
+    "source": {
+      "id": "ae8b9c98d707754fca5e1ea622855c50",
+      "name": "ТСН",
+      "url": "https://tsn.ua"
+    }
+  },
+  {
+    "id": "04d3146e34ba2a3ef9d693adb41ddba9",
+    "title": "Астрономи виявили планету з водою та погодою, схожими на земні",
+    "description": "Вчені виявили за межами сонячної системи планету розміром з Юпітер, на якій хмари поводяться майже як на Землі - читайте докладно в матеріалі УНІАН",
+    "content": "Астрономи виявили за межами сонячної систему планету, де багато води і є погода, схожа на земну. Про нові результати дослідження розповідає видання BGR.\nЗазначається, що космічний телескоп James Webb виявив водяні хмари на коричневому карлику WISE 08... [2200 chars]",
+    "url": "https://www.unian.ua/science/astronomi-viyavili-planetu-z-vodoyu-ta-pogodoyu-shozhimi-na-zemni-13532487.html",
+    "image": "https://images.unian.net/photos/2024_12/thumb_files/620_324_1734982042-9173.jpg?1",
+    "publishedAt": "2026-10-18T11:57:00Z",
     "lang": "uk",
     "source": {
       "id": "d4361862486677369ff2ae7719b8d313",
@@ -120,33 +105,48 @@
     }
   },
   {
-    "id": "be735b7e8ae5453f6a022abbe7241e91",
-    "title": "Учені прогнозують швидку загибель Сонячної системи: що на це вказує",
-    "description": "Комп’ютерне моделювання показало: приблизно у 90% розглянутих сценаріїв Сонячна система втрачала стабільність упродовж трьох мільярдів років після перетворення Сонця на білого карлика.",
-    "content": "Учені не врахували однієї гіпотези, але це змінило всю теорію: нашого космічного дому не стане значно раніше, ніж ми думали.\nСонячна система перестане існувати не через десятки мільярдів років, а значно раніше. Внутрішні планети, включаючи й нашу Зем... [4805 chars]",
-    "url": "https://today.ua/494661-ucheni-prognozuyut-shvidku-zagibel-sonyachnoyi-sistemi-sho-na-ce-vkazuye/",
-    "image": "https://today.ua/storage/images/media/oct2026/20859-kosmos-soniacna-sisitema-crop-1200-675.webp",
-    "publishedAt": "2026-10-17T15:07:00Z",
+    "id": "f0c606b2873d93094e55516de3606c1d",
+    "title": "він може виробляти матеріали для майбутнього міста",
+    "description": "Генетично модифікований мікроорганізм здатний виживати в умовах, що відтворюють хімічний склад марсіанського ґрунту, та виробляти біопластик.",
+    "content": "Каліфорнійська компанія Pioneer Labs розробила мікроорганізм sPL.001, який може виживати в середовищі, що імітує хімічний склад ґрунту, води та повітря Марса. Він здатний використовувати доступні поживні речовини та виробляти біопластик, який потенці... [4936 chars]",
+    "url": "https://www.unian.ua/science/vcheni-stvorili-mikrob-dlya-kolonizaciji-marsa-vin-mozhe-viroblyati-materiali-dlya-maybutnogo-mista-13532469.html",
+    "image": "https://images.unian.net/photos/2024_08/thumb_files/620_324_1724825574-2134.jpg?1",
+    "publishedAt": "2026-10-18T11:47:00Z",
     "lang": "uk",
     "source": {
-      "id": "3c4c1bd00c486397f0eed2b180a72c3c",
-      "name": "Today.ua",
-      "url": "https://today.ua"
+      "id": "d4361862486677369ff2ae7719b8d313",
+      "name": "УНІАН",
+      "url": "https://www.unian.ua"
     }
   },
   {
-    "id": "900723e0f7f91343ea63ccbdb686c779",
-    "title": "Планета, схожа на Татуїн із \"Зоряних війн\", може бути придатною для життя: що кажуть вчені",
-    "description": "Моделювання показало, що планета земного розміру потенційно могла б зберігати стабільну орбіту в зоні рідкої води",
-    "content": "Астрономи з'ясували, що в подвійній зоряній системі 70 Змієносця теоретично може існувати планета розміром із Землю, здатна рухатися стабільною орбітою в зоні проживання. Це область навколо зірки, де умови на поверхні потенційно дозволяють воді збері... [1933 chars]",
-    "url": "https://it.comments.ua/ua/news/space/druga-zemlya-z-dvoma-soncyami-vcheni-viyavili-nespodivanu-mozhlivist-u-susidniy-zoryaniy-sistemi-818809.html",
-    "image": "https://comments.ua/img/facebooks_img/ua/cimTXMRHdl9g1HVoxlMiA1FLYcMwIyRr.jpg",
-    "publishedAt": "2026-10-17T14:10:00Z",
+    "id": "bd58788eefc61cd861038aca70bb0a98",
+    "title": "що вчені з'ясували після його падіння",
+    "description": "Радянський зонд \"Космос-482\", який мав досліджувати Венеру, повернувся в атмосферу Землі через 53 роки після запуску. Деталі читайте на сайті УНІАН.",
+    "content": "Радянський космічний апарат \"Космос-482\", який у 1972 році вирушив до Венери, зрештою повернувся в атмосферу Землі через 53 роки. Його падіння у травні 2025 року стало випробуванням для нового алгоритму прогнозування, який визначає час сходження косм... [5636 chars]",
+    "url": "https://www.unian.ua/science/zagadkoviy-radyanskiy-zond-povernuvsya-z-kosmosu-shcho-vcheni-z-yasuvali-pislya-yogo-padinnya-13532391.html",
+    "image": "https://images.unian.net/photos/2026_10/thumb_files/620_324_1792319068-8247.jpg?1",
+    "publishedAt": "2026-10-18T10:26:07Z",
     "lang": "uk",
     "source": {
-      "id": "f3e13980836c5027da583232ba783135",
-      "name": "Comments UA",
-      "url": "https://it.comments.ua"
+      "id": "d4361862486677369ff2ae7719b8d313",
+      "name": "УНІАН",
+      "url": "https://www.unian.ua"
+    }
+  },
+  {
+    "id": "5bdf939e98fde8af1c3d11780925ef31",
+    "title": "Павукоподібний кратер в Австралії",
+    "description": "Додаткові докази було знайдено у деформованих шарах осадових порід, а також у кристалах кварцу та циркону, що містять ознаки ударного впливу.",
+    "content": "Супутник НАСА зафіксував незвичайне геологічне утворення в Австралії. Воно нагадує гігантського павука.\nНа думку вчених, ця структура виникла в результаті падіння метеорита сотні мільйонів років тому, проте її точний вік досі залишається загадкою, пи... [2100 chars]",
+    "url": "https://www.unian.ua/science/pavukopodibniy-krater-v-avstraliji-shcho-sfotografuvalo-nasa-z-kosmosu-13532280.html",
+    "image": "https://images.unian.net/photos/2026_03/thumb_files/620_324_1773167034-1924.jpg?1",
+    "publishedAt": "2026-10-18T08:18:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "d4361862486677369ff2ae7719b8d313",
+      "name": "УНІАН",
+      "url": "https://www.unian.ua"
     }
   }
 ]
