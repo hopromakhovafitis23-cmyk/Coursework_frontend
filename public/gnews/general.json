@@ -1,12 +1,42 @@
 [
   {
-    "id": "aa6256dd7ad0f23422af12bcdb8699e0",
-    "title": "Вибухи у Луцьку 19 жовтня",
-    "description": "Обстріл Луцька вночі 19 жовтня 2026 року. У Луцьку прогриміли вибухи через атаку ворожих реактивних безпілотників. В області працювала ППО. Що відомо. 24 Канал.",
-    "content": "Про це інформують місцеві спільноти у соціальних мережах. 24 Канал пише, що відомо на цей момент.\nСтався обстріл Луцька 19 жовтня: що відомо?\nЯк повідомили Повітряні сили, військові зафіксували рух ворожих швидкісних цілей – реактивних БпЛА – у напря... [588 chars]",
-    "url": "https://24tv.ua/vibuhi-lutsku-19-zhovtnya-misto-atakuvali-reaktivni-droni-novini_n3163037",
-    "image": "https://24tv.ua/resources/photos/news/202610/3163037.jpg?v=1792367124000&w=1200&h=675",
-    "publishedAt": "2026-10-18T23:50:00Z",
+    "id": "4d37790d8d6b9d3c7d54ff93a8e6c3f6",
+    "title": "У Львові стався конфлік під час матчу ФК \"Карпати\" (ВІДЕО)",
+    "description": "Лікарі, що були на стадіоні, надали першу невідкладну і забрали потерпілого.",
+    "content": "Вчора, 18 жовтня у Львові стався інцидент під час матчу «Карпати» - «Епіцентр». Про це повідомив у спільноті Левандівка Сіті користувач Otto York.\nНа поле вибіг чоловік, зірвав атаку львівської команди, його зловили та вивели за межі поля, після чого... [358 chars]",
+    "url": "https://varta1.com.ua/news/u-lvovi-stavsia-konflik-pid-chas-matchu-fk-karpaty-video_414495.html",
+    "image": "https://varta1.com.ua/uploads/media/images/image/a1/dd/a1dd9330ab904bf4a0f3bfece33a9af3ymnjpmbspsmrqym_conv_open_graph.jpg",
+    "publishedAt": "2026-10-19T10:02:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "078de3d0d367bff27032ac98397c9edf",
+      "name": "Варта 1",
+      "url": "https://varta1.com.ua"
+    }
+  },
+  {
+    "id": "6352bfed4574031bb32068aefb7572ac",
+    "title": "Три знаки зодіаку незабаром досягнуть значного фінансового успіху: вони чекали на це цілий рік",
+    "description": "Місяць у Козерозі – це саме те, що потрібно трьом знакам зодіаку, щоб з дня на день досягти значного фінансового успіху. Тепер вони можуть чесно сказа",
+    "content": "Місяць у Козерозі – це саме те, що потрібно трьом знакам зодіаку, щоб з дня на день досягти значного фінансового успіху. Тепер вони можуть чесно сказати, що всі зусилля, докладені для досягнення цієї мети, того варті. Під час місячного періоду в Козе... [2423 chars]",
+    "url": "https://www.obozrevatel.com/ukr/section-novosti-obschestvo/news-try-znaky-zodiaku-nezabarom-dosyahnut-znachnoho-finansovoho-uspikhu-vony-chekaly-na-tse-tsilyy-rik-19-10-2026.html",
+    "image": "https://i.obozrevatel.com/news/2024/6/24/img6763.png?size=1280x720",
+    "publishedAt": "2026-10-19T09:53:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "ca149ffefb31c86f82d7f299d744af59",
+      "name": "OBOZ.UA",
+      "url": "https://www.obozrevatel.com"
+    }
+  },
+  {
+    "id": "11c3593427e4deb9d36de374191db40e",
+    "title": "Франція на межі політичного вибуху",
+    "description": "Довіра суспільства до парламенту в Франції наразі не перевищує 20 відсотків. Це відкриває двері до влади ультраправим силам на чолі з Ле Пен - 24 Канал",
+    "content": "Утім, навіть цей спосіб, як показує становище, не є нині дієвою ідеєю. Довіра до Національних зборів – лише 20%, і парламент лишається такою ж \"підвішеною\" інституцією, як і інститут президента. Про це пише Ярослав Божко.\nПонад те, у нинішніх Націона... [2775 chars]",
+    "url": "https://24tv.ua/frantsiya-mezhi-politichnogo-vibuhu-chomu-le-pen-vigraye-vid_n3163266",
+    "image": "https://24tv.ua/resources/photos/news/202610/3163266.jpg?v=1792402790000&w=1200&h=675",
+    "publishedAt": "2026-10-19T09:47:00Z",
     "lang": "uk",
     "source": {
       "id": "e737a8e76b161ef4526698e2ec5f60c9",
@@ -15,13 +45,58 @@
     }
   },
   {
-    "id": "72de11b98fd591eb2b9baa343dd4b871",
-    "title": "Трамп пояснив відмову від санкцій проти Росії",
-    "description": "Трамп пояснив, чому відкладає санкції проти Росії, та розкритикував удари України по російських НПЗ. Що заявив президент США. ᐅ TSN.ua (новини 1+1)",
-    "content": "Президент США Дональд Трамп пояснив своє рішення не застосовувати нові санкції проти Росії небажанням зашкодити мирним переговорам. За його словами, додатковий тиск на Москву може призвести до того, що вона відмовиться від подальшого діалогу.\nПро це ... [2243 chars]",
-    "url": "https://tsn.ua/politika/tramp-poiasnyv-chomu-ne-zaprovadzuye-sanktsiyi-proty-rosiyi-3193195.html",
-    "image": "https://img.tsn.ua/cached/231/tsn-51cb131e/thumbs/1200x630/15/ad/49af172bf23e83f70f0eb509492aad15.jpg",
-    "publishedAt": "2026-10-18T22:30:04Z",
+    "id": "a07e205e7f35a987afd25b0a4a9c304e",
+    "title": "Ціни на нафту впали після рішення Трампа послабити санкції проти росії",
+    "description": "Ціни на нафту знизилися після того, як президент США Дональд Трамп підписав виконавчий указ, яким призупинив застосування санкцій, обмежень і мит, передбачених законом Грема.",
+    "content": "У понеділок, 19 жовтня, ціни на нафту знизилися приблизно на 2% після рішення президента США Дональда Трампа призупинити дію санкцій і мит проти рф, що може збільшити постачання російського пального.\nПро це повідомляє агенція Reuters.\nСвітові ціни на... [2220 chars]",
+    "url": "https://www.slovoidilo.ua/2026/10/19/novyna/ekonomika/cziny-naftu-vpaly-pislya-rishennya-trampa-poslabyty-sankcziyi-proty-rosiyi",
+    "image": "https://media.slovoidilo.ua/media/scimage/246/245586-uk.png",
+    "publishedAt": "2026-10-19T09:42:17Z",
+    "lang": "uk",
+    "source": {
+      "id": "15797505fcdbf49191263455ed070cbb",
+      "name": "Слово і Діло",
+      "url": "https://www.slovoidilo.ua"
+    }
+  },
+  {
+    "id": "447a9683bafdd0bcc5113f204378d851",
+    "title": "Трамп знову розкритикував Зеленського за удари по російських НПЗ",
+    "description": "Президент України Володимир Зеленський також у неділю, 18 жовтня, повідомив NBC News, що Вашингтон відновив передачу попереджень про запуски російських балістичних ракет після триденної перерви",
+    "content": "Президент США Дональд Трамп розкритикував удари української армії по російських нафтопереробних заводах. За його словами, ці атаки завдають шкоди світовому ринку дизельного палива, зокрема американському.\nТрамп заявив у повідомленні у власній мережі ... [2982 chars]",
+    "url": "https://www.radiosvoboda.org/a/news-trump-udary-po-npz-krytyka-zelenskoho/33879333.html",
+    "image": "https://gdb.rferl.org/c2962f7d-8afd-459f-b065-fbe06bd130f8_w1200_h630.jpg",
+    "publishedAt": "2026-10-19T09:42:04Z",
+    "lang": "uk",
+    "source": {
+      "id": "5c9ced304d672fe93c822292939bf821",
+      "name": "Радіо Свобода",
+      "url": "https://www.radiosvoboda.org"
+    }
+  },
+  {
+    "id": "dc251f324b9db45d57206319a718248b",
+    "title": "Складаний iPhone Duo за $2 000 розкупили за лічені хвилини",
+    "description": "Попит на перший складаний смартфон Apple iPhone Duo виявився надзвичайним: терміни доставки змістилися на кінець січня за лічені хвилини після відкриття передзамовлень.",
+    "content": "Компанія Apple заявила про надзвичайний попит на свій перший складаний смартфон \"iPhone Duo\" вартістю $1 999: орієнтовні терміни доставки розтягнулися до кінця січня наступного року вже за лічені хвилини після старту попередніх замовлень у п'ятницю.\n... [1800 chars]",
+    "url": "https://delo.ua/news/persii-skladanii-iphone-za-2-000-rozkupili-za-liceni-xvilini-pislya-startu-zamovlen-474570/",
+    "image": "https://delo.ua/static/content/thumbs/1200x630/5/39/juwfdf---c1200x630x50px50p--6dbf5c36a6fbc1005599b9743520e395.png",
+    "publishedAt": "2026-10-19T09:35:51Z",
+    "lang": "uk",
+    "source": {
+      "id": "089318c55bc4acf31cc81fdec955261d",
+      "name": "Delo.ua",
+      "url": "https://delo.ua"
+    }
+  },
+  {
+    "id": "cb40c5c32cde1ea2f2c0fd87332d4ff8",
+    "title": "Атака на Волинь сьогодні",
+    "description": "Ворог атакував енергетику Волинської області 19 жовтня, без світла 68 тисяч абонентів – деталі про наслідки обстрілу ᐅТSN.ua (новини 1+1)",
+    "content": "Доповнено додатковими матеріалами\nРосійські загарбники 19 жовтня продовжують атакувати енергетичну інфраструктуру Волинської області. Внаслідок обстрілу без електропостачання залишилися близько 68 тис. абонентів у кількох громадах.\nПро це повідомив о... [924 chars]",
+    "url": "https://tsn.ua/ukrayina/voroh-vdaryv-po-enerhetytsi-na-zakhodi-ukrayiny-bez-svitla-desiatky-tysiach-liudey-3193495.html",
+    "image": "https://img.tsn.ua/cached/119/tsn-7a7afafe7a64cd96a891771cf6bf5b51/thumbs/1200x630/47/86/3ca374692cb8f598d8df12878f698647.jpeg",
+    "publishedAt": "2026-10-19T09:35:10Z",
     "lang": "uk",
     "source": {
       "id": "ae8b9c98d707754fca5e1ea622855c50",
@@ -30,123 +105,48 @@
     }
   },
   {
-    "id": "f9d90e2c3788e3f8c75d5028cfd200bd",
-    "title": "США схиляють Україну до капітуляції - Зеленський",
-    "description": "Американською стороною були зроблені кроки, спрямовані на те, щоб схилити Україну до капітуляції, припустив український лідер.",
-    "content": "Американською стороною були зроблені кроки, спрямовані на те, щоб схилити Україну до капітуляції, припустив український лідер.\nПрезидент Володимир Зеленський в інтерв'ю агентству Bloomberg звинуватив президента США Дональда Трампа у спробах чинити ти... [1508 chars]",
-    "url": "https://ua.korrespondent.net/ukraine/4921239-ssha-skhyliauit-ukrainu-do-kapituliatsii-zelenskyi",
-    "image": "https://kor.ill.in.ua/m/1260x900/4602318.jpg",
-    "publishedAt": "2026-10-18T21:59:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "5f3893b2bdd83721567eef82ac0a6d2e",
-      "name": "Korrespondent.net",
-      "url": "https://ua.korrespondent.net"
-    }
-  },
-  {
-    "id": "1af91a7372bb74f9f9beba32d8c42bc5",
-    "title": "Ворог вдарив по 16-ти поверхівці в Харкові, двоє постраждалих",
-    "description": "Увечері 18 жовтня російський безпілотник влучив у дах 16-поверхового будинку в Салтівському районі Харкова . Спочатку міський голова повідомляв, що по",
-    "content": "Використання будь-яких матеріалів ( в тому числі фото- та відео-), розміщених на цьому сайті https://www.obozrevatel.com та всіх його піддоменах, в будь-якому вигляді суворо заборонено. Дозволяється використання при отриманні письмового дозволу на їх... [1817 chars]",
-    "url": "https://war.obozrevatel.com/ukr/section-war/news-voroh-vdaryv-po-16-ty-poverkhivtsi-v-kharkovi-dvoye-postrazhdalykh-18-10-2026.html",
-    "image": "https://i.obozrevatel.com/news/2026/4/26/filestoragetemp-2026-04-26t072249-720.jpg?size=1280x720",
-    "publishedAt": "2026-10-18T20:11:49Z",
-    "lang": "uk",
-    "source": {
-      "id": "aef3ac5a8f974c851211d386dd6a52b0",
-      "name": "OBOZ.UA",
-      "url": "https://war.obozrevatel.com"
-    }
-  },
-  {
-    "id": "09911e1937e51cc6d65352b013c492e7",
-    "title": "DualSense 2.0 може отримати сумісність із консоллю PlayStation 5",
-    "description": "Патентна документація компанії Sony розкрила контролер DualSense 2.0 із вбудованим екраном для міні-ігор та можливою підтримкою консолі PlayStation 5.",
-    "content": "Патентна документація Sony розкрила технічну концепцію модульного контролера DualSense 2.0, створюваного для консолі PlayStation 6. Пристрій обладнано знімним кольоровим сенсорним екраном діагоналлю 2.5 дюйма, розташованим на місці стандартної сенсор... [1854 chars]",
-    "url": "https://uk.gamegpu.com/news/zhelezo/dualsense-2-0-mozhet-poluchit-sovmestimost-s-konsolyu-playstation-5",
-    "image": "https://gamegpu.com/images/1_2026/NEWS/Q4/okt/18/nwdwtdnwdwtdnw_gpu.webp#joomlaImage://local-images/1_2026/NEWS/Q4/okt/18/nwdwtdnwdwtdnw_gpu.webp?width=1920&height=1080",
-    "publishedAt": "2026-10-18T19:05:20Z",
-    "lang": "uk",
-    "source": {
-      "id": "d4a46ced10b24e9b5fea2a92c9602fa2",
-      "name": "GameGPU",
-      "url": "https://uk.gamegpu.com"
-    }
-  },
-  {
-    "id": "4572122e11b94b2572286ee40d80eb8c",
-    "title": "У Херсоні зросла кількість загиблих від російського авіаудару",
-    "description": "18 жовтня у лікарні помер 58-річний житель Херсона, який зазнав тяжких травм під час російського авіаудару по Корабельному району міста напередодні.",
-    "content": "18 жовтня у лікарні помер 58-річний житель Херсона, який зазнав тяжких травм під час російського авіаудару по Корабельному району міста напередодні.\nОчільник Херсонської обласної військової адміністрації Олександр Прокудін повідомив, що кількість заг... [869 chars]",
-    "url": "https://ua.news/ua/war-vs-rf/u-khersoni-zrosla-kilkist-zagiblikh-vid-rosiiskogo-aviaudaru",
-    "image": "https://cdn-cabinet.ua.news/uploads/images/photo_2026_10_17_09_00_28.webp",
-    "publishedAt": "2026-10-18T19:00:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "54b33233e9f0f396fe0c9e0f95f2a6f6",
-      "name": "UA.NEWS",
-      "url": "https://ua.news"
-    }
-  },
-  {
-    "id": "bd287f668e5e073f84c95c225d6fa9b1",
-    "title": "Протести у Франції засудив Макрон - що сказав",
-    "description": "Президент Франції Емманюель Макрон виступив зі зверненням до нації після наймасштабніших за останні роки протестів і погромів. Глава держави жорстко з...",
-    "content": "Макрон засудив \"неконтрольоване\" насильство\nПрезидент Франції засудив дії \"заколотників з ультралівих угруповань, до яких приєдналися численні злочинці\", звинувативши їх у \"неконтрольованому насильстві\".\n\"Були розграбовані магазини, атаковані громадс... [3165 chars]",
-    "url": "https://www.rbc.ua/rus/news/makron-zvernuvsya-natsiyi-cherez-protesti-1792348850.html",
-    "image": "https://www.rbc.ua/static/img/_/g/_gettyimages_1238300008_530df957d76d368c10f6620a4b6d8a13_1300x820.jpg",
-    "publishedAt": "2026-10-18T18:40:50Z",
-    "lang": "uk",
-    "source": {
-      "id": "6f1ead09126f1f4738a48957e22f789c",
-      "name": "РБК-Україна",
-      "url": "https://www.rbc.ua"
-    }
-  },
-  {
-    "id": "16481722d7a56239ae76adc269d46b73",
-    "title": "Xbox Game Pass позбудеться восьми ігор 31 наприкінці жовтня",
-    "description": "31 жовтня 2025 року Xbox Game Pass та PC Game Pass покинуть вісім ігор, включаючи LEGO Star Wars: Skywalker Saga, Deep Rock Galactic, Wartales і дві пригоди Double Fine.",
-    "content": "Microsoft оголосила другу хвилю ігор, які покинуть підписні сервіси Xbox Game Pass та PC Game Pass у жовтні 2025 року. Згідно з опублікованим списком, 31 жовтня з каталогу видалять вісім проектів різних жанрів. До переліку увійшли Day of the Tentacle... [2200 chars]",
-    "url": "https://uk.gamegpu.com/news/igry/xbox-game-pass-lishitsya-vosmi-igr-31-v-kontse-oktyabrya",
-    "image": "https://gamegpu.com/images/1_2026/NEWS/Q4/okt/18/xbox-game-pass-unfy437t8y748wetyg78weyg_ggpu.webp#joomlaImage://local-images/1_2026/NEWS/Q4/okt/18/xbox-game-pass-unfy437t8y748wetyg78weyg_ggpu.webp?width=1920&height=1080",
-    "publishedAt": "2026-10-18T18:34:09Z",
-    "lang": "uk",
-    "source": {
-      "id": "d4a46ced10b24e9b5fea2a92c9602fa2",
-      "name": "GameGPU",
-      "url": "https://uk.gamegpu.com"
-    }
-  },
-  {
-    "id": "53c9d09f680a45ec737c221695cbf0a5",
-    "title": "Туреччина купить російський дизель, з якого Трамп зняв санкції",
-    "description": "Туреччина купуватиме російський дизель, з якого Дональд Трамп люб'язно зняв санкції аж на наступні пів року - читайте докладно в матеріалі УНІАН",
-    "content": "Туреччина домовилася про отримання частини російського дизельного пального, яке США дозволили поставляти на світовий ринок без санкцій. Про це 18 жовтня заявив міністр енергетики Туреччини Алпарслан Байрактар, повідомляє Reuters.\nЗа словами міністра,... [1310 chars]",
-    "url": "https://www.unian.ua/economics/energetics/turechchina-kupit-rosiyskiy-dizel-z-yakogo-tramp-znyav-sankciji-13532811.html",
-    "image": "https://images.unian.net/photos/2019_01/thumb_files/620_324_1547647417-5089.jpg?1",
-    "publishedAt": "2026-10-18T18:28:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "d4361862486677369ff2ae7719b8d313",
-      "name": "УНІАН",
-      "url": "https://www.unian.ua"
-    }
-  },
-  {
-    "id": "667b9e6bff3ba8a3be8b0f92eea9cb40",
-    "title": "Атака на Вінниччину 18 жовтня",
-    "description": "18 жовтня на Вінниччині зафіксували влучання в об’єкт критичної інфраструктури в одній із громад. На місці працюють відповідні служби, мешканців закликають реагувати на тривоги - 24 Канал.",
-    "content": "Про це повідомив голова Могилів-Подільської міської територіальної громади Геннадій Глухманюк.\nЩо відомо про атаку?\nУнаслідок повітряної атаки ворога 18 жовтня є влучання в об’єкт критичної інфраструктури у громаді Вінницької області.\nНаразі на місці... [896 chars]",
-    "url": "https://24tv.ua/ataka-vinnichchinu-18-zhovtnya-vorog-atakuvav-obyekt-kritichnoyi_n3162974",
-    "image": "https://24tv.ua/resources/photos/news/202610/3162974.jpg?v=1792347010000&w=1200&h=675",
-    "publishedAt": "2026-10-18T18:25:00Z",
+    "id": "0e58b4e305707e48ef86b163b935d56f",
+    "title": "Tesla Roadster літає на технологіях SpaceX",
+    "description": "Компанія Tesla розкрила секрет роботи реактивних сопел суперкара Roadster. Версія Rocket отримала 10 холодних газових прискорювачів та лімітований доступ.",
+    "content": "Таємниця білої хмари під час польоту гіперкара\nЯк повідомляє La República, під час нещодавньої демонстрації на випробувальному полігоні компанії SpaceX у Техасі електромобіль здивував публіку появою густої білої хмари під час відриву від землі. Багат... [1728 chars]",
+    "url": "https://24tv.ua/tech/tesla-roadster-litaye-tehnologiyah-spacex-zvidki-beretsya-biliy_n3163185",
+    "image": "https://24tv.ua/resources/photos/news/202610/3163185.jpg?v=1792397307000&w=1200&h=675",
+    "publishedAt": "2026-10-19T09:31:00Z",
     "lang": "uk",
     "source": {
       "id": "e737a8e76b161ef4526698e2ec5f60c9",
       "name": "24 Канал",
       "url": "https://24tv.ua"
+    }
+  },
+  {
+    "id": "6f4ce4d85e3f7627e29c66b768154e9e",
+    "title": "ТОП 15 найцікавіших ігор Steam Next Fest 2026 з безкоштовними демоверсіями",
+    "description": "Steam Next Fest 2026 пропонує тисячі демоверсій майбутніх ігор. Ми відібрали 10 найцікавіших проєктів — від детективу Phantom: Hidden Sins до тактичної RPG Necrovoid Feast та стратегії Warlapse.",
+    "content": "19 жовтня о 20:00 у Steam стартує жовтневий фестиваль Steam Next Fest 2026, під час якого гравці можуть безкоштовно випробувати демоверсії майбутніх ігор. Подія триватиме до 19:00 26 жовтня за київським часом, а серед тисяч учасників є незвичайні дет... [6714 chars]",
+    "url": "https://itc.ua/ua/novini/top-15-najtsikavishyh-igor-steam-next-fest-2026-z-bezkoshtovnymy-demoversiyamy/",
+    "image": "https://cdn.itc.ua/uploads/2026/10/O46ThkHg.jpeg",
+    "publishedAt": "2026-10-19T09:21:03Z",
+    "lang": "uk",
+    "source": {
+      "id": "391d17d071b755a4bda37c1b43f47c2c",
+      "name": "ITC.ua",
+      "url": "https://itc.ua"
+    }
+  },
+  {
+    "id": "50f005a529da31a34c0ba9496cf295c7",
+    "title": "В Україні впав попит на авто з Китаю",
+    "description": "Серед нових автомоблів із Китаю найбільшим попитом користується BYD Sea Lion 06.",
+    "content": "Серед нових автомоблів із Китаю найбільшим попитом користується BYD Sea Lion 06.\nЗ січня по вересень 2026 року українці придбали 9184 легковики, ввезені з Китаю. Це на 37% менше, ніж за аналогічний період минулого року. Про це повідомив Укравтопром у... [670 chars]",
+    "url": "https://ua.korrespondent.net/business/auto/4921347-v-ukraini-vpav-popyt-na-avto-z-kytaui",
+    "image": "https://kor.ill.in.ua/m/1260x900/4602875.jpg",
+    "publishedAt": "2026-10-19T09:13:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "5f3893b2bdd83721567eef82ac0a6d2e",
+      "name": "Korrespondent.net",
+      "url": "https://ua.korrespondent.net"
     }
   }
 ]
