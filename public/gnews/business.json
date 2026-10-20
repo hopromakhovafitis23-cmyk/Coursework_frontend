@@ -1,5 +1,35 @@
 [
   {
+    "id": "8f6a63f1053ea8a05583e3ebf0cb82c2",
+    "title": "Anthropic виділить $48 млрд у фонд суспільного блага",
+    "description": "Американський ШІ-стартап Anthropic спрямує 5% акцій вартістю близько $48 млрд у спеціальний фонд суспільного блага на тлі підготовки до IPO та критики технології.",
+    "content": "Американський стартап у сфері штучного інтелекту Anthropic, оцінений у $965 млрд, передасть 5% своїх акцій вартістю близько $48 млрд у новостворений фонд суспільного блага. Рішення ухвалили на тлі підготовки до масштабного первинного публічного розмі... [1892 chars]",
+    "url": "https://delo.ua/news/anthropic-viddast-48-mlrd-na-fond-suspilnogo-blaga-cerez-kritiku-nebezpek-si-474591/",
+    "image": "https://delo.ua/static/content/thumbs/1200x630/2/b7/pn4xpu---c1200x630x50px50p--5ee8ab22e0924f76d287c1921cd00b72.jpeg",
+    "publishedAt": "2026-10-19T12:19:18Z",
+    "lang": "uk",
+    "source": {
+      "id": "089318c55bc4acf31cc81fdec955261d",
+      "name": "Delo.ua",
+      "url": "https://delo.ua"
+    }
+  },
+  {
+    "id": "a044c727f019917e736539ad81bbeabd",
+    "title": "Маск пообіцяв акції SpaceX кожній дитині у США",
+    "description": "Нині Маск володіє близько 6,4 млрд акцій SpaceX. Одна акція наразі коштує приблизно $146.",
+    "content": "Нині Маск володіє близько 6,4 млрд акцій SpaceX. Одна акція наразі коштує приблизно $146.\nГенеральний директор SpaceX Ілон Маск висловив намір у 2027 році подарувати по одній акції своєї компанії кожній дитині у США. Про це він написав на платформі X... [947 chars]",
+    "url": "https://ua.korrespondent.net/world/4921372-mask-poobitsiav-aktsii-SpaceX-kozhnii-dytyni-u-ssha",
+    "image": "https://kor.ill.in.ua/m/1260x900/4602936.jpg",
+    "publishedAt": "2026-10-19T10:09:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "5f3893b2bdd83721567eef82ac0a6d2e",
+      "name": "Korrespondent.net",
+      "url": "https://ua.korrespondent.net"
+    }
+  },
+  {
     "id": "0e58b4e305707e48ef86b163b935d56f",
     "title": "Tesla Roadster літає на технологіях SpaceX",
     "description": "Компанія Tesla розкрила секрет роботи реактивних сопел суперкара Roadster. Версія Rocket отримала 10 холодних газових прискорювачів та лімітований доступ.",
@@ -117,36 +147,6 @@
       "id": "ccf5b23cf2f813320e7baafea8cf4ea7",
       "name": "Motorcar",
       "url": "https://motorcar.com.ua"
-    }
-  },
-  {
-    "id": "968ae93dc8cb78cd6ae055465b7cd532",
-    "title": "Перші проєкти плавучої ядерної енергетики у США переходять до випробувань",
-    "description": "США розвивають плавучі атомні електростанції та ядерні судна. Bluecore Energy закупила уран для реактора, а DOE й ABS готують основу для комерційної ядерної енергетики на морі.",
-    "content": "США розвивають одразу кілька напрямів цивільної ядерної енергетики на морі — від плавучих електростанцій на баржах до торговельних суден з атомними реакторами. 13 жовтня 2026 року Міністерство енергетики США та Американське бюро судноплавства (ABS) д... [4043 chars]",
-    "url": "https://itc.ua/ua/novini/pershi-proyekty-plavuchoyi-yadernoyi-energetyky-u-ssha-perehodyat-do-vyprobuvan/",
-    "image": "https://cdn.itc.ua/uploads/2026/10/YAderka-Plavucha.jpg",
-    "publishedAt": "2026-10-18T12:00:04Z",
-    "lang": "uk",
-    "source": {
-      "id": "391d17d071b755a4bda37c1b43f47c2c",
-      "name": "ITC.ua",
-      "url": "https://itc.ua"
-    }
-  },
-  {
-    "id": "e9e3d644c616edc0a2f270c4476bfafb",
-    "title": "Потягнуть котел і холодильник - топ-5 зарядних станцій для блекаутів",
-    "description": "Через обстріли росіян по ТЕЦ та критичній інфраструктурі майбутня зима стане черговим випробуванням для українців. Підготовка до тривалих відключень е...",
-    "content": "EcoFlow Delta Pro 3\nМодель третього покоління розроблена спеціально для побутового використання. Вона вирізняється високою потужністю та низьким рівнем шуму під час роботи.\nТехнічні параметри\nПотужність: номінальна становить 4000 Вт, а пікова досягає... [3988 chars]",
-    "url": "https://www.rbc.ua/rus/news/perezhiti-blekauti-top-5-potuzhnih-zaryadnih-1791975046.html",
-    "image": "https://www.rbc.ua/static/img/e/c/ecb08306_3923_446c_8aaa_96b69b8b4472_35cfc9beffd701dc609c0a5a60752c21_1300x820.jpg",
-    "publishedAt": "2026-10-18T11:14:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "6f1ead09126f1f4738a48957e22f789c",
-      "name": "РБК-Україна",
-      "url": "https://www.rbc.ua"
     }
   }
 ]
