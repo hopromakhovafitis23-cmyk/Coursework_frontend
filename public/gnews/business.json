@@ -1,5 +1,65 @@
 [
   {
+    "id": "3fc44e6e8f0c3759b428b9f6d5b8cbc1",
+    "title": "Netflix змінює керівництво на тлі нестачі нових хітів • Межа",
+    "description": "Netflix переглядає стратегію розвитку на тлі уповільнення зростання аудиторії та нестачі нових хітів. Минулого тижня стримінг скоротив 1000 працівників (приблизно 6% від загальної кількості), а днями з'явились повідомлення про звільнення керівників контентного напряму та кіно.",
+    "content": "Netflix переглядає стратегію розвитку на тлі уповільнення зростання аудиторії та нестачі нових хітів. Минулого тижня стримінг скоротив 1000 працівників (приблизно 6% від загальної кількості), а днями з'явились повідомлення про звільнення керівників к... [2090 chars]",
+    "url": "https://mezha.ua/news/netflix-replaces-content-and-film-chiefs-316336/",
+    "image": "https://img.mezha.ua/mezha/images/doc/1/7/330944/17e7e944ff4ff358d94eb0c50ce7224b.jpeg?w=1200&q=85&stamp=1792480333",
+    "publishedAt": "2026-10-20T08:40:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "6b0257d31504a630dde7752eed4e1e39",
+      "name": "Mezha",
+      "url": "https://mezha.ua"
+    }
+  },
+  {
+    "id": "51171d8f398f2c439911a273bd81c5e2",
+    "title": "Meta прокладає перший у світі трансатлантичний кабель зі швидкістю до 1 Пбіт/c",
+    "description": "Meta планує прокласти трансатлантичний кабель протяжністю майже 7000 км з пропускною",
+    "content": "Meta планує прокласти трансатлантичний кабель протяжністю майже 7000 км з пропускною здатністю до 1 Пбіт/с.\nПроєкт під назвою Petal планується запустити в експлуатацію вже у 2029 році. Зазначається, що це буде перший у світі трансатлантичний підводни... [2917 chars]",
+    "url": "https://itc.ua/ua/novini/meta-prokladaye-pershyj-u-sviti-transatlantychnyj-kabel-zi-shvydkistyu-do-1-pbit-c/",
+    "image": "https://cdn.itc.ua/uploads/2026/10/imgonline-com-ua-convertzShisfacVDrr.jpg",
+    "publishedAt": "2026-10-20T08:32:06Z",
+    "lang": "uk",
+    "source": {
+      "id": "391d17d071b755a4bda37c1b43f47c2c",
+      "name": "ITC.ua",
+      "url": "https://itc.ua"
+    }
+  },
+  {
+    "id": "6289930f60305b6eba5e0be982c1a810",
+    "title": "Тест-драйв Mazda CX-5 в Україні: більше простору, менше характеру?",
+    "description": "Тест-драйв нової Mazda CX-5 в Україні: що змінилося в кросовері, наскільки він став просторішим і технологічнішим та чи зберіг фірмовий характер, атмосферний двигун і задоволення від водіння.",
+    "content": "Не минуло й року з мого іспанського тест-драйву, як Mazda CX-5 представили в Україні. Марш-кидок із Києва в Карпати дав змогу розгледіти те, що залишилося “за кадром”. Вона подорослішала, стала ще просторішою й технологічнішою. Але разом із цифровіза... [15237 chars]",
+    "url": "https://itc.ua/ua/articles/test-drajv-mazda-cx-5-v-ukrayini-bilshe-prostoru-menshe-harakteru/",
+    "image": "https://cdn.itc.ua/uploads/2026/10/AER_6026.jpg",
+    "publishedAt": "2026-10-20T07:00:48Z",
+    "lang": "uk",
+    "source": {
+      "id": "391d17d071b755a4bda37c1b43f47c2c",
+      "name": "ITC.ua",
+      "url": "https://itc.ua"
+    }
+  },
+  {
+    "id": "bc8f396092545504a67fae4d24fa5e1f",
+    "title": "елегантний фастбек із запальним характером",
+    "description": "Оновлений Peugeot 408 в Україні: враження від ходових якостей, підвіски, салону, силового агрегата, оснащення та характеру авто - Авто24",
+    "content": "Ми випробували оновлений 408-й на українських дорогах, щоб з'ясувати, які зміни пережила автівка та чи залишаються її сильні сторони актуальними.\nЯк змінився Peugeot 408?\nОновлення Peugeot 408 не можна назвати \"глибоким рестайлінгом\". Це радше космет... [14813 chars]",
+    "url": "https://24tv.ua/auto/test_draiv_onovlenoho_peugeot_408_shche_bilshe_sharmu_n76787",
+    "image": "https://24tv.ua/auto/resources/photos/news/202610/76787ae6aecb0-95b0-4d5f-9fc3-a793762bdfed.JPG",
+    "publishedAt": "2026-10-20T06:09:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "e737a8e76b161ef4526698e2ec5f60c9",
+      "name": "24 Канал",
+      "url": "https://24tv.ua"
+    }
+  },
+  {
     "id": "56317c32afdb7ae0c5622ca287cf8cc1",
     "title": "Subaru презентувала перший самостійно розроблений прототип електромобіля",
     "description": "Новий повнопривідний 510-сильний електромобіль розганяється до 100 км/год менш ніж за чотири секунди.",
@@ -87,66 +147,6 @@
       "id": "556066753a7a30eb0619823360acdde4",
       "name": "Патріот Донбасу",
       "url": "https://donpatriot.news"
-    }
-  },
-  {
-    "id": "847feefe709474a58604f780600efe92",
-    "title": "100 000 обчислювальних плат: Sugon представила перший у світі супер ПК для ШІ",
-    "description": "Китайський виробник суперкомп’ютерів Sugon Information Industry Co. представив найновішу власну розробку — Sugon 8000 для ШІ.",
-    "content": "Китайський виробник суперкомп’ютерів Sugon Information Industry Co. представив найновішу власну розробку — Sugon 8000 для ШІ.\nЗазначається, що цей суперкомп’ютер побудований на базі 100 000 обчислювальних плат китайського виробництва й вже використов... [1895 chars]",
-    "url": "https://itc.ua/ua/novini/100-000-obchyslyuvalnyh-plat-sugon-predstavyla-pershyj-u-sviti-super-pk-dlya-shi/",
-    "image": "https://cdn.itc.ua/uploads/2026/10/d1c4c798-5aea-4835-a772-c3c0ac37c5aa.jpg",
-    "publishedAt": "2026-10-19T14:40:14Z",
-    "lang": "uk",
-    "source": {
-      "id": "391d17d071b755a4bda37c1b43f47c2c",
-      "name": "ITC.ua",
-      "url": "https://itc.ua"
-    }
-  },
-  {
-    "id": "a4c54cc0ca8b98de3aa65d04766728ec",
-    "title": "Модер збільшив продуктивність Oblivion Remastered до 40% через ШІ-оптимізацію • Межа",
-    "description": "Розчарований продуктивністю фанат оптимізував Oblivion Remastered за допомогою Claude Opus 5.5. Покращення збільшили продуктивність гри до 40% та усунули суттєві недоліки рушія.",
-    "content": "Фанат був розчарований Oblivion Remastered на його відеокарті AMD Radeon 9070 XT та Ryzen 7 5800X. За допомогою Claude Opus 5.5 він оптимізував гру та збільшив її продуктивність більш ніж на третину.\nКористувач LTSharpe з Reddit грав в Oblivion з 200... [3516 chars]",
-    "url": "https://mezha.ua/news/oblivion-remastered-claude-opus-performance-fix-316315/",
-    "image": "https://img.mezha.ua/mezha/images/doc/7/5/330911/75c012a0a2c6bca8569a0754f5335907.jpeg?w=1200&q=85&stamp=1792415011",
-    "publishedAt": "2026-10-19T13:02:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "6b0257d31504a630dde7752eed4e1e39",
-      "name": "Mezha",
-      "url": "https://mezha.ua"
-    }
-  },
-  {
-    "id": "8f6a63f1053ea8a05583e3ebf0cb82c2",
-    "title": "Anthropic виділить $48 млрд у фонд суспільного блага",
-    "description": "Американський ШІ-стартап Anthropic спрямує 5% акцій вартістю близько $48 млрд у спеціальний фонд суспільного блага на тлі підготовки до IPO та критики технології.",
-    "content": "Американський стартап у сфері штучного інтелекту Anthropic, оцінений у $965 млрд, передасть 5% своїх акцій вартістю близько $48 млрд у новостворений фонд суспільного блага. Рішення ухвалили на тлі підготовки до масштабного первинного публічного розмі... [1892 chars]",
-    "url": "https://delo.ua/news/anthropic-viddast-48-mlrd-na-fond-suspilnogo-blaga-cerez-kritiku-nebezpek-si-474591/",
-    "image": "https://delo.ua/static/content/thumbs/1200x630/2/b7/pn4xpu---c1200x630x50px50p--5ee8ab22e0924f76d287c1921cd00b72.jpeg",
-    "publishedAt": "2026-10-19T12:19:18Z",
-    "lang": "uk",
-    "source": {
-      "id": "089318c55bc4acf31cc81fdec955261d",
-      "name": "Delo.ua",
-      "url": "https://delo.ua"
-    }
-  },
-  {
-    "id": "a044c727f019917e736539ad81bbeabd",
-    "title": "Маск пообіцяв акції SpaceX кожній дитині у США",
-    "description": "Нині Маск володіє близько 6,4 млрд акцій SpaceX. Одна акція наразі коштує приблизно $146.",
-    "content": "Нині Маск володіє близько 6,4 млрд акцій SpaceX. Одна акція наразі коштує приблизно $146.\nГенеральний директор SpaceX Ілон Маск висловив намір у 2027 році подарувати по одній акції своєї компанії кожній дитині у США. Про це він написав на платформі X... [947 chars]",
-    "url": "https://ua.korrespondent.net/world/4921372-mask-poobitsiav-aktsii-SpaceX-kozhnii-dytyni-u-ssha",
-    "image": "https://kor.ill.in.ua/m/1260x900/4602936.jpg",
-    "publishedAt": "2026-10-19T10:09:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "5f3893b2bdd83721567eef82ac0a6d2e",
-      "name": "Korrespondent.net",
-      "url": "https://ua.korrespondent.net"
     }
   }
 ]
