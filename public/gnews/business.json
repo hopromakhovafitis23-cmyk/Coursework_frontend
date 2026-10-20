@@ -105,6 +105,21 @@
     }
   },
   {
+    "id": "a4c54cc0ca8b98de3aa65d04766728ec",
+    "title": "Модер збільшив продуктивність Oblivion Remastered до 40% через ШІ-оптимізацію • Межа",
+    "description": "Розчарований продуктивністю фанат оптимізував Oblivion Remastered за допомогою Claude Opus 5.5. Покращення збільшили продуктивність гри до 40% та усунули суттєві недоліки рушія.",
+    "content": "Фанат був розчарований Oblivion Remastered на його відеокарті AMD Radeon 9070 XT та Ryzen 7 5800X. За допомогою Claude Opus 5.5 він оптимізував гру та збільшив її продуктивність більш ніж на третину.\nКористувач LTSharpe з Reddit грав в Oblivion з 200... [3516 chars]",
+    "url": "https://mezha.ua/news/oblivion-remastered-claude-opus-performance-fix-316315/",
+    "image": "https://img.mezha.ua/mezha/images/doc/7/5/330911/75c012a0a2c6bca8569a0754f5335907.jpeg?w=1200&q=85&stamp=1792415011",
+    "publishedAt": "2026-10-19T13:02:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "6b0257d31504a630dde7752eed4e1e39",
+      "name": "Mezha",
+      "url": "https://mezha.ua"
+    }
+  },
+  {
     "id": "8f6a63f1053ea8a05583e3ebf0cb82c2",
     "title": "Anthropic виділить $48 млрд у фонд суспільного блага",
     "description": "Американський ШІ-стартап Anthropic спрямує 5% акцій вартістю близько $48 млрд у спеціальний фонд суспільного блага на тлі підготовки до IPO та критики технології.",
@@ -132,21 +147,6 @@
       "id": "5f3893b2bdd83721567eef82ac0a6d2e",
       "name": "Korrespondent.net",
       "url": "https://ua.korrespondent.net"
-    }
-  },
-  {
-    "id": "0e58b4e305707e48ef86b163b935d56f",
-    "title": "Tesla Roadster літає на технологіях SpaceX",
-    "description": "Компанія Tesla розкрила секрет роботи реактивних сопел суперкара Roadster. Версія Rocket отримала 10 холодних газових прискорювачів та лімітований доступ.",
-    "content": "Таємниця білої хмари під час польоту гіперкара\nЯк повідомляє La República, під час нещодавньої демонстрації на випробувальному полігоні компанії SpaceX у Техасі електромобіль здивував публіку появою густої білої хмари під час відриву від землі. Багат... [1728 chars]",
-    "url": "https://24tv.ua/tech/tesla-roadster-litaye-tehnologiyah-spacex-zvidki-beretsya-biliy_n3163185",
-    "image": "https://24tv.ua/resources/photos/news/202610/3163185.jpg?v=1792397307000&w=1200&h=675",
-    "publishedAt": "2026-10-19T09:31:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "e737a8e76b161ef4526698e2ec5f60c9",
-      "name": "24 Канал",
-      "url": "https://24tv.ua"
     }
   }
 ]
