@@ -1,5 +1,80 @@
 [
   {
+    "id": "659b3770b312fc8f9c8b32bfdb3bf566",
+    "title": "Чи справді кава послаблює кістки: що показало нове дослідження",
+    "description": "Помірне споживання кави, ймовірно, не шкодить здоров’ю. Однак вживання понад п’яти чашок кави на день може вплинути на міцність кісток.",
+    "content": "Помірне споживання кави, ймовірно, не шкодить здоров’ю. Однак вживання понад п’яти чашок кави на день може вплинути на міцність кісток.\nПро це повідомляє Verywell Health, посилаючись на дані Дослідження остеопоротичних переломів. У дослідженні взяли ... [2616 chars]",
+    "url": "https://trueua.info/news/yak-schodenne-vzhivannya-kavi-vplivae-na-organizm-viyavleno-mozhliviy-rizik-dlya-zdorovya",
+    "image": "https://trueua.info/sites/default/files/images/10-2026/close-up-coffee-cup-with-tasty-cookies.jpg",
+    "publishedAt": "2026-10-20T22:26:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "dc7a6fdb597c16e847c6858b0ab41485",
+      "name": "TrueUA",
+      "url": "https://trueua.info"
+    }
+  },
+  {
+    "id": "98e710413e6bc13a542e3dfa245bd2c2",
+    "title": "ШІ на живих клітинах мозку: вчені створюють біокомп'ютери з людських нейронів",
+    "description": "ШІ може працювати не лише на кремнієвих чипах, а й на живих людських клітинах. Учені розвивають новий напрям обчислень, відомий як вологе залізо.",
+    "content": "ШІ може працювати не лише на кремнієвих чипах, а й на живих людських клітинах. Учені розвивають новий напрям обчислень, відомий як вологе залізо.\nПро це повідомляє РБК-Україна з посиланням на Futura Sciences.\nЩо таке органоїди та на що вони здатні?\nО... [2247 chars]",
+    "url": "https://www.volynnews.com/news/all/shi-na-zhyvykh-klitynakh-mozku-vcheni-stvoriuiut-biokompiutery-z-liudskykh-neyroniv/",
+    "image": "https://www.volynnews.com/files/news/2026/10-19/433389/84.JPG",
+    "publishedAt": "2026-10-20T21:19:23Z",
+    "lang": "uk",
+    "source": {
+      "id": "00cc5450fcc65cdfb84acb266b7e5d45",
+      "name": "Волинські Новини",
+      "url": "https://www.volynnews.com"
+    }
+  },
+  {
+    "id": "6c6106b48cb346f886166b47a4accf27",
+    "title": "Синдром неспокійних ніг пов’язали з утричі вищим ризиком перинатальної депресії",
+    "description": "Дослідження за участю вагітних у Японії показало зв’язок між синдромом неспокійних ніг і підвищеним ризиком перинатальної депресії.",
+    "content": "Дослідження за участю вагітних у Японії показало зв’язок між синдромом неспокійних ніг і підвищеним ризиком перинатальної депресії. Жінки з цим синдромом приблизно втричі частіше мали перинатальну депресію — великі депресивні епізоди під час вагітнос... [1722 chars]",
+    "url": "https://ua.news/ua/health/sindrom-nespokiinikh-nig-poviazali-z-utrichi-vishchim-rizikom-perinatalnoyi-depresiyi-news-medical",
+    "image": "https://cdn-cabinet.ua.news/uploads/images/restless_legs_syndrome_linked_to_higher_1792521615484.webp",
+    "publishedAt": "2026-10-20T18:40:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "54b33233e9f0f396fe0c9e0f95f2a6f6",
+      "name": "UA.NEWS",
+      "url": "https://ua.news"
+    }
+  },
+  {
+    "id": "ffb58c761f268adc351519bc80d0e03a",
+    "title": "Менопауза впливає на роботу усього організму",
+    "description": "Менопауза може супроводжуватися різкими змінами в роботі кількох систем організму, а не лише поступовими гормональними коливаннями.",
+    "content": "Джерело: science__sphere/Instagram\nМенопауза може супроводжуватися різкими змінами в роботі кількох систем організму, а не лише поступовими гормональними коливаннями. До такого висновку дійшли дослідники з Інституту Вейцмана в Ізраїлі, які проаналізу... [2950 chars]",
+    "url": "https://bukvy.org/menopauza-pov-yazana-zi-zminamy-v-roboti-kistok-pechinky-ta-rivnya-holesterynu-doslidzhennya/",
+    "image": "https://bukvy.org/wp-content/uploads/devitem_opengraph_images/354974.jpg",
+    "publishedAt": "2026-10-20T15:52:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "8bbee1c72678a4ab4a072b208e0690f3",
+      "name": "Букви",
+      "url": "https://bukvy.org"
+    }
+  },
+  {
+    "id": "0abd5e632fa1bb35fdfc855cfcb4a688",
+    "title": "У Канаді виявили зв’язок ультраоброблених продуктів із судинним ураженням мозку",
+    "description": "Дослідження за участю 8783 дорослих у Канаді виявило зв’язок між вищим споживанням ультраоброблених продуктів і МРТ-ознаками судинного ураження мозку. Учасникам було від 35 до 69 років, і вони не мали встановлених серцево-судинних захворювань, повідомляє ScienceAlert.",
+    "content": "Дослідження за участю 8783 дорослих у Канаді виявило зв’язок між вищим споживанням ультраоброблених продуктів і МРТ-ознаками судинного ураження мозку. Учасникам було від 35 до 69 років, і вони не мали встановлених серцево-судинних захворювань, повідо... [2034 chars]",
+    "url": "https://ua.news/ua/health/u-kanadi-viiavili-zviazok-ultraobroblenikh-produktiv-iz-sudinnim-urazhenniam-mozku-sciencealert",
+    "image": "https://cdn-cabinet.ua.news/uploads/images/canada_upf_brain_vascular_injury_study_1792506244851.webp",
+    "publishedAt": "2026-10-20T14:24:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "54b33233e9f0f396fe0c9e0f95f2a6f6",
+      "name": "UA.NEWS",
+      "url": "https://ua.news"
+    }
+  },
+  {
     "id": "b88c13c1f1066772b324ab7563753345",
     "title": "Varda запускає місію з дослідження кристалів протиракових препаратів у космосі",
     "description": "Varda Space Industries вивела на орбіту свій космічний апарат W-7, щоб дослідити, як мікрогравітація впливає на кристали, які використовують у певному класі протиракових препаратів. Компанія сподівається, що результати допоможуть планувати майбутнє виробництво в космосі, хоча до виробництва в комерц",
@@ -12,6 +87,36 @@
       "id": "625fb51b57a1145b9fbd4791ab982a0e",
       "name": "Mezha.net",
       "url": "https://mezha.net"
+    }
+  },
+  {
+    "id": "97f5e5fd858634f53f7c349ed5928a97",
+    "title": "Ультраоброблені продукти пов’язали з ознаками ураження мозку",
+    "description": "Ультраоброблені продукти часто витісняли мінімально оброблені",
+    "content": "У здорових дорослих, які споживають багато ультраоброблених продуктів, можуть частіше спостерігатися ознаки пошкодження мозку. Це може підвищувати ризик інсульту та проблем із пам’яттю в майбутньому. Про це йдеться в дослідженні, опублікованому в жур... [1647 chars]",
+    "url": "https://life.liga.net/health/news/chypsy-sneky-ta-hotovi-stravy-mozhut-pidvyshchuvaty-ryzyk-dementsii-ta-insultu",
+    "image": "https://storage.liga.net/images/general/social/social-4644711-ua.png?v=1792492713",
+    "publishedAt": "2026-10-20T13:29:04Z",
+    "lang": "uk",
+    "source": {
+      "id": "bbf1605b958b020fa27799844b910803",
+      "name": "LIGA.net",
+      "url": "https://life.liga.net"
+    }
+  },
+  {
+    "id": "eb23847c4a584947a1c4d0e71e478699",
+    "title": "що помічають у своїй практиці лікарі по країні",
+    "description": "Лікарі повідомляють про ранній початок сезону ГРВІ та часті мікст-інфекції. Уже по тестах виявляють грип",
+    "content": "Що у практиці бачать лікарі\nОпитані LB.ua лікарі кажуть, що нежить, кашель, біль у горлі, підвищена температура та слабкість залишаються типовими проявами ГРВІ в їхніх пацієнтів.\nСимптоми можуть відрізнятися залежно від збудника: в однієї дитини захв... [11421 chars]",
+    "url": "https://lb.ua/health/2026/10/20/774786_sezon_grvi_pochavsya_rano.html",
+    "image": "https://i.lb.ua/news/022/44/6ad7631542bea.jpg",
+    "publishedAt": "2026-10-20T13:23:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "a5f7d2df13d19258a781aca9a6fdd5f0",
+      "name": "LB.ua",
+      "url": "https://lb.ua"
     }
   },
   {
@@ -42,111 +147,6 @@
       "id": "54b33233e9f0f396fe0c9e0f95f2a6f6",
       "name": "UA.NEWS",
       "url": "https://ua.news"
-    }
-  },
-  {
-    "id": "1e2003784e8cb1fac3683baa18b2e23a",
-    "title": "Центр громадського здоров'я України нагадав про наслідки нераціонального використання антимікробних засобів",
-    "description": "Не лікуйте застуду антибіотиком! - Центр громадського здоров'я України нагадав про наслідки нераціонального використання антимікробних засобів",
-    "content": "З наближенням холодів традиційно зростає кількість випадків респіраторних захворювань, а з нею і кількість звернень до лікарів. Деякі люди, що занедужали на ГРВІ звертаються до лікарів з проханням призначити їм антибіотик. На думку пацієнтів, це допо... [1544 chars]",
-    "url": "https://gazeta-fp.com.ua/news/ne-likujte-zastudu-antibiotikom---tsentr-gromadskogo-zdorov-ya-ukrajini-nagadav-pro-naslidki-neratsionalnogo-vikoristannya-antimikrobnikh-zasobiv",
-    "image": "https://gazeta-fp.com.ua/assets/news/md/1792479800_c581d2e0615bc45c9fec.jpg",
-    "publishedAt": "2026-10-20T12:28:19Z",
-    "lang": "uk",
-    "source": {
-      "id": "01bd1210ba4b22d03e125b36c1ecf328",
-      "name": "Фермер Придніпров'я",
-      "url": "https://gazeta-fp.com.ua"
-    }
-  },
-  {
-    "id": "de9374646a028e4ef5dde603de4787d9",
-    "title": "Яка користь від курячих яєць",
-    "description": "Дієтолог назвав продукт, який після 40 років треба мати завжди в холодильнику. Він багатий на якісний білок, дає відчуття ситості і до того ж недорогий.",
-    "content": "Коли ви повертаєтеся наприкінці дня втомлені з роботи, а вдома нічого з готової їжі немає, то готуєте імпровізовану вечерею з перших-ліпших продуктів, які є під рукою. Дієтолог-нутриціолог Пабло Охеда пропонує заздалегідь подбати про те, щоб на такий... [3913 chars]",
-    "url": "https://www.unian.ua/health/yaka-korist-vid-kuryachih-yayec-diyetolog-poyasniv-chomu-jih-treba-zavzhdi-mati-v-holodilniku-13534293.html",
-    "image": "https://images.unian.net/photos/2026_02/thumb_files/620_324_1771260108-8442.jpg?1",
-    "publishedAt": "2026-10-20T11:41:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "d4361862486677369ff2ae7719b8d313",
-      "name": "УНІАН",
-      "url": "https://www.unian.ua"
-    }
-  },
-  {
-    "id": "de28a45a727a08730628ade56b5ab769",
-    "title": "Аспірин від чого: застосування та важливі застереження",
-    "description": "На початку жовтня 2026 року в аптеках Києва, Львова та інших міст помітили тимчасову нестачу окремих препаратів Bayer, зокрема класичного аспірину.",
-    "content": "На початку жовтня 2026 року в аптеках Києва, Львова та інших міст помітили тимчасову нестачу окремих препаратів Bayer, зокрема класичного аспірину. Компанія пояснила це логістичними затримками: партія вже була в Україні, але ще проходила процедури пе... [8688 chars]",
-    "url": "https://ienergo.com.ua/aspiryn-vid-choho-zastosuvannia-ta-vazhlyvi-zasterezhennia/",
-    "image": "https://ienergo.com.ua/wp-content/uploads/2026/10/aspiryn-vid-choho-zastosuvannia-ta-vazhlyvi-zasterezhennia-cba1.webp",
-    "publishedAt": "2026-10-20T11:36:17Z",
-    "lang": "uk",
-    "source": {
-      "id": "322def1a1d7cdfe822cf782dc1aa3fc2",
-      "name": "ienergo.com.ua",
-      "url": "https://ienergo.com.ua"
-    }
-  },
-  {
-    "id": "aedc2154d27c243815abe137e9f2cd64",
-    "title": "Не всім достатньо 8 годин: як визначити свою норму сну",
-    "description": "Норма сну 7–8 годин підходить не всім: комусь вистачає менше, а комусь потрібно понад 9 годин. Свою норму можна визначити самостійно – під час відпустки.",
-    "content": "Про це розповіла лікарка-неврологиня та спеціалістка зі сну Наталія Домрес у студії \"Шелтер Життя\".\nРеклама\nНорма сну – не універсальна\nПід час розмови йшлося про те, що норма сну 7–8 годин на добу може бути надто \"чоловічою\", бо раніше дослідження с... [3519 chars]",
-    "url": "https://shelter.in.ua/zyttia/ne-vsim-dostatnyo-8-hodyn-iak-vyznachyty-svoiu-normu-snu",
-    "image": "https://s.shelter.in.ua/JwAWF3ugcQRK2OkS/i/1200x630/p/d/c9/67244b5836fcfc5ff2f3a7a4402cec9d.png",
-    "publishedAt": "2026-10-20T11:35:16Z",
-    "lang": "uk",
-    "source": {
-      "id": "4b711d438fcbb3b19467847317b608ca",
-      "name": "shelter.in.ua",
-      "url": "https://shelter.in.ua"
-    }
-  },
-  {
-    "id": "43dc40f33e28ece613572da56050f7fb",
-    "title": "скільки в них калію та чим вони корисні для організму",
-    "description": "Фісташки багаті на калій, білок і антиоксиданти. Вони допомагають знижувати рівень холестерину, регулювати тиск і підтримувати здоров’я серця.",
-    "content": "Фісташки містять близько 1020 мг калію на 100 г – значно більше, ніж картопля та банани. Ці горіхи також багаті на білок, клітковину й антиоксиданти, допомагають підтримувати здоров’я серця, регулювати артеріальний тиск і рівень холестерину. Про це п... [2999 chars]",
-    "url": "https://www.unian.ua/curiosities/fistashki-skilki-v-nih-kaliyu-ta-chim-voni-korisni-dlya-organizmu-13534581.html",
-    "image": "https://images.unian.net/photos/2025_10/thumb_files/620_324_1759323199-3269.jpg?1",
-    "publishedAt": "2026-10-20T10:58:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "d4361862486677369ff2ae7719b8d313",
-      "name": "УНІАН",
-      "url": "https://www.unian.ua"
-    }
-  },
-  {
-    "id": "a086e211b8fb1ff88d5e0d6f7f9dcf57",
-    "title": "Народні методи лікування застуди у дітей: чого категорично робити не варто і що може допомогти",
-    "description": "Які народні методи лікування застуди у дітей можуть зашкодити. а які реально допомогти. Поради лікаря-педіатра на ZAXID.NET",
-    "content": "Надворі ще не дуже холодно, а кількість хворих на ГРВІ щотижня зростає. За даними Львівського обласного центру контролю і профілактики хвороб, з 12 по 18 жовтня на Львівщині по медичну допомогу звернулося 9191 людина, що на 8,3% більше, ніж попереднь... [8526 chars]",
-    "url": "https://zaxid.net/narodni_metodi_likuvannya_zastudi_u_ditey_chogo_kategorichno_robiti_ne_varto_i_shho_mozhe_dopomogti_n1648291",
-    "image": "https://zaxid.net/resources/photos/news/202610/1648291.jpg?20261020132243&fit=cover&w=1200&h=675&q=80",
-    "publishedAt": "2026-10-20T10:10:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "7ab609f566cdbec66a589947504f2d4c",
-      "name": "Zaxid.net",
-      "url": "https://zaxid.net"
-    }
-  },
-  {
-    "id": "db29ba41bf2d8473ae168d4e96d9c4b5",
-    "title": "Пептиди для омолодження: що доведено, а що небезпечно",
-    "description": "Пептиди рекламують для омолодження, схуднення та довголіття. Професорка Ольга Юшковська пояснює, які препарати мають доведену ефективність і чому небезпечно призначати їх собі самостійно.",
-    "content": "Самостійно робити ін’єкції призначених лікарем препаратів можна після навчання, але самостійно обирати засіб і дозування небезпечно.\nВід інсуліну до сучасних препаратів\nПептиди — це ланцюжки амінокислот. Багато з них виконують в організмі сигнальну ф... [5014 chars]",
-    "url": "https://napensii.ua/uk/articles/503845-peptydy-vid-diabetu-do-omolodzhennya-de-dovedena-koryst-a-de-lyshe-obiczyanky/",
-    "image": "https://napensii.ua/wp-content/uploads/likarka-z-peptydamy.webp",
-    "publishedAt": "2026-10-20T08:00:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "93354ba23f304a8be89bb4983e7400b0",
-      "name": "На пенсии",
-      "url": "https://napensii.ua"
     }
   }
 ]
