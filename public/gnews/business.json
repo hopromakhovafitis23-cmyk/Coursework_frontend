@@ -1,5 +1,35 @@
 [
   {
+    "id": "537f0b2992776a25b499db5b72c6479a",
+    "title": "Перетворює сміттєпереробні заводи на енергохаби: в Японії представили першу у світі технологію замкненого циклу вловлювання CO₂",
+    "description": "Розроблена технологія була інтегрована у сміттєспалювальний завод в токійському",
+    "content": "Японська корпорація Kanadevia представила першу у світі технологію замкненого циклу вловлювання CO₂ від димових газів з генерацією електроенергії в процесі спалювання сміття.\nРозроблена технологія була інтегрована у сміттєспалювальний завод в токійсь... [2082 chars]",
+    "url": "https://itc.ua/ua/novini/peretvoryuye-smittyepererobni-zavody-na-energohaby-v-yaponiyi-predstavyly-pershu-u-sviti-tehnologiyu-zamknenogo-tsyklu-vlovlyuvannya-co/",
+    "image": "https://cdn.itc.ua/uploads/2026/10/incineration-plant-Depositphotos_23655955_L.jpg",
+    "publishedAt": "2026-10-23T13:32:18Z",
+    "lang": "uk",
+    "source": {
+      "id": "391d17d071b755a4bda37c1b43f47c2c",
+      "name": "ITC.ua",
+      "url": "https://itc.ua"
+    }
+  },
+  {
+    "id": "0376aaeff36170faea0ee3cca91adf3f",
+    "title": "Як Південна Корея впливає на ринок пам'яті • Межа",
+    "description": "Від смартфонів і ноутбуків до дата-центрів штучного інтелекту – сучасна електроніка залежить від південно-корейських заводів і ресурсів Samsung і SK Hynix. Чому ця залежність небезпечна, як формується ціна пам'яті та чого очікувати у 2027–2031 роках?",
+    "content": "Від смартфонів і ноутбуків до дата-центрів штучного інтелекту – сучасна електроніка залежить від корейських заводів і ресурсів Samsung і SK Hynix. Чому ця залежність небезпечна, як формується ціна пам'яті та чого очікувати у 2027–2031 роках?\nУ вересн... [18027 chars]",
+    "url": "https://mezha.ua/articles/yak-pivdenna-koreya-vplivaye-na-rinok-pam-yati-316471/",
+    "image": "https://img.mezha.ua/mezha/images/doc/d/9/331409/d99f7db96def6e7d431e48e4aef80e33.jpeg?w=1200&q=85&stamp=1792747930",
+    "publishedAt": "2026-10-23T10:00:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "6b0257d31504a630dde7752eed4e1e39",
+      "name": "Mezha",
+      "url": "https://mezha.ua"
+    }
+  },
+  {
     "id": "c8eef76795abb2bb54ebca4a48260160",
     "title": "скільки коштує метал 23 жовтня",
     "description": "Ціни на мідь обвалилися вже втретє за останній місяць. Це відбувається на тлі розпродажу акцій технологічних компаній",
@@ -112,36 +142,6 @@
     "url": "https://24tv.ua/auto/radykalni_zminy_v_liniitsi_acura_brend_hotuie_dva_novi_krosovery_ta_povertaie_rdx_u_vyhliadi_hibryda_n76979",
     "image": "https://24tv.ua/auto/resources/photos/news/202610/769795a64b56e-1c97-463c-8fde-740b7e624eab.jpg",
     "publishedAt": "2026-10-22T12:50:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "e737a8e76b161ef4526698e2ec5f60c9",
-      "name": "24 Канал",
-      "url": "https://24tv.ua"
-    }
-  },
-  {
-    "id": "8870634b6add812c1f6714576cad5608",
-    "title": "Перевершили очікування: Nestle втратила бізнес у Росії, але продажі злетіли",
-    "description": "Nestle - один з найбільших виробників продуктів харчування, зіткнувся з конфіскацією активів через санкції проти Росії. Попри це, продажі виявилися більшими, ніж прогнозували - Бізнес 24.",
-    "content": "Продажі Nestle зростають швидше за очікування\nУ третьому кварталі органічні продажі Nestle зросли на 4%, хоча аналітики прогнозували збільшення на 3,4%. На тлі цих результатів акції компанії піднялися приблизно на 1,5%, пише Reuters.\nВажливим показни... [1517 chars]",
-    "url": "https://24tv.ua/business/nestle-perevershila-prognozi-prodazhiv-popri-konfiskatsiyu-putinim_n3165587",
-    "image": "https://24tv.ua/resources/photos/news/202610/3165587.jpg?v=1792671070000&w=1200&h=675&fit=cover",
-    "publishedAt": "2026-10-22T12:15:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "e737a8e76b161ef4526698e2ec5f60c9",
-      "name": "24 Канал",
-      "url": "https://24tv.ua"
-    }
-  },
-  {
-    "id": "b43fa454f3553c33d9e6711d0205ab04",
-    "title": "Як часто українці купують нові смартфони",
-    "description": "Масштабне опитування показало, як часто мешканці України оновлюють гаджети та чи планують витрачати кошти на тлі прогнозованого подорожчання техніки.",
-    "content": "Як часто українці купують новий смартфон?\nБільшість українців купують новий телефон рідше, ніж раз на 4 роки – чекають, поки зовсім не зламається. Ще частина опитаних купує раз на 2 – 4 роки, а кожен пʼятий – не купує зовсім, оскільки зазвичай отриму... [1158 chars]",
-    "url": "https://24tv.ua/tech/yak-chasto-ukrayintsi-kupuyut-novi-smartfoni-doslidzhennya-rakuten_n3165455",
-    "image": "https://24tv.ua/resources/photos/news/202610/3165455.jpg?v=1792662283000&w=1200&h=675&fit=cover",
-    "publishedAt": "2026-10-22T12:01:00Z",
     "lang": "uk",
     "source": {
       "id": "e737a8e76b161ef4526698e2ec5f60c9",
