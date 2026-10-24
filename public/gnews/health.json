@@ -1,5 +1,35 @@
 [
   {
+    "id": "34c0712821caa3b27c03810177fdc44c",
+    "title": "Добавки з омега-3 насправді не рятують від деменції: вчені провели експеримент",
+    "description": "Вчені довели, що харчові добавки з омега-3 насправді ніяк не запобігають погіршенню пам'яті в старості - читайте докладніше в матеріалі УНІАН",
+    "content": "Популярні добавки з омега-3 жирними кислотами не продемонстрували помітного позитивного впливу на пам’ять і не запобігли зменшенню об’єму ділянки мозку, важливої для формування спогадів. Таких висновків дійшли дослідники з Медичної школи Кека Універс... [2735 chars]",
+    "url": "https://www.unian.ua/science/dobavki-z-omega-3-naspravdi-ne-ryatuyut-vid-demenciji-vcheni-proveli-eksperiment-13538412.html",
+    "image": "https://images.unian.net/photos/2025_03/thumb_files/620_324_1741279981-4259.jpg?1",
+    "publishedAt": "2026-10-24T02:09:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "d4361862486677369ff2ae7719b8d313",
+      "name": "УНІАН",
+      "url": "https://www.unian.ua"
+    }
+  },
+  {
+    "id": "bcf58b7fe94fcf3f0c0b68c15831f29c",
+    "title": "Яка група крові пов’язана з підвищеним ризиком діабету 2 типу: результати нового дослідження",
+    "description": "Водночас дослідники наголошують, що на ризик захворювання значно сильніше впливають харчування, маса тіла та рівень фізичної активності.",
+    "content": "Люди з третьою групою крові (B / III), незалежно від резус-фактора, можуть мати на 28% вищий ризик розвитку діабету 2 типу порівняно з людьми з іншими групами крові. Водночас дослідники наголошують, що на ризик захворювання значно сильніше впливають ... [1730 chars]",
+    "url": "https://trueua.info/news/odna-z-grup-krovi-mozhe-buti-povyazana-z-vischim-rizikom-diabetu-scho-zyasuvali-vcheni",
+    "image": "https://trueua.info/sites/default/files/images/10-2026/2150766886.jpg",
+    "publishedAt": "2026-10-24T01:23:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "dc7a6fdb597c16e847c6858b0ab41485",
+      "name": "TrueUA",
+      "url": "https://trueua.info"
+    }
+  },
+  {
     "id": "089240734db174ad9e9417fb59be8d19",
     "title": "У ДР Конго стартували випробування вакцин проти вірусу Бундібугіо - Premium Times Nigeria",
     "description": "У місті Бунія на сході Демократичної Республіки Конго розпочали клінічне випробування вакцин проти вірусу Бундібугіо, який належить до групи збудників хвороби, спричиненої вірусом Ебола.",
@@ -105,48 +135,18 @@
     }
   },
   {
-    "id": "e9beb97dc96fd9ce24ddbb2294a7c4f8",
-    "title": "Створені ШІ віруси вперше ввели людині",
-    "description": "Модель штучного інтелекту Omnii розробила віруси проти кишкової палички, стійкої до антибіотиків та наявних бактеріофагів.",
-    "content": "Американський стартап Radical Numerics заявив про використання вірусів, створених за допомогою штучного інтелекту, для лікування пацієнта з небезпечною бактеріальною інфекцією. Дослідники адаптували бактеріофаги — віруси, що заражають і знищують бакт... [3538 chars]",
-    "url": "https://zn.ua/ukr/TECHNOLOGIES/stvoreni-shi-virusi-vpershe-vveli-ljudini.html",
-    "image": "https://zn.ua/img/article/7000/96_main-v1792761945.webp",
-    "publishedAt": "2026-10-23T13:25:00Z",
+    "id": "a50c60efcabddfb1c97d62312bf35e2d",
+    "title": "дієтологи склали список із 12 варіантів",
+    "description": "Після 60 років треба вживати продукти, багаті на клітковину, а клітковина міститься у 5 групах продуктів: фруктах, овочах, цільнозернових, бобових, горіхах.",
+    "content": "З віком метаболізм змінюється, а потреби в поживних речовинах після 60 років можуть суттєво відрізнятися від тих, які були у 20–30. Як пише Eatthis, хороша новина полягає в тому, що правильне харчування допоможе підтримувати здоров’я на цьому етапі.\n... [9223 chars]",
+    "url": "https://www.unian.ua/health/yaki-produkti-korisni-dlya-litnih-lyudey-diyetologi-sklali-spisok-iz-12-variantiv-13537776.html",
+    "image": "https://images.unian.net/photos/2026_10/thumb_files/620_324_1792747455-2578.jpg?1",
+    "publishedAt": "2026-10-23T14:16:00Z",
     "lang": "uk",
     "source": {
-      "id": "c5c959cb41bdd64f8b2b81a75752cf74",
-      "name": "Дзеркало тижня",
-      "url": "https://zn.ua"
-    }
-  },
-  {
-    "id": "c2ae3a7f3203ebe2350aabda1e8f42da",
-    "title": "FDA надало дозвіл системі MeRT для лікування ПТСР - ScienceDaily",
-    "description": "У США Управління з контролю за продуктами й ліками (FDA) надало дозвіл на застосування системи Magnetic e-Resonance Therapy (MeRT) для лікування посттравматичного стресового розладу.",
-    "content": "У США Управління з контролю за продуктами й ліками (FDA) надало дозвіл на застосування системи Magnetic e-Resonance Therapy (MeRT) для лікування посттравматичного стресового розладу. Технологію розробила каліфорнійська компанія Wave Neuroscience у сп... [2067 chars]",
-    "url": "https://ua.news/ua/health/fda-nadalo-dozvil-sistemi-mert-dlia-likuvannia-ptsr-sciencedaily",
-    "image": "https://cdn-cabinet.ua.news/uploads/images/fda_clears_mert_system_for_ptsd_treatmen_1792758843554.webp",
-    "publishedAt": "2026-10-23T12:34:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "54b33233e9f0f396fe0c9e0f95f2a6f6",
-      "name": "UA.NEWS",
-      "url": "https://ua.news"
-    }
-  },
-  {
-    "id": "3d0be62381b423c57e3a65f68c0f7043",
-    "title": "Дослідники пояснили, чому антибіотики часто не діють за періімплантиту - ScienceDaily",
-    "description": "Науковці Школи стоматологічної медицини Ратгерського університету виявили механізм, який може пояснити, чому інфекції навколо зубних імплантів часто погано піддаються лікуванню антибіотиками.",
-    "content": "Науковці Школи стоматологічної медицини Ратгерського університету виявили механізм, який може пояснити, чому інфекції навколо зубних імплантів часто погано піддаються лікуванню антибіотиками. Як повідомляє ScienceDaily, бактерії можуть поступово пошк... [2026 chars]",
-    "url": "https://ua.news/ua/health/doslidniki-poiasnili-chomu-antibiotiki-chasto-ne-diiut-za-periimplantitu-sciencedaily",
-    "image": "https://cdn-cabinet.ua.news/uploads/images/periimplantitis_titanium_immune_response_1792757642017.webp",
-    "publishedAt": "2026-10-23T12:14:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "54b33233e9f0f396fe0c9e0f95f2a6f6",
-      "name": "UA.NEWS",
-      "url": "https://ua.news"
+      "id": "d4361862486677369ff2ae7719b8d313",
+      "name": "УНІАН",
+      "url": "https://www.unian.ua"
     }
   }
 ]
