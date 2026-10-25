@@ -1,5 +1,20 @@
 [
   {
+    "id": "db4361aa161c3effa2c80fb9f4a7e763",
+    "title": "Українці масово купують старі \"американські\" авто: яка ціна найпопулярнішої моделі",
+    "description": "За перші 9 місяців 2026 року українці купили майже 37 тис. уживаних легкових авто, ввезених зі США. Середній вік таких машин склав 6,2 року. Найпопуля",
+    "content": "За перші 9 місяців 2026 року українці купили майже 37 тис. уживаних легкових авто, ввезених зі США. Середній вік таких машин склав 6,2 року. Найпопулярнішою моделлю стала FORD Escape – таких авто було куплено 3 721 одиницю. Придбати таке в Україні мо... [1070 chars]",
+    "url": "https://www.obozrevatel.com/ukr/section-ekonomika-glavnaya/economy/news-ukrayintsi-masovo-kupuyut-stari-amerykanski-avto-yaka-tsina-naypopulyarnishoyi-modeli-25-10-2026.html",
+    "image": "https://i.obozrevatel.com/news/2025/8/11/ford-escape.jpg?size=1280x720",
+    "publishedAt": "2026-10-25T00:20:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "ca149ffefb31c86f82d7f299d744af59",
+      "name": "OBOZ.UA",
+      "url": "https://www.obozrevatel.com"
+    }
+  },
+  {
     "id": "fb5d32ac6b386e8cb366baa6752beeac",
     "title": "ознаки, що старий пристрій загрожує безпеці",
     "description": "Роутер без оновлень прошивки, обриви зв'язку й повільний Wi-Fi можуть означати, що час його замінити. Також важливо, чи підтримує він сучасні стандарти, як-от Wi-Fi 7.",
@@ -127,21 +142,6 @@
     "url": "https://mezha.ua/news/musk-invests-1-billion-in-skydance-316454/",
     "image": "https://img.mezha.ua/mezha/images/doc/4/e/331374/4ed4cbae7404e4a089e965b8934c61c8.jpeg?w=1200&q=85&stamp=1792713398",
     "publishedAt": "2026-10-23T00:30:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "6b0257d31504a630dde7752eed4e1e39",
-      "name": "Mezha",
-      "url": "https://mezha.ua"
-    }
-  },
-  {
-    "id": "0d95f5da40bbe7049aae4d54a9e02a3c",
-    "title": "Volkswagen готує до випуску свій найдоступніший електромобіль • Межа",
-    "description": "Volkswagen готує до випуску новий бюджетний електромобіль, який має стати найдоступнішою електричною моделлю бренду. Очікується, що новинка надійде у продаж у 2027 році за стартовою ціною близько 20 тисяч євро.",
-    "content": "Компанія Volkswagen готує до випуску новий бюджетний електромобіль, який має стати найдоступнішою електричною моделлю бренду. Очікується, що новинка надійде у продаж у 2027 році за стартовою ціною близько 20 тисяч євро. Про це пише Electrek.\nМодель с... [1697 chars]",
-    "url": "https://mezha.ua/news/volkswagen-gotuye-do-vipusku-sviy-naydostupnishiy-elektromobil-316448/",
-    "image": "https://img.mezha.ua/mezha/images/doc/8/8/331364/88080141c4fe8c6d7883cc3dc7cfa786.jpeg?w=1200&q=85&stamp=1792695821",
-    "publishedAt": "2026-10-22T19:56:00Z",
     "lang": "uk",
     "source": {
       "id": "6b0257d31504a630dde7752eed4e1e39",
