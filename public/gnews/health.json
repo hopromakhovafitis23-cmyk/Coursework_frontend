@@ -1,5 +1,65 @@
 [
   {
+    "id": "7b58772c805753657b0a127db43951c3",
+    "title": "Віруси в укриттях: як захистити дитину",
+    "description": "Віруси в укриттях становлять ризик для дітей. Лікарка пояснює, чи допомагають кварцові лампи, БАДи, промивання носа та зволоження повітря.",
+    "content": "Вітаміни для всього класу, кварцові лампи та мазі для носа не допоможуть захистити дітей від вірусів у переповненому укритті. Натомість значно важливіші вентиляція, маски, гігієна рук і вакцинація. Лікарка пояснила, які популярні способи профілактики... [3359 chars]",
+    "url": "https://life.kyiv.ua/news/virusy-v-ukryttiakh-likarka-poiasnyla-shcho-spravdi-zakhyshchaie-ditej-a-shcho-i",
+    "image": "https://life.kyiv.ua/storage/croped/1200_630/news/2026/10/25/536803/big.jpg?nocache=6addf000ca367",
+    "publishedAt": "2026-10-25T07:48:30Z",
+    "lang": "uk",
+    "source": {
+      "id": "cc7300a1052d2cbce662d94f32b5d416",
+      "name": "Life.Kyiv.ua",
+      "url": "https://life.kyiv.ua"
+    }
+  },
+  {
+    "id": "b53860c8f4100967222e4860db9fe988",
+    "title": "Німецькі вчені створили покриття, яке \"лікує\" тріщини у склі сонячних панелей",
+    "description": "У Німеччині створили покриття, яке зміцнює скло сонячних панелей у сім разів. Технологія дозволить зменшити вагу модулів приблизно на 30%.",
+    "content": "Німецькі дослідники розробили спеціальне покриття для сонячних панелей, яке робить скло значно міцнішим. Завдяки новій технології вага модулів може зменшитися приблизно на 30%.\nРозробку представили компанія EXXERGY, її дочірнє підприємство EXXOSQEL т... [1991 chars]",
+    "url": "https://gsminfo.com.ua/206943-nimeczki-vcheni-stvoryly-pokryttya-yake-likuye-trishhyny-u-skli-sonyachnyh-panelej.html",
+    "image": "https://gsminfo.com.ua/wp-content/uploads/2026/08/sonyachni-paneli.jpg",
+    "publishedAt": "2026-10-25T06:10:27Z",
+    "lang": "uk",
+    "source": {
+      "id": "4ad9a17bdb41e9b5209119de5f38e809",
+      "name": "GSMinfo",
+      "url": "https://gsminfo.com.ua"
+    }
+  },
+  {
+    "id": "ee5f626e9f7e2e257fb186fa6461e064",
+    "title": "Чим небезпечний вірус герпесу",
+    "description": "Вчені з’ясували, що вірус герпесу здатний атакувати імунні клітини мозку",
+    "content": "Вчені заявили про те, що вірус простого герпесу (ВПГ-1) здатний перепрограмувати імунні клітини головного мозку — мікроглію. І це може пояснити, як вірус сприяє розвитку запальних процесів, характерних для захворювань, що супроводжуються зниженням ко... [1743 chars]",
+    "url": "https://zn.ua/ukr/TECHNOLOGIES/virus-herpesu-jak-vijavilosja-zdatnij-zakhopljuvati-imunni-klitini-mozku-chomu-tse-pohano.html",
+    "image": "https://zn.ua/img/article/7001/99_main-v1792846035.webp",
+    "publishedAt": "2026-10-25T06:00:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "c5c959cb41bdd64f8b2b81a75752cf74",
+      "name": "Дзеркало тижня",
+      "url": "https://zn.ua"
+    }
+  },
+  {
+    "id": "e0f4eab87c5427035e0612dea40168dd",
+    "title": "У Пакистані від кору померли п’ятеро дітей - The Express Tribune",
+    "description": "У віддалених гірських районах Гора-Банда та Хора-Банда округу Нижній Дір у Пакистані внаслідок серйозного спалаху кору померли п’ятеро дітей віком від двох до семи років. Десятки інших дітей інфікувалися, повідомляє The Express Tribune.",
+    "content": "У віддалених гірських районах Гора-Банда та Хора-Банда округу Нижній Дір у Пакистані внаслідок серйозного спалаху кору померли п’ятеро дітей віком від двох до семи років. Десятки інших дітей інфікувалися, повідомляє The Express Tribune.\nДітей доправи... [746 chars]",
+    "url": "https://ua.news/ua/health/u-pakistani-vid-koru-pomerli-piatero-ditei-the-express-tribune",
+    "image": "https://cdn-cabinet.ua.news/uploads/images/measles_outbreak_kills_five_children_pak_1792907647706.webp",
+    "publishedAt": "2026-10-25T05:54:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "54b33233e9f0f396fe0c9e0f95f2a6f6",
+      "name": "UA.NEWS",
+      "url": "https://ua.news"
+    }
+  },
+  {
     "id": "e6b8d65fe3269f14707ddc93660bb26f",
     "title": "вчені випробували новий метод генної терапії",
     "description": "Дослідники випробували технологію прайм-редагування для виправлення генетичної мутації безпосередньо в організмі людини. Метод може відкрити нові можливості.",
@@ -87,66 +147,6 @@
       "id": "54b33233e9f0f396fe0c9e0f95f2a6f6",
       "name": "UA.NEWS",
       "url": "https://ua.news"
-    }
-  },
-  {
-    "id": "565758cdbdfaa6c34416425b4faa5550",
-    "title": "Низький і високий тестостерон пов’язали з аритмією - ScienceAlert",
-    "description": "Дослідники Медичного центру Університету Канзасу в огляді наявних досліджень виявили зв’язок низького та високого рівнів тестостерону з підвищеним ризиком фібриляції передсердь. Водночас причинно-наслідковий зв’язок між гормоном і порушенням ритму серця поки не встановлено, повідомляє ScienceAlert.",
-    "content": "Дослідники Медичного центру Університету Канзасу в огляді наявних досліджень виявили зв’язок низького та високого рівнів тестостерону з підвищеним ризиком фібриляції передсердь. Водночас причинно-наслідковий зв’язок між гормоном і порушенням ритму се... [2481 chars]",
-    "url": "https://ua.news/ua/health/nizkii-i-visokii-testosteron-poviazali-z-aritmiieiu-sciencealert",
-    "image": "https://cdn-cabinet.ua.news/uploads/images/testosterone_levels_linked_to_atrial_fib_1792836984399.webp",
-    "publishedAt": "2026-10-24T10:16:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "54b33233e9f0f396fe0c9e0f95f2a6f6",
-      "name": "UA.NEWS",
-      "url": "https://ua.news"
-    }
-  },
-  {
-    "id": "efe659ec765ce57fc41d1b9b499d44da",
-    "title": "Людині вперше ввели віруси, розроблені за допомогою ШІ",
-    "description": "Американська компанія Radical Numerics уперше застосувала для лікування людини бактеріофаги, розроблені за допомогою ШІ. Результати терапії поки невідомі.",
-    "content": "Американська компанія Radical Numerics заявила про перше застосування в людини бактеріофагів, розроблених за допомогою штучного інтелекту. Ці віруси призначені для боротьби з бактеріями, стійкими до антибіотиків. Про це повідомляє The Register.\nПеред... [1989 chars]",
-    "url": "https://bzh.life/ua/novyny/1792830915-liudyni-vpershe-vvely-virusy-rozrobleni-za-dopomohoiu-shi/",
-    "image": "https://bzh.life/static/img/n/a/national_institute_of_allergy_and_infectious_diseases_eulfbsvdaog_unsplash_1_1200x630.jpg?time=1792830877",
-    "publishedAt": "2026-10-24T09:10:16Z",
-    "lang": "uk",
-    "source": {
-      "id": "92cf9c82c792b3f1b2b8c8db2ca49e6a",
-      "name": "БЖ",
-      "url": "https://bzh.life"
-    }
-  },
-  {
-    "id": "bc59638a708481e27c652bbe6ada02cf",
-    "title": "Омолодження клітин у 2026 році: за що найвпливовіші люди віддають мільярди доларів",
-    "description": "Вчені досліджують технологію, яка може омолоджувати клітини. Як проходили випробування за участю людей, які результати отримали дослідники та чому експерти закликають до обережності.",
-    "content": "Прагнення подолати біологічне старіння перетворилося на головну одержимість Кремнієвої долини. Доки технологічні мільярдери спрямовують мільярди доларів в біотехнологічні стартапи, наука робить перші обережні кроки від експериментів на гризунах до кл... [2696 chars]",
-    "url": "https://novyny.live/ekonomi/vichna-molodist-za-miliardi-dolariv-za-shcho-zamozhni-liudi-viddaiut-statki-349128.html",
-    "image": "https://novyny.live/cdn-cgi/imagedelivery/4_JwVYxosZqzJ7gIDJgTLA/2c318a1e-91f2-4d83-5df3-dc43aab51400/16x9",
-    "publishedAt": "2026-10-24T04:25:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "24859de7683ddeaf2e8bc4f3eec7de6b",
-      "name": "Новини.Live",
-      "url": "https://novyny.live"
-    }
-  },
-  {
-    "id": "34c0712821caa3b27c03810177fdc44c",
-    "title": "Добавки з омега-3 насправді не рятують від деменції: вчені провели експеримент",
-    "description": "Вчені довели, що харчові добавки з омега-3 насправді ніяк не запобігають погіршенню пам'яті в старості - читайте докладніше в матеріалі УНІАН",
-    "content": "Популярні добавки з омега-3 жирними кислотами не продемонстрували помітного позитивного впливу на пам’ять і не запобігли зменшенню об’єму ділянки мозку, важливої для формування спогадів. Таких висновків дійшли дослідники з Медичної школи Кека Універс... [2735 chars]",
-    "url": "https://www.unian.ua/science/dobavki-z-omega-3-naspravdi-ne-ryatuyut-vid-demenciji-vcheni-proveli-eksperiment-13538412.html",
-    "image": "https://images.unian.net/photos/2025_03/thumb_files/620_324_1741279981-4259.jpg?1",
-    "publishedAt": "2026-10-24T02:09:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "d4361862486677369ff2ae7719b8d313",
-      "name": "УНІАН",
-      "url": "https://www.unian.ua"
     }
   }
 ]
