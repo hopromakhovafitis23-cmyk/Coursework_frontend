@@ -1,5 +1,50 @@
 [
   {
+    "id": "b413118bb4ca74e491749555920b73aa",
+    "title": "Volkswagen T-Cross: найдоступніший в лінійці Volkswagen",
+    "description": "Тест-драйв та детальний огляд Volkswagen T-Cross – найменшого та найдоступнішого автомобіля Volkswagen в Україні станом на зараз. Скільки коштує такий \"вхідний квиток\" в світ Volkswagen? Що пропонує \"малюк\" T-Cross з точки зору техніки та оснащення? Як почувається на дорозі? Всі деталі про Volkswagen T-Cross – в нашому матеріалі!",
+    "content": "Буквально нещодавно розповідали про автомобіль-флагман Volkswagen Touareg, але ось зустрічайте повну протилежність: найменший та найдоступніший автомобіль від Volkswagen зараз в Україні! Йдеться про дуже компактний кросовер Volkswagen T-Cross, який з... [15004 chars]",
+    "url": "https://mezha.ua/reviews/test-drayv-volkswagen-t-cross-naydostupnishiy-v-liniyci-volkswagen-316047/",
+    "image": "https://img.mezha.ua/mezha/images/doc/e/0/329722/e09b97beba368ccb4ccfecf3fe254e5a.jpeg?w=1200&q=85&stamp=1791716373",
+    "publishedAt": "2026-10-26T09:00:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "6b0257d31504a630dde7752eed4e1e39",
+      "name": "Mezha",
+      "url": "https://mezha.ua"
+    }
+  },
+  {
+    "id": "03eaa20893796d1415a44af884172401",
+    "title": "ця модель лідирує, але в неї є сильний конкурент",
+    "description": "Ринок зріс на 5% завдяки електрокарам. Лідирує Clio, попри падіння попиту, а кросовер Model Y стрімко піднявся на другу сходинку. Бестселери втрачають позиції.",
+    "content": "За дев’ять місяців 2026 року в Європі було продано 12 752 299 нових авто. Це на 5% більше, ніж за аналогічний період минулого року, повідомляє Focus2Move.\nОсновним драйвером зростання залишається електрифікація: продажі електромобілів і плагін-гібрид... [1882 chars]",
+    "url": "https://www.unian.ua/economics/auto/naypopulyarnishiy-avtomobil-u-yevropi-cya-model-lidiruye-ale-v-neji-ye-silniy-konkurent-13540092.html",
+    "image": "https://images.unian.net/photos/2026_10/thumb_files/620_324_1793003742-9885.jpg?1",
+    "publishedAt": "2026-10-26T08:39:50Z",
+    "lang": "uk",
+    "source": {
+      "id": "d4361862486677369ff2ae7719b8d313",
+      "name": "УНІАН",
+      "url": "https://www.unian.ua"
+    }
+  },
+  {
+    "id": "e6efa67447f4811d7dd4b1407a291c1f",
+    "title": "Купити зарядну станцію: скільки коштує Екофлоу в Україні - як вибрати",
+    "description": "В Україні вже кілька тижнів регулярно застосовують відключення електроенергії , що змушує людей знову вивчати питання придбання зарядних станцій. Особ",
+    "content": "В Україні вже кілька тижнів регулярно застосовують відключення електроенергії, що змушує людей знову вивчати питання придбання зарядних станцій. Особливо тих, хто живе в багатоквартирних будинках і не може поставити собі генератор. При цьому великий ... [2829 chars]",
+    "url": "https://www.obozrevatel.com/ukr/section-ekonomika-glavnaya/fea/news-ukrayintsi-yaki-zhyvut-u-kvartyrakh-mozhut-kupyty-zaminu-heneratora-shcho-take-ecoflow-i-skilky-koshtuye-26-10-2026.html",
+    "image": "https://i.obozrevatel.com/news/2024/7/8/4220167677663897890122822020585780806691690n.jpg?size=1280x720",
+    "publishedAt": "2026-10-26T04:20:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "ca149ffefb31c86f82d7f299d744af59",
+      "name": "OBOZ.UA",
+      "url": "https://www.obozrevatel.com"
+    }
+  },
+  {
     "id": "f79ec9b544ef569cb3f3b6ae37d6b5dd",
     "title": "Fiat відроджує хетчбек Pandina: що пропонують за €15 400",
     "description": "Fiat зненацька здув пил з легендарного бренду Autobianchi, випустивши нову топову комплектацію для свого легендарного міського хетчбека Pandina.",
@@ -90,63 +135,18 @@
     }
   },
   {
-    "id": "312f789e4ad927eb3070a69ec5d29e60",
-    "title": "Volkswagen планує завод Audi у США",
-    "description": "Проєкт може стати політичним здобутком Дональда Трампа напередодні проміжних виборів до Конгресу США.",
-    "content": "Проєкт може стати політичним здобутком Дональда Трампа напередодні проміжних виборів до Конгресу США.\nНімецький автовиробник Volkswagen планує побудувати завод преміального бренду Audi у штаті Джорджія та розширити виробництво автомобілів Scout Motor... [2042 chars]",
-    "url": "https://ua.korrespondent.net/business/auto/4923166-Volkswagen-planuie-zavod-Audi-u-ssha",
-    "image": "https://kor.ill.in.ua/m/1260x900/4610290.jpg",
-    "publishedAt": "2026-10-25T10:18:00Z",
+    "id": "9aa287929befeb5b29e1f96d40d8296e",
+    "title": "Глава Audi відкидає критику довкола відкриття заводу у США",
+    "description": "\"Якщо американський президент запрошує вас, ви приймаєте це запрошення\", - пояснив керівник Audi Ґернот Дьолльнер рішення оголосити відкриття заводу у США разом із Трампом.",
+    "content": "Генеральний директор компанії Audi Ґернот Дьолльнер (Gernot Döllner) у неділю, 25 жовтня, виступив на захист рішення відкрити перший заводу в США з інвестиціями понад чотири мільярди євро. Відповідну заяву про новий завод глава німецького автовиробни... [1710 chars]",
+    "url": "https://www.dw.com/uk/ce-ne-risenna-proti-nimeccini-glava-audi-zahisae-vidkritta-zavodu-u-ssa/a-79755102",
+    "image": "https://static.dw.com/image/79754514_6.jpg",
+    "publishedAt": "2026-10-25T13:31:51Z",
     "lang": "uk",
     "source": {
-      "id": "5f3893b2bdd83721567eef82ac0a6d2e",
-      "name": "Korrespondent.net",
-      "url": "https://ua.korrespondent.net"
-    }
-  },
-  {
-    "id": "4ade0d634c77864597fdb07dab43909f",
-    "title": "У сучасних автомобілів знайшли небезпечне слабке місце: воно навіть не в самій машині",
-    "description": "Сучасні авто можуть мати слабке місце за межами салону — у хмарних сервісах і застосунках. Дослідники проаналізували 413 вразливостей автомобільного ПЗ.",
-    "content": "Сучасні автомобілі стають дедалі вразливішими до хакерських атак, причому найбільшу небезпеку становлять не бортові комп’ютери, а зовнішні цифрові сервіси.\nДослідники Гетеборзького університету та Технологічного університету Чалмерса у Швеції з’ясува... [3670 chars]",
-    "url": "https://gsminfo.com.ua/206950-u-suchasnyh-avtomobiliv-znajshly-nebezpechne-slabke-miscze-vono-navit-ne-v-samij-mashyni.html",
-    "image": "https://gsminfo.com.ua/wp-content/uploads/2026/10/tesla.webp",
-    "publishedAt": "2026-10-25T06:22:38Z",
-    "lang": "uk",
-    "source": {
-      "id": "4ad9a17bdb41e9b5209119de5f38e809",
-      "name": "GSMinfo",
-      "url": "https://gsminfo.com.ua"
-    }
-  },
-  {
-    "id": "db4361aa161c3effa2c80fb9f4a7e763",
-    "title": "Українці масово купують старі \"американські\" авто: яка ціна найпопулярнішої моделі",
-    "description": "За перші 9 місяців 2026 року українці купили майже 37 тис. уживаних легкових авто, ввезених зі США. Середній вік таких машин склав 6,2 року. Найпопуля",
-    "content": "За перші 9 місяців 2026 року українці купили майже 37 тис. уживаних легкових авто, ввезених зі США. Середній вік таких машин склав 6,2 року. Найпопулярнішою моделлю стала FORD Escape – таких авто було куплено 3 721 одиницю. Придбати таке в Україні мо... [1070 chars]",
-    "url": "https://www.obozrevatel.com/ukr/section-ekonomika-glavnaya/economy/news-ukrayintsi-masovo-kupuyut-stari-amerykanski-avto-yaka-tsina-naypopulyarnishoyi-modeli-25-10-2026.html",
-    "image": "https://i.obozrevatel.com/news/2025/8/11/ford-escape.jpg?size=1280x720",
-    "publishedAt": "2026-10-25T00:20:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "ca149ffefb31c86f82d7f299d744af59",
-      "name": "OBOZ.UA",
-      "url": "https://www.obozrevatel.com"
-    }
-  },
-  {
-    "id": "fb5d32ac6b386e8cb366baa6752beeac",
-    "title": "ознаки, що старий пристрій загрожує безпеці",
-    "description": "Роутер без оновлень прошивки, обриви зв'язку й повільний Wi-Fi можуть означати, що час його замінити. Також важливо, чи підтримує він сучасні стандарти, як-от Wi-Fi 7.",
-    "content": "Проблеми роутерів\nБільшість людей не оновлює роутер так регулярно, як смартфон чи ноутбук. Багато хто користується тим пристроєм, який надіслав інтернет-провайдер. Про заміну починають думати лише тоді, коли щось ламається. Втім, повільний Wi-Fi – не... [4008 chars]",
-    "url": "https://24tv.ua/tech/koli-minyati-router-oznaki-shho-stariy-pristriy-zagrozhuye-bezpetsi_n3164769",
-    "image": "https://24tv.ua/resources/photos/news/202610/3164769.jpg?v=1792581790000&w=1200&h=675&fit=cover",
-    "publishedAt": "2026-10-24T16:01:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "e737a8e76b161ef4526698e2ec5f60c9",
-      "name": "24 Канал",
-      "url": "https://24tv.ua"
+      "id": "67e0c40c5e24b3fec372ab75763abad9",
+      "name": "DW.com",
+      "url": "https://www.dw.com"
     }
   }
 ]

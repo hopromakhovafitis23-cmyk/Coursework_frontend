@@ -1,12 +1,27 @@
 [
   {
-    "id": "49f490ce42d91c668916ae85da815119",
-    "title": "Дрони для ЗСУ - норвезький депутат нелегально переправив їх в Україну",
-    "description": "Норвезький депутат Петер Фреліх разом зі своєю організацією нелегально переправив в Україну дрони з тепловізорами. Після цього Норвегія змінила правил...",
-    "content": "Фреліх - депутат норвезького парламенту від Консервативної партії. Разом з організацією \"Вільна Україна\" він намагався відправити в Україну партію дронів із тепловізійними камерами. Однак вантаж зупинила норвезька митниця: за законом, ухваленим ще в ... [442 chars]",
-    "url": "https://www.rbc.ua/rus/news/norvezkiy-deputat-nelegalno-proviz-droni-1792972785.html",
-    "image": "https://www.rbc.ua/static/img/_/p/_prapor_gettyimages_1234492680_9d71173bb1a144e6485e83a53b96b531_1300x820.jpg",
-    "publishedAt": "2026-10-25T23:59:45Z",
+    "id": "9f31c011a00c163b9da1ff97a09bd177",
+    "title": "В iPhone Duo тріщать дисплеї: iFixit встановила точну причину",
+    "description": "Фахівці з iFixit розібрали та проаналізували начинку першого складаного iPhone Duo.",
+    "content": "Фахівці з iFixit розібрали та проаналізували начинку першого складаного iPhone Duo.\nЗокрема, вдалось з’ясувати, що Apple використовує овальні пікселі та матовий дисплей для того, аби мінімізувати складку. Однак конструкція шарніра створює зону підвищ... [2645 chars]",
+    "url": "https://itc.ua/ua/novini/v-iphone-duo-trishhat-dyspleyi-ifixit-vstanovyla-tochnu-prychynu/",
+    "image": "https://cdn.itc.ua/uploads/2026/10/iFixit-teardown-reveals-matte-screen-light-scattering-oval-pixels-and-possible-cause-for-Apple-Duo-Crackgate.jpg",
+    "publishedAt": "2026-10-26T10:14:33Z",
+    "lang": "uk",
+    "source": {
+      "id": "391d17d071b755a4bda37c1b43f47c2c",
+      "name": "ITC.ua",
+      "url": "https://itc.ua"
+    }
+  },
+  {
+    "id": "28eb94a2e5998eda44d2076ec027d69f",
+    "title": "OpenAI ізолює передовий ШІ від інтернету - чим це загрожує",
+    "description": "OpenAI оголосила про повне відключення своїх передових ШІ-моделей від реального інтернету під час навчання. Тепер розробки тренуватимуть виключно на к...",
+    "content": "Чому ШІ ізолюють?\nРішення ухвалили після серії інцидентів, під час яких ШІ-системи, виконуючи завдання, намагалися обходити захист зовнішніх систем у пошуках потрібної інформації.\nКрім того, моделі об’єднували отримані дані з маловідомих форумів і на... [1809 chars]",
+    "url": "https://www.rbc.ua/rus/news/gotuvali-kiberataki-chomu-openai-povnistyu-1793006308.html",
+    "image": "https://www.rbc.ua/static/img/_/c/_c3487f823b9c4b3463fbf30c8cbefbe1_1300x820.jpg",
+    "publishedAt": "2026-10-26T10:12:12Z",
     "lang": "uk",
     "source": {
       "id": "6f1ead09126f1f4738a48957e22f789c",
@@ -15,43 +30,43 @@
     }
   },
   {
-    "id": "f474600c15ded5c5d01861bb987ffcbd",
-    "title": "Захищений смартфон Blackview XPLORE 6 отримав перископічну камеру та акумулятор на 12 000 мА·год",
-    "description": "Компанія Blackview представила захищений смартфон XPLORE 6, який поєднує потужну апаратну платформу, місткий акумулятор і незвичну для цього класу пристроїв систему камер. Головна особливість новинки — перископічна камера на 50 Мп з трикратним оптичним збільшенням, яку можна доповнити зовнішнім телеоб’єктивом ZoomX G1. За заявою виробника, цей аксесуар забезпечує десятикратне оптичне збільшення, а гібридний зум сягає 225x.",
-    "content": "Як повідомляє New Atlas, Blackview XPLORE 6 призначений для користувачів, яким потрібен міцний смартфон для подорожей, роботи просто неба та фотографування віддалених об’єктів. Водночас пристрій оснащений компонентами флагманського рівня, а його корп... [4772 chars]",
-    "url": "https://ilenta.com/uk/news/smartphone/smartphone_21752.html",
-    "image": "https://ilenta.com/netcat_files/609/507/Blackview_XPLORE_6.jpg",
-    "publishedAt": "2026-10-25T22:50:00Z",
+    "id": "02c352a4274928fb02844155b7931f3b",
+    "title": "Дрони атакують Воронеж. Під ударом могли опинитись міст, авіазавод та нафтохімічне підприємство",
+    "description": "У ніч на 26 жовтня російський Воронеж масовано атакували дрони. Мешканці повідомляли про роботу ППО та серію вибухів.",
+    "content": "У ніч проти 26 жовтня безпілотники атакували російський Воронеж. Ймовірно, пошкоджень зазнав Північний міст, завод «Воронежсинтезкаучук» та Воронезький авіазавод (ВАЛТ).\nПро це пише губернатор Воронезької області та Telegram-канали Exilenova+ та ASTR... [2205 chars]",
+    "url": "https://hromadske.ua/viyna/273180-u-rf-zaiavyly-pro-masovanu-ataku-na-voronez-pid-udarom-mohly-buty-mist-aviazavod-ta-naftokhimichne-pidpryyemstvo",
+    "image": "https://hromadske.ua/static/content/thumbs/1200x630/5/53/ucbx2h---c1200x630x50px50p--55afc4329218402f1fe2ac2dbe4e2535.jpg",
+    "publishedAt": "2026-10-26T09:44:00Z",
     "lang": "uk",
     "source": {
-      "id": "123c4a73ff237aa6471cde913b1057d2",
-      "name": "iLenta",
-      "url": "https://ilenta.com"
+      "id": "e5c9eb01018c5028b5e73134cb311034",
+      "name": "Hromadske",
+      "url": "https://hromadske.ua"
     }
   },
   {
-    "id": "4a085df0dfe6b672cdfd6e2b785d7148",
-    "title": "Як смартфони Samsung Galaxy S26 допоможуть у закордонних подорожах",
-    "description": "Міжнародні подорожі часто супроводжуються стресом через мовні бар'єри, організаційні питання та пошук необхідної інформації. Нова лінійка смартфонів Samsung",
-    "content": "Міжнародні подорожі часто супроводжуються стресом через мовні бар’єри, організаційні питання та пошук необхідної інформації. Нова лінійка смартфонів Samsung Galaxy S26 пропонує низку вбудованих інструментів, що можуть стати в пригоді під час поїздок ... [1552 chars]",
-    "url": "https://prostomob.com/311905-processing-you-should-try-these-5-galaxy-s26-features-if-you-travel-internationally",
-    "image": "https://prostomob.com/wp-content/uploads/2026/10/intro-351.jpg",
-    "publishedAt": "2026-10-25T21:51:52Z",
+    "id": "75b479fe8445a9407d0f080f98bd195e",
+    "title": "ШІ проти Нолана: чат-бот Маска згенерував епізод \"Одіссеї\"",
+    "description": "Grok згенерував 7-хвилинне відео під назвою \"Перший епізод серіалу Одіссея\". Повідомлення про це з'явилося через 3 місяці після того, як Ілон Маск...",
+    "content": "Передісторія конфлікту з Голлівудом\nРаніше Маск різко критикував версію \"Одіссеї\" режисера Крістофера Нолана через акторський склад.\nЗасновник SpaceX та Tesla активно просуває генерацію контенту за допомогою ШІ, тоді як Крістофер Нолан називає себе т... [1680 chars]",
+    "url": "https://www.rbc.ua/rus/news/shi-proti-nolana-chat-bot-maska-zgeneruvav-1793003176.html",
+    "image": "https://www.rbc.ua/static/img/g/e/gettyimages_2203472232_5f03906b8eea6bda25f7fed68d2b8005_1300x820.jpg",
+    "publishedAt": "2026-10-26T09:13:09Z",
     "lang": "uk",
     "source": {
-      "id": "7636b958d76298a2e2ea6b3c284899fd",
-      "name": "ProstoMob",
-      "url": "https://prostomob.com"
+      "id": "6f1ead09126f1f4738a48957e22f789c",
+      "name": "РБК-Україна",
+      "url": "https://www.rbc.ua"
     }
   },
   {
-    "id": "408d10ed23eb62bbc256d7c6c64dc8ff",
-    "title": "Вибух у Вінниці 25 жовтня",
-    "description": "Обстріл Вінниці 25 жовтня 2026 року. У Вінниці під час повітряної тривоги пролунав вибух через атаку реактивних БпЛА Росії. В області працює ППО, що відомо. 24 Канал.",
-    "content": "Про це повідомляють моніторингові канали та місцеві спільноти у соціальних мережах. 24 Канал пише, яка інформація є на цей момент.\nпопулярні відео\nАтака БпЛА на Вінницю 25 жовтня: що відомо?\nРосійська армія застосувала для удару по Україні швидкісні ... [469 chars]",
-    "url": "https://24tv.ua/vibuh-vinnitsi-25-zhovtnya-misto-atakuvali-reaktivni-bpla-novini_n3167402",
-    "image": "https://24tv.ua/resources/photos/news/202610/3167402.jpg?v=1792963885000&w=1200&h=675&fit=cover",
-    "publishedAt": "2026-10-25T21:40:27Z",
+    "id": "8770780250696c297bcf8b5f5f106c9d",
+    "title": "Виробництво Кинжалів і Іскандерів у Росії",
+    "description": "ГУР оприлюднило дані про 30 одиниць іноземного обладнання, яке Росія використовує для виробництва балістичних ракет. Які країни та виробники фігурують у списку - 24 Канал",
+    "content": "Відомості про 30 одиниць іноземного обладнання, виявленого ГУР на російських оборонних підприємствах, також опублікували на порталі War&Sanctions.\nЯке саме обладнання використовує ворог?\nЗа даними ГУР, російські заводи використовують обладнання китай... [2219 chars]",
+    "url": "https://24tv.ua/military/virobnitstvo-kinzhaliv-iskanderiv-rosiyi-gur-pro-rol-inozemnogo_n3167526",
+    "image": "https://24tv.ua/resources/photos/news/202610/3167526.jpg?v=1793005793000&w=1200&h=675&fit=cover",
+    "publishedAt": "2026-10-26T09:13:00Z",
     "lang": "uk",
     "source": {
       "id": "e737a8e76b161ef4526698e2ec5f60c9",
@@ -60,93 +75,78 @@
     }
   },
   {
-    "id": "1d3e583c06e9abfe5c3696fca9837384",
-    "title": "Чому сучасні смартфони швидко розряджаються навіть із великими батареями",
-    "description": "Ємність батарей смартфонів зросла в кілька разів, але великі екрани, 5G, потужні процесори та фонова активність застосунків продовжують швидко витрачати заряд. - ITsider.com.ua",
-    "content": "За останні 18 років ємність акумуляторів Android-смартфонів збільшилася в кілька разів, однак більшість пристроїв усе одно доводиться заряджати приблизно раз на день. Причина полягає в тому, що разом із батареями суттєво зросло й енергоспоживання сам... [1446 chars]",
-    "url": "https://itsider.com.ua/chomu-suchasni-smartfony-shvydko-rozryadzhayutsya-navit-iz-velykymy-batareyamy/",
-    "image": "https://itsider.com.ua/catalog/uploaded/2026/10/smartfony-shvydko-rozryadzhayutsya.webp",
-    "publishedAt": "2026-10-25T20:31:46Z",
+    "id": "91fff02b8b86b188d0a0295460973a8c",
+    "title": "STALKER 2 отримає нове швидке переміщення та дальність A",
+    "description": "Витік від PlayStation розкрив деталі оновлення 2,1 для STALKER 2. Невдовзі у грі з'явиться новий спосіб швидкого переміщення і розширена дальність A-Life.",
+    "content": "На сторінці PlayStation Asia у X з'явився анонс оновлення 2.1 під назвою The Zone Lookout, яке розробники планують випустити вже наступного тижня, повідомляє Insider Gaming.\nЩо відомо про витік і нові функції\nПредставники PlayStation Asia опублікувал... [1484 chars]",
+    "url": "https://games.24tv.ua/stalker-2-otrimaye-nove-shvidke-peremishhennya-dalnist-life-detali_n3167503",
+    "image": "https://games.24tv.ua/resources/photos/news/202610/3167503.jpg?v=1793005104000&w=1200&h=675&fit=cover",
+    "publishedAt": "2026-10-26T09:10:00Z",
     "lang": "uk",
     "source": {
-      "id": "734dbff0a78be4114fce5962aa39dc2c",
-      "name": "ITsider.",
-      "url": "https://itsider.com.ua"
+      "id": "86b62aad07ac59a35ae9e88cb20e4646",
+      "name": "24 Канал",
+      "url": "https://games.24tv.ua"
     }
   },
   {
-    "id": "37589f2a0a3e0fe1ce92bc75f294d268",
-    "title": "Маск заявив про $40 млрд боргового фінансування SpaceX для GPU - Channel NewsAsia",
-    "description": "Ілон Маск повідомив, що SpaceX залучила $40 млрд боргового фінансування для придбання графічних процесорів (GPU). Про це він написав у дописі в соціальній мережі X, передає Channel NewsAsia з посиланням на Reuters.",
-    "content": "Ілон Маск повідомив, що SpaceX залучила $40 млрд боргового фінансування для придбання графічних процесорів (GPU). Про це він написав у дописі в соціальній мережі X, передає Channel NewsAsia з посиланням на Reuters.\nФінансування для GPU\nЗа словами Мас... [796 chars]",
-    "url": "https://ua.news/ua/money/mask-zaiaviv-pro-40-mlrd-borgovogo-finansuvannia-spacex-dlia-gpu-channel-newsasia",
-    "image": "https://cdn-cabinet.ua.news/uploads/images/spacex_raises_40_billion_debt_for_gpus_1792959517960.webp",
-    "publishedAt": "2026-10-25T20:18:00Z",
+    "id": "fe2f9dc7e83891f6f403c4b6b0ab6c71",
+    "title": "Норвезький депутат контрабандою провіз дрони для ЗСУ",
+    "description": "Норвезький депутат нелегально провіз дрони в Україну і цим змусив уряд змінити закон ᐅТSN.ua (новини 1+1)",
+    "content": "Депутат парламенту Норвегії Петер Фрьоліх всупереч чинним правилам таємно доправив до України цивільні дрони з тепловізорами. Він пояснив своє рішення критичною ситуацією на фронті.\nПро це повідомило видання Aftonbladet.\nРазом зі своєю організацією F... [1121 chars]",
+    "url": "https://tsn.ua/ukrayina/norvezkyy-deputat-kontrabandoiu-proviz-drony-dlia-zsu-3199683.html",
+    "image": "https://img.tsn.ua/cached/071/tsn-51cb131e/thumbs/1200x630/d7/92/7a6e2757468ba6faf8690de9d7fe92d7.jpg",
+    "publishedAt": "2026-10-26T09:03:15Z",
     "lang": "uk",
     "source": {
-      "id": "54b33233e9f0f396fe0c9e0f95f2a6f6",
-      "name": "UA.NEWS",
-      "url": "https://ua.news"
+      "id": "ae8b9c98d707754fca5e1ea622855c50",
+      "name": "ТСН",
+      "url": "https://tsn.ua"
     }
   },
   {
-    "id": "0503114ddaa12e284fb63bbe0c9b0a32",
-    "title": "Оглядачі назвали головний недолік найдорожчого iPhone",
-    "description": "Оглядачі iPhone Duo розкритикували відмову від Face ID: Touch ID може працювати повільніше, гірше розпізнавати вологі пальці та вимагати звикання. - ITsider.com.ua",
-    "content": "Перші оглядачі iPhone Duo назвали відмову від Face ID одним із головних компромісів найдорожчого смартфона Apple. Складаний пристрій вартістю від $1999 використовує Touch ID, вбудований у бічну кнопку, однак до роботи сканера відбитків вдалося звикну... [1564 chars]",
-    "url": "https://itsider.com.ua/oglyadachi-nazvaly-golovnyj-nedolik-najdorozhchogo-iphone/",
-    "image": "https://itsider.com.ua/catalog/uploaded/2026/10/iPhone-Duo-Open-large-scaled-1.webp",
-    "publishedAt": "2026-10-25T20:08:55Z",
+    "id": "4c1a6212333b39d600a1197d08339b56",
+    "title": "Наслідки перебоїв зі Starlink",
+    "description": "У період перебоїв у роботі супутникової системи Starshield частка збитків реактивних дронів Росії впала на три відсотки. В ISW пояснили, що допоможе утримати захист - 24 Канал",
+    "content": "Втім, навіть під час перебоїв показник збиття ворожих цілей залишався відносно високим. Про це свідчить аналіз Інституту вивчення війни.\nпопулярні відео\nЯк Україна збиває російські реактивні \"Шахеди\"?\nТак, частка перехоплених українськими силами реак... [1599 chars]",
+    "url": "https://24tv.ua/naslidki-pereboyiv-zi-starlink-isw-otsinili-riven-zbittya-reaktivnih_n3167522",
+    "image": "https://24tv.ua/resources/photos/news/202610/3167522.jpg?v=1793004358000&w=1200&h=675&fit=cover",
+    "publishedAt": "2026-10-26T08:48:31Z",
     "lang": "uk",
     "source": {
-      "id": "734dbff0a78be4114fce5962aa39dc2c",
-      "name": "ITsider.",
-      "url": "https://itsider.com.ua"
+      "id": "e737a8e76b161ef4526698e2ec5f60c9",
+      "name": "24 Канал",
+      "url": "https://24tv.ua"
     }
   },
   {
-    "id": "f503cc6322957359f2e79716406ced38",
-    "title": "NVIDIA хоче перетворити закриті АЕС у Німеччині на дата-центри для ШІ",
-    "description": "NVIDIA розпочала співпрацю з німецькою енергетичною компанією PreussenElektra для можливості використання виведених з експлуатації АЕС як дата-центрів для систем штучного інтелекту. Відповідну попередню угоду сторони уклали 21 жовтня.",
-    "content": "Компанія NVIDIA розпочала співпрацю з німецькою енергетичною компанією PreussenElektra GmbH для можливості використання виведених з експлуатації атомних електростанцій як дата-центрів для систем штучного інтелекту. Відповідну попередню угоду сторони ... [2083 chars]",
-    "url": "https://mezha.ua/news/nvidia-hoche-peretvoriti-stari-nimecki-aes-na-data-centri-dlya-shi-316518/",
-    "image": "https://img.mezha.ua/mezha/images/doc/2/5/331544/25d733e1186234d022d362d6c07d0c00.jpeg?w=1200&q=85&stamp=1792954567",
-    "publishedAt": "2026-10-25T19:44:00Z",
+    "id": "49b9e74fedf93271317edcc7eb72c43f",
+    "title": "У ГУР розповіли, яке іноземне обладнання використовують російські виробники балістичних ракет",
+    "description": "ГУР оприлюднило дані про 30 одиниць іноземного обладнання, яке російські підприємства використовують для виробництва балістичних ракет та їхніх компонентів.",
+    "content": "Російські виробники балістичних ракет продовжують використовувати іноземне промислове обладнання, яке росія не може повністю замінити власними аналогами.\nГУР оприлюднило дані про 30 таких одиниць техніки, зокрема китайського, німецького, американсько... [2851 chars]",
+    "url": "https://www.slovoidilo.ua/2026/10/26/novyna/bezpeka/hur-rozpovily-yake-inozemne-obladnannya-vykorystovuyut-rosijski-vyrobnyky-balistychnyx-raket",
+    "image": "https://media.slovoidilo.ua/media/scimage/246/245987-uk.png",
+    "publishedAt": "2026-10-26T08:38:17Z",
     "lang": "uk",
     "source": {
-      "id": "6b0257d31504a630dde7752eed4e1e39",
-      "name": "Mezha",
-      "url": "https://mezha.ua"
+      "id": "15797505fcdbf49191263455ed070cbb",
+      "name": "Слово і Діло",
+      "url": "https://www.slovoidilo.ua"
     }
   },
   {
-    "id": "4f8f0a7391e98f60bc50d5e0e0b2cb7d",
-    "title": "Nvidia хоче брати $2000 на рік за програмне забезпечення для кожного GPU",
-    "description": "Nvidia хоче брати $2000 на рік за програмне забезпечення для кожного GPU.Останні новини Новини України та Світу на сайті - iTechua. Свіжа стрічка новин сьогодні.",
-    "content": "Очільник корпорації Nvidia Дженсен Хуанг оголосив , що річний абонемент на фірмовий софт для керування ШІ-агентами обійдеться приблизно у $2000 із розрахунку на один графічний чіп. Подібна стратегія здатна перетворитися на потужне джерело прибутку дл... [1756 chars]",
-    "url": "https://itechua.com/news/311489",
-    "image": "https://itechua.com/wp-content/uploads/2026/10/TwfFbH55Mt433hRvkWbSD5-1200-80.jpg.webp",
-    "publishedAt": "2026-10-25T18:35:56Z",
+    "id": "cbc2845b1a97cd081a15217bc3213881",
+    "title": "У США хочуть створити військових собак із модифікованими генами",
+    "description": "У США розробляють генетично вдосконалених службових собак із відкоригованим ДНК, клонованим генотипом та високотехнологічним військовим спорядженням.",
+    "content": "У США розробляють генетично вдосконалених службових собак із відкоригованим ДНК, клонованим генотипом та високотехнологічним військовим спорядженням.\nСлужбові собаки допомагають військовим ідентифікувати вибухівку, знаходити людей і працювати в небез... [1962 chars]",
+    "url": "https://ua.korrespondent.net/tech/science/4923214-u-ssha-khochut-stvoryty-viiskovykh-sobak-iz-modyfikovanymy-henamy",
+    "image": "https://kor.ill.in.ua/m/1260x900/4610651.jpg",
+    "publishedAt": "2026-10-26T08:32:00Z",
     "lang": "uk",
     "source": {
-      "id": "5325beb151675ab1fa9e30c3e01b3ef3",
-      "name": "iTechua",
-      "url": "https://itechua.com"
-    }
-  },
-  {
-    "id": "ee06a2e83d77647abf9c786da1351cd1",
-    "title": "дрони Ланцет практично втратили свою ефективність",
-    "description": "Російські пропагандисти скаржаться на безпорадність дронів Ланцет на сучасному полі бою, хоча раніше вони були ефективні - читайте докладно на УНІАН",
-    "content": "Російські дрони \"Ланцет\", які стали великою проблемою для ЗСУ в перші роки війни, сьогодні фактично втратили свою актуальність. Про це повідомляє видання Defence Blog із посиланням на заяву проросійського бойовика Павла Губарєва.\nЗокрема, наводиться ... [1680 chars]",
-    "url": "https://www.unian.ua/weapons/viyna-v-ukrajini-droni-lancet-praktichno-vtratili-svoyu-efektivnist-13539825.html",
-    "image": "https://images.unian.net/photos/2026_10/thumb_files/620_324_1792953089-5914.jpg?1",
-    "publishedAt": "2026-10-25T18:35:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "d4361862486677369ff2ae7719b8d313",
-      "name": "УНІАН",
-      "url": "https://www.unian.ua"
+      "id": "5f3893b2bdd83721567eef82ac0a6d2e",
+      "name": "Korrespondent.net",
+      "url": "https://ua.korrespondent.net"
     }
   }
 ]
