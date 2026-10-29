@@ -1,57 +1,12 @@
 [
   {
-    "id": "313f9f78205cdda94e792dba0b514178",
-    "title": "Болсонару із США оголосив себе законним \"лідером\" Бразилії",
-    "description": "Болсунару втік у США і звідти проголосив себе законним \"лідером\" Бразилії.",
-    "content": "Бразильський сенатор Флавіу Болсонару, виїхавши у США після поразки на президентських виборах у Бразилії, заявив, що він є \"законно обраним президентом\", а потім змінив формулювання, назвавши себе законним \"лідером\" Бразилії.\nДжерело: Reuters, Clash ... [992 chars]",
-    "url": "https://www.pravda.com.ua/news/2026/10/29/8060183/",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/1/945778/5139f638efa9d4e98c2fe3fce830440c.jpeg?w=1200&q=85&stamp=1793228771",
-    "publishedAt": "2026-10-28T23:08:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "f22da91c498603eb4d447ae38063cc99",
-      "name": "Українська правда",
-      "url": "https://www.pravda.com.ua"
-    }
-  },
-  {
-    "id": "1d06e0a8ecca162ad0b88bb3ddb06d66",
-    "title": "Google розширює рекламу в ШІ-пошуку на міжнародні ринки - TechCrunch",
-    "description": "Google оголосила про розширення показу реклами у функціях пошуку на основі штучного інтелекту на міжнародні ринки. Компанія масштабує рекламні оголошення в AI Overviews та AI Mode для більшої кількості користувачів і пошукових запитів, повідомляє TechCrunch.",
-    "content": "Google оголосила про розширення показу реклами у функціях пошуку на основі штучного інтелекту на міжнародні ринки. Компанія масштабує рекламні оголошення в AI Overviews та AI Mode для більшої кількості користувачів і пошукових запитів, повідомляє Tec... [1882 chars]",
-    "url": "https://ua.news/ua/technologies/google-rozshiriuie-reklamu-v-shi-poshuku-na-mizhnarodni-rinki-techcrunch",
-    "image": "https://cdn-cabinet.ua.news/uploads/images/google_expands_ai_search_ads_internation_1793226940846.webp",
-    "publishedAt": "2026-10-28T22:35:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "54b33233e9f0f396fe0c9e0f95f2a6f6",
-      "name": "UA.NEWS",
-      "url": "https://ua.news"
-    }
-  },
-  {
-    "id": "75c0226ee1c874ead128e23e549d3156",
-    "title": "Трамп заперечив, що доручав Венсу відновити переговори з Іраном",
-    "description": "Президент США спростував інформацію про контакти віцепрезидента з Тегераном, хоча WSJ повідомляло про спроби відновити діалог. Що відомо читайте ᐅTSN.ua(новини 1+1).",
-    "content": "Президент США Дональд Трамп заперечив, що доручав віцепрезиденту Джей Ді Венсу ініціювати контакти з Іраном для відновлення мирних переговорів.\nПро це глава Білого дому заявив під час спілкування з журналістами.\nРаніше видання The Wall Street Journal... [920 chars]",
-    "url": "https://tsn.ua/svit/perehovory-ssha-z-iranom-vens-i-tramp-roziyshlysia-v-pohliadakh-shchodo-yikh-vidnovlennia-3202335.html",
-    "image": "https://img.tsn.ua/cached/503/tsn-0b4bc102/thumbs/1200x630/13/f6/45523e42b3b0aa86416a112e9f8ef613.jpg",
-    "publishedAt": "2026-10-28T22:28:54Z",
-    "lang": "uk",
-    "source": {
-      "id": "ae8b9c98d707754fca5e1ea622855c50",
-      "name": "ТСН",
-      "url": "https://tsn.ua"
-    }
-  },
-  {
-    "id": "b1d742dfaa9cdb39d6f215d73d9be07b",
-    "title": "мобілізований росіянин допоміг знищити позиції під Мангушем",
-    "description": "Під Мангушем на Донеччині знищено командний пункт і озброєння Росії. Російський військовий злив руху Атеш координати, бо над ним знущались командири - 24 Канал",
-    "content": "Як повідомив \"Атеш\", окупант вийшов на зв'язок із партизанським рухом через систематичні знущання з боку командування.\nпопулярні відео\nДопомога від окупанта\nЗавдяки даним від інформатора вдалося розкрити цілий вузловий район окупантів. Крім командног... [400 chars]",
-    "url": "https://24tv.ua/vtrati-rosiyi-mobilizovaniy-rosiyanin-dopomig-znishhiti-pozitsiyi_n3168959",
-    "image": "https://24tv.ua/resources/photos/news/202610/3168959.jpg?v=1793168886000&w=1200&h=675&fit=cover",
-    "publishedAt": "2026-10-28T22:15:00Z",
+    "id": "e1e541c14325498fd39cdf9da396f083",
+    "title": "У Кременчуці російський дрон влучив у житловий будинок",
+    "description": "Російський ударний дрон влучив у багатоквартирний будинок у Кременчуці 29 жовтня. За даними ОВА, є загиблі та поранені. Що відомо про наслідки атаки - 24 Канал",
+    "content": "Про влучання ворожого безпілотника в житловий масив спершу повідомили в обласній військовій адміністрації. Наразі масштаби руйнувань будівлі встановлюють фахівці.\nЩо відомо про наслідки удару\nУнаслідок удару по Кременчуку значних пошкоджень зазнали б... [961 chars]",
+    "url": "https://24tv.ua/kremenchutsi-rosiyskiy-dron-vluchiv-zhitloviy-budinok-skilki_n3169850",
+    "image": "https://24tv.ua/resources/photos/news/202610/3169850.jpg?v=1793269220000&w=1200&h=675&fit=cover",
+    "publishedAt": "2026-10-29T10:25:00Z",
     "lang": "uk",
     "source": {
       "id": "e737a8e76b161ef4526698e2ec5f60c9",
@@ -60,28 +15,103 @@
     }
   },
   {
-    "id": "1504dd01e76c531c191ccd21018a3035",
-    "title": "Втрати Росії у повномасштабній війні проти України - Генштаб",
-    "description": "Країна-агресорка Росія за час повномасштабної війни проти України втратила понад 1,58 млн військових . А її військові витрати у грошовому еквіваленті",
-    "content": "Країна-агресорка Росія за час повномасштабної війни проти України втратила понад 1,58 млн військових. А її військові витрати у грошовому еквіваленті за п’ять років перевищують 700 млрд. доларів. Цих грошей росіянам б вистачило на зведення \"з нуля\" п’... [2028 chars]",
-    "url": "https://war.obozrevatel.com/ukr/section-war/news-pivtora-milyona-lyudey-i-sotni-milyardiv-dolariv-u-henshtabi-pidrakhuvaly-usi-vtraty-rosiyi-u-povnomasshtabniy-viyni-proty-ukrayiny-video-28-10-2026.html",
-    "image": "https://i.obozrevatel.com/news/2026/10/28/gruz-200-rf.jpg?size=1280x720",
-    "publishedAt": "2026-10-28T21:22:56Z",
+    "id": "3adb9a6937c5324055017e4ad43534f9",
+    "title": "Apple випустила перший MacBook Pro із сенсорним екраном",
+    "description": "Компанія Apple анонсувала новий MacBook Pro з сенсорним екраном, чипами M5 Pro та M5 Max, Dynamic Island та дисплеєм PROLED XDR. Характеристики та дати релізу на БЖ.",
+    "content": "Компанія Apple офіційно представила новий флагманський ноутбук MacBook Pro з дисплеєм PROLED XDR, який уперше в історії лінійки Mac отримав вбудований сенсорний екран. Новинка доступна у форматах із діагоналлю 14 та 16 дюймів і працює на базі процесо... [764 chars]",
+    "url": "https://bzh.life/ua/novyny/1793268997-apple-vypustyla-pershyi-macbook-pro-iz-sensornym-ekranom/",
+    "image": "https://bzh.life/static/img/a/p/apple_macbook_pro_with_proled_xdr_display_1_1200x630.jpg?time=1793269039",
+    "publishedAt": "2026-10-29T10:18:01Z",
     "lang": "uk",
     "source": {
-      "id": "aef3ac5a8f974c851211d386dd6a52b0",
-      "name": "OBOZ.UA",
-      "url": "https://war.obozrevatel.com"
+      "id": "92cf9c82c792b3f1b2b8c8db2ca49e6a",
+      "name": "БЖ",
+      "url": "https://bzh.life"
     }
   },
   {
-    "id": "5f9c60417bd95ffb0fc9f364dda02cc0",
-    "title": "Катерина Тишкевич народила сина від Валентина Томусяка",
-    "description": "Акторка Катерина Тишкевич 28 жовтня вперше стала мамою - артистка у Вінниці народила сина та показала перші фото з пологового з крихітним малюком та чоловіком Валентином Томусяком ᐅTSN.ua(новини 1+1)",
-    "content": "Доповнено додатковими матеріалами\nУкраїнські актори Катерина Тишкевич і Валентин Томусяк вперше стали батьками.\nТак, 28 жовтня в одному з пологових Вінниці, куди пара нещодавно переїхала на зиму, артистка народила первістка. На світ з’явився син подр... [1179 chars]",
-    "url": "https://tsn.ua/glamur/kateryna-tyshkevych-narodyla-pervistka-i-pokazala-pershi-foto-z-krykhitnym-maliukom-3202255.html",
-    "image": "https://img.tsn.ua/cached/013/tsn-51cb131e/thumbs/1200x630/e4/59/86c358bc86b17e30ef4bb4ba258359e4.jpg",
-    "publishedAt": "2026-10-28T20:22:32Z",
+    "id": "88aa189965071edb04fadbc78d8b87ad",
+    "title": "Територія відкритого світу Grand Theft Auto VI можна порівняти з трьома минулими хітами студії.",
+    "description": "Розробники з Rockstar Games офіційно підтвердили, що масштаб карти Grand Theft Auto VI можна порівняти з розмірами GTA IV, GTA V та Red Dead Redemption 2 разом узятих.",
+    "content": "Журнал Edge опублікував масштабне інтерв'ю з розробниками студії Rockstar Games, в якому були офіційно розкриті реальні масштаби відкритого світу майбутнього кримінального бойовика Grand Theft Auto VI. Представники виробничої команди підтвердили, що ... [1451 chars]",
+    "url": "https://uk.gamegpu.com/news/igry/territoriya-otkrytogo-mira-grand-theft-auto-vi-sravnima-s-tremya-proshlymi-khitami-studii",
+    "image": "https://gamegpu.com/images/1_2026/NEWS/Q4/okt/29/Image_iy69tqiy69tqiy69_ggpu.webp#joomlaImage://local-images/1_2026/NEWS/Q4/okt/29/Image_iy69tqiy69tqiy69_ggpu.webp?width=1920&height=1080",
+    "publishedAt": "2026-10-29T10:06:10Z",
+    "lang": "uk",
+    "source": {
+      "id": "d4a46ced10b24e9b5fea2a92c9602fa2",
+      "name": "GameGPU",
+      "url": "https://uk.gamegpu.com"
+    }
+  },
+  {
+    "id": "363c8d78683738bbd7d6f2630a2a4b9c",
+    "title": "Олешки готують до евакуації - що відомо про ситуацію станом на 29 жовтня",
+    "description": "Для окупованих Олешок готують гуманітарну місію: українська делегація вже вирушила в напрямку міста, а маршрути для пересування розміновують. Допомогу...",
+    "content": "Українська делегація вирушила в Олешки\nВранці, 29 жовтня омбудсмен Дмитро Лубінець на чолі української делегації вирушив у напрямку окупованих Олешок для реалізації гуманітарної місії. Про це повідомив голова фракції \"Слуга народу\" Давид Арахамія, а ... [4348 chars]",
+    "url": "https://www.rbc.ua/rus/news/oleshki-gotuyut-evakuatsiyi-ukrayinska-delegatsiya-1793267220.html",
+    "image": "https://www.rbc.ua/static/img/2/0/2026_10_29_11_34_35_752a9d8333ba0165ea32cddade693b49_1300x820.jpg",
+    "publishedAt": "2026-10-29T09:47:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "6f1ead09126f1f4738a48957e22f789c",
+      "name": "РБК-Україна",
+      "url": "https://www.rbc.ua"
+    }
+  },
+  {
+    "id": "b827c7f1ad11d8e63318f0f32e4167b0",
+    "title": "Прем’єр Норвегії заперечив, що путін «читав лекцію з історії» майже всю розмову",
+    "description": "Лідери скандинавських країн заперечили інформацію видання Financial Times про те, що всю телефонну розмову щодо війни в Україні путін читав лекцію з історії.",
+    "content": "Прем'єр-міністр Норвегії Йонас Гар Стьоре заперечив повідомлення видання Financial Times про те, що російський диктатор володимир путін присвятив майже всю телефонну розмову із ним та президентом Фінляндії Стуббом лекції із середньовічної слов’янсько... [3075 chars]",
+    "url": "https://www.slovoidilo.ua/2026/10/29/novyna/polityka/premyer-norvehiyi-zaperechyv-putin-chytav-lekcziyu-istoriyi-majzhe-vsyu-rozmovu",
+    "image": "https://media.slovoidilo.ua/media/scimage/247/246185-uk.png",
+    "publishedAt": "2026-10-29T09:46:19Z",
+    "lang": "uk",
+    "source": {
+      "id": "15797505fcdbf49191263455ed070cbb",
+      "name": "Слово і Діло",
+      "url": "https://www.slovoidilo.ua"
+    }
+  },
+  {
+    "id": "0edd9f7bb8c42543544134e8856091ea",
+    "title": "Цей Android-смартфон знімає майже як флагман, але коштує значно дешевше",
+    "description": "Xiaomi 15T є вдалою альтернативою дорожчим смартфонам та пропонує якісну зйомку, потужний процесор і яскравий OLED-екран, а його ціна починається від 429 євро.",
+    "content": "Xiaomi 15T став головним вибором експертів CHIP серед недорогих Android-смартфонів з хорошою камерою. Пристрій пропонує якісну зйомку, потужний процесор і яскравий OLED-екран, а його ціна починається від 429 євро.\nЩоб робити якісні фотографії, не обо... [2166 chars]",
+    "url": "https://www.unian.ua/techno/gadgets/cey-android-smartfon-znimaye-mayzhe-yak-flagman-ale-koshtuye-znachno-deshevshe-13543422.html",
+    "image": "https://images.unian.net/photos/2026_10/thumb_files/1000_545_1793265344-7715.jpg?1",
+    "publishedAt": "2026-10-29T09:35:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "d4361862486677369ff2ae7719b8d313",
+      "name": "УНІАН",
+      "url": "https://www.unian.ua"
+    }
+  },
+  {
+    "id": "c8ee675d39a71689b94d4e421cb5c975",
+    "title": "Вибух у Дніпрі 29 жовтня: перша інформація від ОВА",
+    "description": "У Дніпрі пролунав вибух вранці 29 жовтня 2026 - в ОВА повідомили про атаку на об’єкт транспортної інфраструктури ➤ Читайте новини на сайті Дніпро Оперативний",
+    "content": "У Дніпрі внаслідок ворожого удару вранці у четвер, 29 жовтня, пошкоджено обʼєкт транспортної інфраструктури. Що відомо на цю хвилину, повідомляє “Дніпро Оперативний”.\nБлизько 10:52 у Дніпрі чули вибух. Моніторингові чати попереджали про загрозу удару... [465 chars]",
+    "url": "https://dnepr.express/ua/post/u-dnipri-progrimiv-vibuh-vorog-atakuvav-transportu-infrastrukturu",
+    "image": "https://dnepr.express/storage/media/publishing-media/2023/05/10/1683697830-rtwbn/conversions/imgonline-com-ua-resize-0moj8lqsdacbo6-optimized.jpg",
+    "publishedAt": "2026-10-29T09:24:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "6d9999af822632d12248814e4c956f24",
+      "name": "Дніпро Оперативний",
+      "url": "https://dnepr.express"
+    }
+  },
+  {
+    "id": "7cc9faa0aac9f6fe04883b2b56ed5065",
+    "title": "Текст Радіодиктанту 2026: повний текст для перевірки",
+    "description": "Оприлюднили текст Радіодиктанту національної єдності 2026. Читайте повний текст і перевірте себе на помилки ᐅТSN.ua (новини 1+1)",
+    "content": "29 жовтня об 11:00 опублікували текст цьогорічного Радіодиктанту національної єдності 2026. Тепер усі, хто долучився до написання диктанту, можуть перевірити себе на помилки та врешті дізнатися, як пишеться слово «ЗСУшний» чи «зеесушний».\nПро це пові... [2362 chars]",
+    "url": "https://tsn.ua/ukrayina/tekst-radiodyktantu-2026-vze-opryliudnyly-perevirte-sebe-na-pomylky-3202631.html",
+    "image": "https://img.tsn.ua/cached/573/tsn-c458e64851561f73ec5a071df604b604/thumbs/1200x630/f9/01/27a3788f12af7286a7c40d782fe201f9.jpeg",
+    "publishedAt": "2026-10-29T09:20:02Z",
     "lang": "uk",
     "source": {
       "id": "ae8b9c98d707754fca5e1ea622855c50",
@@ -90,63 +120,33 @@
     }
   },
   {
-    "id": "5fe37d1c1ee185ac1382b883e5101335",
-    "title": "France Football назвав найкращого футболіста усіх часів",
-    "description": "Журнал France Football обрав володаря Золотого м'яча усіх часів: якими були правила конкурсу та кого читачі обрали найкращим футболістом в історії",
-    "content": "Про це пише \"Трибуна\".\nОрганізатори премії обрали переможця за допомогою читацького голосування. Віддати свій голос міг кожен охочий, для цього потрібно заплатити 1 євро. При цьому користувачі могли голосувати за свого кандидата необмежену кількість ... [1272 chars]",
-    "url": "https://espreso.tv/futbol-france-football-obrav-volodarya-zolotogo-myacha-usikh-chasiv",
-    "image": "https://static.espreso.tv/uploads/photobank/220000_221000/220521_GettyImages-1170963008.jpg?id=1793247602",
-    "publishedAt": "2026-10-28T19:31:00Z",
+    "id": "800dd4bd4b5b6d29706d8ef94ce513b1",
+    "title": "Маск хоче змусити Україну та союзників платити більше",
+    "description": "Відключенням Starlink в Україні Ілон Маск намагається змусити українських військових та їхніх закордонних союзників перейти на значно дорожчу систему Starshield.",
+    "content": "У середині жовтня зв’язок Starlink у зоні бойових дій в Україні був обмежений, що призвело до зупинки польотів безпілотників і припинення військових операцій. При цьому, як пише The Atlantic, у прогнозах експерти попереджають про ще тяжчі наслідки. Н... [4984 chars]",
+    "url": "https://www.unian.ua/world/vidklyuchennya-starlink-mask-hoche-zmusiti-ukrajinu-ta-soyuznikiv-platiti-bilshe-13543380.html",
+    "image": "https://images.unian.net/photos/2024_05/thumb_files/1000_545_1715966039-6520.jpg?1",
+    "publishedAt": "2026-10-29T09:17:00Z",
     "lang": "uk",
     "source": {
-      "id": "646641322db12cbee1c7c430eeba86aa",
-      "name": "Еспресо",
-      "url": "https://espreso.tv"
+      "id": "d4361862486677369ff2ae7719b8d313",
+      "name": "УНІАН",
+      "url": "https://www.unian.ua"
     }
   },
   {
-    "id": "83e431699685209248e56c09b057ef6e",
-    "title": "Диверсії для Росії в Німеччині та Румунії: затримано двох білорусів",
-    "description": "У Німеччині заарештували двох громадян Білорусі, яких підозрюють у підготовці диверсій на користь Росії.",
-    "content": "У Німеччині заарештували двох громадян Білорусі, яких підозрюють у підготовці диверсій на користь Росії.\nНімецькі правоохоронці затримали двох громадян Білорусі, яких підозрюють у плануванні диверсій на користь Росії. Про це повідомляє Der Spiegel у ... [1596 chars]",
-    "url": "https://ua.korrespondent.net/world/4924279-dyversii-dlia-rosii-v-nimechchyni-ta-rumunii-zatrymano-dvokh-bilorusiv",
-    "image": "https://kor.ill.in.ua/m/1260x900/4614427.jpg",
-    "publishedAt": "2026-10-28T19:29:00Z",
+    "id": "fc3d72f782f72d25f59c03901081bc57",
+    "title": "Нетаньягу заявив про \"вкрадені\" вибори в Ізраїлі",
+    "description": "Біньямін Нетаньягу заявив, що арабські партії нібито вкрали вибори в Ізраїлі, та вимагає розслідування. Однак правоохоронці поки не знайшли доказів масштабних фальсифікацій.",
+    "content": "Біньямін Нетаньягу заявив, що арабські партії нібито \"вкрали\" вибори в Ізраїлі, та вимагає розслідування. Однак правоохоронці поки не знайшли доказів масштабних фальсифікацій.\nПрем’єр-міністр Ізраїлю Біньямін Нетаньягу та його партія Лікуд звинуватил... [1967 chars]",
+    "url": "https://ua.korrespondent.net/world/4924393-netaniahu-zaiavyv-pro-vkradeni-vybory-v-izraili",
+    "image": "https://kor.ill.in.ua/m/1260x900/4614985.jpg",
+    "publishedAt": "2026-10-29T09:06:00Z",
     "lang": "uk",
     "source": {
       "id": "5f3893b2bdd83721567eef82ac0a6d2e",
       "name": "Korrespondent.net",
       "url": "https://ua.korrespondent.net"
-    }
-  },
-  {
-    "id": "795cf5c851a5f3e2e3199fe771f4f02a",
-    "title": "Apple випустила перший MacBook з сенсорним екраном",
-    "description": "Він коштує від 2899 доларів — The Village Україна",
-    "content": "Apple випустила перший MacBook Pro з сенсорним екраном. Він доступний у двох розмірах – 14- та 16-дюймів.\nВін оснащений дисплеєм PROLED XDR має яскравість HDR та SDR до 2000 ніт, змінну частоту оновлення 120 Гц й ширшу колірну гаму. Новий MacBook мож... [1226 chars]",
-    "url": "https://www.village.com.ua/village/business/news/378503-apple-vipustila-nbsp-pershiy-macbook-z-sensornim-ekranom",
-    "image": "https://cdn.village.com.ua/the-village.com.ua/post-og_image/LDkvZsMmm8nC6-9-QNnN0w-colored_bg.webp",
-    "publishedAt": "2026-10-28T19:15:51Z",
-    "lang": "uk",
-    "source": {
-      "id": "abf5c254676d66dc83fae872b5c64654",
-      "name": "The Village Україна",
-      "url": "https://www.village.com.ua"
-    }
-  },
-  {
-    "id": "483ad9ee79506d1840a5509ab66b67d0",
-    "title": "Зеленський розповів про зустріч із королем Нідерландів",
-    "description": "Президент України Володимир Зеленський під час візиту до Нідерландів провів зустріч із королем країни Віллемом-Александром.",
-    "content": "Президент України Володимир Зеленський під час візиту до Нідерландів провів зустріч із королем країни Віллемом-Александром.\nЯк повідомляє \"Європейська правда\", про це український президент написав в Х.\nЗеленський зазначив, що розповів королю \"про жит... [612 chars]",
-    "url": "https://www.eurointegration.com.ua/news/2026/10/28/7248819/",
-    "image": "https://img.eurointegration.com.ua/images/doc/f/7/f759190-hvvpngjxqaedtvs.jpg",
-    "publishedAt": "2026-10-28T19:07:03Z",
-    "lang": "uk",
-    "source": {
-      "id": "92907bbd0364e9333834133beac47de2",
-      "name": "Європейська правда",
-      "url": "https://www.eurointegration.com.ua"
     }
   }
 ]
