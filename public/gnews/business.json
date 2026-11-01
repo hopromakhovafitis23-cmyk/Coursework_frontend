@@ -1,5 +1,65 @@
 [
   {
+    "id": "b9b0c5982e950bf9cf2be57949f16496",
+    "title": "Продажі електровантажівок у Європі зросли до 5,25% у 2026",
+    "description": "Ринок електричних вантажівок у ЄС зростає, але надто повільно для виконання еконорм 2030 року. Хто лідирує у продажах тягачів — дізнайтесь на Авто24.",
+    "content": "Як повідомляє 40ton з посиланням на ACEA, європейський ринок важкої комерційної техніки масою понад 3,5 тонни поступово переходить на електротягу, хоча темпи суттєво відрізняються залежно від регіону. Наразі автовиробники перебувають під серйозним ти... [3003 chars]",
+    "url": "https://24tv.ua/auto/elektrychni_vantazhivky_v_yevropi_chomu_shveitsariia_bie_rekordy_a_lytva_kupyla_lyshe_odnu_mashynu_n77250",
+    "image": "https://24tv.ua/auto/resources/photos/news/202610/772501571bf79-8b73-44e6-9fcb-d7b1d590cf28.jpg",
+    "publishedAt": "2026-11-01T06:08:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "e737a8e76b161ef4526698e2ec5f60c9",
+      "name": "24 Канал",
+      "url": "https://24tv.ua"
+    }
+  },
+  {
+    "id": "0f1c150177edebc3b70d63e639a9fc0c",
+    "title": "Трамп спростував версію ФБР про атаку КНДР на криптобіржу Binance",
+    "description": "УНН Світ ✎ Дональд Трамп заявив, що США ще не впевнені у причетності КНДР до атаки на Binance. ФБР раніше підтверджувало цю версію.",
+    "content": "Дональд Трамп заявив, що США ще не впевнені у причетності КНДР до атаки на Binance. ФБР раніше підтверджувало цю версію.\nПрезидент США Дональд Трамп спростував заяву Федерального бюро розслідувань про те, що криптовалютну біржу Binance пограбували пі... [806 chars]",
+    "url": "https://unn.ua/news/tramp-sprostuvav-versiiu-fbr-pro-ataku-kndr-na-kryptobirzhu-binance",
+    "image": "https://unn.ua/img/2026/11/01/1793508587-1506-large.webp",
+    "publishedAt": "2026-11-01T05:29:47Z",
+    "lang": "uk",
+    "source": {
+      "id": "052123f557cbbddd4dd84cb648e3b977",
+      "name": "Українські Національні Новини (УНН)",
+      "url": "https://unn.ua"
+    }
+  },
+  {
+    "id": "c65b1104e94b7c4d09073a8a89a889c9",
+    "title": "Пограбування Binance: Трамп заперечив заяву ФБР про хакерів КНДР",
+    "description": "Американський президент пообіцяв обговорити це питання з Північною Кореєю , якщо це все ж таки її провина.",
+    "content": "Американський президент пообіцяв \"обговорити це питання з Північною Кореєю\", якщо це все ж таки її провина.\nПрезидент США Дональд Трамп спростував заяву ФБР про пограбування криптовалютної біржі Binance хакерами Північної Кореї; відповідне питання ще... [708 chars]",
+    "url": "https://ua.korrespondent.net/world/4925142-pohrabuvannia-Binance-tramp-zaperechyv-zaiavu-fbr-pro-khakeriv-kndr",
+    "image": "https://kor.ill.in.ua/m/1260x900/4618623.jpg",
+    "publishedAt": "2026-11-01T03:57:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "5f3893b2bdd83721567eef82ac0a6d2e",
+      "name": "Korrespondent.net",
+      "url": "https://ua.korrespondent.net"
+    }
+  },
+  {
+    "id": "eb9b068bfbd861bf6c0375b4b411c43b",
+    "title": "Українці масово купують старі авто: яка ціна найпопулярнішої моделі",
+    "description": "За 9 місяців 2026 року українці купили 46,5 тис. ввезених з-за кордону вживаних легкових авто віком до 5 років. Найпопулярнішою моделлю стала TESLA Mo",
+    "content": "За 9 місяців 2026 року українці купили 46,5 тис. ввезених з-за кордону вживаних легкових авто віком до 5 років. Найпопулярнішою моделлю стала TESLA Model Y – таких авто в період із січня по вересень було куплено 2 813 одиниць. Придбати таку машину в ... [1159 chars]",
+    "url": "https://www.obozrevatel.com/ukr/section-ekonomika-glavnaya/economy/news-ukrayintsi-masovo-kupuyut-stari-avto-yaka-tsina-naypopulyarnishoyi-modeli1-01-11-2026.html",
+    "image": "https://i.obozrevatel.com/news/2025/6/10/tesla-model-y.jpg?size=1280x720",
+    "publishedAt": "2026-11-01T01:20:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "ca149ffefb31c86f82d7f299d744af59",
+      "name": "OBOZ.UA",
+      "url": "https://www.obozrevatel.com"
+    }
+  },
+  {
     "id": "f9fbe11978192f6b95d2b307abafe497",
     "title": "ФБР офіційно звинуватила хакерів КНДР в атаці на Binance",
     "description": "Федеральне бюро розслідувань США звинувачує у зломі біржі хакерів північнокорейського угруповання TraderTraitor.",
@@ -27,6 +87,21 @@
       "id": "d4361862486677369ff2ae7719b8d313",
       "name": "УНІАН",
       "url": "https://www.unian.ua"
+    }
+  },
+  {
+    "id": "8d62b74b380128656c2262a59449c6be",
+    "title": "Volkswagen призупинила розробку електричного Golf • Межа",
+    "description": "Volkswagen тимчасово зупинила розробку електричного автомобіля ID. Golf, який планують виробляти на заводі у Вольфсбурзі. За словами керівника бренду Volkswagen Томаса Шефера, компанія наразі не має коштів для продовження робіт над цією електричною моделлю.",
+    "content": "Volkswagen тимчасово зупинила розробку електромобіля ID. Golf, який планують виробляти на заводі у Вольфсбурзі. Про це повідомив керівник бренду Volkswagen Томас Шефер у внутрішньому інтерв'ю, пише Autocar. За його словами, компанія наразі не має кош... [1302 chars]",
+    "url": "https://mezha.ua/news/volkswagen-prizupinila-rozrobku-elektrichnogo-golf-316745/",
+    "image": "https://img.mezha.ua/mezha/images/doc/9/6/332675/963440e83b863e574762fee0e809d880.jpeg?w=1200&q=85&stamp=1793466586",
+    "publishedAt": "2026-10-31T18:24:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "6b0257d31504a630dde7752eed4e1e39",
+      "name": "Mezha",
+      "url": "https://mezha.ua"
     }
   },
   {
@@ -72,81 +147,6 @@
       "id": "6f1ead09126f1f4738a48957e22f789c",
       "name": "РБК-Україна",
       "url": "https://www.rbc.ua"
-    }
-  },
-  {
-    "id": "10f8fb39fdb1757264bde14c5677a752",
-    "title": "Користувацькі ПК витрачають необхідну нам DRAM: Сем Альтман закликає віддавати більше доступной пам'яті ЦОД",
-    "description": "На його думку, використання обмежених запасів DRAM для користувацьких ПК не найкращ",
-    "content": "Гендиректор OpenAI Сем Альтман критикує використання великих обсягів дефіцитної оперативної пам’яті у конфігураціях користувацьких ПК.\nНа його думку, використання обмежених запасів DRAM для користувацьких ПК не найкраще рішення. Альтман переконаний, ... [1863 chars]",
-    "url": "https://itc.ua/ua/novini/korystuvatski-pk-vytrachayut-neobhidnu-nam-dram-sem-altman-zaklykaye-viddavaty-bilshe-dostupnoj-pam-yati-tsod/",
-    "image": "https://cdn.itc.ua/uploads/2026/10/image.jpg",
-    "publishedAt": "2026-10-31T11:59:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "391d17d071b755a4bda37c1b43f47c2c",
-      "name": "ITC.ua",
-      "url": "https://itc.ua"
-    }
-  },
-  {
-    "id": "5b5f2ebb6bcb576ef748b8a2458fe974",
-    "title": "Уявіть масштаби: на китайського автовиробника BYD працює понад 1,02 млн працівників. Це більше, ніж у Toyota, General Motors, Ford і Tesla разом взятих",
-    "description": "У BYD працює понад 1,02 млн людей - більше, ніж у Toyota, General Motors, Ford і Tesla разом. Від початку р...",
-    "content": "У BYD працює понад 1,02 млн людей - більше, ніж у Toyota, General Motors, Ford і Tesla разом. Від початку року штат китайської компанії зріс приблизно на 150 тисяч осіб, хоча продажі її автомобілів за цей час скоротилися.\nНові дані оприлюднив голова ... [2697 chars]",
-    "url": "https://bukinfo.com.ua/ekonomika/uyavit-masshtaby-na-kytayskogo-avtovyrobnyka-byd-pracyuye-ponad-1-02-mln-pracivnykiv-ce-bilshe-nizh-u-toyota-general-motors-ford-i-tesla-razom-vzyatyh",
-    "image": "https://bukinfo.com.ua/news-gallery/6ae5d32465520.jpg",
-    "publishedAt": "2026-10-31T11:38:11Z",
-    "lang": "uk",
-    "source": {
-      "id": "773b58c40f763d3e0a7eb38c40ac20be",
-      "name": "БукІнфо",
-      "url": "https://bukinfo.com.ua"
-    }
-  },
-  {
-    "id": "77fcb381a59b1dbf9affad392a667a6d",
-    "title": "Навіщо вам оперативка? Глава OpenAI вважає, що вона потрібніша дата-центрам",
-    "description": "Сем Альтман вважає, що користувачі нераціонально використовують світові запаси оперативної пам’яті, встановлюючи великі обсяги DRAM у персональні ПК.",
-    "content": "Голова OpenAI Сем Альтман вважає, що користувачі нераціонально використовують світові запаси оперативної пам'яті, встановлюючи великі обсяги DRAM у персональні ПК. Мовляв, в умовах дефіциту її ефективніше спрямовувати в дата-центри, де одна й та сама... [2357 chars]",
-    "url": "https://www.unian.ua/techno/hardware/navishcho-vam-operativka-glava-openai-vvazhaye-shcho-vona-potribnisha-data-centram-13545594.html",
-    "image": "https://images.unian.net/photos/2026_10/thumb_files/1000_545_1793437819-8583.jpg?1",
-    "publishedAt": "2026-10-31T09:41:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "d4361862486677369ff2ae7719b8d313",
-      "name": "УНІАН",
-      "url": "https://www.unian.ua"
-    }
-  },
-  {
-    "id": "133b94f97c1b4dbff65677cde7f410fd",
-    "title": "Світові ринки пішли вниз: чому інвестори розпродають акції технологічних компаній",
-    "description": "Американський фондовий ринок завершив тиждень різким падінням технологічних акцій.",
-    "content": "За підсумками торгів у п'ятницю, 30 жовтня, індекс Nasdaq Composite втратив 747,73 пункту, або 2,86%, і зупинився на позначці 25 437 пунктів. S&P 500 знизився на 1,82%, до 7580,07 пункту, а Dow Jones Industrial Average впав на 1,09%, до 51 770,31 пун... [5481 chars]",
-    "url": "https://minfin.com.ua/ua/2026/10/31/184627962/",
-    "image": "https://minfin.com.ua/img/2026/184627962/a8e54b6c550ed6abac03d76eceda324a.jpeg",
-    "publishedAt": "2026-10-31T08:30:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "6028444ee1303e4577f50406a4c7988e",
-      "name": "Мінфін",
-      "url": "https://minfin.com.ua"
-    }
-  },
-  {
-    "id": "2066abfd2ead1117b2ae36384fa1832e",
-    "title": "Fujifilm у 5 разів збільшить виробництво магнітних стрічок • Межа",
-    "description": "Fujifilm оголосила про інвестиції в розмірі близько $63 млн для 5-кратного збільшення виробництва магнітних стрічок для зберігання даних. Рішення пояснюється стрімким зростанням попиту на архівне зберігання інформації на тлі поширення систем ШІ, які спричиняють швидке збільшення обсягів даних у всьому світі.",
-    "content": "Японська Fujifilm оголосила про інвестиції в розмірі близько 10 млрд єн (~ $63 млн) для 5-кратного збільшення виробничих потужностей з випуску магнітних стрічок для зберігання даних, пише Ars Technica.\nРішення пояснюється стрімким зростанням попиту н... [1778 chars]",
-    "url": "https://mezha.ua/news/fujifilm-u-5-raziv-zbilshit-virobnictvo-magnitnih-strichok-316738/",
-    "image": "https://img.mezha.ua/mezha/images/doc/9/6/332666/96b6b8a5bf267ae277d6ce28f82f4dae.jpeg?w=1200&q=85&stamp=1793399070",
-    "publishedAt": "2026-10-30T22:56:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "6b0257d31504a630dde7752eed4e1e39",
-      "name": "Mezha",
-      "url": "https://mezha.ua"
     }
   }
 ]
