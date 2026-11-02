@@ -1,5 +1,35 @@
 [
   {
+    "id": "642e7f4a354bca5e1a487a9195f6efd1",
+    "title": "Saab дуже хоче, щоб Канада купила Gripen, і тут варто згадати, що раніше у цьому \"рівнянні\" була й Україна",
+    "description": "Питання проєкту GCAP і винищувачів Gripen для Канади ще досі актуальне, як і досі нічого не вирішили, але що відомо станом на зараз",
+    "content": "Канада вже чимало часу стоїть на роздоріжжі щодо вибору подальшого майбутнього своєї бойової авіації, але загалом місцеві компанії вже нібито шикуються у чергу за перспективним проєктом GCAP, який передбачає створення винищувача шостого покоління і в... [1957 chars]",
+    "url": "https://defence-ua.com/news/saab_duzhe_hoche_schob_kanada_kupila_gripen_i_tut_varto_zgadati_scho_ranishe_u_tsomu_rivnjanni_bula_j_ukrajina-24633.html",
+    "image": "https://defence-ua.com/media/illustration/articles/7c86ae70ffd0a792.jpg",
+    "publishedAt": "2026-11-01T12:37:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "f488af954cb509cbacccbd34e7f47985",
+      "name": "Defense Express",
+      "url": "https://defence-ua.com"
+    }
+  },
+  {
+    "id": "8bf4c839a5681f0839bdf8713a212f9e",
+    "title": "500 Вт·год/кг: Гарвард описав батарею, яка місяцями тримає в небі сонячні літаки",
+    "description": "Дослідники Гарварду визначили поріг у 500 Вт·год/кг для батарей, які дозволять сонячним літакам місяцями літати у стратосфері.",
+    "content": "Безпілотні сонячні літаки зможуть тижнями й місяцями кружляти в стратосфері, стежачи за пожежами, ураганами та кліматом, якщо їхні батареї досягнуть питомої енергії 500 Вт·год/кг. Такий поріг визначили дослідники Гарвардської школи інженерії та прикл... [4173 chars]",
+    "url": "https://itc.ua/ua/novini/500-vt-god-kg-garvard-opysav-batareyu-yaka-misyatsyamy-trymaye-v-nebi-sonyachni-litaky/",
+    "image": "https://cdn.itc.ua/uploads/2026/10/Lytak-Tehn-1.jpg",
+    "publishedAt": "2026-11-01T10:20:21Z",
+    "lang": "uk",
+    "source": {
+      "id": "391d17d071b755a4bda37c1b43f47c2c",
+      "name": "ITC.ua",
+      "url": "https://itc.ua"
+    }
+  },
+  {
     "id": "b9b0c5982e950bf9cf2be57949f16496",
     "title": "Продажі електровантажівок у Європі зросли до 5,25% у 2026",
     "description": "Ринок електричних вантажівок у ЄС зростає, але надто повільно для виконання еконорм 2030 року. Хто лідирує у продажах тягачів — дізнайтесь на Авто24.",
@@ -117,36 +147,6 @@
       "id": "f29fd2b0bf3bff7c6642e8f9d1dc98e2",
       "name": "Молодий буковинець",
       "url": "https://molbuk.ua"
-    }
-  },
-  {
-    "id": "668f0fc575f3c5e394d8309d432332ee",
-    "title": "Нові гібридні моделі Skoda вийшли на ринок",
-    "description": "Skoda розширює свою лінійку новими гібридними силовими установками, зокрема «м’якими» гібридами для Octavia, Superb та Kodiaq RS.",
-    "content": "Skoda розширює свою лінійку новими гібридними силовими установками, зокрема «м’якими» гібридами для Octavia, Superb та Kodiaq RS.\nSkoda Kodiaq RS PHEV отримав ціни в Німеччині.\nБазові моделі Kodiaq та Superb також отримали збільшену потужність.\nТепер... [3295 chars]",
-    "url": "https://motorcar.com.ua/news/gibrydni-modeli-skoda-strat-prodazhiv-2026/",
-    "image": "https://motorcar.com.ua/wp-content/uploads/2026/10/2026-skoda-kodiaq-rs.jpg",
-    "publishedAt": "2026-10-31T17:20:01Z",
-    "lang": "uk",
-    "source": {
-      "id": "ccf5b23cf2f813320e7baafea8cf4ea7",
-      "name": "Motorcar",
-      "url": "https://motorcar.com.ua"
-    }
-  },
-  {
-    "id": "6377d478acd4eb027074c4b6fe1b3777",
-    "title": "пʼять компаній, які розвивають оборонну галузь",
-    "description": "PG Robotics, UV Military Cluster, VGI-9, KIT OPTICS та \"Каспер UAV Tech\": з чого починали українські мілтех-компанії, як масштабують виробництво БпЛА, РЕБ і систем автономії – у спецпроєкті РБК-Україна",
-    "content": "СПЕЦПРОЄКТ\n31.10.2026\nУкраїнський miltech за кілька років пройшов шлях від волонтерських майстерень і перших експериментів до серійного виробництва безпілотників, систем РЕБ та складних технологічних рішень. Компанії, які виникали у відповідь на терм... [17838 chars]",
-    "url": "https://www.rbc.ua/ukr/news/miltech-nabirae-obertiv-p-yat-kompaniy-ki-1793397887.html",
-    "image": "https://cdn.prod.website-files.com/673c71461688fdddf8a30b08/6ae4c1ac95ed19883d34c892_miltech-cover.webp",
-    "publishedAt": "2026-10-31T12:10:46Z",
-    "lang": "uk",
-    "source": {
-      "id": "6f1ead09126f1f4738a48957e22f789c",
-      "name": "РБК-Україна",
-      "url": "https://www.rbc.ua"
     }
   }
 ]
