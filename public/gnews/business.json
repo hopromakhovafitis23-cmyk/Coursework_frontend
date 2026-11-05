@@ -1,5 +1,65 @@
 [
   {
+    "id": "3fd1837d518bbbf366bff41f7ddf375c",
+    "title": "Новий Nissan Pixo став одним із найдешевших авто",
+    "description": "Новий електричний автомобільNissan Pixo нещодавно був презентований, а тепер отримав комплектації та ціни в Європі.",
+    "content": "Новий електричний автомобільNissan Pixo нещодавно був презентований, а тепер отримав комплектації та ціни в Європі.\nPixo вже можна замовити, але він надійде у 2027 році.\nВ базі швидка зарядка та автоматичний клімат-контроль.\nМінімальна комплектація к... [2743 chars]",
+    "url": "https://motorcar.com.ua/news/nissan-pixo-komplektacziyi-cziny-2026/",
+    "image": "https://motorcar.com.ua/wp-content/uploads/2026/09/2027-nissan-pixo-4.webp",
+    "publishedAt": "2026-11-04T17:20:23Z",
+    "lang": "uk",
+    "source": {
+      "id": "ccf5b23cf2f813320e7baafea8cf4ea7",
+      "name": "Motorcar",
+      "url": "https://motorcar.com.ua"
+    }
+  },
+  {
+    "id": "36b3a3721a327435f8672db0d9c3cdd7",
+    "title": "Китайська BYD продала за місяць більше електромобілів, ніж США за квартал",
+    "description": "BYD у жовтні 2026 року продала 305 743 електромобілі — на 37% більше, ніж торік. Компанія також достроково перевищила план закордонних продажів у 1,5 млн авто.",
+    "content": "Китайський автовиробник BYD вперше подолала позначку 300 000 проданих електромобілів за один місяць. У жовтні 2026 року компанія реалізувала 305 743 повністю електричні легкові автомобілі. Це на 37% більше, ніж за аналогічний період минулого року. Це... [2041 chars]",
+    "url": "https://itc.ua/ua/novini/byd-prodala-bilshe-elektromobiliv-nizh-ssha/",
+    "image": "https://cdn.itc.ua/uploads/2026/11/BYD-upgraded-Yuan-Up-front.webp",
+    "publishedAt": "2026-11-04T15:57:10Z",
+    "lang": "uk",
+    "source": {
+      "id": "391d17d071b755a4bda37c1b43f47c2c",
+      "name": "ITC.ua",
+      "url": "https://itc.ua"
+    }
+  },
+  {
+    "id": "e05a0eaad62f65d7a25787ea0bb7e8cf",
+    "title": "За ціною MacBook Neo: ACEMAGIC випустила міні-ПК з рідкісною RTX 3070 16 ГБ",
+    "description": "ACEMAGIC представила в Китаї нову цікаву конфігурацію ігрового міні-ПК Starship M2A з  Intel",
+    "content": "ACEMAGIC представила в Китаї нову цікаву конфігурацію ігрового міні-ПК Starship M2A з Intel Core i9-12900H та RTX 3070 leptop 16 ГБ VRAM GDDR6.\nМіні-ПК продається за ціною $699 за конфігурацію з 16 ГБ ОЗП та SSD на 1 ТБ. Однак NVIDIA ніколи офіційно ... [1289 chars]",
+    "url": "https://itc.ua/ua/novini/za-tsinoyu-macbook-neo-acemagic-vypustyla-mini-pk-z-ridkisnoyu-rtx-3070-16-gb/",
+    "image": "https://cdn.itc.ua/uploads/2026/11/imgonline-com-ua-converte6iYSL2Ws5qE.jpg",
+    "publishedAt": "2026-11-04T15:44:39Z",
+    "lang": "uk",
+    "source": {
+      "id": "391d17d071b755a4bda37c1b43f47c2c",
+      "name": "ITC.ua",
+      "url": "https://itc.ua"
+    }
+  },
+  {
+    "id": "a466f6d4a2b73131c2964835628b09c2",
+    "title": "що про нього відомо?",
+    "description": "Zeekr розпочав розробку рамного позашляховика. За планами очільників бренду, новинка стане альтернативою для китайських покупців, які обирають Mercedes-Benz G-Class - Авто24",
+    "content": "Як повідомляє китайське видання Auto Time, наразі амбітний проєкт перебуває на ранній стадії пошуку постачальників комплектуючих. Майбутня модель ще навіть не отримала офіційного внутрішнього індексу, проте партнери компанії вже називають її \"відпові... [1400 chars]",
+    "url": "https://24tv.ua/auto/kytaitsi_z_zeekr_hotuiut_vbyvtsiu_helika_yakym_bude_novyi_brutalnyi_pozashliakhovyk_n77381",
+    "image": "https://24tv.ua/auto/resources/photos/news/202611/77381ccb1ff52-baba-43d5-b99d-7a1b025e28dd.jpg",
+    "publishedAt": "2026-11-04T14:30:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "e737a8e76b161ef4526698e2ec5f60c9",
+      "name": "24 Канал",
+      "url": "https://24tv.ua"
+    }
+  },
+  {
     "id": "ca103a9ba2c39f42141134845fd43cfc",
     "title": "Які ІТ-спеціальності найбільше втратили вакансій у 2026 році",
     "description": "Загалом вакансій на ринку за рік побільшало на 6% (з 65,7 тис. до майже 70 тис.), але в класичній розробці цифри помітно просіли. Найбільше падіння — у вебі та мобайлі. Зростання натомість відбулося в категоріях «Військова справа», Hardware, Embedded.",
@@ -87,66 +147,6 @@
       "id": "5f3893b2bdd83721567eef82ac0a6d2e",
       "name": "Korrespondent.net",
       "url": "https://ua.korrespondent.net"
-    }
-  },
-  {
-    "id": "93a6b5d0fd64924d8fa2e03516eaec10",
-    "title": "BMW назвав автомобілі Toyota \"нудними\"",
-    "description": "Німецький бренд BMW використав дивний автомобіль у стилі 90-х (створений ШІ), щоб висміяти «нудний» дизайн. Виявилось, що це Toyota.",
-    "content": "Німецький бренд BMW використав дивний автомобіль у стилі 90-х (створений ШІ), щоб висміяти «нудний» дизайн. Виявилось, що це Toyota.\nBMW запустив нову глобальну маркетингову кампанію.\nГоловна ідея кампанії – створення нового автомобіля.\nІнтернет спіл... [4288 chars]",
-    "url": "https://motorcar.com.ua/news/bmw-avtomobili-toyota-nudni-2026/",
-    "image": "https://motorcar.com.ua/wp-content/uploads/2026/11/bmw-s-ai-generated-boring-car.webp",
-    "publishedAt": "2026-11-03T19:16:12Z",
-    "lang": "uk",
-    "source": {
-      "id": "ccf5b23cf2f813320e7baafea8cf4ea7",
-      "name": "Motorcar",
-      "url": "https://motorcar.com.ua"
-    }
-  },
-  {
-    "id": "935495d046e620ca63521026129e55cf",
-    "title": "Українці створили Tesla Roadster на 1020 сил для SEMA",
-    "description": "Українська команда TSK створила CyberHooligan на базі Tesla Model S Plaid. Суперкар має 1020 к.с., розганяється до 100 км/год менш ніж за 2 секунди та отримав унікальний кузов і горизонтальну пневмопідвіску.",
-    "content": "Проєкт підготували до виставки SEMA у США, повідомляє Autogeek. За зовнішність відповідав український дизайнер Богдан Головатюк, а інженерну частину повністю переробив Олександр Чумаченко. За основу взяли Tesla Model S Plaid 2022 року, однак від сері... [7023 chars]",
-    "url": "https://24tv.ua/auto/ukraintsi_zrobyly_te_shcho_tesla_obitsiala_rokamy_vlasnyi_roadster_na_1020_syl_n77335",
-    "image": "https://24tv.ua/auto/resources/photos/news/202611/77335b5edc466-1956-4c9e-94b9-ca2612e6ac7b.jpg",
-    "publishedAt": "2026-11-03T17:45:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "e737a8e76b161ef4526698e2ec5f60c9",
-      "name": "24 Канал",
-      "url": "https://24tv.ua"
-    }
-  },
-  {
-    "id": "c04ac0c4ae5456244bcf0cba2bb348bb",
-    "title": "BMW висміяла стару Toyota Corolla і розлютила мережу",
-    "description": "Баварці порівняли новий iX5 із класичним японським седаном 1991 року, назвавши його нудним. Чому ця дивна реклама обурила водіїв, читайте на Авто24.",
-    "content": "Cкандал розгорівся навколо глобальної рекламної кампанії під назвою Made Different, To Feel Different. На офіційній сторінці баварської марки в Instagram з'явилася публікація з двох слайдів, де першим йшло згенероване штучним інтелектом зображення пе... [1438 chars]",
-    "url": "https://24tv.ua/auto/bmw_vysmiiala_staru_toyota_corolla_i_zhorstko_poplatylasia_za_tse_n77334",
-    "image": "https://24tv.ua/auto/resources/photos/news/202611/773346e769833-fccb-47eb-a2a5-8a7f11daf5ee.jpg",
-    "publishedAt": "2026-11-03T15:30:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "e737a8e76b161ef4526698e2ec5f60c9",
-      "name": "24 Канал",
-      "url": "https://24tv.ua"
-    }
-  },
-  {
-    "id": "0bff1ecdff3fc43649294b1d269db5d4",
-    "title": "Авто з фольги: китайський Chery Tiggo 2 набрав 0 зірок у краш-тесті",
-    "description": "Chery Tiggo 2 отримав 0 зірок Latin NCAP за захист дорослих і дітей. Експерти виявили нестабільний кузов, ризик займання та небезпечні навантаження під час ДТП.",
-    "content": "Чотири подушки безпеки та система стабілізації не врятували китайський кросовер Chery Tiggo 2 від провалу краш-тестів. Автомобіль отримав нуль зірок Latin NCAP, продемонстрував нестабільність кузова, слабкий захист грудної клітки водія та навіть ризи... [3561 chars]",
-    "url": "https://itc.ua/ua/novini/kytajskyj-chery-tiggo-2-0-zirok-krash-testi/",
-    "image": "https://cdn.itc.ua/uploads/2026/11/image-1920x1080-2026-10-31T122329.jpg",
-    "publishedAt": "2026-11-03T14:04:21Z",
-    "lang": "uk",
-    "source": {
-      "id": "391d17d071b755a4bda37c1b43f47c2c",
-      "name": "ITC.ua",
-      "url": "https://itc.ua"
     }
   }
 ]
