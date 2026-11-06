@@ -1,102 +1,87 @@
 [
   {
-    "id": "25fc684b069ea3b2157f51e2ba4f8258",
-    "title": "SpaceX і Qualcomm створять 5G",
-    "description": "SpaceX уклала угоду з Qualcomm про розгортання 5G на десятках тисяч базових станцій у США. Перші запуски Starlink Mobile заплановані на 2027 рік.",
-    "content": "SpaceX уклала багаторічну угоду з Qualcomm про розгортання мобільної мережі п’ятого покоління у США. У межах партнерства компанія Ілона Маска використовуватиме технології Dragonwing Cellular Infrastructure на десятках тисяч базових станцій 5G. Про це... [1764 chars]",
-    "url": "https://24tv.ua/tech/spacex-qualcomm-stvoryat-5g-merezhu-starlink-mobile-ssha_n3174801",
-    "image": "https://24tv.ua/resources/photos/news/202611/3174801.jpg?v=1793897279000&w=1200&h=675&fit=cover",
-    "publishedAt": "2026-11-05T17:00:00Z",
+    "id": "48ff2bffe28cf39726f4d3d44c2d3286",
+    "title": "Sony представила нову версію ретро-навушників Walkman MDR-3 • Межа",
+    "description": "Sony представила нові дротові накладні навушники MDR-3R, дизайн яких відтворює модель MDR-3, що постачалася разом із першим касетним плеєром Walkman у 1979 році. Новинка зберегла оригінальні динамічні випромінювачі, але отримала сучасний роз'єм USB-C та вбудований пульт керування.",
+    "content": "Компанія Sony випустила нові дротові навушники MDR-3R, створені на базі моделі MDR-3, яка постачалася разом із першим касетним плеєром Walkman TPS-L2 у 1979 році. Новинка зберігає характерний ретродизайн, але замість аналогового роз’єму отримала кабе... [1090 chars]",
+    "url": "https://mezha.ua/news/sony-predstavila-novu-versiyu-retro-navushnikiv-walkman-mdr-3-316930/",
+    "image": "https://img.mezha.ua/mezha/images/doc/1/1/333418/11bee6b3f1cb5c68f6e951b690106f24.jpeg?w=1200&q=85&stamp=1793913938",
+    "publishedAt": "2026-11-05T22:11:00Z",
     "lang": "uk",
     "source": {
-      "id": "e737a8e76b161ef4526698e2ec5f60c9",
-      "name": "24 Канал",
-      "url": "https://24tv.ua"
+      "id": "6b0257d31504a630dde7752eed4e1e39",
+      "name": "Mezha",
+      "url": "https://mezha.ua"
     }
   },
   {
-    "id": "1daee632b0f7295e71d335cc4a823813",
-    "title": "За чотири години з американського фондового ринку, криптовалют і дорогоцінних металів зникло $1,2 трильйона капіталізації",
-    "description": "Ринки США, криптовалют і дорогоцінних металів пережили різке падіння, внаслідок якого сукупна ринкова вартість активів скоротилася приблизно на $1,2 трильйона",
-    "content": "Ринки США, криптовалют і дорогоцінних металів пережили різке падіння, внаслідок якого сукупна ринкова вартість активів скоротилася приблизно на $1,2 трильйона лише за чотири години. Про це 2 листопада повідомив фінансовий аналітичний ресурс Bull Theo... [548 chars]",
-    "url": "https://donpatriot.news/za-chotyry-godyny-z-amerykanskogo-fondovogo-rynku-kryptovalyut-i-dorogoczinnyh-metaliv-znyklo-12-tryljona-kapitalizacziyi",
-    "image": "https://donpatriot.news/wp-content/uploads/2026/11/znimok-ekrana-2026-11-05-o-18.34.23.jpg",
-    "publishedAt": "2026-11-05T16:50:00Z",
+    "id": "f36185f3a23fe3b5732bbd4c87e43edd",
+    "title": "Олексій Комаровський розповів, як штучний інтелект змінює кіно",
+    "description": "Він припустив, як нові технології можуть змінити індустрію за 10 років - Новости -",
+    "content": "Як Олексій Комаровський використовував ШІ у кіно\nРежисер зізнався, що ставиться до розвитку штучного інтелекту як до неминучого процесу, який уже неможливо зупинити. За його словами, він одним із перших в українському кіно почав експериментувати з ці... [2258 chars]",
+    "url": "https://wave.rbc.ua/rus/culture/pershiy-vikoristav-i-nihto-pomitiv-rezhiser-1793909784.html",
+    "image": "https://www.rbc.ua/static/img/f/e/fe0a1481_500fe740cc223f1564425dfa50f937b0_1300x820.jpg",
+    "publishedAt": "2026-11-05T20:17:24Z",
     "lang": "uk",
     "source": {
-      "id": "556066753a7a30eb0619823360acdde4",
-      "name": "Патріот Донбасу",
-      "url": "https://donpatriot.news"
-    }
-  },
-  {
-    "id": "9ebe6bfe97510376ce00b91ca5553078",
-    "title": "Як зберегти заряд батареї смартфона, якщо довго немає світла: найкращі методи",
-    "description": "Що робити, щоб не розряджався сматфон. TSN.ua (новини 1+1).",
-    "content": "Під час тривалих відключень електроенергії смартфон стає особливо важливим: через нього можна зв’язатися з рідними, отримати новини, перевірити графік відключень або викликати допомогу. Проте без можливості регулярно заряджати пристрій навіть повна б... [3636 chars]",
-    "url": "https://tsn.ua/other/iak-zberehty-zariad-batareyi-smartfona-iakshcho-dovho-nemaye-svitla-naykrashchi-metody-3209151.html",
-    "image": "https://img.tsn.ua/cached/954/tsn-1284f5ef/thumbs/1200x630/0e/e3/b9e8c7826d585bf5a1db2629dfabe30e.jpg",
-    "publishedAt": "2026-11-05T16:45:22Z",
-    "lang": "uk",
-    "source": {
-      "id": "ae8b9c98d707754fca5e1ea622855c50",
-      "name": "ТСН",
-      "url": "https://tsn.ua"
-    }
-  },
-  {
-    "id": "14d078fa3cd9aa01cc2d6c366d452fc0",
-    "title": "Виробники кухонь в Україні - огляд 10 меблевих компаній і послуг",
-    "description": "Українські меблеві фабрики працюють у різних сегментах ринку - від серійного виробництва модульних кухонь і готових меблевих колекцій до індивідуальни...",
-    "content": "Комфорт Меблі - кухні, шафи та комплексний сервіс\nФабрика з Білоцерківщини працює з 2002 року. Підприємство першим запустило масове виробництво комп'ютерних столів, освоїло зворотний друк на дзеркалах шаф-купе та впровадило цифрові системи замовлення... [10089 chars]",
-    "url": "https://www.rbc.ua/rus/news/10-virobnikiv-kuhon-ki-varto-zvernuti-uvagu-1793725646.html",
-    "image": "https://www.rbc.ua/static/img/_/m/_mebli_bd2415f886354ca502e7bd31cf0539b8_1300x820.jpg",
-    "publishedAt": "2026-11-05T15:40:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "6f1ead09126f1f4738a48957e22f789c",
+      "id": "a8fc13f6127a473932d81c0fc54e0128",
       "name": "РБК-Україна",
-      "url": "https://www.rbc.ua"
+      "url": "https://wave.rbc.ua"
     }
   },
   {
-    "id": "9809fae52fd017cae57d80a415b28b58",
-    "title": "Мільйони жінок у світі не користуються інтернетом - у чому причина",
-    "description": "Мільярди людей у світі досі не мають доступу до інтернету, попри стрімкий розвиток цифрових технологій і штучного інтелекту. Новий звіт показав, у яки...",
-    "content": "Як виглядає цифрова нерівність у світі?\nЗгідно з даними звіту, у 2026 році інтернетом користуються 6,3 мільярда людей, що становить 76 відсотків від загальної чисельності населення Землі.\nЦе означає, що близько двох мільярдів людей - 24 відсотки - за... [1242 chars]",
-    "url": "https://www.rbc.ua/rus/news/kozhen-chetvertiy-zhitel-zemli-dosi-koristuetsya-1793887825.html",
-    "image": "https://www.rbc.ua/static/img/_/7/_798660ebea4157e42e6ef7cef07e52f9_1300x820.jpg",
-    "publishedAt": "2026-11-05T15:32:48Z",
+    "id": "39b80d23a11a367ec743b66b0c52712e",
+    "title": "У Нідерландах стартувала Bitcoin Amsterdam 2026: про що говорять учасники на тлі падіння біткоїна",
+    "description": "УНН Слайдер ✎ У Нідерландах стартувала Bitcoin Amsterdam 2026, де обговорюють регулювання, банки, безпеку та інвестиції. Біткоїн подешевшав до\n$75 468.",
+    "content": "У Нідерландах 5 листопада розпочалася Bitcoin Amsterdam 2026 — міжнародна конференція, яку організатори називають найбільшою в Європі подією, присвяченою біткоїну. Протягом двох днів представники фінансових установ, інвестори, розробники та підприємц... [5739 chars]",
+    "url": "https://unn.ua/news/u-niderlandakh-startuvala-bitcoin-amsterdam-2026-pro-shcho-hovoriat-uchasnyky-na-tli-padinnia-bitkoina",
+    "image": "https://unn.ua/img/2026/11/05/1793906179-4579-large.webp",
+    "publishedAt": "2026-11-05T19:18:19Z",
     "lang": "uk",
     "source": {
-      "id": "6f1ead09126f1f4738a48957e22f789c",
-      "name": "РБК-Україна",
-      "url": "https://www.rbc.ua"
+      "id": "052123f557cbbddd4dd84cb648e3b977",
+      "name": "Українські Національні Новини (УНН)",
+      "url": "https://unn.ua"
     }
   },
   {
-    "id": "2fbddda8de29b4a99eb17ade7a1a0cd6",
-    "title": "Росіяни атакували дронами та КАБами Запоріжжя",
-    "description": "Війська рф 5 листопада завдали серії ударів по місту Запоріжжі. Ворог застосував, зокрема, безпілотники та керовані авіабомби.",
-    "content": "Російські окупаційні війська у четвер, 5 листопада, завдали серії ударів по місту Запоріжжя. Ворог застосував, зокрема, безпілотники та керовані авіабомби.\nПро атаку повідомили місцеві Telegram-канали.\nПовітряні сили зазначали, що на місто летять БПЛ... [738 chars]",
-    "url": "https://www.slovoidilo.ua/2026/11/05/novyna/bezpeka/rosiyany-atakuvaly-dronamy-ta-kabamy-zaporizhzhya",
-    "image": "https://media.slovoidilo.ua/media/scimage/247/246614-uk.png",
-    "publishedAt": "2026-11-05T15:21:19Z",
+    "id": "8fddb79b1e7ebe34a9e78f895f648090",
+    "title": "YouTube може запустити окрему соцмережу: у застосунку знайшли сліди загадкового проєкту Tamba",
+    "description": "У коді мобільного застосунку YouTube виявили згадки Tamba – експериментального сервісу з підписками, приватними повідомленнями та груповими чатами",
+    "content": "YouTube, схоже, готує незвичайне оновлення, яке може перетворити відеоплатформу на повноцінний соціальний майданчик. Про це повідомляє Android Authority.\nУ свіжій версії застосунку знайшли згадки про загадковий проєкт Tamba, що передбачає підписки на... [628 chars]",
+    "url": "https://blik.ua/techno/50060-youtube-gotuye-novu-socmerezhu-tamba-sho-vidomo-pro-sekretnii-proyekt-iz-chatami-ta-pidpiskami",
+    "image": "https://blik.ua/img/news/Techno/thumbs/youtube-tamba.jpg",
+    "publishedAt": "2026-11-05T19:17:01Z",
     "lang": "uk",
     "source": {
-      "id": "15797505fcdbf49191263455ed070cbb",
-      "name": "Слово і Діло",
-      "url": "https://www.slovoidilo.ua"
+      "id": "5e8763eb8f65bd733ca2324cfefbe5b6",
+      "name": "БЛІК",
+      "url": "https://blik.ua"
     }
   },
   {
-    "id": "c9d5e610dbd67e506dabb9f160185789",
-    "title": "ШІ самостійно керував Gripen E: Saab провела випробування",
-    "description": "Шведська компанія Saab випробувала власних ШІ-агентів на винищувачі Gripen E. Під час реальних польотів штучний інтелект самостійно керував літаком у сценаріях повітряного бою на великих відстанях.",
-    "content": "Шведська компанія Saab випробувала власних ШІ-агентів на винищувачі Gripen E. Під час реальних польотів штучний інтелект самостійно керував літаком у сценаріях повітряного бою на великих відстанях.\nШведська оборонна компанія Saab зробила ще один крок... [2660 chars]",
-    "url": "https://ua.korrespondent.net/business/companies/4926388-shi-samostiino-keruvav-Gripen-E-Saab-provela-vyprobuvannia",
-    "image": "https://kor.ill.in.ua/m/1260x900/4625745.jpg",
-    "publishedAt": "2026-11-05T15:03:00Z",
+    "id": "42bd2c7b173cf9bc42d7476fdeee6cdb",
+    "title": "Бюджетні смартфони з підтримкою eSIM: актуальні моделі 2025 року",
+    "description": "Технологія eSIM стає все більш популярною, дозволяючи користувачам завантажувати профіль оператора без необхідності встановлення фізичної SIM-карти. Хоча ця",
+    "content": "Технологія eSIM стає все більш популярною, дозволяючи користувачам завантажувати профіль оператора без необхідності встановлення фізичної SIM-карти. Хоча ця функція традиційно асоціювалася з флагманами, зараз вона стає доступною і в бюджетному сегмен... [1766 chars]",
+    "url": "https://prostomob.com/314661-processing-5-budget-android-phones-that-actually-support-esim",
+    "image": "https://prostomob.com/wp-content/uploads/2026/11/intro-34.jpg",
+    "publishedAt": "2026-11-05T19:06:53Z",
+    "lang": "uk",
+    "source": {
+      "id": "7636b958d76298a2e2ea6b3c284899fd",
+      "name": "ProstoMob",
+      "url": "https://prostomob.com"
+    }
+  },
+  {
+    "id": "c583ccc2c651d2e736de70a44a8bcf59",
+    "title": "100 млн євро в криптовалюті: банк у Франції став жертвою хакерів",
+    "description": "Французький банк Crédit Mutuel Arkéa зазнав масштабної кібератаки, внаслідок якої з його рахунків вивели близько 100 млн євро. Частину викрадених грошей уже вдалося заблокувати.",
+    "content": "Французький банк Crédit Mutuel Arkéa зазнав масштабної кібератаки, внаслідок якої з його рахунків вивели близько 100 млн євро. Частину викрадених грошей уже вдалося заблокувати.\nФранцузький банк Crédit Mutuel Arkéa став жертвою масштабної кібератаки,... [1470 chars]",
+    "url": "https://ua.korrespondent.net/business/companies/4926456-100-mln-yevro-v-kryptovaluiti-bank-u-frantsii-stav-zhertvoui-khakeriv",
+    "image": "https://kor.ill.in.ua/m/1260x900/4625966.jpg",
+    "publishedAt": "2026-11-05T18:56:00Z",
     "lang": "uk",
     "source": {
       "id": "5f3893b2bdd83721567eef82ac0a6d2e",
@@ -105,13 +90,13 @@
     }
   },
   {
-    "id": "c13377e984d321e41545ed4cfe3cee03",
-    "title": "NASA представило новий реактивний літак",
-    "description": "У Космічному центрі імені Кеннеді у Флориді NASA представило свій новітній експериментальний літак під назвою X-70 Fractal, здатний підійматись майже ...",
-    "content": "Зазначається, що нова високопродуктивна й надзвичайно адаптивна дослідницька платформа створена для прискорення розробки та випробувань передових авіаційних технологій.\nПілотований X-70 оснащений вдосконаленою технологією керування польотом, яку можн... [1081 chars]",
-    "url": "https://www.rbc.ua/rus/news/nasa-predstavili-noviy-litak-zdatniy-pidiymatis-1793889997.html",
-    "image": "https://www.rbc.ua/static/img/u/n/untitled_a3dcc4c1d6824c895a948b18c41fca3f_1300x820.jpg",
-    "publishedAt": "2026-11-05T14:46:37Z",
+    "id": "bfa57c1cf3bb260205dce8c7da413559",
+    "title": "Удари РФ по енергетиці - за три доби ворог здійснив 78 атак",
+    "description": "За останні три доби росіяни завдали 78 масованих ударів по українській енергетичній інфраструктурі. Під прицілом ворога опинилися як електростанції, т...",
+    "content": "20:10 05.11.2026 Чт\n1 хв\nФото: чому відновлення світла потребує більше часу розповіли в ДТЕК (Getty Images)\nДодати як бажане джерело в Google\nЗа останні три доби росіяни завдали 78 масованих ударів по українській енергетичній інфраструктурі. Під приц... [1148 chars]",
+    "url": "https://www.rbc.ua/rus/news/rosiya-zavdala-78-udariv-energetitsi-ostanni-1793901706.html",
+    "image": "https://www.rbc.ua/static/img/_/n/_naslidki_obstrilu_vidklyuchennya_svitla_osin_2025_gettyimages_2246093609_28e8a52c8ba246c46eca5c1f9e9e854a_1300x820.jpg",
+    "publishedAt": "2026-11-05T18:10:06Z",
     "lang": "uk",
     "source": {
       "id": "6f1ead09126f1f4738a48957e22f789c",
@@ -120,33 +105,48 @@
     }
   },
   {
-    "id": "aa9282cbd5ba09962431460f911c7350",
-    "title": "Кійосакі купує Біткоїн на падінні: що він вважає справжньою загрозою",
-    "description": "Роберт Кійосакі заявив, що докупив Біткоїн, золото й срібло під час падіння. Інвестор назвав зростання боргу США головною загрозою.",
-    "content": "Автор «Багатого тата, бідного тата» Роберт Кійосакі заявив, що докупив Біткоїн, золото та срібло під час недавнього падіння ринку. Найбільшою загрозою він назвав стрімке зростання боргу США\nУ дописі на X від 4 листопада Кійосакі написав, що поки част... [2518 chars]",
-    "url": "https://psm7.com/uk/news/kijosaki-kupuye-bitkoyin-na-padinni-shho-vin-vvazhaye-spravzhnoyu-zagrozoyu.html",
-    "image": "https://psm7.com/wp-content/uploads/2026/11/kiyosaki_replacement_final_1200x700-1.webp",
-    "publishedAt": "2026-11-05T14:40:00Z",
+    "id": "31557ba00f68bbdcb3b09e0b7c25f805",
+    "title": "Велика Британія може обмежити продаж розумних окулярів",
+    "description": "Британський уряд вивчає обмеження на продаж і використання розумних окулярів. Через випадки прихованої зйомки на камеру жінок без їхньої згоди.",
+    "content": "Уряд Великої Британії розглядає можливість запровадження обмежень на продаж розумних окулярів через побоювання щодо прихованої відеозйомки людей без їхньої згоди. Про це заявила міністерка з питань захисту громадян Сатвір Каур під час дебатів у Палат... [1863 chars]",
+    "url": "https://24tv.ua/tech/velika-britaniya-mozhe-obmezhiti-prodazh-rozumnih-okulyariv_n3174806",
+    "image": "https://24tv.ua/resources/photos/news/202611/3174806.jpg?v=1793897743000&w=1200&h=675&fit=cover",
+    "publishedAt": "2026-11-05T18:01:00Z",
     "lang": "uk",
     "source": {
-      "id": "4f9137cf6704ccfac626503375896155",
-      "name": "PaySpace Magazine",
-      "url": "https://psm7.com"
+      "id": "e737a8e76b161ef4526698e2ec5f60c9",
+      "name": "24 Канал",
+      "url": "https://24tv.ua"
     }
   },
   {
-    "id": "7a190bebd195a235546a23d00f206fb6",
-    "title": "Шестирічні iPhone виявилися популярнішими за нові",
-    "description": "Цікаво, що iPhone 12 mini та iPhone SE 2-го покоління отримали вищі оцінки, ніж iPhone Air, iPhone 16e і навіть найновіший iPhone 18 Pro Max.",
-    "content": "Смартфони Apple, випущені у 2020 році, виявилися кращими за сучасні моделі за рівнем задоволеності власників. Зокрема, iPhone 12 mini та iPhone SE другого покоління отримали вищі оцінки, ніж iPhone Air, iPhone 16e і навіть найновіший iPhone 18 Pro Ma... [1769 chars]",
-    "url": "https://www.unian.ua/techno/gadgets/shestirichni-iphone-viyavilisya-populyarnishimi-za-novi-yaki-modeli-lyublyat-vlasniki-13550835.html",
-    "image": "https://images.unian.net/photos/2026_11/thumb_files/1000_545_1793882677-7885.jpg?1",
-    "publishedAt": "2026-11-05T14:25:00Z",
+    "id": "5145e240f1ddb884cbc2f89cbba92c5a",
+    "title": "Суперечка між Україною та Південною Кореєю припинила роботу стартапу Newtype Industries",
+    "description": "Оборонний стартап із Сеула Newtype Industries стверджує, що дипломатична суперечка між Україною та Південною Кореєю став причиною згортання випробуван...",
+    "content": "Стартап втратив можливості\nУ середині жовтня Сенвону (Джо) Чо повідомили, що робота його компанії в Україні має бути припинена, пише видання.\nЧо - генеральний директор Newtype Industries, який тестував своє програмне забезпечення для артилерії на баз... [2055 chars]",
+    "url": "https://www.rbc.ua/rus/news/koreyskiy-oboronniy-startap-zgortae-robotu-1793901205.html",
+    "image": "https://www.rbc.ua/static/img/_/j/_joe_cho__vin_zhe_sengwon_cho_zasnovnika_ta_generalnogo_direktora_4c206f2bbc7d382caa5307562c457f6b_1300x820.jpg",
+    "publishedAt": "2026-11-05T17:58:16Z",
     "lang": "uk",
     "source": {
-      "id": "d4361862486677369ff2ae7719b8d313",
-      "name": "УНІАН",
-      "url": "https://www.unian.ua"
+      "id": "6f1ead09126f1f4738a48957e22f789c",
+      "name": "РБК-Україна",
+      "url": "https://www.rbc.ua"
+    }
+  },
+  {
+    "id": "87916c12d76061447f833f05c4a772a2",
+    "title": "Sony відродила легендарні навушники Walkman, але додала сучасний USB-C",
+    "description": "Sony відродила легендарні навушники Walkman, але додала сучасний USB-C.Останні новини Ґаджети на сайті - iTechua. Свіжа стрічка новин сьогодні.",
+    "content": "Компанія Sony вирішила повернути один зі своїх культових аудіодизайнів і представила навушники MDR-3R, натхненні моделлю, яка комплектувалася першим касетним плеєром Walkman у 1979 році. Новинка зберегла ретро зовнішність оригіналу, але отримала суча... [1275 chars]",
+    "url": "https://itechua.com/gadgets/312051",
+    "image": "https://itechua.com/wp-content/uploads/2026/11/Sony-MDR-3R-Walkman-USB-C-retro-headphones-2-1154x649-1.webp",
+    "publishedAt": "2026-11-05T17:55:45Z",
+    "lang": "uk",
+    "source": {
+      "id": "5325beb151675ab1fa9e30c3e01b3ef3",
+      "name": "iTechua",
+      "url": "https://itechua.com"
     }
   }
 ]
