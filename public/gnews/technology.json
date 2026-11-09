@@ -1,27 +1,12 @@
 [
   {
-    "id": "05c1d35652e0335d1db37d4c7706bc38",
-    "title": "Скільки років SSD зберігає інформацію без підключення до живлення",
-    "description": "Скільки років SSD зберігає інформацію без підключення до живлення.Останні новини Новини України та Світу на сайті - iTechua. Свіжа стрічка новин сьогодні.",
-    "content": "Під час придбання нового комп’ютера власники дедалі частіше віддають перевагу швидкодіючим твердотільним накопичувачам замість класичних жорстких дисків HDD. Такі пристрої демонструють вищу продуктивність, позбавлені рухомих механічних елементів і на... [1820 chars]",
-    "url": "https://itechua.com/news/312162",
-    "image": "https://itechua.com/wp-content/uploads/2026/11/Screenshot_1-7.jpg",
-    "publishedAt": "2026-11-08T08:46:32Z",
-    "lang": "uk",
-    "source": {
-      "id": "5325beb151675ab1fa9e30c3e01b3ef3",
-      "name": "iTechua",
-      "url": "https://itechua.com"
-    }
-  },
-  {
-    "id": "7a0df568c66cf576b89665214a90b550",
-    "title": "Атака дронів на Ростовську область 8 листопада",
-    "description": "У Ростовській області Росії 8 листопада після атаки безпілотників пошкоджено міст через річку Міус на трасі Р-280. Рух транспорту обмежили, також пошкоджено два крани - 24 Канал",
-    "content": "Про ураження об'єкта повідомив губернатор Ростовської області Юрій Слюсар.\nпопулярні відео\nЩо відомо про пошкодження мосту в Ростовській області?\nЗа словами російського посадовця, вранці 8 листопада було пошкоджено дорожнє полотно мосту через річку М... [1267 chars]",
-    "url": "https://24tv.ua/ataka-droniv-rostovsku-oblast-8-listopada-poshkodzheno-mist-cherez_n3176128",
-    "image": "https://24tv.ua/resources/photos/news/202611/3176128.jpg?v=1794125871000&w=1200&h=675&fit=cover",
-    "publishedAt": "2026-11-08T08:25:00Z",
+    "id": "d739a70273f1939c85674721fdac13d9",
+    "title": "як старі акумулятори стають накопичувачами",
+    "description": "Батареї електровелосипедів і самокатів після списання можуть працювати ще багато років. EDENenergy об'єднує їх у модульні промислові системи зберігання електроенергії.",
+    "content": "Про технологію розповів Fraunhofer Institute for Solar Energy Systems ISE. Компанію EDENenergy заснували колишні дослідники інституту, які розробили електроніку, здатну об'єднувати в одному стаціонарному накопичувачі батареї, що вже відпрацювали перш... [7267 chars]",
+    "url": "https://24tv.ua/auto/batarei_elektrosamokativ_otrymaly_druhe_zhyttia_z_nykh_zbyraiut_promyslovi_skhovyshcha_enerhii_n77491",
+    "image": "https://24tv.ua/auto/resources/photos/news/202611/7749104942018-9ba0-4020-80c6-3b173753aaad.jpg",
+    "publishedAt": "2026-11-08T16:05:00Z",
     "lang": "uk",
     "source": {
       "id": "e737a8e76b161ef4526698e2ec5f60c9",
@@ -30,73 +15,43 @@
     }
   },
   {
-    "id": "475be252868443e7d3f1960dc4d3f22e",
-    "title": "Стратег попередив про \"катастрофічну\" хвилю ліквідацій на ринках",
-    "description": "Стратег Bloomberg Intelligence попередив про можливу хвилю ліквідацій. Розповідаємо, що тисне на акції та криптовалюти й чому аналітик очікує подальшого спаду.",
-    "content": "Стратег Bloomberg Intelligence Майк Макглоун попередив, що нинішній спад може перерости у масштабний ланцюг розпродажів. На його думку, найгірша частина корекції ще попереду, а технологічні акції та криптовалюти вже втрачають підтримку інвесторів\nМак... [2192 chars]",
-    "url": "https://psm7.com/uk/news/strateg-poperedyv-pro-%C2%ABkatastrofichnu%C2%BB-hvylyu-likvidaczij-na-rynkah.html",
-    "image": "https://psm7.com/wp-content/uploads/2026/11/exec-7cc65c89-d96e-4811-a524-21498e2adf72.webp",
-    "publishedAt": "2026-11-08T08:00:00Z",
+    "id": "4003c36b894b8735b34a31dbcef91a75",
+    "title": "Недоліки розумних холодильників із Wi",
+    "description": "Розумні холодильники мають не лише переваги, а й недоліки. Як висока ціна, збір персональних даних, ризики злому та припинення оновлень впливають на їх використання.",
+    "content": "Головний недолік розумних холодильників – ціна. Базові моделі з Wi-Fi, сповіщеннями про відчинені дверцята та дистанційним контролем температури можуть коштувати лише трохи дорожче за звичайні пристрої. Однак просунуті функції, зокрема великі сенсорн... [2883 chars]",
+    "url": "https://24tv.ua/tech/nedoliki-rozumnih-holodilnikiv-iz-wi-fi-sensornimi-ekranami_n3176175",
+    "image": "https://24tv.ua/resources/photos/news/202611/3176175.jpg?v=1794134356000&w=1200&h=675&fit=cover",
+    "publishedAt": "2026-11-08T15:00:00Z",
     "lang": "uk",
     "source": {
-      "id": "4f9137cf6704ccfac626503375896155",
-      "name": "PaySpace Magazine",
-      "url": "https://psm7.com"
+      "id": "e737a8e76b161ef4526698e2ec5f60c9",
+      "name": "24 Канал",
+      "url": "https://24tv.ua"
     }
   },
   {
-    "id": "8c262f2b00385169aa1456ebc2b6d140",
-    "title": "Уламки ворожих дронів впали на території волинського агропідприємства - виникла пожежа",
-    "description": "Минулої ночі ворог спрямував на Волинь кілька реактивних безпілотників типу Shahed.",
-    "content": "Минулої ночі ворог спрямував на Волинь кілька реактивних безпілотників типу Shahed.\nЯк повідомив очільник Волинської ОВА Роман Романюк, унаслідок роботи сил протиповітряної оборони уламки збитих ворожих дронів упали на територію одного з агропідприєм... [521 chars]",
-    "url": "https://www.volynnews.com/news/all/ulamky-vorozhykh-droniv-vpaly-na-terytoriyi-volynskoho-ahropidpryyemstva-vynykla-pozhezha/",
-    "image": "https://www.volynnews.com/files/news/2026/11-08/434589/photo_2026-11-08_10-42-25.jpg",
-    "publishedAt": "2026-11-08T07:57:41Z",
+    "id": "1d9aa16e0448a7f883209071de7d5b70",
+    "title": "Anthropic купує газових генераторів на 3,4 мільярда доларів",
+    "description": "Детальніше про це читайте у новині ЕП",
+    "content": "Компанія Anthropic уклала масштабну угоду щодо постачання газових двигунів для центрів обробки даних, оскільки лабораторії штучного інтелекту все глибше проникають в енергетичну галузь і обходять посередників у перегонах за дефіцитним енергетичним об... [2155 chars]",
+    "url": "https://epravda.com.ua/svit/anthropic-kupuye-gazovih-generatoriv-na-3-4-milyarda-dolariv-827415/",
+    "image": "https://img.epravda.com.ua/epravda/images/doc/4/0/193947/4000b551c1e6b27395a2dab19955867f.jpeg?w=1920&q=85",
+    "publishedAt": "2026-11-08T13:31:00Z",
     "lang": "uk",
     "source": {
-      "id": "00cc5450fcc65cdfb84acb266b7e5d45",
-      "name": "Волинські Новини",
-      "url": "https://www.volynnews.com"
+      "id": "9b9cf9e76aeefea346957bfe5f6dafc5",
+      "name": "Економічна правда",
+      "url": "https://epravda.com.ua"
     }
   },
   {
-    "id": "ad6806919b5f3b7f326c3d564253d868",
-    "title": "Дешевий китайський павербанк виявився шпигуном і злив дані з iPhone: віримо?",
-    "description": "Вірусна історія про павербанк із Гуанчжоу, що нібито крав дані iPhone, має чимало нестиковок. Розбираємося, що правда і як захистити телефон.",
-    "content": "Анонімний користувач X під ніком goldtooth.exe розповів історію, яку вже переповідають медіа кількох країн. За його словами, дешевий павербанк із Китаю три тижні непомітно копіював дані з його iPhone і відправляв їх на віддалений сервер. Викрити «шпи... [4718 chars]",
-    "url": "https://itc.ua/ua/novini/deshevyj-kytajskyj-paverbank-vyyavyvsya-shpygunom-i-zlyv-dani-z-iphone-virymo/",
-    "image": "https://cdn.itc.ua/uploads/2026/11/Paver-1.png",
-    "publishedAt": "2026-11-08T07:40:12Z",
-    "lang": "uk",
-    "source": {
-      "id": "391d17d071b755a4bda37c1b43f47c2c",
-      "name": "ITC.ua",
-      "url": "https://itc.ua"
-    }
-  },
-  {
-    "id": "bdb666d9b214e71f4404ac498d58e84a",
-    "title": "iPhone 18 та iPhone 18e можуть отримати однаковий дизайн і збільшені батареї",
-    "description": "iPhone 18 та iPhone 18e можуть отримати однаковий дизайн і збільшені батареї.Останні новини Смартфони на сайті - iTechua. Свіжа стрічка новин сьогодні.",
-    "content": "Apple розглядає можливість уніфікації дизайну для прийдешніх флагманів iPhone 18 та iPhone 18e, реліз яких намічено на весну 2027 року. На такі припущення надихають світлини внутрішніх деталей обох телефонів, нещодавні витоки яких зафіксували в китай... [1648 chars]",
-    "url": "https://itechua.com/smartphones/312154",
-    "image": "https://itechua.com/wp-content/uploads/2026/11/IMG_20261108_115317.jpg",
-    "publishedAt": "2026-11-08T07:38:28Z",
-    "lang": "uk",
-    "source": {
-      "id": "5325beb151675ab1fa9e30c3e01b3ef3",
-      "name": "iTechua",
-      "url": "https://itechua.com"
-    }
-  },
-  {
-    "id": "844ddb64b0f928352c2ae0127caf7e78",
-    "title": "Атака дрона на Хмельницький",
-    "description": "У Хмельницькому після атаки російського дрона пошкоджено житлові будинки. Одна людина травмувалася. Усі подробиці — ᐅTSN.ua (новини 1+1)",
-    "content": "У Хмельницькому внаслідок атаки російського дрона пошкоджено житлові будинки. Одна людина зазнала травм.\nПро це повідомили в ДСНС України.\nАтака дрона на Хмельницький: які пошкодження зафіксували\nУвечері 7 листопада російський безпілотник атакував жи... [1589 chars]",
-    "url": "https://tsn.ua/ukrayina/rosiyskyy-dron-atakuvav-misto-na-zakhodi-ukrayiny-ye-postrazdalyy-i-poshkodzennia-foto-3210947.html",
-    "image": "https://img.tsn.ua/cached/642/tsn-51cb131e/thumbs/1200x630/43/44/dabc68b8b630ef75da2afa2574024443.jpg",
-    "publishedAt": "2026-11-08T07:00:15Z",
+    "id": "62cafca516c4824cbd81d51eec1dabcc",
+    "title": "Імпічмент Трампа 2027 року",
+    "description": "Штучний інтелект спрогнозував можливий імпічмент Дональда Трампа 15 червня 2027 року після перемоги демократів у Конгресі США. Чи справді президента можуть усунути з посади\nᐅTSN.ua(новини 1+1)",
+    "content": "Після поразки республіканців на виборах до Конгресу США знову заговорили про можливий імпічмент Дональда Трампа. Штучний інтелект навіть назвав конкретну дату, коли це може статися. Втім, демократи поки не підтверджують таких планів.\nПро це повідомля... [2608 chars]",
+    "url": "https://tsn.ua/svit/trampu-nazvaly-datu-mozlyvoho-impichmentu-shi-sprohnozuvav-koly-tse-moze-statysia-3211111.html",
+    "image": "https://img.tsn.ua/cached/786/tsn-51cb131e/thumbs/1200x630/12/a7/30caf4c975599d01b3960e7bf14ca712.jpg",
+    "publishedAt": "2026-11-08T13:28:59Z",
     "lang": "uk",
     "source": {
       "id": "ae8b9c98d707754fca5e1ea622855c50",
@@ -105,13 +60,58 @@
     }
   },
   {
-    "id": "16c6e8421203401cd0c921a6d7ac7f82",
-    "title": "Французи можуть першими в світі зробити морський дрон на під балістичну B-STRIKE 1000, що треба при цьому вирішити",
-    "description": "Що це за проект балістичної ракети B-STRIKE 1000 та її протикорабельний варіант, і під який сегмент замовників могла виникнути ідея з морським дроном під таку зброю",
-    "content": "В ході виставки Euronaval 2026 французька ракетобудівна компанія ArianeGroup презентувала протикорабельний варіант перспективної балістичної ракети B-STRIKE 1000, по якому передбачається можливість запуску з мобільної берегової установки, із фрегатів... [2120 chars]",
-    "url": "https://defence-ua.com/news/frantsuzi_mozhut_pershimi_v_sviti_zrobiti_morskij_dron_na_pid_balistichnu_b_strike_1000_scho_treba_pri_tsomu_virishiti-24686.html",
-    "image": "https://defence-ua.com/media/illustration/articles/d046aef349e7a405.jpg",
-    "publishedAt": "2026-11-08T06:52:00Z",
+    "id": "108437b3e56468a3743ae713d7f41de1",
+    "title": "Обстріл енергетики 8 листопада",
+    "description": "У Міненерго розповіли про ситуацію зі світлом після ударів РФ.",
+    "content": "Російські війська сьогодні вночі масовано атакували дронами-камікадзе об'єкти енергетики в кількох областях України. Унаслідок ударів частина абонентів у Чернігівській, Харківській, Дніпропетровській, Житомирській, Рівненській та Сумській областях за... [850 chars]",
+    "url": "https://zn.ua/ukr/energetics/shist-oblastej-chastkovo-znestrumleno-de-situatsija-zi-svitlom-najskladnisha.html",
+    "image": "https://zn.ua/img/article/7029/47_main-v1794144013.webp",
+    "publishedAt": "2026-11-08T13:20:12Z",
+    "lang": "uk",
+    "source": {
+      "id": "c5c959cb41bdd64f8b2b81a75752cf74",
+      "name": "Дзеркало тижня",
+      "url": "https://zn.ua"
+    }
+  },
+  {
+    "id": "a2a99339a95de2736f89ee85eab5dcc9",
+    "title": "Якщо Starlink зникне: Україна показала LTE-модем для автономного керування БПЛА",
+    "description": "Militech Group розробила LTE-модем «Грім» для керування дронами без Starlink. Чому це важливо, коли контракт на Starshield спливає у 2027 році, і які в LTE обмеження.",
+    "content": "Українська компанія Militech Group розробила LTE-модем «Грім», який дає змогу керувати безпілотниками та наземними роботизованими комплексами через мобільні мережі, коли доступ до Starlink обмежений. Розробка з’явилася вчасно: у жовтні українські під... [3829 chars]",
+    "url": "https://itc.ua/ua/novini/yakshho-starlink-znykne-ukrayina-pokazala-lte-modem-dlya-avtonomnogo-keruvannya-bpla/",
+    "image": "https://cdn.itc.ua/uploads/2026/11/Modem-0.jpg",
+    "publishedAt": "2026-11-08T13:00:13Z",
+    "lang": "uk",
+    "source": {
+      "id": "391d17d071b755a4bda37c1b43f47c2c",
+      "name": "ITC.ua",
+      "url": "https://itc.ua"
+    }
+  },
+  {
+    "id": "c724580ebac3d430f3f1942b39861c7e",
+    "title": "Сили оборони уразили чотири пункти управління російськими БпЛА: найцінніша ціль - об’єкт підрозділу \"Рубікон\" у Бердянську",
+    "description": "Підрозділи Сил оборони України уразили чотири пункти управління російськими безпілотниками на окупованих територіях ...➜ читайте далі на Rubryka.com",
+    "content": "Фото: скриншот відео\nПідрозділи Сил оборони України уразили чотири пункти управління російськими безпілотниками на окупованих територіях Запорізької, Херсонської та Донецької областей, а також у рф. Найціннішою ціллю став пункт тимчасової дислокації ... [1776 chars]",
+    "url": "https://rubryka.com/2026/11/08/syly-oborony-urazyly-chotyry-punkty-upravlinnya-rosijskymy-bpla-najtsinnisha-tsil-ob-yekt-pidrozdilu-rubikon-u-berdyansku/",
+    "image": "https://rubryka.com/wp-content/uploads/ogimages/ua_925125_1794142315syly-oborony-urazyly-chotyry-punkty-upravlinnya-rosijskymy-bpla-najtsinnisha-tsil-ob-yekt-pidrozdilu-rubikon-u-berdyansku.jpg",
+    "publishedAt": "2026-11-08T12:44:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "27b90949a0fb95263641f3538efcd662",
+      "name": "Rubryka",
+      "url": "https://rubryka.com"
+    }
+  },
+  {
+    "id": "3713ced9d323069a564b9ea3d40b78d0",
+    "title": "3D-друк захисних споруд: чому Європа та США обирають цю технологію та де прогавила Україна",
+    "description": "У Польщі та США визначили, що 3D-друк відкриває нові можливості щодо зведення захисних споруд та є рентабельним",
+    "content": "У ВПС США запланували розробку мобільних 3D-принтерів для швидкого зведення захисних споруд на військових базах. Таку ініціативу реалізують у рамках американської державної програми фінансування досліджень і розробок для малого та середнього бізнесу.... [3208 chars]",
+    "url": "https://defence-ua.com/news/3d_druk_zahisnih_sporud_chomu_jevropa_ta_ssha_obirajut_tsju_tehnologiju_ta_de_prozivala_ukrajina-24689.html",
+    "image": "https://defence-ua.com/media/illustration/articles/88b6af058ef93a57.jpg",
+    "publishedAt": "2026-11-08T12:10:00Z",
     "lang": "uk",
     "source": {
       "id": "f488af954cb509cbacccbd34e7f47985",
@@ -120,33 +120,33 @@
     }
   },
   {
-    "id": "42f624d3b8623e479de4c7ef169edd8d",
-    "title": "Атака Росії 8 листопада",
-    "description": "У ніч на 8 листопада Росія атакувала Україну 164 ударними БпЛА та трьома ракетами Х-59/69. ППО знешкодила 137 безпілотників, зафіксовано влучання на 23 локаціях - 24 Канал.",
-    "content": "Про це повідомляють Повітряні сили ЗСУ.\nпопулярні відео\nЯк Росія атакувала Україну?\nАтака тривала із 18:00 7 листопада. Російські війська застосували три керовані авіаційні ракети Х-59/69 з акваторії Азовського моря, а також 164 ударні БпЛА.\nСеред бе... [1381 chars]",
-    "url": "https://24tv.ua/zneshkodzheno-137-droniv-naslidki-nichnoyi-ataki-rosiyi-po-ukrayini_n3176099",
-    "image": "https://24tv.ua/resources/photos/news/202611/3176099.jpg?v=1794118361000&w=1200&h=675&fit=cover",
-    "publishedAt": "2026-11-08T06:06:00Z",
+    "id": "862836fe5a5d0f65399cc72a64678bcf",
+    "title": "Латвія отримала останній із замовлених гелікоптерів Black Hawk",
+    "description": "Військово-повітряні сили Латвії отримали останній із чотирьох вертольотів UH-60M Black Hawk, замовлених в рамках угоди зі США у 2018 році.",
+    "content": "Військово-повітряні сили Латвії отримали останній із чотирьох вертольотів UH-60M Black Hawk, замовлених в рамках угоди зі США у 2018 році.\nПро це повідомляє LSM, пише \"Європейська правда\".\nРадник командувача Національних збройних сил Латвії Робертс С... [952 chars]",
+    "url": "https://www.eurointegration.com.ua/news/2026/11/8/7249535/",
+    "image": "https://img.eurointegration.com.ua/images/doc/8/5/858b510-resize--4-.jpeg",
+    "publishedAt": "2026-11-08T11:26:29Z",
     "lang": "uk",
     "source": {
-      "id": "e737a8e76b161ef4526698e2ec5f60c9",
-      "name": "24 Канал",
-      "url": "https://24tv.ua"
+      "id": "92907bbd0364e9333834133beac47de2",
+      "name": "Європейська правда",
+      "url": "https://www.eurointegration.com.ua"
     }
   },
   {
-    "id": "f3c4f14ae56ced16555266946200a3b5",
-    "title": "У кутку екрана Android загорілася синя крапка",
-    "description": "Синій індикатор з’являється у верхній частині дисплея, коли додаток на передньому або задньому плані звертається до даних про місцезнаходження смартфона.",
-    "content": "Рядок стану Android показує набагато більше інформації, ніж може здатися, на перший погляд. Зокрема, зелені та помаранчеві індикатори у верхній частині дисплея повідомляють користувачеві, коли додаток отримує доступ до камери або мікрофона.\nПочинаючи... [2215 chars]",
-    "url": "https://www.unian.ua/techno/gadgets/u-kutku-ekrana-android-zagorilasya-sinya-krapka-shcho-smartfon-namagayetsya-skazati-13552881.html",
-    "image": "https://images.unian.net/photos/2026_11/thumb_files/1000_545_1794063430-5974.jpg?1",
-    "publishedAt": "2026-11-08T03:05:00Z",
+    "id": "b97f67850b6259162bb59e9158e7cbe5",
+    "title": "Фінансовий директор Binance йде у відставку",
+    "description": "Про кого йде мова та які причини звільнення, читайте у новині ЕП",
+    "content": "Фінансовий директор Binance Кайзер Нг залишає компанію, щоб зайнятися іншим проєктом, — повідомила найбільша у світі криптовалютна біржа через кілька днів після того, як хакери викрали з платформи 6,3 млрд доларів у результаті рекордного пограбування... [1202 chars]",
+    "url": "https://epravda.com.ua/svit/odin-z-topkerivnikiv-binance-yde-u-vidstavku-827413/",
+    "image": "https://img.epravda.com.ua/epravda/images/doc/1/d/193945/1d56177d0e4d64c0caa8b9b625814dc7.jpeg?w=1920&q=85",
+    "publishedAt": "2026-11-08T11:26:00Z",
     "lang": "uk",
     "source": {
-      "id": "d4361862486677369ff2ae7719b8d313",
-      "name": "УНІАН",
-      "url": "https://www.unian.ua"
+      "id": "9b9cf9e76aeefea346957bfe5f6dafc5",
+      "name": "Економічна правда",
+      "url": "https://epravda.com.ua"
     }
   }
 ]
