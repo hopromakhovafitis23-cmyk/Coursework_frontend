@@ -1,5 +1,95 @@
 [
   {
+    "id": "3fff1a4c34e630bb20ff9fcf21b94cd1",
+    "title": "Fiat розкрила зовнішність нового крос-хетчбека на базі Grande Panda",
+    "description": "Новий Argo X призначений для ринку Південної Америки та стане регіональною версією європейського Fiat Grande Panda.",
+    "content": "Новий Argo X призначений для ринку Південної Америки та стане регіональною версією європейського Fiat Grande Panda.\nКонцерн Stellantis повністю розкрив зовнішність нового крос-хетчбека Fiat Argo X, який готують для ринку Південної Америки. Автомобіль... [2644 chars]",
+    "url": "https://ua.korrespondent.net/lifestyle/motors/4928247-Fiat-rozkryla-zovnishnist-novoho-kros-khetchbeka-na-bazi-Grande-Panda",
+    "image": "https://kor.ill.in.ua/m/1260x900/4636043.jpg",
+    "publishedAt": "2026-11-12T17:14:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "5f3893b2bdd83721567eef82ac0a6d2e",
+      "name": "Korrespondent.net",
+      "url": "https://ua.korrespondent.net"
+    }
+  },
+  {
+    "id": "931ce0f1c2066666410938ad94d097d3",
+    "title": "XPeng виходить на український ринок",
+    "description": "Китайський виробник електромобілів XPeng виходить на український ринок із моделями G6, G9 та P7+. Перші поставки очікуються у грудні 2026 року, гарантія становитиме до 8 років.",
+    "content": "Китайський виробник електромобілів XPeng оголосив про вихід на український ринок. Офіційним дистриб'ютором бренду стала компанія \"Авентіс Моторс\", яка входить до української групи \"Атолл Холдинг\".\nКомпанія відповідатиме не лише за продажі, а й за роз... [1591 chars]",
+    "url": "https://mezha.ua/news/xpeng-vihodit-na-ukrajinskiy-rinok-317159/",
+    "image": "https://img.mezha.ua/mezha/images/doc/3/f/334487/3f2227ee52939f49c70653aae99f9a74.jpeg?w=1200&q=85&stamp=1794496822",
+    "publishedAt": "2026-11-12T17:00:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "6b0257d31504a630dde7752eed4e1e39",
+      "name": "Mezha",
+      "url": "https://mezha.ua"
+    }
+  },
+  {
+    "id": "d4952e5546f07a3a36c2c167b918c895",
+    "title": "Opel Frontera отримав новий двигун 1.2 Turbo в Україні і класичну АКПП",
+    "description": "В Україні стартують продажі кросовера Opel Frontera з новим 130-сильним турбомотором та автоматом. Усі ціни, характеристики та деталі читайте на Авто24.",
+    "content": "Як повідомляє офіційне представництво бренду Opel, відтепер вітчизняні покупці можуть обрати кросовер із бензиновим двигуном третьої генерації. За словами автовиробника, близько 70 відсотків компонентів цього мотора є абсолютно новими.\nЦей агрегат об... [1681 chars]",
+    "url": "https://24tv.ua/auto/novyi_opel_frontera_otrymav_130_sylnyi_dvyhun_z_avtomatom_vidoma_tsina_v_ukraini_n77672",
+    "image": "https://24tv.ua/auto/resources/photos/news/202611/7767285183cc7-11d2-4847-a2b3-5c41781ba347.jpg",
+    "publishedAt": "2026-11-12T16:30:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "e737a8e76b161ef4526698e2ec5f60c9",
+      "name": "24 Канал",
+      "url": "https://24tv.ua"
+    }
+  },
+  {
+    "id": "b51b6e1d0ef4d00dc7a6586b9a142c2a",
+    "title": "Чекати 3 роки на 100 тисяч турецьких FPV-дронів Merkut доведеться Пакистану, а Україні такої кількості вистачило б на кілька тижнів",
+    "description": "У Пакистані замовили 100 тисяч турецьких FPV-дронів Merkut, на які їм доведеться чекати цілих 3 роки, а Україні такої кількості могло б вистачити лише на кілька тижнів активних бойових дій, але на що тут варто звернути увагу",
+    "content": "Пакистанська державна компанія National Radio & Telecommunication Corporation підписала контракт із турецькою компанією Pasifik Teknoloji на постачання 100 тисяч FPV-дронів Merkut. Вартість контракту наразі не розголошується.\nПланується, що цей контр... [2398 chars]",
+    "url": "https://defence-ua.com/news/chekati_3_roki_na_100_tisjach_turetskih_fpv_droniv_merkut_dovedetsja_pakistanu_a_ukrajini_takoji_kilkosti_vistachilo_b_na_kilka_tizhniv-24731.html",
+    "image": "https://defence-ua.com/media/illustration/articles/f076af5dcf65081b.jpg",
+    "publishedAt": "2026-11-12T15:58:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "f488af954cb509cbacccbd34e7f47985",
+      "name": "Defense Express",
+      "url": "https://defence-ua.com"
+    }
+  },
+  {
+    "id": "e4507a332c1a7f623812787d9a66ba8c",
+    "title": "Українська \"Око Камера\" планує виробляти 100 тис. тепловізійних камер на рік у Нідерландах",
+    "description": "Українська \"Око Камера\" відкрила компанію в Нідерландах, де планує виробляти тепловізійні камери для військових потреб України. До кінця 2027 року виробник розраховує вийти на 100 тисяч одиниць на рік.",
+    "content": "Український виробник бойових тепловізійних камер \"Око Камера\" відкрив компанію в Ейндговені в Нідерландах, де планує налагодити виробництво тепловізійних камер. Про це \"Оборонці\" розповіли в \"Око Камера\".\nДо кінця 2027 року \"Око Камера\" розраховує ви... [1066 chars]",
+    "url": "https://oboronka.mezha.ua/oko-kamera-vidkrila-kompaniyu-v-niderlandah-317144/",
+    "image": "https://img.mezha.ua/mezha/images/doc/8/6/334459/86941713b1992b7c1dd3f5e3f77238c5.jpeg?w=1200&q=85&stamp=1794478588",
+    "publishedAt": "2026-11-12T12:53:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "4a281df10240d3314b18446e44448368",
+      "name": "Оборонка",
+      "url": "https://oboronka.mezha.ua"
+    }
+  },
+  {
+    "id": "8478af1808dac7f75f432e7051c9613b",
+    "title": "Нова Dacia Sandero вийде у 2028 році з електричною та гібридною версіями • Межа",
+    "description": "Dacia готує нове покоління Sandero до 2028 року. Модель отримає електричну версію із запасом ходу понад 400 км, бензинові та гібридні двигуни й оновлений дизайн.",
+    "content": "Dacia готує четверте покоління Sandero, прем'єра якого очікується навесні 2028 року. Як повідомляє Autocar, компактний автомобіль отримає оновлений дизайн, перероблений салон, бензинові та гібридні двигуни, а також уперше в історії моделі – повністю ... [1471 chars]",
+    "url": "https://mezha.ua/news/nova-dacia-sandero-viyde-u-2028-roci-317142/",
+    "image": "https://img.mezha.ua/mezha/images/doc/d/a/334449/da5dcddada11b1b428a327e0ad5c21e5.jpeg?w=1200&q=85&stamp=1794475212",
+    "publishedAt": "2026-11-12T11:32:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "6b0257d31504a630dde7752eed4e1e39",
+      "name": "Mezha",
+      "url": "https://mezha.ua"
+    }
+  },
+  {
     "id": "33c24dcfb8fdd826530fda21b3484ef4",
     "title": "ТОП-5 найпопулярніших вживаних авто з США в Україні",
     "description": "У жовтні українці придбали 5,2 тисячі вживаних авто з Америки. Які моделі в топі та чому бензин втрачає позиції — читайте свіжу статистику на Авто24.",
@@ -12,6 +102,21 @@
       "id": "e737a8e76b161ef4526698e2ec5f60c9",
       "name": "24 Канал",
       "url": "https://24tv.ua"
+    }
+  },
+  {
+    "id": "5415fe57cb55d2364ad31f079ac7a87f",
+    "title": "660 МВт у горах: запрацювала найвисокогірніша вугільна ТЕС у світі",
+    "description": "У Цинхаї запрацював енергоблок 660 МВт найвисокогірнішої в Китаї ультрасуперкритичної вугільної ТЕС. Він страхуватиме сонячні й вітрові станції.",
+    "content": "У китайській провінції Цинхай почав комерційну роботу перший енергоблок вугільної ТЕС Golmud Phase I потужністю 660 МВт. Станція розташована в місті Голмуд на висоті близько 2850 метрів і стала найвисокогірнішим ультрасуперкритичним вугільним проєкто... [5006 chars]",
+    "url": "https://itc.ua/ua/novini/660-mvt-u-gorah-zapratsyuvala-najvysokogirnisha-vugilna-tes-u-sviti/",
+    "image": "https://cdn.itc.ua/uploads/2026/11/Kyt-vug-00.jpg",
+    "publishedAt": "2026-11-12T10:00:03Z",
+    "lang": "uk",
+    "source": {
+      "id": "391d17d071b755a4bda37c1b43f47c2c",
+      "name": "ITC.ua",
+      "url": "https://itc.ua"
     }
   },
   {
@@ -42,111 +147,6 @@
       "id": "6727e9490e0ef610882321b6b1bdddeb",
       "name": "Первый Криворожский",
       "url": "https://1kr.ua"
-    }
-  },
-  {
-    "id": "2ed575d05a3577e7f4785b49ed2410e4",
-    "title": "Топ-найпопулярніших в Україні вживаних авто зі США",
-    "description": "УНН Суспільство ✎ У жовтні українці придбали майже 5,2 тисячі вживаних авто зі США - на 10% менше за рік. Найчастіше обирали бензинові моделі.",
-    "content": "У жовтні українці придбали майже 5,2 тисячі вживаних легкових автомобілів, ввезених зі США, що на 10% менше, ніж за аналогічний період 2025 року. Найбільшу частку серед таких авто становили бензинові моделі. Про це повідомляє \"Укравтопром\", передає У... [641 chars]",
-    "url": "https://unn.ua/news/top-naipopuliarnishykh-v-ukraini-vzhyvanykh-avto-zi-ssha",
-    "image": "https://unn.ua/img/2026/11/12/1794469863-2167-large.webp",
-    "publishedAt": "2026-11-12T07:51:29Z",
-    "lang": "uk",
-    "source": {
-      "id": "052123f557cbbddd4dd84cb648e3b977",
-      "name": "Українські Національні Новини (УНН)",
-      "url": "https://unn.ua"
-    }
-  },
-  {
-    "id": "27bca6e3e69e3e0af3e645ff21755a4a",
-    "title": "Німецька Lidl вивчала можливість придбання АТБ",
-    "description": "Lidl та АТБ не домовилися про співпрацю - що відомо про можливу угоду",
-    "content": "Німецька міжнародна мережа супермаркетів-дискаунтерів Lidl («Лідл»), яка є однією з найбільших у Європі, у 2026 році вивчала можливість виходу на український ринок через угоду з мережею АТБ. Перемовини щодо можливої угоди тривали кілька місяців, прот... [1242 chars]",
-    "url": "https://zn.ua/ukr/ECONOMICS/nimetska-lidl-rozhljadala-kupivlju-atb-dlja-vikhodu-na-ukrajinskij-rinok-shcho-zavadilo-uhodi.html",
-    "image": "https://zn.ua/img/article/7033/86_main-v1794467405.webp",
-    "publishedAt": "2026-11-12T07:10:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "c5c959cb41bdd64f8b2b81a75752cf74",
-      "name": "Дзеркало тижня",
-      "url": "https://zn.ua"
-    }
-  },
-  {
-    "id": "0d49802a451e429b9dcb880f84b2c7c0",
-    "title": "Долар зміцнюється, євро впало до мінімуму за півтора року: що відбувається на валютному ринку",
-    "description": "Курс євро до долара США (EUR/USD) опустився нижче 1,1105 долара за євро, оновивши мінімум із весни 2025 року.",
-    "content": "Курс євро до долара США (EUR/USD) опустився нижче 1,1105 долара за євро, оновивши мінімум із весни 2025 року. Американська валюта зміцнилася на тлі вищої, ніж очікувалося, базової інфляції у США, яка посилила очікування подальшого підвищення процентн... [2093 chars]",
-    "url": "https://minfin.com.ua/ua/2026/11/12/185368146/",
-    "image": "https://minfin.com.ua/img/2026/185368146/bb4f4a71644da0f7a35ba7acd9dea5ed.jpeg",
-    "publishedAt": "2026-11-12T06:26:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "6028444ee1303e4577f50406a4c7988e",
-      "name": "Мінфін",
-      "url": "https://minfin.com.ua"
-    }
-  },
-  {
-    "id": "ed06a15bdcf2f32cda739f9b6fd6ccb0",
-    "title": "Три ТРЦ Києва зібрали 32% поїздок Bolt до торгових центрів",
-    "description": "На Respublika Park припало 13% поїздок на таксі Bolt до торгових центрів, River Mall – 10%, а Lavina Mall – 8,5%. Найчастіше до ТРЦ їздили у вихідні.",
-    "content": "На три торговельні центри Києва – Respublika Park, River Mall і Lavina Mall – припало 31,5% поїздок на таксі Bolt до ТРЦ. Дані опублікувало інформаційне агентство “Інтерфакс-Україна” з посиланням на дані аналізу сервісу Bolt.\nЗокрема, на Respublika P... [904 chars]",
-    "url": "https://skilky-skilky.info/v-bolt-nazvaly-naypopuliarnishi-torhovi-tsentry-kyieva/",
-    "image": "https://skilky-skilky.info/wp-content/uploads/2026/11/TRTS-Kyieva-optimized.jpg",
-    "publishedAt": "2026-11-11T21:47:30Z",
-    "lang": "uk",
-    "source": {
-      "id": "c55f6ff2da9352ee36972883173a2914",
-      "name": "Скільки-скільки?",
-      "url": "https://skilky-skilky.info"
-    }
-  },
-  {
-    "id": "bc31b35b0ab7c0194e6c8bb6fc7dca8a",
-    "title": "Mitsubishi Pajero перетворили на справжній позашляховик",
-    "description": "Нове покоління Mitsubishi Pajero отримало спеціальний пакет, який перетворює міський кросовер на справжній позашляховик.",
-    "content": "Нове покоління Mitsubishi Pajero отримало спеціальний пакет, який перетворює міський кросовер на справжній позашляховик.\nMitsubishi Pajero отримав позашляховий пакет.\nЛінійка фірмових аксесуарів створена для Австралії.\nMitsubishi запропонує 20 різних... [4388 chars]",
-    "url": "https://motorcar.com.ua/news/mitsubishi-pajero-pozashlyahovyk-aksesuary-2026/",
-    "image": "https://motorcar.com.ua/wp-content/uploads/2026/11/mitsubishi-pajero-aces-1_.jpg",
-    "publishedAt": "2026-11-11T20:06:14Z",
-    "lang": "uk",
-    "source": {
-      "id": "ccf5b23cf2f813320e7baafea8cf4ea7",
-      "name": "Motorcar",
-      "url": "https://motorcar.com.ua"
-    }
-  },
-  {
-    "id": "5f40c88b1955da5001da1ccc6553a092",
-    "title": "Сем Альтман розповів керівникам Samsung, яким має бути майбутній AI-пристрій • Межа",
-    "description": "Корейські ЗМІ дізналися, що сказав CEO OpenAI Сем Альтман під час зустрічі з керівниками Samsung, коли його запитали, яким має бути майбутній пристрій на базі штучного інтелекту. За його словами, ним стане \"наступна версія смартфона\".",
-    "content": "Генеральний директор OpenAI Сем Альтман та близько 50 керівників Samsung наприкінці жовтня провели зустріч у Південній Кореї, присвячену майбутньому штучного інтелекту. Повний зміст розмови не розкривається, однак корейські ЗМІ повідомили нові подроб... [1414 chars]",
-    "url": "https://mezha.ua/news/sem-altman-rozpoviv-kerivnikam-samsung-yakim-maye-buti-maybutniy-ai-pristriy-317127/",
-    "image": "https://img.mezha.ua/mezha/images/doc/4/9/334281/494c809f55286ce665b44b8c527e6072.jpeg?w=1200&q=85&stamp=1794423412",
-    "publishedAt": "2026-11-11T20:05:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "6b0257d31504a630dde7752eed4e1e39",
-      "name": "Mezha",
-      "url": "https://mezha.ua"
-    }
-  },
-  {
-    "id": "3d006c0504010c44fa5ad6141bab1643",
-    "title": "Офіси китайської BYD обшукали через можливе копіювання дизайну Land Rover",
-    "description": "Представники Jaguar Land Rover вилучили цифрові документи китайського автовиробника перед судовим розглядом справи про можливе порушення прав інтелектуальної власності на позашляховик Defender.",
-    "content": "Представники Jaguar Land Rover вилучили цифрові документи китайського автовиробника перед судовим розглядом справи про можливе порушення прав інтелектуальної власності на позашляховик Defender.\nОфіси китайського автовиробника BYD у Нідерландах обшука... [1412 chars]",
-    "url": "https://ua.korrespondent.net/business/auto/4927976-ofisy-kytaiskoi-BYD-obshukaly-cherez-mozhlyve-kopiuivannia-dyzainu-Land-Rover",
-    "image": "https://kor.ill.in.ua/m/1260x900/4634617.jpg",
-    "publishedAt": "2026-11-11T19:19:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "5f3893b2bdd83721567eef82ac0a6d2e",
-      "name": "Korrespondent.net",
-      "url": "https://ua.korrespondent.net"
     }
   }
 ]
