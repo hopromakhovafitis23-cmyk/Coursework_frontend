@@ -1,5 +1,80 @@
 [
   {
+    "id": "c3147c97734fd0b089d4b1302832ed12",
+    "title": "Історія Дженсена Хуанга та NVIDIA • Межа",
+    "description": "Падіння голови NVIDIA Дженсена Хуанга було стрімким. У цьому матеріалі ми згадуємо, як він став одним із найвпливовіших людей у світі.",
+    "content": "У листопаді 2026 року тридцятитрирічна епоха Дженсена Хуанга на чолі NVIDIA обірвалася за лічені дні – не через провал продажів нового процесора чи наступ конкурентів, а на тлі повідомлень про його позашлюбні стосунки з китайською бізнесвумен Еліс Ху... [20104 chars]",
+    "url": "https://mezha.ua/articles/istoriya-dzhensena-huanga-ta-nvidia-317337/",
+    "image": "https://img.mezha.ua/mezha/images/doc/0/a/334985/0ac9ef35b8c2c41b211077f9cf1be00b.jpeg?w=1200&q=85&stamp=1794998900",
+    "publishedAt": "2026-11-18T11:35:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "6b0257d31504a630dde7752eed4e1e39",
+      "name": "Mezha",
+      "url": "https://mezha.ua"
+    }
+  },
+  {
+    "id": "1d289c6bfe3fbcce9891428a42ceba5f",
+    "title": "що буде з Netflix і Setanta Sports? • Межа",
+    "description": "MEGOGO припиняє продаж передплати MEGOPACK N+S. З 27 листопада 2026 року сервіс автоматично переведе користувачів на MEGOPACK. Доступ до Netflix і Setanta Sports збережеться до завершення оплаченого періоду.",
+    "content": "Медіасервіс MEGOGO оголосив про припинення продажу передплати MEGOPACK N+S. Із 27 листопада 2026 року користувачів автоматично переведуть на MEGOPACK без втрати вже оплачених днів.\nПакет запустили у листопаді 2024 року під назвою MEGOPACK XL. Він об'... [411 chars]",
+    "url": "https://mezha.ua/news/megogo-pripinyaye-prodazh-megopack-n-s-317334/",
+    "image": "https://img.mezha.ua/mezha/images/doc/d/3/334982/d3e1c27c9e6f7c3a9b608de4410d8ad8.jpeg?w=1200&q=85&stamp=1794995932",
+    "publishedAt": "2026-11-18T10:01:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "6b0257d31504a630dde7752eed4e1e39",
+      "name": "Mezha",
+      "url": "https://mezha.ua"
+    }
+  },
+  {
+    "id": "37b72356994b457b6400649b8062f2f3",
+    "title": "Нафта втрачає в ціні через зростання запасів у США",
+    "description": "Brent подешевшала до 91,86 дол./бар., WTI – до 84,16 дол./бар. Запаси у США зростають, арбітраж на ринку WTI ускладнено.",
+    "content": "У середу, 18 листопада, ціни на нафту знизились на тлі даних про зростання запасів сирої нафти та палива в США минулого тижня. Падіння цін стримують подальші взаємні удари між США та Іраном, а також перебої в судноплавстві через Ормузьку протоку.\nПро... [1142 chars]",
+    "url": "https://epravda.com.ua/svit/cini-na-naftu-brent-i-wti-znizhuyutsya-cherez-zrostannya-zapasiv-u-ssha-827764/",
+    "image": "https://img.epravda.com.ua/epravda/images/doc/5/1/196149/51d0fd2c33e42863e237c43c4e7414ed.jpeg?w=1920&q=85",
+    "publishedAt": "2026-11-18T09:51:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "9b9cf9e76aeefea346957bfe5f6dafc5",
+      "name": "Економічна правда",
+      "url": "https://epravda.com.ua"
+    }
+  },
+  {
+    "id": "1b6aabcc60fe5f6bb1eed56be6002310",
+    "title": "що відомо • Межа",
+    "description": "ШІ-модель GPT-6 Cyber від OpenAI допомогла виявити критичну вразливість у Java, якою користуються близько 90% компаній зі списку Fortune 500. Помилка потенційно дозволяє хакерам отримати віддалений доступ до внутрішніх систем організацій.",
+    "content": "Кібербезпековий стартап Calif за допомогою моделі GPT-6 Cyber від OpenAI виявив критичну вразливість у Java – одній із найпоширеніших мов програмування. Як пише The New York Times, її використовують державні установи та близько 90% компаній зі списку... [2626 chars]",
+    "url": "https://mezha.ua/news/gpt-6-cyber-znayshov-kritichnu-pomilku-v-java-317324/",
+    "image": "https://img.mezha.ua/mezha/images/doc/0/a/334953/0aa8ff6f9f59d9cc9efcef77c037cb31.jpeg?w=1200&q=85&stamp=1794984319",
+    "publishedAt": "2026-11-18T07:01:00Z",
+    "lang": "uk",
+    "source": {
+      "id": "6b0257d31504a630dde7752eed4e1e39",
+      "name": "Mezha",
+      "url": "https://mezha.ua"
+    }
+  },
+  {
+    "id": "330b9a118fe438fbc2743e470bb47cc9",
+    "title": "Чому на нові електромобілі Volkswagen, Škoda та Audi ззаду ставлять старі барабанні гальма",
+    "description": "Навіщо повернули барабанні гальма минулого століття.",
+    "content": "Якщо пригледітися до припаркованого електромобіля Volkswagen ID.4, Škoda Enyaq або Audi Q4 e-tron, крізь спиці задніх коліс можна побачити несподівану деталь. Замість звичного гальмівного диска там стоїть круглий закритий барабан, зовсім як на машина... [3509 chars]",
+    "url": "https://ukr.media/auto/472551/",
+    "image": "https://ukr.media/static/ba/aimg/4/7/2/472551_0.jpg",
+    "publishedAt": "2026-11-18T05:06:20Z",
+    "lang": "uk",
+    "source": {
+      "id": "7e5440957cb06ff4a23e2f2617de40c9",
+      "name": "Ukr.Media",
+      "url": "https://ukr.media"
+    }
+  },
+  {
     "id": "6e428c946e6189e074e58f277f9572ca",
     "title": "TSMC заявила про витік персональних даних її співробітників • Межа",
     "description": "Найбільший у світі контрактний виробник чипів TSMC заявив про витік персональних даних своїх нинішніх і колишніх співробітників після того, як зловмисник виставив на продаж велику базу даних компанії у даркнеті.",
@@ -67,81 +142,6 @@
     "url": "https://ua.korrespondent.net/business/4929571-kerivnyky-tekhkompanii-pidozruiuit-zmovu-u-vidstavtsi-hendyrektora-NVIDIA",
     "image": "https://kor.ill.in.ua/m/1260x900/4642822.jpg",
     "publishedAt": "2026-11-17T17:22:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "5f3893b2bdd83721567eef82ac0a6d2e",
-      "name": "Korrespondent.net",
-      "url": "https://ua.korrespondent.net"
-    }
-  },
-  {
-    "id": "2164da51a12975d00103b27250f1ff7d",
-    "title": "Дженсен Хуанг заявив, що готовий повернутися до NVIDIA • Межа",
-    "description": "Дженсен Хуанг уперше публічно прокоментував відставку з посади CEO NVIDIA, визнав свої помилки та заявив про готовність повернутися до компанії. Він також розповів про численні заклики від співробітників, інвесторів і партнерів знову очолити NVIDIA.",
-    "content": "Дженсен Хуанг вперше зробив публічну заяву після того, як пішов у відставку з посади головного виконавчого директора NVIDIA. Він одразу визнав свої помилки, але також сказав, що для нього було б \"честю\" знову очолити компанію.\n\"Я не виправдав очікува... [1829 chars]",
-    "url": "https://mezha.ua/news/jensen-huang-is-ready-to-come-back-to-nvidia-317312/",
-    "image": "https://img.mezha.ua/mezha/images/doc/1/7/334918/173e2675b692ef5110343811ccc3aef8.jpeg?w=1200&q=85&stamp=1794935335",
-    "publishedAt": "2026-11-17T17:15:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "6b0257d31504a630dde7752eed4e1e39",
-      "name": "Mezha",
-      "url": "https://mezha.ua"
-    }
-  },
-  {
-    "id": "fbaa7b544c385f5f2f65799bafa98489",
-    "title": "У Minecraft відтворили Землю в масштабі 1:1",
-    "description": "Розробник під ніком Thijs представив незвичайний проєкт WorldCraft, який переносить всю Землю в Minecraft у натуральну величину. У віртуальному світі можна знайти реальні вулиці, будівлі та навіть власний будинок, пише Dexerto. Для запуску знадобиться Minecraft Java 26.2.",
-    "content": "Розробник під ніком Thijs представив незвичайний проєкт WorldCraft, який переносить всю Землю в Minecraft у натуральну величину. У віртуальному світі можна знайти реальні вулиці, будівлі та навіть власний будинок, пише Dexerto.\nДля створення масштабн... [1673 chars]",
-    "url": "https://www.unian.ua/techno/games/u-minecraft-vidtvorili-zemlyu-v-masshtabi-1-1-mozhna-znayti-navit-sviy-budinok-13562964.html",
-    "image": "https://images.unian.net/photos/2026_11/thumb_files/1000_545_1794926690-2187.jpg?1",
-    "publishedAt": "2026-11-17T17:10:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "d4361862486677369ff2ae7719b8d313",
-      "name": "УНІАН",
-      "url": "https://www.unian.ua"
-    }
-  },
-  {
-    "id": "6153778e68fe971462f2179b8af2c22b",
-    "title": "BMW відкликає понад 720 тисяч автомобілів через ризик займання",
-    "description": "Власникам рекомендують паркувати машини на вулиці, а способу усунення несправності ще не вигадали.",
-    "content": "Власникам рекомендують паркувати машини на вулиці, а способу усунення несправності ще не вигадали.\nКомпанія BMW оголосила про відкликання 720 796 автомобілів у США через потенційну несправність електричного роз'єму водяного насоса, яка може призвести... [1821 chars]",
-    "url": "https://ua.korrespondent.net/business/auto/4929541-BMW-vidklykaie-ponad-720-tysiach-avtomobiliv-cherez-ryzyk-zaimannia",
-    "image": "https://kor.ill.in.ua/m/1260x900/4642740.jpg",
-    "publishedAt": "2026-11-17T15:41:00Z",
-    "lang": "uk",
-    "source": {
-      "id": "5f3893b2bdd83721567eef82ac0a6d2e",
-      "name": "Korrespondent.net",
-      "url": "https://ua.korrespondent.net"
-    }
-  },
-  {
-    "id": "65cef699638c58a16f0df88dbd32f59e",
-    "title": "У компанії OBRIO скорочують чверть команди - у чому причина",
-    "description": "У продуктовій IT-компанії OBRIO скорочують 25% команди. Фахівцям обіцяють компенсації та допомогу з працевлаштуванням. Розповідаємо, з чим пов’язані скорочення.",
-    "content": "У продуктовій компанії OBRIO переглядають структуру команди — під скорочення потрапить чверть працівників різних профілів (25% від усіх співробітників). Загалом у компанії наразі працює близько 250 фахівців. Про це DOU повідомили у компанії.\nУ OBRIO ... [1477 chars]",
-    "url": "https://dou.ua/lenta/news/obrio-lays-off-part-of-team-reasons/",
-    "image": "https://s.dou.ua/img/announces/orbio-big.png",
-    "publishedAt": "2026-11-17T14:05:04Z",
-    "lang": "uk",
-    "source": {
-      "id": "d1ef16b5a7558a99f3c289a3b0f93527",
-      "name": "Спільнота програмістів",
-      "url": "https://dou.ua"
-    }
-  },
-  {
-    "id": "b243aaf177a24c7189c4444f3ffb8a28",
-    "title": "Ціни на золото впали до річного мінімуму",
-    "description": "Світові ціни на золото продовжують знижуватися, попри традиційний статус дорогоцінного металу як захисного активу.",
-    "content": "Світові ціни на золото продовжують знижуватися, попри традиційний статус дорогоцінного металу як захисного активу.\nСвітові ціни на золото 16 листопада впали до найнижчого рівня з жовтня 2025 року. Інвестори почали скорочувати вкладення в дорогоцінний... [1871 chars]",
-    "url": "https://ua.korrespondent.net/business/economics/4929476-tsiny-na-zoloto-vpaly-do-richnoho-minimumu",
-    "image": "https://kor.ill.in.ua/m/1260x900/4642595.jpg",
-    "publishedAt": "2026-11-17T12:53:00Z",
     "lang": "uk",
     "source": {
       "id": "5f3893b2bdd83721567eef82ac0a6d2e",
